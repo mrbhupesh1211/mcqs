@@ -1,0 +1,157 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QUIZZ — MCQ Practice</title>
+<link rel="stylesheet" href="style.css">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,600;1,9..144,300&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+
+</head>
+<body>
+<div class="app">
+
+  <!-- SETUP SCREEN -->
+  <div id="setup-screen">
+    <div class="logo">
+      QUIZZ <span>/ MCQ Practice</span>
+    </div>
+
+    <!-- JSON Sources -->
+    <div class="card">
+      <div class="card-title">
+        Question Sources
+        <span class="pill">JSON via GitHub</span>
+      </div>
+      <div id="url-list"></div>
+      <button class="btn btn-secondary btn-sm" onclick="addUrlRow()">+ Add another URL</button>
+      <div id="fetch-status" class="status-bar mt" style="display:none;"></div>
+      <div id="fetch-error" class="error-msg hidden"></div>
+      <div class="actions">
+        <button class="btn btn-primary" onclick="fetchAllURLs()">↓ Fetch &amp; Load Questions</button>
+      </div>
+    </div>
+
+    <!-- Quiz Parameters -->
+    <div class="card" id="params-card" style="display:none;">
+      <div class="card-title">Quiz Parameters</div>
+
+      <div class="grid-2">
+        <div class="field">
+          <label>Questions to Ask</label>
+          <input type="number" id="q-count" min="1" placeholder="All" />
+        </div>
+        <div class="field">
+          <label>Randomize Questions</label>
+          <div style="padding-top: 6px;">
+            <label class="toggle"><input type="checkbox" id="rand-q" checked><span class="toggle-slider"></span></label>
+          </div>
+        </div>
+      </div>
+
+      <!-- Advanced Settings -->
+      <button class="adv-toggle" onclick="toggleAdv(this)">
+        <span class="adv-caret">▶</span> Advanced Settings
+      </button>
+      <div id="adv-settings" class="hidden">
+        <div class="grid-3">
+          <div class="field">
+            <label>Time / Question (sec)</label>
+            <input type="number" id="time-per-q" value="30" min="5" max="300" />
+          </div>
+          <div class="field">
+            <label>Marks / Question</label>
+            <input type="number" id="marks-per-q" value="2" min="1" step="0.5" />
+          </div>
+          <div class="field">
+            <label>Negative Marking (%)</label>
+            <input type="number" id="neg-mark" value="2" min="0" max="100" step="5" />
+          </div>
+        </div>
+
+        <div class="toggle-row">
+          <div class="toggle-label">Randomize answer order <small>Shuffle options for each question</small></div>
+          <label class="toggle"><input type="checkbox" id="rand-a" checked><span class="toggle-slider"></span></label>
+        </div>
+        <div class="toggle-row">
+          <div class="toggle-label">Allow skip <small>Let user skip questions</small></div>
+          <label class="toggle"><input type="checkbox" id="allow-skip" checked><span class="toggle-slider"></span></label>
+        </div>
+        <div class="toggle-row">
+          <div class="toggle-label">Allow back navigation <small>Go back to previous questions</small></div>
+          <label class="toggle"><input type="checkbox" id="allow-back" checked><span class="toggle-slider"></span></label>
+        </div>
+        <div class="toggle-row">
+          <div class="toggle-label">Show result at end <small>Display score and analysis</small></div>
+          <label class="toggle"><input type="checkbox" id="show-result" checked><span class="toggle-slider"></span></label>
+        </div>
+        <div class="toggle-row">
+          <div class="toggle-label">Show correct answers in result <small>Review each question after quiz</small></div>
+          <label class="toggle"><input type="checkbox" id="show-correct" checked><span class="toggle-slider"></span></label>
+        </div>
+      </div>
+
+      <div id="loaded-info" class="info-msg hidden"></div>
+      <div class="actions">
+        <button class="btn btn-primary" onclick="startQuiz()">Start Quiz →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- QUIZ SCREEN -->
+  <div id="quiz-screen">
+    <div class="quiz-header">
+      <div>
+        <div class="quiz-progress" id="quiz-progress">Question 1 of 20</div>
+      </div>
+      <div class="quiz-meta">
+        <span class="score-badge" id="live-score">Score: 0</span>
+        <div style="text-align:right;">
+          <span class="timer" id="timer">0:00</span>
+          <div style="font-size:0.72rem;color:var(--muted);font-family:var(--mono);margin-top:2px;" id="timer-total"></div>
+        </div>
+      </div>
+    </div>
+    <div class="progress-bar">
+      <div class="progress-fill" id="progress-fill" style="width:0%"></div>
+    </div>
+    <div class="card">
+      <div class="question-topic" id="q-topic"></div>
+      <div class="question-text" id="q-text"></div>
+      <div class="options" id="q-options"></div>
+      <div class="quiz-nav">
+        <div class="quiz-nav-left">
+          <button class="btn btn-secondary" id="btn-back" onclick="navBack()">← Back</button>
+          <button class="btn btn-secondary" id="btn-skip" onclick="navSkip()">Skip →</button>
+        </div>
+        <button class="btn btn-primary" id="btn-next" onclick="navNext()">Next →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- RESULT SCREEN -->
+  <div id="result-screen">
+    <div class="card">
+      <div class="result-hero">
+        <div class="result-score-big" id="res-score">0</div>
+        <div class="result-label" id="res-label">out of 0 marks</div>
+      </div>
+      <div class="result-grid" id="res-stats"></div>
+      <div class="actions" style="justify-content:center;">
+        <button class="btn btn-primary" onclick="restartToSetup()">← New Quiz</button>
+      </div>
+    </div>
+
+    <div id="review-section" class="hidden">
+      <div class="card-title" style="margin: 1.5rem 0 1rem; font-family: var(--serif); font-size: 1.1rem; font-weight: 600;">Answer Review</div>
+      <div id="review-list"></div>
+    </div>
+  </div>
+
+</div>
+<script src="script.js"></script>
+</body>
+</html>
