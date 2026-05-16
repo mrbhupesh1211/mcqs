@@ -1,0 +1,1326 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer Fundamentals MCQ - Input & Output Devices",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which device is used as the standard pointing device in a graphical user environment?",
+      "options": [
+        "joystick",
+        "keyboard",
+        "Mouse",
+        "track ball"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following is not an output device?",
+      "options": [
+        "Touch screen",
+        "Scanner",
+        "Flat Screen",
+        "Printer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "In order to play and hear sound on a computer, one needs:",
+      "options": [
+        "A sound card and speakers",
+        "Microphone",
+        "All of them Essential",
+        "not of above required"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q4",
+      "question": "Which of he following is not the input device?",
+      "options": [
+        "Printer",
+        "Keyboard",
+        "Mouse",
+        "Scanner"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "What is a light pen?",
+      "options": [
+        "Optical input device",
+        "Mechanical input device",
+        "Electrical input device",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "A printer is needed to……..",
+      "options": [
+        "Save and edit many document files",
+        "Create hard copies of documents",
+        "Load educational software",
+        "Install document"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "Which one of the following devices could be used to place a photograph into a document?",
+      "options": [
+        "Printer",
+        "Scanner",
+        "Modem",
+        "Monitor"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "……. is used for scanning the pictures and putting them in digitized form in the computer ;",
+      "options": [
+        "Scanner",
+        "CD-ROM",
+        "Bar-coder",
+        "Plotter"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "How many keys are there in XT Keyboard?",
+      "options": [
+        "101",
+        "103",
+        "83",
+        "107"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "What types of printers are Dot Matrix Printers?",
+      "options": [
+        "Laser",
+        "Impact",
+        "Inkjet",
+        "Drum"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "Which is required for Networking?",
+      "options": [
+        "NIC",
+        "cable",
+        "computer",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q12",
+      "question": "Full form of CRT…",
+      "options": [
+        "Character Ray tube",
+        "Cathode ray tube",
+        "Current ray technology",
+        "Cathode ray technology"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "A pixel is…….;",
+      "options": [
+        "a picture stored in secondary memory",
+        "the smallest resolvable part of a picture",
+        "a computer program that draws picture",
+        "None of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "Cursor is a………",
+      "options": [
+        "Front line of screen",
+        "Part of Screen element",
+        "Thin blinking line",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "What do you call a single point on a computer screen?",
+      "options": [
+        "Cell",
+        "Pixel",
+        "Element",
+        "Bit"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following is a term related with scanners?",
+      "options": [
+        "Laser",
+        "Cartridge",
+        "TWAIN",
+        "Media"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "Information can be stored on all of the following except……",
+      "options": [
+        "The keyboard",
+        "Diskette",
+        "CD-ROM",
+        "The hard drives"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "The following are examples of computer storage devices except…",
+      "options": [
+        "Diskettes",
+        "Scanners",
+        "Zip Disks",
+        "Hard Disk"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "Which of the following is incorrect with respect to \"Point of Sale Terminal\"?",
+      "options": [
+        "It processes transactions that occur over and over again",
+        "It processesthe payments of monthly bills",
+        "Allows the customer to pay for goods purchased with automatic account details",
+        "Fast cash withdrawals is possible"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "Which computer peripheral manufacturer quotes \"Empowering your PC\"?",
+      "options": [
+        "Mercury",
+        "Canon",
+        "Epson",
+        "Samsung"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "ATM stands for….",
+      "options": [
+        "Automatic Teller Machine",
+        "Automatic Talking Machine",
+        "Analog Teller Machine",
+        "Automatic Ticketing machine"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "What are the units used to count the speed of a printer?",
+      "options": [
+        "BIT",
+        "DIP",
+        "PPM",
+        "CPM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "In a high resolution mode, the number of dots in a line will usually be;",
+      "options": [
+        "640",
+        "320",
+        "760",
+        "900"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "The speed at which the monitor accepts data is called",
+      "options": [
+        "Bandwidth",
+        "Interlacing",
+        "Response time",
+        "Scanning"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "Plotter accuracy is measured in terms of repeatability and",
+      "options": [
+        "Vertical dimension",
+        "Intelligence",
+        "Resolution",
+        "Pixels"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q26",
+      "question": "Most of the commonly used personal computers/laptops do not have a command key known as:",
+      "options": [
+        "Turnover",
+        "shift",
+        "Alter",
+        "Delete"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "Which of the following is NOT hardware of a computer?",
+      "options": [
+        "Monitor",
+        "Key board",
+        "Windows",
+        "Central Processing Unit"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "Most of the commonly available personal computers/laptops have a keyboard popularly known as:",
+      "options": [
+        "QWERTY",
+        "QOLTY",
+        "ALTER",
+        "UCLIF"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "Hardware includes",
+      "options": [
+        "All devices used to input data into a computer",
+        "Sets of instruction that a computer runs or executes",
+        "The computer and all the devices connected to it that are used to input and output data",
+        "All devices involved processing information including the central processing unit, memory, and storage."
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "Which key is used in combination with another key to perform a specific task?",
+      "options": [
+        "Function",
+        "Arrow",
+        "Space bar",
+        "control"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q31",
+      "question": "Ctrl, Shift and Alt are called _____ keys.",
+      "options": [
+        "Modifier",
+        "Function",
+        "Alphanumeric",
+        "Adjustment"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "A pixel is ____",
+      "options": [
+        "A computer program that draws picture",
+        "A picture stored in the secondary memory",
+        "The smallest resolvable part of a picture",
+        "A virus"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q33",
+      "question": "The blinking symbol on the computer screen is called the",
+      "options": [
+        "Mouse",
+        "logo",
+        "hand",
+        "Cursor"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q34",
+      "question": "_____ helps in capturing raw data and entering into computer system.",
+      "options": [
+        "CPU",
+        "Integrated circuit",
+        "Input device",
+        "Motherboard"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q35",
+      "question": "The most common input devices are the _____ and the _____",
+      "options": [
+        "Microphone, printer",
+        "Scanner, monitor",
+        "Digital camera, speakers",
+        "Keyboard, mouse"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "The _____ key and the _____ key can be used in the combination with other keys to perform shortcuts and special tasks.",
+      "options": [
+        "Control, Alt",
+        "Function, toggle",
+        "Delete, insert",
+        "Caps Lock, Num Lock"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q37",
+      "question": "What are the two types of output devices?",
+      "options": [
+        "Monitor and printer",
+        "Storage disk (floppy, CD)",
+        "Keyboard and Mouse",
+        "Windows 2000, Windows NT"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "The number of pixels displayed on a screen is known as the screen __",
+      "options": [
+        "Resolution",
+        "Colour depth",
+        "Refresh rate",
+        "Viewing size"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "The blinking symbol on the computer screen is called the",
+      "options": [
+        "Mouse",
+        "Hand",
+        "Light",
+        "Cursor"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "A hard copy of a file created on a computer refers to data:",
+      "options": [
+        "Saved on a floppy disk",
+        "Printed on a printer",
+        "Backed up on a tape drive",
+        "Sent as an -email"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "Codes consisting of bars or lines of varying widths or lengths that are computer readable are known as ___",
+      "options": [
+        "an ASCII code",
+        "a magnetic tape",
+        "an OCR scanner",
+        "a bar code"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q42",
+      "question": "A printer is this kind of device",
+      "options": [
+        "Input",
+        "Word processing",
+        "Processing",
+        "Output"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q43",
+      "question": "Where is the disk put in a computer?",
+      "options": [
+        "In the modem",
+        "In the hard drive",
+        "In to the CPU",
+        "In the disk drive"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "The output devices make it possible to",
+      "options": [
+        "View or print data",
+        "Store data",
+        "Scan data",
+        "Input data"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q45",
+      "question": "The most common method of entering text and numerical data into a computer system is through the use of a",
+      "options": [
+        "Keyboard",
+        "Scanner",
+        "Printer",
+        "Plotter"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "Which of the following groups consist of only input devices?",
+      "options": [
+        "Mouse, Keyboard Monitor",
+        "Mouse, Keyboard, Printer",
+        "Mouse, Keyboard, Plotter",
+        "Mouse, keyboard, Scanner"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q47",
+      "question": "Which part of the computer displays the work done?",
+      "options": [
+        "RAM",
+        "Printer",
+        "Monitor",
+        "ROM"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "The keys labelled 0-9 on the keyboard are called _____",
+      "options": [
+        "Function keys",
+        "Numeric keys",
+        "Typewriter keys",
+        "Special keys"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "Which type of resource does have greater probability to become shared resource in a computer network?",
+      "options": [
+        "Printers",
+        "Speaker",
+        "Floppy Disc Drivers",
+        "Keyboards"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "Which o f the following peripheral devices displays information to a user?",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "Secondary storage devices",
+        "Secondary storage media"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q51",
+      "question": "_____ a printed information, exists in real sense and is more permanent from of output than the output existing on display device.",
+      "options": [
+        "Soft copy",
+        "Carbon copy",
+        "Hard copy",
+        "Desk copy"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q52",
+      "question": "For seeing the output, you use",
+      "options": [
+        "Monitor",
+        "keyboard",
+        "Round",
+        "scanner"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q53",
+      "question": "Which of the following will translate images of text, drawings, and photos into digital form?",
+      "options": [
+        "digitizer",
+        "Modem",
+        "Scanner",
+        "Keyboard"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q54",
+      "question": "For selecting or highlighting which of the following is generally used?",
+      "options": [
+        "Icon",
+        "keyboard",
+        "Mouse",
+        "Floppy Disk"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q55",
+      "question": "A scanner scans _____",
+      "options": [
+        "Pictures",
+        "Text",
+        "Both Pictures and Text",
+        "Neither Pictures nor Text"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q56",
+      "question": "What does ‘C’ represent in MICR?",
+      "options": [
+        "Code",
+        "Column",
+        "Computer",
+        "Character"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q57",
+      "question": "What type of device is a computer printer?",
+      "options": [
+        "Input",
+        "Output",
+        "Software",
+        "Storage"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q58",
+      "question": "A _____ can make it easier to play games.",
+      "options": [
+        "Mouse",
+        "Joystick",
+        "Keyboard",
+        "Pen"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q59",
+      "question": "You use a(n) _____ such as a keyboard or mouse , to input information.",
+      "options": [
+        "Output device",
+        "Input device",
+        "storage device",
+        "processing device"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q60",
+      "question": "Which of the following is an Input device?",
+      "options": [
+        "Mouse",
+        "Keyboard",
+        "Light pen",
+        "All of these"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q61",
+      "question": "Which of the following is an Output Device?",
+      "options": [
+        "Printer",
+        "Mouse",
+        "Keyboard",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q62",
+      "question": "The OMR (Optical Mark Reader) can read about ________ documents per hour.",
+      "options": [
+        "100",
+        "10",
+        "10000",
+        "100000"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q63",
+      "question": "What is MICR?",
+      "options": [
+        "Magnetic Ink Character Reader",
+        "Magnetic Ink Character Recognition",
+        "Magnetic Ink Card Reader",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q64",
+      "question": "The reading speed of MICR is how many documents per minute?",
+      "options": [
+        "24",
+        "24000",
+        "240",
+        "2400"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q65",
+      "question": "What are the units used to count the speed of the printer?",
+      "options": [
+        "CPM",
+        "DPI",
+        "PPM",
+        "BIT"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q66",
+      "question": "Line printer speed is specified in terms of ____",
+      "options": [
+        "LPM",
+        "CPM",
+        "DPM",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q67",
+      "question": "CRT stands for?",
+      "options": [
+        "Completely Read Tube",
+        "Cathode Ray Tube",
+        "Copper Rod Tube",
+        "Copper Ray Tube"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q68",
+      "question": "Which device is used as the standard pointing device in a graphical user environment?",
+      "options": [
+        "joystick",
+        "keyboard",
+        "Mouse",
+        "track ball"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q69",
+      "question": "Which of the following is not an output device?",
+      "options": [
+        "Touch screen",
+        "Scanner",
+        "Flat Screen",
+        "Printer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q70",
+      "question": "In order to play and hear sound on a computer, one needs:",
+      "options": [
+        "A sound card and speakers",
+        "Microphone",
+        "All of them Essential",
+        "not of above required"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q71",
+      "question": "Which is not an output device?",
+      "options": [
+        "VDU",
+        "Projector",
+        "Printer",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q72",
+      "question": "Pick up the odd?",
+      "options": [
+        "PPM",
+        "LPM",
+        "CPS",
+        "BPS"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q73",
+      "question": "Which is the sequential storage device?",
+      "options": [
+        "Hard disk",
+        "Compact Disk",
+        "Internal memory",
+        "Cassette memory"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q74",
+      "question": "The system software that translates a source code of HLL into object code is…..",
+      "options": [
+        "Assembler",
+        "Compiler",
+        "Interpreter",
+        "Both b & c"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q75",
+      "question": "There are basic types of Printers?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q76",
+      "question": "Which is the low quality printer?",
+      "options": [
+        "Dot matrix",
+        "Ink jet",
+        "Laser",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q77",
+      "question": "Which is not output device?",
+      "options": [
+        "Scanner",
+        "Microphone",
+        "Light pen",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q78",
+      "question": "Which is not direct entry input device?",
+      "options": [
+        "Scanner",
+        "Bar code reader",
+        "Light pen",
+        "keyboard"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q79",
+      "question": "Which is not softcopy output device?",
+      "options": [
+        "monitor",
+        "Speaker",
+        "Projector",
+        "Printer"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q80",
+      "question": "Which of the following is not hardware?",
+      "options": [
+        "Printer",
+        "Monitor",
+        "Port",
+        "Language processor"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q81",
+      "question": "The tangible part of computer is called….",
+      "options": [
+        "Software",
+        "Hardware",
+        "Firmware",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q82",
+      "question": "The parallel communication pathway that connects the CPU and other units is called……..",
+      "options": [
+        "Wire",
+        "cable",
+        "Super link",
+        "Bus"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q83",
+      "question": "Quality of printing and display are measures in ….",
+      "options": [
+        "Pixels",
+        "Dots",
+        "Resolution",
+        "Bits"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q84",
+      "question": "The distance between two pixels on a screen is called….",
+      "options": [
+        "Color Depth",
+        "Aspect Ratio",
+        "Dot pitch",
+        "Refresh rate"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q85",
+      "question": "An ink-jet printer is an example of …..",
+      "options": [
+        "Laser printer",
+        "impact printer",
+        "Analog printer",
+        "Non-impact printer"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q86",
+      "question": "Which input device senses the Mark of paper?",
+      "options": [
+        "MICR",
+        "Digitizers",
+        "OMR",
+        "Barcode Reader"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q87",
+      "question": "A bar code printer is an example of a(n)",
+      "options": [
+        "processing device",
+        "input device",
+        "storage device",
+        "output device"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q88",
+      "question": "Which is the high graphic quality printer?",
+      "options": [
+        "Dot matrix",
+        "Ink jet",
+        "Laser",
+        "Plotter"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q89",
+      "question": "The hardware circuit that translates the human readable code into digital code is known as…",
+      "options": [
+        "Translator",
+        "Modulator",
+        "Encoder",
+        "Multiplexer"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q90",
+      "question": "Which is an output device?",
+      "options": [
+        "Scanner",
+        "Microphone",
+        "Light pen",
+        "Touch Screen"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q91",
+      "question": "Which is a direct entry input device?",
+      "options": [
+        "Scanner",
+        "Mouse",
+        "Light pen",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q92",
+      "question": "The device which is not a control of CPU is called …. Device.",
+      "options": [
+        "Online",
+        "Offline",
+        "Peripheral",
+        "Input-Output"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q93",
+      "question": "Which is a Hardcopy output device?",
+      "options": [
+        "monitor",
+        "Speaker",
+        "Projector",
+        "Printer"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q94",
+      "question": "What are the units used to count the speed of a printer?",
+      "options": [
+        "BIT",
+        "LPM",
+        "PPM",
+        "CPS"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q95",
+      "question": "Which is the most common input device?",
+      "options": [
+        "Mouse",
+        "Scanner",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q96",
+      "question": "Which is direct entry input device?",
+      "options": [
+        "OMR",
+        "Bar code reader",
+        "MICR",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q97",
+      "question": "The device externally connected with system unit is called…",
+      "options": [
+        "Input-output device",
+        "I/O Device",
+        "Peripheral device",
+        "Hardware interface"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q98",
+      "question": "Data projector is a (an) ………..",
+      "options": [
+        "Output device",
+        "Input Device",
+        "Input-output device",
+        "All"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q99",
+      "question": "Which is a serial printer?",
+      "options": [
+        "Daisywheel",
+        "Laser printer",
+        "Drum printer",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q100",
+      "question": "Which is not digital printer?",
+      "options": [
+        "Dot matrix",
+        "Ink jet",
+        "Laser",
+        "Plotter"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q101",
+      "question": "Data going into the computer is called",
+      "options": [
+        "Output",
+        "Algorithm",
+        "Input",
+        "Process"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q102",
+      "question": "An dot matrix printer is an example of …..",
+      "options": [
+        "Laser printer",
+        "impact printer",
+        "Analog printer",
+        "Non-impact printer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q103",
+      "question": "Basic component of your computer is (are) …",
+      "options": [
+        "CPU & RAM",
+        "hardware and software",
+        "Application &r system software",
+        "Input & output devices"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q104",
+      "question": "Which is input-output device?",
+      "options": [
+        "Microphone",
+        "Head phone",
+        "Both a and b",
+        "Headsets"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q105",
+      "question": "How many keys are there in XT Keyboard?",
+      "options": [
+        "101",
+        "103",
+        "83",
+        "107"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q106",
+      "question": "_____ helps in capturing raw data and entering into computer system.",
+      "options": [
+        "CPU",
+        "Output unit",
+        "Input device",
+        "Bus"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q107",
+      "question": "Which is not hardware?",
+      "options": [
+        "Screen",
+        "Scanner",
+        "keyboard",
+        "Printer"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q108",
+      "question": "The number of pixels displayed on a screen is known as the screen _____",
+      "options": [
+        "Resolution",
+        "Colour depth",
+        "Screen Size",
+        "Aspect Ratio"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q109",
+      "question": "The component that is directly attached in system board is called…….",
+      "options": [
+        "Internal component",
+        "Peripheral",
+        "Terminal",
+        "Output device"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q110",
+      "question": "Which of the following will translate images of text, drawings, and photos into digital form?",
+      "options": [
+        "digitizer",
+        "Modem",
+        "Scanner",
+        "Keyboard"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q111",
+      "question": "Which is not an I/O Device?",
+      "options": [
+        "Touch Screen",
+        "Headsets",
+        "microphone",
+        "Drive Unit"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q112",
+      "question": "Which device is used in Bank Transaction?",
+      "options": [
+        "MICR",
+        "Digitizer",
+        "Plotter",
+        "Barcode Reader"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q113",
+      "question": "Which is a not output unit of computer?",
+      "options": [
+        "Speaker",
+        "VDU",
+        "Disk Drive",
+        "Plotter"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q114",
+      "question": "Pick up odd.",
+      "options": [
+        "Scanner",
+        "Barcode Reader",
+        "Touchpad",
+        "Printer"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q115",
+      "question": "Which is not computer peripheral?",
+      "options": [
+        "Hard disk",
+        "keyboard",
+        "Mouse",
+        "Printer"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q116",
+      "question": "Which is not a softcopy output device?",
+      "options": [
+        "Data projector",
+        "VDU",
+        "Head phone",
+        "Headset"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q117",
+      "question": "Headset is ………….",
+      "options": [
+        "input device",
+        "Input-output",
+        "output",
+        "ALL"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q118",
+      "question": "Data Entry operation is termed as ….",
+      "options": [
+        "Output",
+        "Algorithm",
+        "Input",
+        "Calculations"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q119",
+      "question": "All of the following are examples of input devices EXCEPT a:",
+      "options": [
+        "scanner",
+        "mouse",
+        "printer",
+        "keyboard"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q120",
+      "question": "Which of the following is not an input device?",
+      "options": [
+        "Keyboard",
+        "Monitor",
+        "Joystick",
+        "Microphone"
+      ],
+      "correct_option": 2
+    }
+  ]
+}
