@@ -1,0 +1,461 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Fundamental | Computer history and generation",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which of the following is the earliest calculating device?",
+      "options": ["Clock", "Abacus", "Difference Engine", "Analytical Engine"],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "Database belongs to …………",
+      "options": ["1-GL", "2-GL", "3-GL", "4-GL"],
+      "correct_option": 4
+    },
+    {
+      "id": "q3",
+      "question": "Who first introduced punched cards for data storage?",
+      "options": ["Herman Hollerith", "Pascal", "Joseph Marie Jacquard", "Howard Aiken"],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "Colossus computer was developed by…",
+      "options": ["Konard Zuse", "George Tibitz", "John Atanasoff", "Coombs"],
+      "correct_option": 4
+    },
+    {
+      "id": "q5",
+      "question": "Computer built before the first generation of computers were…..",
+      "options": ["Mechanical", "Electrical", "Electro-mechanical", "None of these"],
+      "correct_option": 3
+    },
+    {
+      "id": "q6",
+      "question": "When was Lotus 1-2-3 introduced?",
+      "options": ["1970", "1978", "1982", "1985"],
+      "correct_option": 3
+    },
+    {
+      "id": "q7",
+      "question": "Which of the following component belongs to the second generation?",
+      "options": ["Silicon Chips", "Transistor", "Vacuum Tube", "Bio Chips"],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "Who developed the basic architecture of computer?",
+      "options": ["Charles Babbage", "John Von Neumann", "Blasé Pascal", "None of the above"],
+      "correct_option": 2
+    },
+    {
+      "id": "q9",
+      "question": "How was the generation of computer classified?",
+      "options": ["By the computer speed", "By the computer model", "By device and processor", "By the accuracy"],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "Who invented analytical engine?",
+      "options": ["Blaise Pascal", "Charles Babbage", "John von Neumann", "Dr. Herman Hollerith"],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "In 1947, the First electronic computer was designed by ………",
+      "options": ["IBM", "Apple", "DEC", "Microsoft"],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "Which one is the latest computer generation?",
+      "options": ["2nd", "3rd", "4th", "5th"],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "What is the purpose of bringing the first computer in Nepal?",
+      "options": ["To process census statistics", "SLC result preparation", "Computer Education", "Word Processing"],
+      "correct_option": 1
+    },
+    {
+      "id": "q14",
+      "question": "The Analytical Engine was used ……. as a memory unit;",
+      "options": ["Paper Tape", "Counter Wheels", "Cards", "Magnetic tape"],
+      "correct_option": 2
+    },
+    {
+      "id": "q15",
+      "question": "The second Generation Computers Started with the advent of..",
+      "options": ["Vacuum Tubes", "Transistors", "Integrated Circuits", "VLSI Circuits"],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "Which science attempts to produce machines that perform activities like humans?",
+      "options": ["Nanoscience", "Humantology", "Natural Science", "Artificial Intelligence (AI)"],
+      "correct_option": 4
+    },
+    {
+      "id": "q17",
+      "question": "When was the transistor developed?",
+      "options": ["1947", "1957", "1961", "1971"],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "Who contributed the idea of the stored program for computer?",
+      "options": ["John Neumann", "Charles Babbage", "Howard Aiken", "Daniel Thomas"],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "Which was the first computer introduced in Nepal?",
+      "options": ["IBM 1400", "IBM 1401", "IBM 1402", "IBM1402"],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "Which was the first commercial computer of world?",
+      "options": ["UNIVAC-I", "UNIAC-I", "IBM -1", "IBM 500"],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "The term which describes the evolution of computer within a span of time is ……",
+      "options": ["Generation", "Architecture", "Time line", "History"],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "Who invented the transistor?",
+      "options": ["William Shockley", "Charles Walter", "Jacquard", "Hermann Hollerith"],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "Which of the following is not related to 5th Generation computer?",
+      "options": ["IKBS", "Bio-chip", "Speech Recognition", "VLSI"],
+      "correct_option": 4
+    },
+    {
+      "id": "q24",
+      "question": "Who is also known as father of computer?",
+      "options": ["Howard Aiken", "Dr. Herman Hollerith", "Charles Babbage", "Blaise Pascal"],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "Which was first computer brought in Nepal on 2028 BS for CBS?",
+      "options": ["IBM 1401", "ICL 2950", "FACIT", "None"],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Tabulating machine was invented by ……..",
+      "options": ["Hermann Hollerith", "Charles Babbage", "James Russell", "Joseph Marie"],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "Which was the world's first General purpose Electronic computer?",
+      "options": ["ENIAC", "EDVAC", "EDSAC", "ABC"],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "The vacuum tube was invented…..",
+      "options": ["Jack Kilbey", "Fleming", "Reynolds Johnson", "Wang"],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "Which was the third generation computer?",
+      "options": ["EDVAC", "UNIAC", "IBM 650", "IBM 360"],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "Compiler was developed by ….",
+      "options": ["Grace Hopper", "Dennis Ritchie", "John Backus", "Charles Babbage"],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "Who invented the microprocessor for modern digital computer?",
+      "options": ["Fleming", "Charles Babbage", "TED Hoff", "Joseph Marie"],
+      "correct_option": 3
+    },
+    {
+      "id": "q32",
+      "question": "When was the first microprocessor developed?",
+      "options": ["1947", "1957", "1961", "1971"],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "The Core-i3 processor was introduced in …..",
+      "options": ["2008", "2009", "2010", "2012"],
+      "correct_option": 3
+    },
+    {
+      "id": "q34",
+      "question": "Which was brought in Nepal on 2018 BS?",
+      "options": ["IBM 1401", "ICL 2950", "FACIT", "None"],
+      "correct_option": 3
+    },
+    {
+      "id": "q35",
+      "question": "When was the world's first microprocessor Intel 4004 introduced?",
+      "options": ["1960", "1967", "1971", "1975"],
+      "correct_option": 3
+    },
+    {
+      "id": "q36",
+      "question": "Who invented Hard disk?",
+      "options": ["Jack Kilbey", "Fleming", "Reynolds Johnson", "Wang"],
+      "correct_option": 3
+    },
+    {
+      "id": "q37",
+      "question": "When was the First Intel Atom Processor Introduced in Market?",
+      "options": ["2005", "2007", "2008", "2009"],
+      "correct_option": 4
+    },
+    {
+      "id": "q38",
+      "question": "The Neural Language and Network feature belongs to a ………. Generation computer.",
+      "options": ["First", "Third", "Fourth", "Fifth"],
+      "correct_option": 4
+    },
+    {
+      "id": "q39",
+      "question": "Who invented the Compact Disk for digital computer?",
+      "options": ["Hollerith", "Charles Babbage", "James Russell", "Joseph Marie"],
+      "correct_option": 3
+    },
+    {
+      "id": "q40",
+      "question": "Which does not belong to 4th generation?",
+      "options": ["Optical disk", "Microprocessor", "VLSI", "IC"],
+      "correct_option": 4
+    },
+    {
+      "id": "q41",
+      "question": "Which is the suitable factor to classify the generation of computer?",
+      "options": ["By Processor", "By model", "By accuracy", "All of the above"],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "The full form of ABC….",
+      "options": ["Atanasoff–Berry Computer", "Automatic Berry Computer", "Artificial berry computer", "None"],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "First Analytical Engine was developed by Charles Babbage in….",
+      "options": ["1930", "1935", "1837", "1940"],
+      "correct_option": 3
+    },
+    {
+      "id": "q44",
+      "question": "Who was also known as father of disk drive?",
+      "options": ["Charles Babbage", "Jack Kilbey", "Reynold Johnson", "Fleming"],
+      "correct_option": 3
+    },
+    {
+      "id": "q45",
+      "question": "The first Programmable computer was...",
+      "options": ["IBM PC", "Z1", "HOOVERVAC", "ENIAC"],
+      "correct_option": 2
+    },
+    {
+      "id": "q46",
+      "question": "The IBM 1401 is …... computer.",
+      "options": ["First generation", "Second generation", "Third generation", "Fourth generation"],
+      "correct_option": 2
+    },
+    {
+      "id": "q47",
+      "question": "The transistor fabricating technology was first introduced in …………. Generation.",
+      "options": ["First", "Second", "Third", "Fourth"],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "ABC computer was built in………..",
+      "options": ["1937", "1942", "1945", "1951"],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "Which was developed first?",
+      "options": ["Analytical Engine", "Difference Engine", "Analog computer", "Slide rule"],
+      "correct_option": 4
+    },
+    {
+      "id": "q50",
+      "question": "Which was the world's first General purpose Electronic computer?",
+      "options": ["ENIAC", "EDVAC", "EDSAC", "ABC"],
+      "correct_option": 1
+    },
+    {
+      "id": "q51",
+      "question": "When was the integrated circuit invented?",
+      "options": ["1950", "1958", "1965", "1971"],
+      "correct_option": 2
+    },
+    {
+      "id": "q52",
+      "question": "Compiler was developed by ….",
+      "options": ["Grace Hopper", "Dennis Ritchie", "John Backus", "Charles Babbage"],
+      "correct_option": 1
+    },
+    {
+      "id": "q53",
+      "question": "When was the first compact disk introduced by James Russell?",
+      "options": ["1955", "1965", "1970", "1975"],
+      "correct_option": 2
+    },
+    {
+      "id": "q54",
+      "question": "A person who contributed the idea of the stored program.",
+      "options": ["John Neumann", "Charles Babbage", "Howard Aiken", "Daniel Thomas"],
+      "correct_option": 1
+    },
+    {
+      "id": "q55",
+      "question": "When was the IBM 1401 brought in Nepal for census purpose?",
+      "options": ["2018 BS", "2028 BS", "2038 BS", "2048 BS"],
+      "correct_option": 2
+    },
+    {
+      "id": "q56",
+      "question": "Charles Babbage invented the ....",
+      "options": ["Difference Engine", "Analytical Engine", "Napier Bones", "Both A & B"],
+      "correct_option": 4
+    },
+    {
+      "id": "q57",
+      "question": "Which is related to the second Generation?",
+      "options": ["Transistor", "Magnetic core", "IBM 1401", "All"],
+      "correct_option": 4
+    },
+    {
+      "id": "q58",
+      "question": "Which one is the factor influenced by computer generation?",
+      "options": ["Increase in size", "Decrease in consumption", "Increase in Speed", "All"],
+      "correct_option": 4
+    },
+    {
+      "id": "q59",
+      "question": "Who invented the slide rule?",
+      "options": ["John Napier", "William Oughtred", "John Backus", "Blaise Pascal"],
+      "correct_option": 2
+    },
+    {
+      "id": "q60",
+      "question": "First stored program computer (EDSAC) was developed in …..",
+      "options": ["1940", "1942", "1949", "1951"],
+      "correct_option": 3
+    },
+    {
+      "id": "q61",
+      "question": "When was ABC computer built?",
+      "options": ["1935", "1942", "1945", "1951"],
+      "correct_option": 2
+    },
+    {
+      "id": "q62",
+      "question": "Full form of EDSAC is…..",
+      "options": [
+        "Electronic Data Storage Automatic Calculator",
+        "Electronic Delay Storage Automatic Calculator",
+        "Electrical Data Storage Automatic Calculator",
+        "Electronic Delay Storage Automatic Computer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q63",
+      "question": "Who built the first mechanical calculator?",
+      "options": ["Herman Hollerith", "Powers", "Jacquard", "Blaise Pascal"],
+      "correct_option": 4
+    },
+    {
+      "id": "q64",
+      "question": "When did John Napier develop logarithm?",
+      "options": ["1416", "1641", "1804", "1614"],
+      "correct_option": 4
+    },
+    {
+      "id": "q65",
+      "question": "The third generation computer was made with ….",
+      "options": ["Vacuum Tube", "Discrete components", "IC", "Bio Chips"],
+      "correct_option": 3
+    },
+    {
+      "id": "q66",
+      "question": "First magnetic core invented by ……",
+      "options": ["Wang", "James Russell", "Intel", "G. Taushek"],
+      "correct_option": 1
+    },
+    {
+      "id": "q67",
+      "question": "Which was the first Counting and Calculating device?",
+      "options": ["Napier bones", "Slide rule", "Abacus", "UNIAC"],
+      "correct_option": 3
+    },
+    {
+      "id": "q68",
+      "question": "Which was the first electronic digital computer?",
+      "options": ["Z1", "EDSAC", "ABC", "UNIAC"],
+      "correct_option": 3
+    },
+    {
+      "id": "q69",
+      "question": "Who invented slide rule?",
+      "options": ["Blaise Pascal", "William Oughtred", "John Napier", "Charles Babbage"],
+      "correct_option": 2
+    },
+    {
+      "id": "q70",
+      "question": "Which was the first commercially available computer for business?",
+      "options": ["UNIVAC", "ABC", "Z1", "None"],
+      "correct_option": 1
+    },
+    {
+      "id": "q71",
+      "question": "Which was first minicomputer produced by Digital Equipment Corporation (DEC)?",
+      "options": ["PDP-1", "Cray – 1", "ENIAC -1", "UNIVAC-1"],
+      "correct_option": 1
+    },
+    {
+      "id": "q72",
+      "question": "Who invented the first automatic, program-controlled, fully functional, general purpose digital computer?",
+      "options": ["Charles Babbage", "Konrad Zuse", "Von Newmann", "Blaise Pascal"],
+      "correct_option": 2
+    },
+    {
+      "id": "q73",
+      "question": "Who developed a punched-card driven tabulating machine later used for the Census Bureau of USA?",
+      "options": ["Charles Babbage", "Blaise Pascal", "Herman Hollerith", "None of above"],
+      "correct_option": 3
+    },
+    {
+      "id": "q74",
+      "question": "Who invented the use of logarithms and developed rods for mathematical calculations?",
+      "options": ["Blaise Pascal", "William Oughtred", "John Napier", "Charles Babbage"],
+      "correct_option": 3
+    },
+    {
+      "id": "q75",
+      "question": "Which ancient counting device was used thousands of years ago and is still used today?",
+      "options": ["Napier bones", "Calculator", "Analytical engine", "Abacus"],
+      "correct_option": 4
+    }
+  ]
+}
