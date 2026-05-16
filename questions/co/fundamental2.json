@@ -1,0 +1,1381 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer Fundamentals MCQ - 2",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "The basic operations performed by a computer are;",
+      "options": [
+        "Arithmetic",
+        "logical operation",
+        "Storage & relative",
+        "All The Above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q2",
+      "question": "There are basic types of computers?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "The contents of information are stored in ….",
+      "options": [
+        "Memory arithmetic registers",
+        "Memory Address",
+        "Memory data register",
+        "Memory Access Register"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q4",
+      "question": "Which is not essential to run a computer?",
+      "options": [
+        "RAM",
+        "ROM",
+        "Hard disk",
+        "CD"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q5",
+      "question": "Word length of a personal computer is ……….",
+      "options": [
+        "4 bits",
+        "16 bits",
+        "8 bits",
+        "64 bits"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q6",
+      "question": "Which of the computer is used to measures physical quantities?",
+      "options": [
+        "Super computer",
+        "Hybrid",
+        "Analog",
+        "Digital"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q7",
+      "question": "CPU speed of personal computer is;",
+      "options": [
+        "100 KIPS",
+        "32KIPS",
+        "1 MIPS",
+        "None of these"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "Which computer is used for nuclear energy research, weather forecasting?",
+      "options": [
+        "Analog",
+        "mainframe",
+        "Super Computer",
+        "Hybrid"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "What does DMA stand for;",
+      "options": [
+        "Direct Memory Access",
+        "Data manipulation Authority",
+        "Data Module Access",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "Which part of CPU does the processing task?",
+      "options": [
+        "Register",
+        "ALU",
+        "Control",
+        "Arithmetic"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "Through which device the main components of the computer communication with each other;",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "Memory",
+        "System bus"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q12",
+      "question": "Which device can understand difference between data & programs?",
+      "options": [
+        "Input Device",
+        "Microprocessor",
+        "Memory",
+        "Output device"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q13",
+      "question": "Which of the following is not a valid Intel processor?",
+      "options": [
+        "Pentium III",
+        "8085",
+        "CPU",
+        "80486"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Digital Signal is….…….",
+      "options": [
+        "1 or 0",
+        "High/Low",
+        "Binary code",
+        "True /False"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q15",
+      "question": "Processing Power of CPU is measured in.....",
+      "options": [
+        "Hours",
+        "Minutes",
+        "MIPS",
+        "Second"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following unit houses the most important parts of a computer system?",
+      "options": [
+        "Software",
+        "hardware",
+        "input device",
+        "System unit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q17",
+      "question": "The device which processes the input data is called……",
+      "options": [
+        "CPU",
+        "Disk",
+        "Motherboard",
+        "RAM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "Which computer has capability to support large number of peripherals?",
+      "options": [
+        "Super computer",
+        "Main frame computer",
+        "Mini computer",
+        "microcomputer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "The units KIPS is used to measure the speed of;",
+      "options": [
+        "Printer",
+        "Processor",
+        "Disk drive",
+        "Tape Drive"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "Which is a characteristic of computer?",
+      "options": [
+        "Automation",
+        "Versatility",
+        "accuracy",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "IC are classified on the basic of",
+      "options": [
+        "Number of transistors",
+        "Manufacture company",
+        "Type of computer",
+        "None of these"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "Which of the following is not a microprocessor trade name?",
+      "options": [
+        "Intel",
+        "Dell",
+        "AMD",
+        "Cyrix"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "MDR (Memory Data Register) holds the;",
+      "options": [
+        "Address of memory location",
+        "Number of transistors",
+        "Segment Number",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "Which is a not characteristic of computer?",
+      "options": [
+        "Automatic",
+        "High Speed",
+        "Smart",
+        "High accuracy"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "A Personal computer is a …….. computer ;",
+      "options": [
+        "Micro",
+        "Super",
+        "Mini",
+        "Main Frame"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which of the computer handles the logical quantities?",
+      "options": [
+        "Super computer",
+        "Hybrid",
+        "Analog",
+        "Digital"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "………….interface consists of things like program counter, registers, interrupts & terminals.",
+      "options": [
+        "Software",
+        "Hardware",
+        "Data",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "PDA is a …….. computer.",
+      "options": [
+        "Micro",
+        "Super",
+        "Mini",
+        "Main Frame"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "Poor response times are usually caused by",
+      "options": [
+        "Process busy",
+        "High IO rates",
+        "High paging rates",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "A co-processor;",
+      "options": [
+        "Cause all processors to function equally",
+        "Is relatively easy to support in software",
+        "works with any application",
+        "Is quite common in modem computer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q31",
+      "question": "The processing of an application takes place between a client and a ……. processor;",
+      "options": [
+        "Front end",
+        ".Back end",
+        "Both A & B",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q32",
+      "question": "What is the name of series of laptop computers manufactured by IBM called?",
+      "options": [
+        "ThinkPad",
+        "Laptop",
+        "Aptiva",
+        "Notepad"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "Who among the following is a personal computer manufacturer from Taiwan?",
+      "options": [
+        "Acer",
+        "IBM",
+        "Samsung",
+        "Sony"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "What is a PC?",
+      "options": [
+        "Micro computer",
+        "Main frame computer",
+        "Mini computer",
+        "Super computer"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "The digital signals can be represented by;",
+      "options": [
+        "Binary codes",
+        "0&1",
+        "High & Low",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "What is the name of the 64 bit microprocessor developed by AMD?",
+      "options": [
+        "RISC-9000",
+        "Opteron",
+        "iMac",
+        "Athlon"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q37",
+      "question": "Which of the following operation is performed by a computer?",
+      "options": [
+        "Arithmetic operation",
+        "Storage",
+        "Logical operation",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q38",
+      "question": "A _____ is an electronic device that process data, converting it into information.",
+      "options": [
+        "Processor",
+        "Computer",
+        "Calculator",
+        "Translator"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q39",
+      "question": "The basic operations performed by a Computer are:",
+      "options": [
+        "Arithmetic operations",
+        "Logical operations",
+        "Storage and Relative",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "IBM stands for:",
+      "options": [
+        "Indian Business Machines",
+        "International Business Machines",
+        "International Banking Machines",
+        "International Business Model"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "What is the meaning of PC?",
+      "options": [
+        "Independent Computers for all working staff",
+        "PC widely available to individual workers with which they can access information from layer systems and increase their personal productivity",
+        "Packed Computer system formed by joining together of various computer terminals.",
+        "Computer manufactured by the company."
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q42",
+      "question": "Which Register holds the result of processing?",
+      "options": [
+        "Instruction Register",
+        "Program Counter",
+        "Address Register",
+        "None of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q43",
+      "question": "Analog Computer is:",
+      "options": [
+        "is a means of communicating with at a low level",
+        "a device that operates on data in the form of continuously varying physical quantities",
+        "is a algebraic highly level language",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q44",
+      "question": "A super computer is _____",
+      "options": [
+        "Processes data from many users at once",
+        "it is the fastest and the costliest computer system",
+        "it is used by large organisations",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "Which is the unidirectional Bus?",
+      "options": [
+        "Data Bus",
+        "Address Bus",
+        "Control Bus",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q46",
+      "question": "Parts of C.P.U are?",
+      "options": [
+        "ALU, CU, MU",
+        "ALU, Peripherals, Memory",
+        "RAM, ROM, CU",
+        "ALU, RAM, ROM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "Data going into the computer is called",
+      "options": [
+        "Output",
+        "Algorithm",
+        "Input",
+        "Calculations"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "Information travels between components on the mother board through",
+      "options": [
+        "Flash memory",
+        "CMOS",
+        "Bays",
+        "Buses"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "Transformation of input into output is performed by",
+      "options": [
+        "Peripherals",
+        "Memory",
+        "Storage",
+        "The CPU"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q50",
+      "question": "Which of the following is not part of the CPU?",
+      "options": [
+        "Control Unit",
+        "ALU",
+        "Registers",
+        "Primary storage"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q51",
+      "question": "IC (Integrated Circuit) are classified on the basis of ____",
+      "options": [
+        "Manufacturing Companies",
+        "Type of Computers",
+        "Number of Transistors",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q52",
+      "question": "Which of the following factor doesnot affect the speed of CPU?",
+      "options": [
+        "Word Length",
+        "Bus width",
+        "Access Time",
+        "Clock frequency"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q53",
+      "question": "This component is required to process data into information and consists of integrated circuits.",
+      "options": [
+        "Hard disk",
+        "RAM",
+        "CPU",
+        "ROM"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q54",
+      "question": "Computers that are portable and convenient for users who travel are known as _____",
+      "options": [
+        "Super computers",
+        "Laptops",
+        "Mini computers",
+        "File servers"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q55",
+      "question": "A _____ is an electronic device that process data, converting it into information.",
+      "options": [
+        "Processor",
+        "Computer",
+        "Case",
+        "Stylus"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q56",
+      "question": "Which of the following is not part of the CPU?",
+      "options": [
+        "Control Unit",
+        "ALU",
+        "Registers",
+        "Memory unit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q57",
+      "question": "The device that assembles groups of characters into complete messages prior to their entering the CPU is called",
+      "options": [
+        "An Interpreter",
+        "A Compiler",
+        "A Communication processor",
+        "An Editor"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q58",
+      "question": "A desktop computer is also known as a _____",
+      "options": [
+        "Palm Pilot",
+        "PC",
+        "Laptop",
+        "Mainframe"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q59",
+      "question": "Integrated circuits are classified on the basis of ………..",
+      "options": [
+        "By manufacturer",
+        "Number of Transistors",
+        "By development year",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q60",
+      "question": "The portion of the CPU that coordinates the activities of all the other computer components is the",
+      "options": [
+        "Motherboard",
+        "Coordination board",
+        "Control unit",
+        "Arithmetic logic unit"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q61",
+      "question": "Computers use the _____ number system to store data and perform calculations.",
+      "options": [
+        "binary",
+        "octal",
+        "decimal",
+        "hexadecimal"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q62",
+      "question": "MSI stands for__________________",
+      "options": [
+        "Medium Scale Integrated Circuits",
+        "Medium System Integrated Circuits",
+        "Medium Scale Intelligent Circuit",
+        "Medium System Intelligent Circuit"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q63",
+      "question": "To access a mainframe or super computer, users often use a ___",
+      "options": [
+        "Terminal",
+        "Node",
+        "Desktop",
+        "Handled"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q64",
+      "question": "Every component of your computer is either _____",
+      "options": [
+        "Hardware or software",
+        "Software or CPU/RAM",
+        "Application software or system software",
+        "Input devices or output devices"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q65",
+      "question": "_____ is processed by the computer into information.",
+      "options": [
+        "Numbers",
+        "Processor",
+        "Input",
+        "Data"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q66",
+      "question": "Which component of computer systems that makes communication between CPU and other units?",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "Memory",
+        "System bus"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q67",
+      "question": "The _____ performs simple mathematics for the CPU.",
+      "options": [
+        "ALU",
+        "DIMM",
+        "BUS",
+        "Register"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q68",
+      "question": "The time it takes a device to locate data and instructions and make them available to the CPU is known as __",
+      "options": [
+        "Clock speed",
+        "a processing cycle",
+        "CPU speed",
+        "Access time"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q69",
+      "question": "The memory which is directly accessible by CPU is called….",
+      "options": [
+        "Internal Memory",
+        "External Memory",
+        "Blu Ray disk",
+        "Virtual memory"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q70",
+      "question": "_____ process data which is also called brain of the computer.",
+      "options": [
+        "Mother board",
+        "Memory",
+        "RAM",
+        "Central Processing Unit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q71",
+      "question": "Which is the heart of computer system?",
+      "options": [
+        "CPU",
+        "Register Unit",
+        "ALU",
+        "Control unit"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q72",
+      "question": "The primary goal of a computer system is to turn data into",
+      "options": [
+        "Ideas",
+        "Suggestions",
+        "Information",
+        "Reports"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q73",
+      "question": "Which unit of computer will understand difference between data & programs?",
+      "options": [
+        "Input Device",
+        "Microprocessor",
+        "Memory",
+        "Output device"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q74",
+      "question": "A(n) _____ is a device that electronically processes data, converting it to information.",
+      "options": [
+        "Algorithm",
+        "Computer",
+        "Software",
+        "Program"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q75",
+      "question": "The device which is a control of CPU is called …. Device.",
+      "options": [
+        "Online",
+        "Peripheral",
+        "Offline",
+        "Terminal"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q76",
+      "question": "The basic goal of computer process is to convert data into",
+      "options": [
+        "Files",
+        "Tables",
+        "Information",
+        "Graphs"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q77",
+      "question": "Which component is not belongs to computer architecture?",
+      "options": [
+        "CPU",
+        "Input Unit",
+        "Memory",
+        "Port"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q78",
+      "question": "Arithmetic operations",
+      "options": [
+        "Involve matching one data item to another to determine if the first item is greater then. equal to, or less than the other item",
+        "Sort data items according to standard, predefined criteria in ascending order or descending order.",
+        "Use conditions with operators such as AND, or and NOT",
+        "Include addition, subtraction, multiplication, and division"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q79",
+      "question": "Which of the following refers to the fastest, biggest and most expensive computers?",
+      "options": [
+        "Personal computers",
+        "Supercomputers",
+        "Laptops",
+        "Notebook"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q80",
+      "question": "IT stands for _____",
+      "options": [
+        "Information Technology",
+        "Integrated Technology",
+        "Intelligent Technology",
+        "Interesting Technology"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q81",
+      "question": "The different activities in computer system are coordinated by…",
+      "options": [
+        "ALU",
+        "Data Bus",
+        "registers",
+        "control unit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q82",
+      "question": "Processing involves",
+      "options": [
+        "Inputting data into a computer system",
+        "Transforming input into output",
+        "Displaying output in a useful manner",
+        "Providing relevant answers"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q83",
+      "question": "Computers send and receive data in the form of _____ signals.",
+      "options": [
+        "Analog",
+        "Digital",
+        "Modulated",
+        "Demodulated"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q84",
+      "question": "Every component of your computer is either",
+      "options": [
+        "Software of CPU/RAM",
+        "hardware or software",
+        "Application software or system software",
+        "Input devices or output devices"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q85",
+      "question": "Microcomputer hardware consists of three basic categories of physical equipment",
+      "options": [
+        "keyboard, monitor, hard drive",
+        "system unit, input/output, memory",
+        "system unit, input/output, secondary storage",
+        "system unit, primary storage, secondary storage"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q86",
+      "question": "This type of hardware consists of devices that translate data into a form the computer can process",
+      "options": [
+        "Application",
+        "input",
+        "system",
+        "All of these"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q87",
+      "question": "The computer is made of which of the following hardware equipments?",
+      "options": [
+        "Monitor, CPU (Central Processing Unit), Keyboard, Mouse, Printer and Network",
+        "Monitor, CPU (Central Processing Unit), Keyboard, Mouse, Software and Network",
+        "Monitor, CPU (Central Processing Unit), Keyboard, Mouse, Printer and Modem",
+        "Monitor, CPU (Central Processing Unit), Keyboard, Mouse, Applications and Network"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q88",
+      "question": "Physical components that make up your computer are known as __",
+      "options": [
+        "Operating System",
+        "Software",
+        "Hardware",
+        "Web Browsers"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q89",
+      "question": "Which is a basic function of a computer?",
+      "options": [
+        "output information",
+        "Accept input",
+        "Process data",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q90",
+      "question": "A complete electronic circuit with transistors and other electronic components on a small silicon chip is called a(n)",
+      "options": [
+        "Workstation",
+        "CPU",
+        "Magnetic disk",
+        "Integrated Circuit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q91",
+      "question": "A _____ is a microprocessor based computing device.",
+      "options": [
+        "Personal computer",
+        "mainframe",
+        "workstation",
+        "server"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q92",
+      "question": "The term _____ designates equipment that might be added to a computer system to enhance its functionality.",
+      "options": [
+        "Digital device",
+        "system add-on",
+        "disk pack",
+        "Peripheral device"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q93",
+      "question": "To access a mainframe or super computer, users often use a ___",
+      "options": [
+        "Terminal",
+        "Node",
+        "Desktop",
+        "Handled"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q94",
+      "question": "The ALU performs _____ operations.",
+      "options": [
+        "Arithmetic",
+        "ASCII",
+        "Algorithm-based",
+        "Logarithm-based"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q95",
+      "question": "Peripheral devices such as printers and monitors are considered to be _____",
+      "options": [
+        "Hardware",
+        "software",
+        "data",
+        "information"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q96",
+      "question": "The _____ is the box that houses the most important parts of a computer system.",
+      "options": [
+        "Software",
+        "hardware",
+        "input device",
+        "System unit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q97",
+      "question": "Which is not a basic function of a computer?",
+      "options": [
+        "Copy text",
+        "Accept input",
+        "Process data",
+        "None of these"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q98",
+      "question": "Input, output, and processing devices grouped together represent a(n) _____",
+      "options": [
+        "Mobile device",
+        "Information processing cycle",
+        "Circuit board",
+        "Computer system"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q99",
+      "question": "The main system board of a computer is called the _____",
+      "options": [
+        "Integrated circuit",
+        "Motherboard",
+        "Processor",
+        "Microchip"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q100",
+      "question": "Which of the following is NOT associated with Computers?",
+      "options": [
+        "Bit",
+        "Binary",
+        "Pen",
+        "Mouse"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q101",
+      "question": "Computers gather data, which means that they allow users to__ data.",
+      "options": [
+        "Present",
+        "Input",
+        "Output",
+        "Store"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q102",
+      "question": "What is the full form of USB as used in computer related activities?",
+      "options": [
+        "Universal Security Block",
+        "Ultra Serial Block",
+        "United Service Block",
+        "Universal Serial Bus"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q103",
+      "question": "The information you put into the computer is called",
+      "options": [
+        "Facts",
+        "Data",
+        "Files",
+        "Directory"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q104",
+      "question": "_____ is the process of carrying out commands.",
+      "options": [
+        "Fetching",
+        "Storing",
+        "Executing",
+        "Decoding"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q105",
+      "question": "Any data or instruction entered into the memory of a computer is considered as _____",
+      "options": [
+        "Storage",
+        "Output",
+        "Input",
+        "Information"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q106",
+      "question": "Which is the part of a computer that one can touch and feel?",
+      "options": [
+        "Hardware",
+        "Software",
+        "Programs",
+        "Output"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q107",
+      "question": "A terminal that cannot process any information is called _____",
+      "options": [
+        "Direct access terminal",
+        "Intelligent terminal",
+        "Smart terminal",
+        "Dumb terminal"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q108",
+      "question": "_____ represents raw facts, where as _____ is data made meaningful.",
+      "options": [
+        "Information, reporting",
+        "Data, information",
+        "Information, bits",
+        "Records, bytes"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q109",
+      "question": "Which is the process of implementing command?",
+      "options": [
+        "Fetching",
+        "Storing",
+        "Decoding",
+        "Executing"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q110",
+      "question": "To change hardware components into more powerful or rectified version is called _____",
+      "options": [
+        "Expansion",
+        "Plug and Play",
+        "Upgrading",
+        "Upsizing"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q111",
+      "question": "The program written on a chip is called….",
+      "options": [
+        "Hardware",
+        "Firmware",
+        "Micro program",
+        "Operating system"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q112",
+      "question": "Data becomes _____ when it is presented in a format that people can understand and use.",
+      "options": [
+        "Processed",
+        "Graphs",
+        "Information",
+        "Presentation"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q113",
+      "question": "Which is the biggest Chip Manufacturing Company?",
+      "options": [
+        "Sony",
+        "IBM",
+        "Microsoft",
+        "Intel"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q114",
+      "question": "Which of the following is NOT one of the four major data processing functions of a computer?",
+      "options": [
+        "Gathering data",
+        "Processing data into information",
+        "Analyzing the data or information",
+        "Storing the data or information"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q115",
+      "question": "Surgeons can perform delicate operations by manipulating devices through computers instead of manually. This technology is known as:",
+      "options": [
+        "Robotics",
+        "Computer forensics",
+        "Simulation",
+        "Forecasting"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q116",
+      "question": "Which of the following component holds the ROM, RAM, CPU?",
+      "options": [
+        "Hard Disk",
+        "ALU",
+        "Mother Board",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q117",
+      "question": "Which section of CPU does the processing activities?",
+      "options": [
+        "ALU",
+        "CU",
+        "Memory",
+        "Register"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q118",
+      "question": "The theory behind the design of computer and its operational units is called…….",
+      "options": [
+        "Generation",
+        "Architecture",
+        "Artificial Intelligence",
+        "History"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q119",
+      "question": "Central processing unit that recognizes an instruction written in the form of ….",
+      "options": [
+        "Binary code",
+        "Mnemonic code",
+        "English Word",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q120",
+      "question": "The term 'Pentium' is related to",
+      "options": [
+        "DVD",
+        "Hard Disk",
+        "Mouse",
+        "Microprocessor"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q121",
+      "question": "The term also describe the brain of computer is..",
+      "options": [
+        "Monitor",
+        "Hardware",
+        "CPU",
+        "byte"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q122",
+      "question": "Which is also considered as worker unit of CPU?",
+      "options": [
+        "ALU",
+        "CU",
+        "RU",
+        "MU"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q123",
+      "question": "The Central Processing Unit is…",
+      "options": [
+        "Controls from the control panel",
+        "controls the input data entering the system",
+        "controls the auxiliary storage unit",
+        "controls all input, output and processing."
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q124",
+      "question": "The address bus is…….",
+      "options": [
+        "bidirection",
+        "unidirection",
+        "Mulidirection",
+        "Circular"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q125",
+      "question": "Computer means combination of…",
+      "options": [
+        "Hardware & Software",
+        "Input and output devices",
+        "Motherboard and Processor",
+        "Primary & Secondary memory"
+      ],
+      "correct_option": 1
+    }
+  ]
+}
