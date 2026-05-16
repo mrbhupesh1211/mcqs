@@ -253,7 +253,7 @@
         "Segment Number",
         "None"
       ],
-      "correct_option": 1
+      "correct_option": 4
     },
     {
       "id": "q24",
@@ -447,7 +447,7 @@
       "question": "What is the meaning of PC?",
       "options": [
         "Independent Computers for all working staff",
-        "PC widely available to individual workers with which they can access information from layer systems and increase their personal productivity",
+        "PC widely available to individual workers with which they can access information from large systems and increase their personal productivity",
         "Packed Computer system formed by joining together of various computer terminals.",
         "Computer manufactured by the company."
       ],
@@ -715,7 +715,7 @@
         "Input",
         "Data"
       ],
-      "correct_option": 2
+      "correct_option": 4
     },
     {
       "id": "q66",
@@ -748,7 +748,7 @@
         "CPU speed",
         "Access time"
       ],
-      "correct_option": 2
+      "correct_option": 4
     },
     {
       "id": "q69",
@@ -946,7 +946,7 @@
         "system",
         "All of these"
       ],
-      "correct_option": 3
+      "correct_option": 2
     },
     {
       "id": "q87",
@@ -1331,7 +1331,7 @@
         "CPU",
         "byte"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q122",
