@@ -1,109 +1,108 @@
 {
   "schema_version": "1.0",
   "quiz_title": "MS Word MCQs",
-
   "questions": [
     {
       "id": "q1",
       "question": "How many different positions can you set for drop cap?",
       "options": ["1", "2", "4", "6"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q2",
       "question": "How many ways you can save a document?",
       "options": ["3", "4", "5", "6"],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q3",
       "question": "What is the maximum number of lines you can set for lines to drop box?",
       "options": ["3", "5", "10", "15"],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q4",
       "question": "Single spacing in MS-WORD document causes ____ point line spacing?",
       "options": ["10", "12", "14", "16"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q5",
       "question": "What is the default number of lines to drop for drop cap?",
       "options": ["3", "10", "15", "20"],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q6",
       "question": "What is the maximum number of lines you can set for a drop cap?",
       "options": ["3", "10", "15", "20"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q7",
       "question": "How many columns can you insert in a word document in maximum?",
       "options": ["35", "45", "55", "65"],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q8",
       "question": "In a document what is the maximum number of columns that can be inserted in MS Word Table?",
       "options": ["35", "15", "63", "65"],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q9",
       "question": "What is the maximum scale percentage available in Scale drop down box?",
       "options": ["500", "200", "100", "90"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q10",
       "question": "What is the maximum font size you can apply for any character?",
       "options": ["163", "1638", "16038", "None of above"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q11",
       "question": "Word, by default, places a tab stop at every _____ mark on the ruler.",
       "options": [".25″", ".5″", ".75″", "1″"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q12",
       "question": "What is the default file extension for all Word documents?",
       "options": [".txts", ".word", ".docs", ".docx"],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q13",
       "question": "The file type _____ indicates the file is a Word document.",
       "options": [".msw", ".wor", ".wrd", ".doc"],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q14",
       "question": "With Word’s AutoCorrect entries, to display an indifferent face (😐) type _____.",
       "options": [":)", ":(", ":|", ":/"],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q15",
       "question": "Which button allows you to add, delete, or change records in your Data Source?",
       "options": ["Data Source button", "Edit button", "Edit Data Source button", "Data Editing button"],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q16",
       "question": "How much space in minimum must be provided between columns?",
       "options": ["0″", "0.5″", "1″", "1.5″"],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q17",
       "question": "What is the smallest width of a column?",
       "options": ["0″", "0.5″", "1″", "1.5″"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q18",
@@ -114,7 +113,7 @@
         "1.25 inches left and right margins",
         "all of the above"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q19",
@@ -125,19 +124,19 @@
         "1.25-inch left/right and 1-inch top/bottom",
         "1-inch left/right and 1.25-inch top/bottom"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q20",
       "question": "What is the default left margin in Word 2003 document?",
       "options": ["1″", "1.25″", "1.5″", "2″"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q21",
       "question": "What is the smallest and largest font size available in Font Size tool?",
       "options": ["8 and 72", "8 and 64", "12 and 72", "None of above"],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q22",
@@ -148,19 +147,19 @@
         "12pt TNR, double-spaced, right aligned",
         "10pt TNR, single-spaced, left aligned"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q23",
       "question": "Default font size in Word 2003 Normal template?",
       "options": ["10 pt", "12 pt", "14 pt", "None of above"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q24",
       "question": "Minimum number of rows and columns in MS Word table is:",
       "options": ["1 and 1", "2 and 1", "2 and 2", "None of above"],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q25",
@@ -171,25 +170,25 @@
         "Blue wavy line",
         "None of the above"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q26",
       "question": "In mail merge, main document might be:",
       "options": ["Sales brochure", "Form letter", "Database", "All of above"],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q27",
       "question": "Pressing F8 key for three times selects:",
       "options": ["word", "sentence", "paragraph", "entire document"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q28",
       "question": "Collection of formatting commands is called:",
       "options": ["defaults", "template", "style", "boilerplate"],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q29",
@@ -200,25 +199,25 @@
         "view with gutter",
         "structure of headings"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q30",
       "question": "Ctrl + Z does:",
       "options": ["Undo", "Redo", "New page", "Paste"],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q31",
       "question": "Resume Wizard ready stage is:",
       "options": ["Start panel", "Address panel", "Heading panel", "Finish panel"],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q32",
       "question": "Ctrl + = does:",
       "options": ["Superscript", "Subscript", "All caps", "Shadow"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q33",
@@ -229,7 +228,7 @@
         "Format AutoText",
         "All of above"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q34",
@@ -240,25 +239,25 @@
         "Allows overwrite",
         "Horizontal line"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q35",
       "question": "Superscript shortcut is:",
       "options": ["Ctrl + =", "Ctrl + Shift + =", "Alt + Ctrl + Shift + =", "None"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q36",
       "question": "Field braces are inserted using:",
       "options": ["Ctrl + F6", "Ctrl + F9", "Alt + F11", "Shift + F12"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q37",
       "question": "Open dialog shortcut is:",
       "options": ["F12", "Shift F12", "Alt + F12", "Ctrl + F12"],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q38",
@@ -269,19 +268,19 @@
         "Alt + Shift + Enter",
         "Alt + Space + Enter"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q39",
       "question": "Increase left indent key:",
       "options": ["Ctrl+I", "Ctrl+M", "Alt+I", "F10"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q40",
       "question": "Thesaurus is used for:",
       "options": ["synonym", "homonym", "antonym", "metronym"],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q41",
@@ -292,7 +291,7 @@
         "As many as your computer memory will hold",
         "As many as your taskbar can display"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q42",
@@ -303,7 +302,7 @@
         "Assign shortcut",
         "Give macro a name"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q43",
@@ -314,7 +313,7 @@
         "assigned to another task",
         "same font family"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q44",
@@ -325,7 +324,7 @@
         "Auto Format",
         "Smart Tags"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q45",
@@ -336,7 +335,7 @@
         "Auto summarize",
         "Macro"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q46",
@@ -347,7 +346,7 @@
         "AutoAdd",
         "AutoSpell"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q47",
@@ -358,7 +357,7 @@
         "Not possible",
         "Use Paste Special only"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q48",
@@ -369,7 +368,7 @@
         "Autofit to Window",
         "Autofit to Column"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q49",
@@ -380,7 +379,7 @@
         "Backstage View",
         "Ribbon"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q50",
@@ -391,7 +390,7 @@
         "Bar",
         "Justify"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q51",
@@ -402,7 +401,7 @@
         "Font not installed",
         "Windows version"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q52",
@@ -413,7 +412,7 @@
         "Bold text",
         "Open file"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q53",
@@ -424,7 +423,7 @@
         "Bookmarks",
         "References"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q54",
@@ -435,7 +434,7 @@
         "Both margins",
         "None"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q55",
@@ -446,7 +445,7 @@
         "Both",
         "None"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q56",
@@ -457,7 +456,7 @@
         "Both",
         "None"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q57",
@@ -468,7 +467,7 @@
         "Both",
         "None"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q58",
@@ -479,7 +478,7 @@
         "Both",
         "None"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q59",
@@ -490,7 +489,7 @@
         "Both",
         "None"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q60",
@@ -501,7 +500,7 @@
         "Insert Break",
         "Both b and c"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q61",
@@ -512,7 +511,7 @@
         "Ctrl+Enter",
         "Font size change"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q62",
@@ -523,7 +522,7 @@
         "Ctrl + }",
         "Ctrl + {"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q63",
@@ -534,7 +533,7 @@
         "Edit menu",
         "Not possible"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q64",
@@ -545,7 +544,7 @@
         "Calibri",
         "Preeti"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q65",
@@ -556,7 +555,7 @@
         "Captions",
         "Bookmarks"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q66",
@@ -567,7 +566,7 @@
         "Cell",
         "Target"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q67",
@@ -578,7 +577,7 @@
         "Center",
         "Top"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q68",
@@ -589,7 +588,7 @@
         "Change Case is reversible, All Caps is not",
         "All Caps is permanent"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q69",
@@ -600,7 +599,7 @@
         "Change font",
         "Save"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q70",
@@ -611,7 +610,7 @@
         "Change style",
         "Font"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q71",
@@ -622,7 +621,7 @@
         "Em dash",
         "Bullets"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q72",
@@ -633,7 +632,7 @@
         "Password tool",
         "Full-featured word processor"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q73",
@@ -644,7 +643,7 @@
         "Clear",
         "Align center"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q74",
@@ -655,7 +654,7 @@
         "Clears left tabs",
         "Does not clear any"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q75",
@@ -666,7 +665,7 @@
         "Page number format tool",
         "All of above"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q76",
@@ -677,7 +676,7 @@
         "Close command",
         "Exit"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q77",
@@ -688,7 +687,7 @@
         "Text box",
         "INS status indicator"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q78",
@@ -699,7 +698,7 @@
         "Ctrl key",
         "All of above"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q79",
@@ -710,7 +709,7 @@
         "Options",
         "Save As"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q80",
@@ -721,7 +720,7 @@
         "X button",
         "Close submenu"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q81",
@@ -732,7 +731,7 @@
         "Clip Art",
         "Graph"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q82",
@@ -743,7 +742,7 @@
         "Close",
         "Exit"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q83",
@@ -754,7 +753,7 @@
         "Close",
         "Open"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q84",
@@ -765,7 +764,7 @@
         "Columns",
         "Tabs"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q85",
@@ -776,7 +775,7 @@
         "Command bar",
         "Toolbar"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q86",
@@ -787,7 +786,7 @@
         "Legal name",
         "None"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q87",
@@ -798,7 +797,7 @@
         "Condensed",
         "Expanded"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q88",
@@ -809,7 +808,7 @@
         "Convert Hyperlink",
         "Remove Hyperlink"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q89",
@@ -820,7 +819,7 @@
         "Cross references",
         "Outlines"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q90",
@@ -831,7 +830,7 @@
         "Ctrl",
         "Alt"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q91",
@@ -842,7 +841,7 @@
         "Ctrl+C",
         "Ctrl+Shift+C"
       ],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q92",
@@ -853,7 +852,7 @@
         "Ctrl+D",
         "Ctrl+Shift+D"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q93",
@@ -864,49 +863,49 @@
         "Ctrl+F",
         "None"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q94",
       "question": "Spelling check shortcut:",
       "options": ["F7", "Shift+F7", "Ctrl+F7", "Alt+F7"],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q95",
       "question": "Update formula shortcut:",
       "options": ["F9", "Alt+F9", "Ctrl+F9", "Shift+F9"],
-      "correct_option": 0
+      "correct_option": 1
     },
     {
       "id": "q96",
       "question": "Font dialog shortcut:",
       "options": ["Ctrl+F", "Ctrl+D", "Ctrl+G", "None"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q97",
       "question": "Find and Replace shortcut:",
       "options": ["Ctrl+F", "Ctrl+R", "Ctrl+H", "Ctrl+Shift+F"],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q98",
       "question": "Insert hyperlink shortcut:",
       "options": ["Ctrl+H", "Ctrl+L", "Ctrl+K", "None"],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q99",
       "question": "Font size tool shortcut:",
       "options": ["Ctrl+S", "Ctrl+Shift+S", "Ctrl+P", "Ctrl+Shift+P"],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q100",
       "question": "Subscript shortcut:",
       "options": ["Ctrl+=", "Ctrl+-", "Ctrl+Shift+=", "Ctrl+Shift+-"],
-      "correct_option": 0
+      "correct_option": 1
     }
   ]
 }
