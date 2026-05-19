@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer Architecture and Digital Logic MCQ",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "In XOR gate, the output becomes true or high……..",
+      "options": [
+        "When all inputs are same",
+        "When all inputs are different",
+        "When all inputs are Low",
+        "When all inputs are High"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "What is the hexadecimal value of ASCII (C)?",
+      "options": [
+        "41H",
+        "42H",
+        "43H",
+        "44H"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "The equivalent octal symbols of 100101110₂?",
+      "options": [
+        "654",
+        "456",
+        "96",
+        "3342"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "Find the output of AND if inputs are 1001 and 1111?",
+      "options": [
+        "1001",
+        "1101",
+        "1011",
+        "1111"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "In AND gate, the output becomes true or high……..",
+      "options": [
+        "When all inputs are High",
+        "When any input is low",
+        "When all inputs are Low",
+        "When any input is High"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "Which number system is usually followed in a typical 32-bit computer?",
+      "options": [
+        "Decimal (Base 10)",
+        "Binary (Base 2)",
+        "Hexadecimal (Base 16)",
+        "Octal (Base 8)"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "When a key is pressed on the keyboard, which standard is used for converting the keystroke into the corresponding bits?",
+      "options": [
+        "ASCII",
+        "ANSI",
+        "EBCDIC",
+        "ISO"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "In a computer ….. is capable to store single binary bit ;",
+      "options": [
+        "Flip flop",
+        "Capacitor",
+        "Register",
+        "Inductor"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "A set of Flip flop integrated together is called;",
+      "options": [
+        "Counter",
+        "Register",
+        "Adder",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "Full form of ASCII…",
+      "options": [
+        "American Standard code for Internet Institutions",
+        "American Standard Code For Information Interchange",
+        "American Specific code for Internet Institutions",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "Which of the following is not a logic gate?",
+      "options": [
+        "NAT",
+        "AND",
+        "OR",
+        "NOT"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "Computers use the _____ number system to store data and perform calculations.",
+      "options": [
+        "Decimal",
+        "Hexadecimal",
+        "Octal",
+        "Binary"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "The sharing of a medium and its path by 2 or more devices is called _____",
+      "options": [
+        "Modulation",
+        "Encoding",
+        "Line discipline",
+        "Multiplexing"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "What is name of the logic circuit which can add two binary digits?",
+      "options": [
+        "Half adder",
+        "Full adder",
+        "Parallel adder",
+        "Serial adder"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Multiplexing involves _____ path and _____ channel",
+      "options": [
+        "One, One",
+        "One, Multiple",
+        "Multiple, One",
+        "Multiple, Multiple"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "What is the hexadecimal value of ASCII (1)?",
+      "options": [
+        "31H",
+        "32H",
+        "33H",
+        "34H"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "The equivalent Hexa-Decimal symbols of 100101110₂?",
+      "options": [
+        "12E",
+        "12D",
+        "13F",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "Which of the following is a Universal logic gate?",
+      "options": [
+        "XOR",
+        "AND",
+        "NOR",
+        "NOT"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q19",
+      "question": "Find the output of OR if inputs are 1001 and 1111?",
+      "options": [
+        "1001",
+        "1101",
+        "1011",
+        "1111"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q20",
+      "question": "What is the octal equivalent symbol of 101101001₂?",
+      "options": [
+        "155",
+        "255",
+        "551",
+        "552"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "Which of the following is a basic gate?",
+      "options": [
+        "XOR",
+        "NAND",
+        "NOR",
+        "NOT"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q22",
+      "question": "Which is a universal Gate?",
+      "options": [
+        "AND",
+        "EXOR",
+        "NAND",
+        "OR"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "Which one of the following represents the binary equivalent of the decimal number 23?",
+      "options": [
+        "11011",
+        "10111",
+        "10011",
+        "11010"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "The result of binary operation 111 + 101?",
+      "options": [
+        "1001",
+        "1100",
+        "1010",
+        "0101"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "Which gate will produce output as true when all inputs are true?",
+      "options": [
+        "OR",
+        "AND",
+        "XOR",
+        "NAND"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "Data representation is based on the _____ number system, which uses two numbers to represent all data.",
+      "options": [
+        "Binary",
+        "Biometric",
+        "Bi-centennial",
+        "Byte"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "Which number system uses alphabet and digit for representing the quantity?",
+      "options": [
+        "Binary",
+        "Hexa decimal",
+        "Decimal",
+        "Octal"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "The number system that uses 16 distinct symbols to represent the quantity?",
+      "options": [
+        "Binary",
+        "Decimal",
+        "Hexa decimal",
+        "Octal"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "The ASCII-8 represents the number of symbol is....",
+      "options": [
+        "256",
+        "255",
+        "128",
+        "32768"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "The digital system usually operated on ………system.",
+      "options": [
+        "binary",
+        "decimal",
+        "octal",
+        "hexadecimal"
+      ],
+      "correct_option": 1
+    }
+  ]
+}
