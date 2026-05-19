@@ -1,0 +1,699 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Microsoft Word Advanced MCQ - Section 4",
+  "questions": [
+    {
+      "id": "q301",
+      "question": "A _____ is not attached to an edge of the Word window; that is, it displays in the middle of the Word window and can be moved anywhere in the window.",
+      "options": [
+        "floating toolbar",
+        "scroll bar",
+        "status toolbar",
+        "menu bar"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q302",
+      "question": "Which of the following best describes the contents of a mail merge main document?",
+      "options": [
+        "Information that is unique for every form letter created",
+        "Information that is same for every form letter created",
+        "Styles and fonts for the data source",
+        "None of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q303",
+      "question": "A character that is raised and smaller above the baseline is known as",
+      "options": [
+        "outlined",
+        "raised",
+        "superscript",
+        "subscript"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q304",
+      "question": "The shortcut keys for the _____ character formatting are ctrl+ shift+ plus sign.",
+      "options": [
+        "case of letters",
+        "underline words, not spaces",
+        "superscript",
+        "all capital letters"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q305",
+      "question": "Using Find command in Word, we can search?",
+      "options": [
+        "characters",
+        "formats",
+        "symbols",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q306",
+      "question": "Thesaurus tool in MS Word is used for",
+      "options": [
+        "Spelling suggestions",
+        "Grammar options",
+        "Synonyms and Antonyms words",
+        "All of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q307",
+      "question": "Which of the following can be used to divide a web page into areas?",
+      "options": [
+        "frames",
+        "theme",
+        "table of contents",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q308",
+      "question": "The ribbon in Word 2007 consists of a series of",
+      "options": [
+        "Gates",
+        "Smaller ribbons",
+        "Tabs",
+        "Icons"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q309",
+      "question": "Borders can be applied to",
+      "options": [
+        "cells",
+        "paragraph",
+        "text",
+        "All of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q310",
+      "question": "Which tab in Font dialog box contain options to apply font effects?",
+      "options": [
+        "Font tab",
+        "Character Spacing",
+        "Text Effects",
+        "Standard Toolbar"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q311",
+      "question": "To save an existing document with a different file name, click _____.",
+      "options": [
+        "the Save button on the Standard toolbar",
+        "Save on the File menu",
+        "the Save As button on the Standard toolbar",
+        "Save As on the File menu"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q312",
+      "question": "When you point to a text entry in the Office Clipboard gallery in the Clipboard task pane, _____.",
+      "options": [
+        "the first several characters of text in the item display as a ScreenTip",
+        "the text entry is deleted from the Office Clipboard gallery",
+        "the text entry is pasted into the document at the location of the insertion point",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q313",
+      "question": "What happens if you mark on Hidden check box of Font dialog box after you select some text?",
+      "options": [
+        "The text is deleted from document and you need to bring from Recycle Bin if required again.",
+        "The text is hidden and you need to bring it by removing the check box if needed again",
+        "The text is deleted and cannot be returned back",
+        "The text is hidden and cannot be returned back"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q314",
+      "question": "Which is true when you insert an excel worksheet into a word document?",
+      "options": [
+        "word is the destination document",
+        "excel is the destination document",
+        "the worksheet is the destination document",
+        "the document is the source document"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q315",
+      "question": "Which of the following provides a list of synonyms?",
+      "options": [
+        "Find command",
+        "Replace Command",
+        "Thesaurus",
+        "Spelling and Grammar"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q316",
+      "question": "The _____ is a special toolbar that displays a series of names, each of which represents a list of commands that can be used to perform tasks.",
+      "options": [
+        "scroll bar",
+        "status bar",
+        "title bar",
+        "menu bar"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q317",
+      "question": "Dropcap means",
+      "options": [
+        "All Caps",
+        "Small Caps",
+        "Title case",
+        "None of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q318",
+      "question": "Press the enter key in all of the following circumstances except _____.",
+      "options": [
+        "to insert a blank line into a document",
+        "when the insertion point reaches the right margin",
+        "to begin a new paragraph",
+        "in response to certain Word commands"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q319",
+      "question": "Why Drop Caps are used in document?",
+      "options": [
+        "To drop all the capital letters",
+        "To automatically begin each paragraph with capital letter",
+        "To begin a paragraph with a large dropped initial capital letter",
+        "None of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q320",
+      "question": "In MS-Word, for what does ruler help?",
+      "options": [
+        "to set tabs",
+        "to set indents",
+        "to change page margins",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q321",
+      "question": "What is the purpose of inserting header and footer in document?",
+      "options": [
+        "to enhance the overall appearance of the document",
+        "to mark the starting and ending of page",
+        "to make large document more readable",
+        "to allow page headers and footers appear on document when printed"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q322",
+      "question": "A bookmark is an item or location in document that you identify as a name for future reference. Which of the following task is accomplish by using bookmarks?",
+      "options": [
+        "to add anchors in web page",
+        "to mark the ending of a paragraph of document",
+        "to quickly jump to specific location in document",
+        "to add hyperlinks in webpage"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q323",
+      "question": "What is the use of bookmarks in Microsoft Word?",
+      "options": [
+        "To easily correct the spelling errors",
+        "To quickly jump to a specific location in the document",
+        "To quickly jump to the ending of the document",
+        "To create a link within the document"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q324",
+      "question": "What is the use of Document Map?",
+      "options": [
+        "to quickly format the document",
+        "to quickly print required page",
+        "to quickly navigate the document",
+        "to quickly correct spelling mistakes"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q325",
+      "question": "Which bar is usually located below that Title Bar that provides categorized options?",
+      "options": [
+        "Menu bar",
+        "Status Bar",
+        "Tool bar",
+        "Scroll bar"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q326",
+      "question": "The formats defined by _____ include character formatting, such as the font and font size; paragraph formatting, such as line spacing and text alignment; table formatting; and list formatting.",
+      "options": [
+        "options",
+        "styles",
+        "toolbars",
+        "tabs"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q327",
+      "question": "To get to the 'Symbol' dialog box, click on the ______ menu and choose 'Symbol'.",
+      "options": [
+        "Insert",
+        "Format",
+        "Tools",
+        "Table"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q328",
+      "question": "To insert a drop cap in one of the paragraph you should access",
+      "options": [
+        "Insert Menu",
+        "Format",
+        "Tools",
+        "None of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q329",
+      "question": "To set an exception to an AutoCorrect rule, click _____ on the menu bar and then click AutoCorrect Options to display the AutoCorrect dialog box.",
+      "options": [
+        "Format",
+        "Edit",
+        "Tools",
+        "View"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q330",
+      "question": "How do you magnify your document?",
+      "options": [
+        "View, Zoom",
+        "Format, Font",
+        "Tools, Options",
+        "Tools, Customize"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q331",
+      "question": "Which would you choose to list Synonyms & Antonyms of a selected word?",
+      "options": [
+        "Tools, Spelling & Grammar",
+        "Tools, Language",
+        "Tools, Options",
+        "Insert, Cross-reference"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q332",
+      "question": "Which would you choose to display the statistics about a document?",
+      "options": [
+        "tools, word count",
+        "insert, statistics",
+        "tools, spelling and grammar",
+        "tools, statistics"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q333",
+      "question": "Which is an Office feature that makes it easy to edit embedded objects?",
+      "options": [
+        "pasting",
+        "visual editing",
+        "tools, update, links",
+        "edit, links"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q334",
+      "question": "When using the MLA style, position explanatory notes either at the _____.",
+      "options": [
+        "top of the page as head notes or at the end of the paper as endnotes",
+        "bottom of the page as footnotes or at the end of the paper as endnotes",
+        "top of the page as head notes or at the beginning of the paper as front notes",
+        "bottom of the page as footnotes or at the beginning of the paper as front notes"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q335",
+      "question": "If you want to keep track of different editions of a document which features will you use?",
+      "options": [
+        "Editions",
+        "Versions",
+        "Track Change",
+        "All of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q336",
+      "question": "Which feature is used for monitoring all document changes?",
+      "options": [
+        "Edit Document",
+        "Monitor Change",
+        "Track Change",
+        "Track all"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q337",
+      "question": "Which of the following line spacing is invalid?",
+      "options": [
+        "Single",
+        "Double",
+        "Triple",
+        "Multiple"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q338",
+      "question": "How many margins are there on a page?",
+      "options": [
+        "Two (header and footer)",
+        "Four (top, bottom, right and left)",
+        "Two (landscape and portrait)",
+        "Four (center, top, left and bottom)"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q339",
+      "question": "Which of the following is correct regarding Underline in MS-Word?",
+      "options": [
+        "Color of Underline can be change",
+        "Style of Underline can be change",
+        "Underline can be set using by shortcut key",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q340",
+      "question": "On the works cited page, list works by each author’s last name and _____ the title of the work.",
+      "options": [
+        "italicize or underline",
+        "boldface or italicize",
+        "underline or boldface",
+        "enlarge or underline"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q341",
+      "question": "Ctrl + U",
+      "options": [
+        "Undelete the previously deleted text",
+        "Undo the last changes",
+        "Underline the document name",
+        "Underline the selected text"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q342",
+      "question": "When a hyperlink is created, Word formats the Web address as _____.",
+      "options": [
+        "italicized and colored red",
+        "italicized and colored blue",
+        "underlined and colored red",
+        "underlined and colored blue"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q343",
+      "question": "What is the name of the feature that will allow you to take a step backward if you’ve made a mistake?",
+      "options": [
+        "Redo",
+        "Cancel",
+        "Undo",
+        "Backspace"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q344",
+      "question": "To read through a document you may",
+      "options": [
+        "Use the arrow key",
+        "Dragging the scroll box on the scroll bar",
+        "Use your ENTER key to go down line by line",
+        "Only A & B"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q345",
+      "question": "Which of the following can you change using the page setup dialog box?",
+      "options": [
+        "margins",
+        "page orientation",
+        "vertical alignment",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q346",
+      "question": "The header and footer command are located on the ____ tab",
+      "options": [
+        "Home",
+        "Insert",
+        "View",
+        "Header"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q347",
+      "question": "The column command is located on the _____ tab.",
+      "options": [
+        "Insert",
+        "Home",
+        "View",
+        "Page Layout"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q348",
+      "question": "Using the ribbon where should you go to activate the ruler on your document?",
+      "options": [
+        "View >> toolbars",
+        "File >> Open",
+        "View >> Ruler",
+        "Insert >> Reference"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q349",
+      "question": "Which menu do you choose to shade words and paragraph?",
+      "options": [
+        "format, borders and shading",
+        "insert, borders and shading",
+        "view, shading",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q350",
+      "question": "Suppose you wanted to create an AutoCorrect entry that would type the words 'We regret to inform you that your submission has been declined' Of the following choices, which would be the best name you could assign to this entry?",
+      "options": [
+        "regret",
+        "subdecl",
+        "We regret to inform you that your submission has been declined",
+        "11"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q351",
+      "question": "Before creating a master document, you must switch to _________ ",
+      "options": [
+        "Normal View",
+        "Outline View",
+        "Web Layout View",
+        "Print Layout View"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q352",
+      "question": "Before moving a subdocument to another location within a master document, you must switch to _________",
+      "options": [
+        "Normal View",
+        "Outline View",
+        "Web Layout View",
+        "Print Layout View"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q353",
+      "question": "Which of the following can be used to navigate documents?",
+      "options": [
+        "frames",
+        "hyperlinks",
+        "web toolbar",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q354",
+      "question": "Which of the following symbol sets would be most likely to contain a mathematical symbol such as a degree sign, greater than or equal to, or a Greek letter?",
+      "options": [
+        "Wingdings",
+        "Wingdings 3",
+        "Webdings",
+        "Symbol"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q355",
+      "question": "The _____ on the right side of the menu bar lets users type free-form questions, such as how do I save, or terms, such as copy, and Word responds by displaying a list of topics related to the word or phrase entered.",
+      "options": [
+        "Type a question for help box",
+        "Question Mark button",
+        "What's this? command",
+        "Index sheet"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q356",
+      "question": "Selecting text means, selecting?",
+      "options": [
+        "a word",
+        "an entire sentence",
+        "whole document",
+        "any of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q357",
+      "question": "Which of the following is the latest version of MS Word?",
+      "options": [
+        "Word 2000",
+        "Word 2007",
+        "Word 2010",
+        "Word 2011"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q358",
+      "question": "Bold, Italic, Regular are known as",
+      "options": [
+        "font styles",
+        "font effects",
+        "word art",
+        "text effects"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q359",
+      "question": "Shimmer, Sparkle text, Blinking Background etc. are known as",
+      "options": [
+        "font styles",
+        "font effects",
+        "word art",
+        "text effects"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q360",
+      "question": "Superscript, subscript, outline, emboss, engrave are known as",
+      "options": [
+        "font styles",
+        "font effects",
+        "word art",
+        "text effects"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q361",
+      "question": "The main elements of the _____ are the insertion point, end mark, mouse pointer, rulers, scroll bars, and status bar.",
+      "options": [
+        "Word toolbar",
+        "Formatting toolbar",
+        "Word document window",
+        "Graphics toolbar"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q362",
+      "question": "MS-Word automatically moves the text to the next line when it reaches the right edge of the screen and is called?",
+      "options": [
+        "Carriage Return",
+        "Enter",
+        "Word Wrap",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q363",
+      "question": "Which of the following statement is false?",
+      "options": [
+        "You can set different header footer for even and odd pages",
+        "You can set different page number formats for different sections",
+        "You can set different header footer for first page of a section",
+        "You can set different header and footer for last page of a section"
+      ],
+      "correct_option": 4
+    }
+  ]
+}
