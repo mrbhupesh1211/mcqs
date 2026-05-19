@@ -1,0 +1,1106 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Microsoft Word Advanced MCQ - Section 3",
+  "questions": [
+    {
+      "id": "q201",
+      "question": "The ability to combine name and addresses with a standard document is called _________",
+      "options": [
+        "document formatting",
+        "database management",
+        "mail merge",
+        "form letters"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q202",
+      "question": "Which enables us to send the same letter to different persons?",
+      "options": [
+        "macros",
+        "template",
+        "mail merge",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q203",
+      "question": "A word processor would most likely be used to do",
+      "options": [
+        "keep an account of money spent",
+        "do a computer search in media center",
+        "maintain an inventory",
+        "type a biography"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q204",
+      "question": "What is gutter margin?",
+      "options": [
+        "Margin that is added to the left margin when printing",
+        "Margin that is added to right margin when printing",
+        "Margin that is added to the binding side of page when printing",
+        "Margin that is added to the outside of the page when printing"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q205",
+      "question": "Which can be used for quick access to commonly used commands and tools?",
+      "options": [
+        "Status bar",
+        "Tool bar",
+        "Menu bar",
+        "Title bar"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q206",
+      "question": "Which of the following is not essential component to perform a mail merge operation?",
+      "options": [
+        "Main document",
+        "Data source",
+        "Merge fields",
+        "Word fields"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q207",
+      "question": "When the Language bar is _____, it means that you do not see it on the screen but it will be displayed the next time you start your computer.",
+      "options": [
+        "restored",
+        "hidden",
+        "minimized",
+        "closed"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q208",
+      "question": "AutoCorrect was originally designed to replace _________ words as you type.",
+      "options": [
+        "short, repetitive",
+        "grammatically incorrect",
+        "misspelled",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q209",
+      "question": "Home Key",
+      "options": [
+        "Moves the cursor beginning of the document",
+        "Moves the cursor beginning of the paragraph",
+        "Moves the cursor beginning of the screen",
+        "Moves the cursor beginning of the line"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q210",
+      "question": "“Ctrl + Right Arrow” is used to",
+      "options": [
+        "Moves the cursor one word right",
+        "Moves the cursor end of the line",
+        "Moves the cursor end of the document",
+        "Moves the cursor one Paragraph down"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q211",
+      "question": "End Key",
+      "options": [
+        "Moves the cursor end of the line",
+        "Moves the cursor end of the document",
+        "Moves the cursor end of the paragraph",
+        "Moves the cursor end of the screen"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q212",
+      "question": "“Ctrl + PageDown” is used to",
+      "options": [
+        "Moves the cursor one Paragraph Down",
+        "Moves the cursor one Page Down",
+        "Moves the cursor one Line Down",
+        "Moves the cursor one Screen Down"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q213",
+      "question": "“Ctrl + Down Arrow” is used to",
+      "options": [
+        "Moves the cursor one paragraph down",
+        "Moves the cursor one line down",
+        "Moves the cursor one page down",
+        "Moves the cursor one screen down"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q214",
+      "question": "Page Up Key",
+      "options": [
+        "Moves the cursor one line up",
+        "Moves the cursor one screen up",
+        "Moves the cursor one page up",
+        "Moves the cursor one paragraph up"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q215",
+      "question": "“Ctrl + Left Arrow” is used to",
+      "options": [
+        "Moves the cursor beginning of the Line",
+        "Moves the cursor one word left",
+        "Moves the cursor one paragraph up",
+        "Moves the cursor one paragraph down"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q216",
+      "question": "Page Down Key",
+      "options": [
+        "Moves the cursor one line down",
+        "Moves the cursor one page down",
+        "Moves the cursor one screen down",
+        "Moves the cursor one paragraph down"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q217",
+      "question": "“Ctrl + PageUp” is used to",
+      "options": [
+        "Moves the cursor one Page Up",
+        "Moves the cursor one Paragraph Up",
+        "Moves the cursor one Screen Up",
+        "Moves the cursor one Line Up"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q218",
+      "question": "“Ctrl + Up Arrow” is used to",
+      "options": [
+        "Moves the cursor one page up",
+        "Moves the cursor one line up",
+        "Moves the cursor one screen up",
+        "Moves the cursor one paragraph up"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q219",
+      "question": "“Ctrl + Home” is used to",
+      "options": [
+        "Moves the cursor to the beginning of Document",
+        "Moves the cursor to the beginning of Line",
+        "Moves the cursor to the beginning of Paragraph",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q220",
+      "question": "“Ctrl + End” is used to",
+      "options": [
+        "Moves the cursor to the end of Line",
+        "Moves the cursor to the end of Document",
+        "Moves the cursor to the end of Paragraph",
+        "None of the Above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q221",
+      "question": "Which of the following are word processing software?",
+      "options": [
+        "WordPerfect",
+        "Easy Word",
+        "MS Word",
+        "All of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q222",
+      "question": "Which file starts MS Word?",
+      "options": [
+        "winword.exe",
+        "word.exe",
+        "msword.exe",
+        "word2003.exe"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q223",
+      "question": "Ctrl + N",
+      "options": [
+        "Save Document",
+        "Open Document",
+        "New Document",
+        "Close Document"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q224",
+      "question": "To exit from the Resume Wizard and return to the document window without creating a resume, click the _____ button in any panel in the Resume Wizard dialog box.",
+      "options": [
+        "Cancel",
+        "Back",
+        "Next",
+        "Finish"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q225",
+      "question": "What are inserted as cross-reference in Word?",
+      "options": [
+        "Placeholders",
+        "Bookmarks",
+        "Objects",
+        "Word fields"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q226",
+      "question": "Which of the following is not the Section Break Option?",
+      "options": [
+        "Next Page",
+        "Previous Page",
+        "Odd Page",
+        "Even Page"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q227",
+      "question": "Which of the following is not valid version of MS Office?",
+      "options": [
+        "Office XP",
+        "Office Vista",
+        "Office 2007",
+        "None of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q228",
+      "question": "By default, on which page the header or the footer is printed?",
+      "options": [
+        "on first page",
+        "on alternate page",
+        "on every page",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q229",
+      "question": "Where can you find the horizontal split bar on MS Word screen?",
+      "options": [
+        "On the left of horizontal scroll bar",
+        "On the right of horizontal scroll bar",
+        "On the top of vertical scroll bar",
+        "On the bottom of vertical scroll bar"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q230",
+      "question": "Ctrl + G",
+      "options": [
+        "Open Paragraph Dialog box activating Goto Tab",
+        "Open Page Setup Dialog box activating Goto Tab",
+        "Open Find and Replace Dialog box with activating Goto Tab",
+        "Open Goto Dialog box"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q231",
+      "question": "Ctrl + F",
+      "options": [
+        "Open Find and Replace Dialog box with activating Find Tab",
+        "Open Page Setup Dialog box with activating Layout Tab",
+        "Open Font Dialog Box with activating Font tab",
+        "Open File Save as Dialog box"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q232",
+      "question": "Ctrl + H",
+      "options": [
+        "Open Find and Replace Dialog box with activating Replace Tab",
+        "Open Format Dialog box activating Insert Hyper Link tab",
+        "Open Insert Dialog box activating Insert Hyper Link Tab",
+        "Open Insert Hyper Link Dialog box"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q233",
+      "question": "Ctrl + P",
+      "options": [
+        "Open Paragraph Dialog Box",
+        "Open Page Format Dialog Box",
+        "Open Save Dialog Box",
+        "Open Print Dialog box"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q234",
+      "question": "Ctrl + T",
+      "options": [
+        "Hanging Indent",
+        "Left Indent",
+        "Open Tabs Dialog box",
+        "Terminate all opened Dialog box"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q235",
+      "question": "When sharing data in Office, the ________ document is the document in which the data was first entered.",
+      "options": [
+        "source",
+        "destination",
+        "original",
+        "primary"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q236",
+      "question": "With which view can you see how text and graphics will appear on the printed page?",
+      "options": [
+        "Normal",
+        "Print Layout",
+        "Outline",
+        "Web Layout"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q237",
+      "question": "Portrait and Landscape are",
+      "options": [
+        "Page Orientation",
+        "Paper Size",
+        "Page Layout",
+        "All of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q238",
+      "question": "To verify that the note text is positioned correctly on the page, switch to _____ view or display the document in print preview.",
+      "options": [
+        "normal",
+        "print layout",
+        "page layout",
+        "page edit"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q239",
+      "question": "Which of the following is true regarding page Orientation of a Document?",
+      "options": [
+        "Page Orientation can be change at any time",
+        "Page Orientation of document determines by printer",
+        "Page Orientation must be set before start typing",
+        "Page Orientation of a document cannot be changed."
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q240",
+      "question": "Which feature helps you to inserts the contents of the Clipboard as text without any formatting",
+      "options": [
+        "Paste Special",
+        "Format Painter",
+        "Page Setup",
+        "Styles"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q241",
+      "question": "switching between portrait and landscape modes involves the:",
+      "options": [
+        "header and footer toolbar",
+        "print layout view",
+        "page setup dialog box",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q242",
+      "question": "Where can you change the vertical alignment?",
+      "options": [
+        "Formatting toolbar",
+        "Paragraph dialog box",
+        "Page Setup dialog box",
+        "Standard toolbar"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q243",
+      "question": "A _____ is a collection of predefined design elements and color schemes.",
+      "options": [
+        "feature",
+        "hyperlink",
+        "palette",
+        "theme"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q244",
+      "question": "Change the _____ to create a document in wide format",
+      "options": [
+        "Page Orientation",
+        "Page margins",
+        "Paper Style",
+        "Paper Source"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q245",
+      "question": "_____ formatting is the process of changing the way letters, numbers, punctuation marks, and symbols appear on the screen and in print.",
+      "options": [
+        "Document",
+        "Character",
+        "Paragraph",
+        "Object"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q246",
+      "question": "The Word Count command on the Tools menu displays the number of words as well as the number of _____ in the current document.",
+      "options": [
+        "lines",
+        "characters",
+        "paragraphs",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q247",
+      "question": "Which operation you will perform if you need to move a block of text?",
+      "options": [
+        "Copy and Paste",
+        "Cut and Paste",
+        "Paste and Delete",
+        "Paste and Cut"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q248",
+      "question": "Ctrl + V",
+      "options": [
+        "Paste Texts in the beginning of Document",
+        "Paste Images in the beginning of Document",
+        "Paste Tables at the middle of Document",
+        "None of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q249",
+      "question": "The _____, or typeface, defines the appearance and shape of letters, numbers, and special characters.",
+      "options": [
+        "font",
+        "font size",
+        "point",
+        "paragraph formatting"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q250",
+      "question": "Columns dialog box can be opened from",
+      "options": [
+        "Format menu Columns submenu",
+        "Double click on column space in ruler",
+        "Press Alt + O + C",
+        "All of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q251",
+      "question": "You can detect spelling and grammar errors by",
+      "options": [
+        "Press Shift + F7",
+        "Press Ctrl + F7",
+        "Press Alt+ F7",
+        "Press F7"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q252",
+      "question": "How can you break the current column and start a new column immediately?",
+      "options": [
+        "Press Ctrl + Shift + Enter",
+        "Press Alt + Enter",
+        "Press Ctrl + Enter",
+        "Press Alt + Shift + Enter"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q253",
+      "question": "How can you disable extended selection mode?",
+      "options": [
+        "Press F8 again to disable",
+        "Press Del to disable",
+        "Press Esc to disable",
+        "Press Enter to disable"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q254",
+      "question": "To instruct Word to stop bulleting paragraphs, do any of the following except _____.",
+      "options": [
+        "press the enter key twice",
+        "click the Undo button on the Standard toolbar",
+        "press the backspace key to remove the bullet",
+        "click the Bullets button on the Formatting toolbar"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q255",
+      "question": "Which of these toolbars allows changing of Fonts and their sizes?",
+      "options": [
+        "Standard",
+        "Formatting",
+        "Print Preview",
+        "None of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q256",
+      "question": "to view headers and footers, you must switch to",
+      "options": [
+        "normal view",
+        "print layout view",
+        "print preview mode",
+        "both B and C"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q257",
+      "question": "Ctrl + C",
+      "options": [
+        "Copy the selected text",
+        "Cut the selected text",
+        "Print the selected text",
+        "Paste the selected text"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q258",
+      "question": "Ctrl + Q",
+      "options": [
+        "Paragraph formatting (Line Space and Paragraph Space)",
+        "Close Word Application without saving Document",
+        "Print Whole Document without confirmation",
+        "Does nothing"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q259",
+      "question": "Background color or effects applied on a document is not visible in",
+      "options": [
+        "Web layout view",
+        "Print Layout view",
+        "Reading View",
+        "Print Preview"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q260",
+      "question": "Ctrl + R",
+      "options": [
+        "Re-Open the last closed document",
+        "Re-Print the last printed page",
+        "Re-Apply the last paragraph formatting",
+        "Right align the selected Paragraph"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q261",
+      "question": "When Word flags a possible spelling or grammar error, it also changes the mark on the Spelling and Grammar Status icon to a _____.",
+      "options": [
+        "green X",
+        "green check mark",
+        "red X",
+        "red check mark"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q262",
+      "question": "Which of the following is not a font style?",
+      "options": [
+        "Bold",
+        "Italics",
+        "Regular",
+        "Superscript"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q263",
+      "question": "The other Col# are inactive when you’ve select 3 columns. How will you activate those boxes?",
+      "options": [
+        "double click on spacing box",
+        "double click on inactive Col#",
+        "Remove mark from Line between checkbox",
+        "Remove mark from Equal Column Width check box"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q264",
+      "question": "From where you can access Save command?",
+      "options": [
+        "Home tab",
+        "Insert tab",
+        "Review tab",
+        "None of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q265",
+      "question": "How can you remove tab stop markers from ruler?",
+      "options": [
+        "Double click the tab marker and choose Remove Tabs",
+        "Drag the tab stop marker out of the ruler",
+        "Right click the tab stop marker and choose remove",
+        "All of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q266",
+      "question": "Ctrl + M",
+      "options": [
+        "New Document",
+        "Close Document",
+        "Right Indent",
+        "Left Indent"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q267",
+      "question": "Which of the following is not available on the Ruler of MS Word screen?",
+      "options": [
+        "Tab stop box",
+        "Left Indent",
+        "Right Indent",
+        "Center Indent"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q268",
+      "question": "In Word, the default alignment for paragraphs is _____.",
+      "options": [
+        "left-aligned, or flush margins at the left edge and uneven edges at the right edge",
+        "centered, or equidistant from both the left edge and the right edge",
+        "right-aligned, or flush margins at the right edge and uneven edges at the left edge",
+        "justified, or flush margins at both the left and right edges"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q269",
+      "question": "In MS Word, Ctrl+S is for …..",
+      "options": [
+        "Scenarios",
+        "Size",
+        "Save",
+        "Spelling Check"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q270",
+      "question": "Ctrl + W",
+      "options": [
+        "Save and Print the Document",
+        "Save and Close Word Application",
+        "Save and Close document",
+        "Without Save, Close Document"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q271",
+      "question": "The key F12 opens a",
+      "options": [
+        "Save As dialog box",
+        "Open dialog box",
+        "Save dialog box",
+        "Close dialog box"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q272",
+      "question": "Ctrl + I",
+      "options": [
+        "Italic",
+        "Left Indent",
+        "Save Document",
+        "Close Document"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q273",
+      "question": "Ctrl + S",
+      "options": [
+        "Save Document with different name",
+        "Save Document with same name",
+        "Save Document and Close Word Application",
+        "Save Document and Print whole Pages"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q274",
+      "question": "If you will be displaying or printing your document on another computer, you’ll want to make sure and select the _____________ option under the ‘Save’ tab.",
+      "options": [
+        "Embed Fonts",
+        "Embed True Type Fonts",
+        "Save True Type Fonts",
+        "Save Fonts"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q275",
+      "question": "Ctrl + J",
+      "options": [
+        "Align Justify",
+        "Insert Hyperlink",
+        "Search",
+        "Print"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q276",
+      "question": "What is a portion of a document in which you set certain page formatting options?",
+      "options": [
+        "Page",
+        "Document",
+        "Section",
+        "Page Setup"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q277",
+      "question": "If you need to double underline a word, how will you do that?",
+      "options": [
+        "Go to Format menu and then Font option. Open Underline Style and choose Double Underline",
+        "From Format menu choose Font option and then from Font tab open Underline Style and select Double Underline",
+        "Select the text then choose Format >> Font and on Font tab, open Underline Style and choose Double Underline",
+        "Click double underline tool on formatting toolbar"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q278",
+      "question": "How can you apply exactly the same formatting you did to another text?",
+      "options": [
+        "Copy the text and paste in new location. Then type the new text again.",
+        "Copy the text and click on Paste Special tool on new place",
+        "Select the text then click on Format Painter and select the new text",
+        "All of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q279",
+      "question": "Which of the following is not one of the three ‘Mail Merge Helper’ steps?",
+      "options": [
+        "merge the two files",
+        "create the main document",
+        "set the mailing list parameters",
+        "create the data source"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q280",
+      "question": "To select a block of text, click at the beginning of the selection, scroll to the end of the selection, position the mouse pointer at the end of the selection, hold down the _____ key, and then click (or drag through the text).",
+      "options": [
+        "ctrl",
+        "alt",
+        "shift",
+        "tab"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q281",
+      "question": "What is the shortcut-key for manual line break?",
+      "options": [
+        "CTRL + Enter",
+        "Alt + Enter",
+        "Shift + Enter",
+        "Space + Enter"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q282",
+      "question": "Which key should be pressed to start a new paragraph in MS-Word?",
+      "options": [
+        "Down Cursor Key",
+        "Enter Key",
+        "Shift + Enter",
+        "Ctrl + Enter"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q283",
+      "question": "What is the shortcut key to display field codes?",
+      "options": [
+        "Alt + F9",
+        "Ctrl + F9",
+        "Shift + F9",
+        "Space + F9"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q284",
+      "question": "To use your keyboard instead of the mouse to select tools on the ribbon, you display the KeyTips by pressing the _____________key?",
+      "options": [
+        "Alt",
+        "Ctrl",
+        "Shift+Enter",
+        "Alt+Enter"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q285",
+      "question": "Press _____ to create a line break, which advances the insertion point to the beginning of the next physical line – ignoring any paragraph formatting instructions.",
+      "options": [
+        "shift+enter",
+        "ctrl+enter",
+        "shift+tab",
+        "ctrl+tab"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q286",
+      "question": "A word field may consist of an optional field instruction called a(n) ______",
+      "options": [
+        "subdocument",
+        "symbol",
+        "signal",
+        "switch"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q287",
+      "question": "Essential business letter elements include the _____.",
+      "options": [
+        "date line and inside address",
+        "message",
+        "signature block",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q288",
+      "question": "Which of the following helps to reduce spelling error in the document?",
+      "options": [
+        "Auto Format",
+        "Auto Correct",
+        "Smart Tags",
+        "Auto Text"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q289",
+      "question": "It is possible to _______ a data source before performing a merge.",
+      "options": [
+        "create",
+        "modify",
+        "sort",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q290",
+      "question": "Word has Web authoring tools allow you to incorporate _____ on Web pages.",
+      "options": [
+        "bullets",
+        "hyperlinks",
+        "sounds",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q291",
+      "question": "When typing in Preeti font all the Ukars turn to something else? What’s the cause?",
+      "options": [
+        "Autotext",
+        "Autocorrect",
+        "Speller",
+        "Preeti font does not work with Word"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q292",
+      "question": "Which of the following commands should you always use before submitting a document to others?",
+      "options": [
+        "find command",
+        "Replace command",
+        "Spelling and Grammar",
+        "Thesaurus"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q293",
+      "question": "What is placed to the left of horizontal scroll bar",
+      "options": [
+        "Tab stop buttons",
+        "View buttons",
+        "Split buttons",
+        "Indicators"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q294",
+      "question": "Insert Date, Format Page Number, and Insert AutoText are buttons on the _____ toolbar.",
+      "options": [
+        "Formatting",
+        "Header and Footer",
+        "Standard",
+        "Edit"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q295",
+      "question": "Which of the following do you use to change margins?",
+      "options": [
+        "formatting toolbar",
+        "page setup dialog box",
+        "Standard toolbar",
+        "paragraph dialog box"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q296",
+      "question": "In order to email a Word document from within MS Word",
+      "options": [
+        "Office button >> Send to >> Mail Recipient",
+        "Save the file as an email attachment",
+        "Start Outlook and attach the file while open in Word",
+        "This is an impossible operation"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q297",
+      "question": "A screen element of MS Word that is usually located below the title bar that provides categorized options is",
+      "options": [
+        "Menu bar",
+        "Tool Bar",
+        "Status Bar",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q298",
+      "question": "In Word 2007 the Zoom is placed on",
+      "options": [
+        "View tab",
+        "Home tab",
+        "Status bar",
+        "A & C both"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q299",
+      "question": "The _____ is a short horizontal line indicating the conclusion of a document.",
+      "options": [
+        "insertion point",
+        "end mark",
+        "status indicator",
+        "scroll box"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q300",
+      "question": "Small squares, called _____, on the selection rectangle that surrounds a graphic can be used to change the dimensions of the graphic.",
+      "options": [
+        "scroll boxes",
+        "sizing handles",
+        "status indicators",
+        "move handles"
+      ],
+      "correct_option": 2
+    }
+  ]
+}
