@@ -1,0 +1,912 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "MS Word MCQs",
+
+  "questions": [
+    {
+      "id": "q1",
+      "question": "How many different positions can you set for drop cap?",
+      "options": ["1", "2", "4", "6"],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "How many ways you can save a document?",
+      "options": ["3", "4", "5", "6"],
+      "correct_option": 0
+    },
+    {
+      "id": "q3",
+      "question": "What is the maximum number of lines you can set for lines to drop box?",
+      "options": ["3", "5", "10", "15"],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "Single spacing in MS-WORD document causes ____ point line spacing?",
+      "options": ["10", "12", "14", "16"],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "What is the default number of lines to drop for drop cap?",
+      "options": ["3", "10", "15", "20"],
+      "correct_option": 0
+    },
+    {
+      "id": "q6",
+      "question": "What is the maximum number of lines you can set for a drop cap?",
+      "options": ["3", "10", "15", "20"],
+      "correct_option": 1
+    },
+    {
+      "id": "q7",
+      "question": "How many columns can you insert in a word document in maximum?",
+      "options": ["35", "45", "55", "65"],
+      "correct_option": 3
+    },
+    {
+      "id": "q8",
+      "question": "In a document what is the maximum number of columns that can be inserted in MS Word Table?",
+      "options": ["35", "15", "63", "65"],
+      "correct_option": 2
+    },
+    {
+      "id": "q9",
+      "question": "What is the maximum scale percentage available in Scale drop down box?",
+      "options": ["500", "200", "100", "90"],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "What is the maximum font size you can apply for any character?",
+      "options": ["163", "1638", "16038", "None of above"],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "Word, by default, places a tab stop at every _____ mark on the ruler.",
+      "options": [".25″", ".5″", ".75″", "1″"],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "What is the default file extension for all Word documents?",
+      "options": [".txts", ".word", ".docs", ".docx"],
+      "correct_option": 3
+    },
+    {
+      "id": "q13",
+      "question": "The file type _____ indicates the file is a Word document.",
+      "options": [".msw", ".wor", ".wrd", ".doc"],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "With Word’s AutoCorrect entries, to display an indifferent face (😐) type _____.",
+      "options": [":)", ":(", ":|", ":/"],
+      "correct_option": 2
+    },
+    {
+      "id": "q15",
+      "question": "Which button allows you to add, delete, or change records in your Data Source?",
+      "options": ["Data Source button", "Edit button", "Edit Data Source button", "Data Editing button"],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "How much space in minimum must be provided between columns?",
+      "options": ["0″", "0.5″", "1″", "1.5″"],
+      "correct_option": 0
+    },
+    {
+      "id": "q17",
+      "question": "What is the smallest width of a column?",
+      "options": ["0″", "0.5″", "1″", "1.5″"],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "By default, your document prints with:",
+      "options": [
+        "1 inch top and bottom margins",
+        "a portrait orientation",
+        "1.25 inches left and right margins",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q19",
+      "question": "Word is preset to use standard 8.5-by-11-inch paper with _____ margins.",
+      "options": [
+        "1-inch all sides",
+        "1.25-inch all sides",
+        "1.25-inch left/right and 1-inch top/bottom",
+        "1-inch left/right and 1.25-inch top/bottom"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "What is the default left margin in Word 2003 document?",
+      "options": ["1″", "1.25″", "1.5″", "2″"],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "What is the smallest and largest font size available in Font Size tool?",
+      "options": ["8 and 72", "8 and 64", "12 and 72", "None of above"],
+      "correct_option": 0
+    },
+    {
+      "id": "q22",
+      "question": "The Footnote Text style defines characters as _____.",
+      "options": [
+        "12pt TNR, single-spaced, right aligned",
+        "10pt TNR, double-spaced, left aligned",
+        "12pt TNR, double-spaced, right aligned",
+        "10pt TNR, single-spaced, left aligned"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "Default font size in Word 2003 Normal template?",
+      "options": ["10 pt", "12 pt", "14 pt", "None of above"],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "Minimum number of rows and columns in MS Word table is:",
+      "options": ["1 and 1", "2 and 1", "2 and 2", "None of above"],
+      "correct_option": 0
+    },
+    {
+      "id": "q25",
+      "question": "Repeated word is indicated by:",
+      "options": [
+        "Red wavy line",
+        "Green wavy line",
+        "Blue wavy line",
+        "None of the above"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q26",
+      "question": "In mail merge, main document might be:",
+      "options": ["Sales brochure", "Form letter", "Database", "All of above"],
+      "correct_option": 0
+    },
+    {
+      "id": "q27",
+      "question": "Pressing F8 key for three times selects:",
+      "options": ["word", "sentence", "paragraph", "entire document"],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Collection of formatting commands is called:",
+      "options": ["defaults", "template", "style", "boilerplate"],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "Document Outline View is:",
+      "options": [
+        "full screen preview",
+        "preview with margins",
+        "view with gutter",
+        "structure of headings"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "Ctrl + Z does:",
+      "options": ["Undo", "Redo", "New page", "Paste"],
+      "correct_option": 0
+    },
+    {
+      "id": "q31",
+      "question": "Resume Wizard ready stage is:",
+      "options": ["Start panel", "Address panel", "Heading panel", "Finish panel"],
+      "correct_option": 3
+    },
+    {
+      "id": "q32",
+      "question": "Ctrl + = does:",
+      "options": ["Superscript", "Subscript", "All caps", "Shadow"],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "Spike feature is used to:",
+      "options": [
+        "Combine text from multiple documents",
+        "Edit AutoText",
+        "Format AutoText",
+        "All of above"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q34",
+      "question": "Word wrap feature:",
+      "options": [
+        "Moves text to next line",
+        "Appears at bottom",
+        "Allows overwrite",
+        "Horizontal line"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q35",
+      "question": "Superscript shortcut is:",
+      "options": ["Ctrl + =", "Ctrl + Shift + =", "Alt + Ctrl + Shift + =", "None"],
+      "correct_option": 1
+    },
+    {
+      "id": "q36",
+      "question": "Field braces are inserted using:",
+      "options": ["Ctrl + F6", "Ctrl + F9", "Alt + F11", "Shift + F12"],
+      "correct_option": 1
+    },
+    {
+      "id": "q37",
+      "question": "Open dialog shortcut is:",
+      "options": ["F12", "Shift F12", "Alt + F12", "Ctrl + F12"],
+      "correct_option": 3
+    },
+    {
+      "id": "q38",
+      "question": "Shortcut to split a table:",
+      "options": [
+        "Ctrl + Alt + Enter",
+        "Ctrl + Shift + Enter",
+        "Alt + Shift + Enter",
+        "Alt + Space + Enter"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "Increase left indent key:",
+      "options": ["Ctrl+I", "Ctrl+M", "Alt+I", "F10"],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "Thesaurus is used for:",
+      "options": ["synonym", "homonym", "antonym", "metronym"],
+      "correct_option": 0
+    },
+    {
+      "id": "q41",
+      "question": "How many different documents you can open at one time?",
+      "options": [
+        "No more than three",
+        "Only one",
+        "As many as your computer memory will hold",
+        "As many as your taskbar can display"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q42",
+      "question": "Which is the second step in creating a macro?",
+      "options": [
+        "Start recording",
+        "Perform the task",
+        "Assign shortcut",
+        "Give macro a name"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "When assigning a shortcut key to a symbol, you should select a key that is:",
+      "options": [
+        "unassigned",
+        "on numpad",
+        "assigned to another task",
+        "same font family"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q44",
+      "question": "Which feature replaces straight quotes with smart quotes?",
+      "options": [
+        "Auto Correct",
+        "Auto Change",
+        "Auto Format",
+        "Smart Tags"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q45",
+      "question": "Which command is not available in Tools menu?",
+      "options": [
+        "Auto text",
+        "Autocorrect",
+        "Auto summarize",
+        "Macro"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q46",
+      "question": "Word detects and corrects errors using:",
+      "options": [
+        "AutoEntry",
+        "AutoCorrect",
+        "AutoAdd",
+        "AutoSpell"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "How to convert text or symbol into AutoCorrect entry?",
+      "options": [
+        "Select text and open AutoCorrect dialog",
+        "Use Insert menu only",
+        "Not possible",
+        "Use Paste Special only"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q48",
+      "question": "Which option is not available in Insert Table Autofit behavior?",
+      "options": [
+        "Fixed Column Width",
+        "AutoFit to Contents",
+        "Autofit to Window",
+        "Autofit to Column"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q49",
+      "question": "File menu in Word 2010 opens:",
+      "options": [
+        "File menu",
+        "File Commands",
+        "Backstage View",
+        "Ribbon"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q50",
+      "question": "Tab stop alignment that is NOT possible:",
+      "options": [
+        "Decimal",
+        "Center",
+        "Bar",
+        "Justify"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q51",
+      "question": "Different fonts appear at school because:",
+      "options": [
+        "Printer difference",
+        "Monitor difference",
+        "Font not installed",
+        "Windows version"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q52",
+      "question": "Ctrl + B does:",
+      "options": [
+        "Search text",
+        "Paste text",
+        "Bold text",
+        "Open file"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q53",
+      "question": "Master document contains:",
+      "options": [
+        "Placeholders",
+        "Subdocuments",
+        "Bookmarks",
+        "References"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q54",
+      "question": "If columns = 1 and line between is checked, line appears:",
+      "options": [
+        "Left margin",
+        "Right margin",
+        "Both margins",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q55",
+      "question": "Auto-save feature is found in:",
+      "options": [
+        "Save tab in Options",
+        "Save As dialog",
+        "Both",
+        "None"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q56",
+      "question": "To quickly switch to footer after header:",
+      "options": [
+        "PageDown",
+        "Switch button",
+        "Both",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q57",
+      "question": "Move cursor page to page:",
+      "options": [
+        "Ctrl+PgDn",
+        "Ctrl+PgUp",
+        "Both",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q58",
+      "question": "Jump to next column:",
+      "options": [
+        "Mouse click",
+        "Alt + Down Arrow",
+        "Both",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q59",
+      "question": "Paste multiple times enabled by:",
+      "options": [
+        "Windows Clipboard",
+        "Office Clipboard",
+        "Both",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q60",
+      "question": "Break column using:",
+      "options": [
+        "Ctrl+Enter",
+        "Alt+Shift+Enter",
+        "Insert Break",
+        "Both b and c"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q61",
+      "question": "Force page break using:",
+      "options": [
+        "F1",
+        "Insert section break",
+        "Ctrl+Enter",
+        "Font size change"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q62",
+      "question": "Increase font size by 1 point:",
+      "options": [
+        "Ctrl + ]",
+        "Ctrl + [",
+        "Ctrl + }",
+        "Ctrl + {"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q63",
+      "question": "Format Painter multiple use:",
+      "options": [
+        "Lock icon click",
+        "Double click icon",
+        "Edit menu",
+        "Not possible"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q64",
+      "question": "Default font in Word 2007:",
+      "options": [
+        "Times New Roman",
+        "Arial",
+        "Calibri",
+        "Preeti"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q65",
+      "question": "Predefined graphics in Word are:",
+      "options": [
+        "Clip art",
+        "Hyperlinks",
+        "Captions",
+        "Bookmarks"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q66",
+      "question": "Dot or symbol at start of paragraph is:",
+      "options": [
+        "Bullet",
+        "Logo",
+        "Cell",
+        "Target"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q67",
+      "question": "Not a page margin type:",
+      "options": [
+        "Left",
+        "Right",
+        "Center",
+        "Top"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q68",
+      "question": "Difference between Change Case and All Caps:",
+      "options": [
+        "Same",
+        "Speed difference",
+        "Change Case is reversible, All Caps is not",
+        "All Caps is permanent"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q69",
+      "question": "Ctrl + A does:",
+      "options": [
+        "Align right",
+        "Select all",
+        "Change font",
+        "Save"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q70",
+      "question": "Not on Home ribbon:",
+      "options": [
+        "Columns",
+        "Font color",
+        "Change style",
+        "Font"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q71",
+      "question": "AutoFormat with --- creates:",
+      "options": [
+        "Border above paragraph",
+        "Numbered list",
+        "Em dash",
+        "Bullets"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q72",
+      "question": "MS Word is:",
+      "options": [
+        "Memory area",
+        "Small text program",
+        "Password tool",
+        "Full-featured word processor"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q73",
+      "question": "Ctrl + E does:",
+      "options": [
+        "Exit",
+        "Select all",
+        "Clear",
+        "Align center"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q74",
+      "question": "Custom tab stop behavior:",
+      "options": [
+        "Clears all tabs",
+        "Clears right tabs",
+        "Clears left tabs",
+        "Does not clear any"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q75",
+      "question": "Page number formatting is changed via:",
+      "options": [
+        "Bullets menu",
+        "Insert menu only",
+        "Page number format tool",
+        "All of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q76",
+      "question": "Close document without closing Word:",
+      "options": [
+        "Title bar close",
+        "Minimize",
+        "Close command",
+        "Exit"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q77",
+      "question": "Insert/overtype mode switch:",
+      "options": [
+        "Caption",
+        "OVR status indicator",
+        "Text box",
+        "INS status indicator"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q78",
+      "question": "Format Painter multiple use:",
+      "options": [
+        "Alt key",
+        "Double click",
+        "Ctrl key",
+        "All of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q79",
+      "question": "Save with new name:",
+      "options": [
+        "Ctrl+S",
+        "Save",
+        "Options",
+        "Save As"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q80",
+      "question": "Cannot close MS Word using:",
+      "options": [
+        "Exit menu",
+        "Alt+F4",
+        "X button",
+        "Close submenu"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q81",
+      "question": "Not in Insert Picture:",
+      "options": [
+        "Chart",
+        "WordArt",
+        "Clip Art",
+        "Graph"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q82",
+      "question": "File menu option to close file:",
+      "options": [
+        "New",
+        "Quit",
+        "Close",
+        "Exit"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q83",
+      "question": "Ctrl + O does:",
+      "options": [
+        "Save",
+        "Print",
+        "Close",
+        "Open"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q84",
+      "question": "Newspaper-like document feature:",
+      "options": [
+        "Bullets",
+        "Tables",
+        "Columns",
+        "Tabs"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q85",
+      "question": "Toolbar contains:",
+      "options": [
+        "Format bar",
+        "Status bar",
+        "Command bar",
+        "Toolbar"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q86",
+      "question": "Letterhead should NOT contain:",
+      "options": [
+        "Address",
+        "Logo",
+        "Legal name",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q87",
+      "question": "Not a font spacing type:",
+      "options": [
+        "Normal",
+        "Loosely",
+        "Condensed",
+        "Expanded"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q88",
+      "question": "Remove hyperlink option:",
+      "options": [
+        "Edit Hyperlink",
+        "Select Hyperlink",
+        "Convert Hyperlink",
+        "Remove Hyperlink"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q89",
+      "question": "Move directly in document:",
+      "options": [
+        "Subdocuments",
+        "Bookmarks",
+        "Cross references",
+        "Outlines"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q90",
+      "question": "Pressing ENTER carries formatting to next paragraph:",
+      "options": [
+        "Enter",
+        "Shift",
+        "Ctrl",
+        "Alt"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q91",
+      "question": "Copyright shortcut:",
+      "options": [
+        "Alt+Ctrl+C",
+        "Alt+C",
+        "Ctrl+C",
+        "Ctrl+Shift+C"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": "q92",
+      "question": "Font dialog shortcut:",
+      "options": [
+        "Ctrl+F",
+        "Alt+Ctrl+F",
+        "Ctrl+D",
+        "Ctrl+Shift+D"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q93",
+      "question": "Center align shortcut:",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+E",
+        "Ctrl+F",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q94",
+      "question": "Spelling check shortcut:",
+      "options": ["F7", "Shift+F7", "Ctrl+F7", "Alt+F7"],
+      "correct_option": 0
+    },
+    {
+      "id": "q95",
+      "question": "Update formula shortcut:",
+      "options": ["F9", "Alt+F9", "Ctrl+F9", "Shift+F9"],
+      "correct_option": 0
+    },
+    {
+      "id": "q96",
+      "question": "Font dialog shortcut:",
+      "options": ["Ctrl+F", "Ctrl+D", "Ctrl+G", "None"],
+      "correct_option": 1
+    },
+    {
+      "id": "q97",
+      "question": "Find and Replace shortcut:",
+      "options": ["Ctrl+F", "Ctrl+R", "Ctrl+H", "Ctrl+Shift+F"],
+      "correct_option": 2
+    },
+    {
+      "id": "q98",
+      "question": "Insert hyperlink shortcut:",
+      "options": ["Ctrl+H", "Ctrl+L", "Ctrl+K", "None"],
+      "correct_option": 2
+    },
+    {
+      "id": "q99",
+      "question": "Font size tool shortcut:",
+      "options": ["Ctrl+S", "Ctrl+Shift+S", "Ctrl+P", "Ctrl+Shift+P"],
+      "correct_option": 3
+    },
+    {
+      "id": "q100",
+      "question": "Subscript shortcut:",
+      "options": ["Ctrl+=", "Ctrl+-", "Ctrl+Shift+=", "Ctrl+Shift+-"],
+      "correct_option": 0
+    }
+  ]
+}
