@@ -1,166 +1,1766 @@
 {
   "schema_version": "1.0",
-  "quiz_title": "Computer Memory and Storage - MCQ",
+  "quiz_title": "Computer Fundamentals MCQ - Memory and Storage Devices",
   "questions": [
-    {"id":"q1","question":"1000 milliseconds = ___ second.","options":["1","0.1","0.01","None"],"correct_option":0},
-    {"id":"q2","question":"Which is the latest filing system of Disk?","options":["FAT 32","FAT 64","NTFS","NTFS-64"],"correct_option":2},
-    {"id":"q3","question":"Which disk storage uses both a magnet and a laser beam?","options":["Floppy disk","BluRay Disk","MO Disk","WORM"],"correct_option":2},
-    {"id":"q4","question":"A magnetized spot on a magnetic disk or magnetic tape represents...","options":["Block","Sector","Zone","Bit"],"correct_option":3},
-    {"id":"q5","question":"Which is an auxiliary storage device?","options":["Hard disk","Magnetic tape","Compact disk","All"],"correct_option":3},
-    {"id":"q6","question":"Which is NOT a massive storage device?","options":["Floppy disk","Hard disk","Compact disk","Magnetic tape"],"correct_option":0},
-    {"id":"q7","question":"Which memory is non-volatile?","options":["Virtual Memory","Cache Memory","Main Memory","Floppy disk"],"correct_option":3},
-    {"id":"q8","question":"Which is also known as permanent memory?","options":["RAM","EEPROM","ROM","Hard disk"],"correct_option":3},
-    {"id":"q9","question":"Which is a massive storage device?","options":["Hard disk","Memory Card","DVD","All"],"correct_option":3},
-    {"id":"q10","question":"The term Megabyte is equal to...","options":["103 KBs","1024 KBs","2^10 KBs","All"],"correct_option":3},
-    {"id":"q11","question":"EPROM can be used for...","options":["Reconstructing the contents of ROM","Erasing and reconstructing the contents of ROM","Erasing the contents of ROM","Duplicating ROM"],"correct_option":1},
-    {"id":"q12","question":"Memory unit is one part of...","options":["CPU","Input Device","Output Device","Control Unit"],"correct_option":0},
-    {"id":"q13","question":"Which technology is used in Compact Disks?","options":["Electronic","Mechanical","Laser","Electro Magnetic"],"correct_option":2},
-    {"id":"q14","question":"Size of the primary memory of a PC ranges between...","options":["2KB to 8KB","256KB and 640KB","64KB and 256KB","None of these"],"correct_option":1},
-    {"id":"q15","question":"Which of the following devices have a limitation that you can only store information but cannot erase or modify it?","options":["Floppy disk","Hard disk","CDROM","Tape drive"],"correct_option":2},
-    {"id":"q16","question":"Which of the following is NOT a valid size of a Floppy disk?","options":["5 1/2 inch","8 inch","5 1/4 inch","3 1/2 inch"],"correct_option":0},
-    {"id":"q17","question":"Memory is made up of...","options":["Large number of cells","Set of wires","Set of circuits","All of These"],"correct_option":0},
-    {"id":"q18","question":"Which of the following is a storage device?","options":["Magnetic Tape","Hard disk","Floppy disk","All of the above"],"correct_option":3},
-    {"id":"q19","question":"A normal CDROM usually can store up to how much data?","options":["680MB","680 Bytes","680KB","680GB"],"correct_option":0},
-    {"id":"q20","question":"Which statement is valid?","options":["1 MB = 1024 bytes","1 KB = 8 bytes","1 KB = 8 KB","1 KB = 1024 bytes"],"correct_option":3},
-    {"id":"q21","question":"Which device is used to process data?","options":["RAM","DCU","VDU","CPU"],"correct_option":2},
-    {"id":"q22","question":"Which of the following device can store large amounts of data?","options":["Hard Disk","Floppy disk","CDROM","ZIP Disk"],"correct_option":0},
-    {"id":"q23","question":"Which of the following is handy to carry yet can store large amounts of data?","options":["Floppy disk","Zip disk","Hard disk","CDROM"],"correct_option":1},
-    {"id":"q24","question":"Which of the following is NOT a valid capacity of a floppy disk?","options":["1.24MB","720KB","1.44 MB","360KB"],"correct_option":0},
-    {"id":"q25","question":"Data is stored in a computer as...","options":["Directories","Files","Floppies","Matter"],"correct_option":1},
-    {"id":"q26","question":"Which technology is used in a CDROM Drive?","options":["Optical","Mechanical","Electromechanical","Fiber Optical"],"correct_option":0},
-    {"id":"q27","question":"Which of the following is NOT a valid storage medium?","options":["Zip disk","Hard disk","Floppy disk","None"],"correct_option":3},
-    {"id":"q28","question":"Which of the following is NOT a valid memory?","options":["ROM","NIC","EEPROM","RAM"],"correct_option":1},
-    {"id":"q29","question":"1KB is equal to...","options":["1024 bytes","100 bytes","1000 bytes","1048 bytes"],"correct_option":0},
-    {"id":"q30","question":"Which is a semi-conductor memory?","options":["Bubble","Dynamic","Static","Both Dynamic and Static"],"correct_option":3},
-    {"id":"q31","question":"Which is a volatile memory?","options":["RAM","BIOS","ROM","PROM"],"correct_option":0},
-    {"id":"q32","question":"What is the capacity of a 3.5 inch Floppy disk?","options":["1.44MB","720KB","1.2MB","360KB"],"correct_option":0},
-    {"id":"q33","question":"What is the full form of RAM?","options":["Random access memory","Read access memory","Rapid access memory","None"],"correct_option":0},
-    {"id":"q34","question":"Floppy Disk Drives were first introduced by which computer manufacturer?","options":["Sony","IBM","Panasonic","Compaq"],"correct_option":1},
-    {"id":"q35","question":"Floppy disk drives were originally designed by...","options":["IBM","Samsung","Sony","Panasonic"],"correct_option":2},
-    {"id":"q36","question":"Which of the following companies is a leader in manufacture of Hard disk drives?","options":["Samsung","IBM","Seagate","Fujitsu"],"correct_option":2},
-    {"id":"q37","question":"Which of the memories below is often used in a typical computer operation?","options":["ROM","FDD","RAM","HDD"],"correct_option":0},
-    {"id":"q38","question":"Time taken to move from one cylinder of a HDD to another is called...","options":["Average seek time","Transfer rate","Latency","Roundtrip time"],"correct_option":0},
-    {"id":"q39","question":"Which of the following RAM types have to be refreshed often in order to retain its contents?","options":["DIMM","SIMM","SDMM","DSMM"],"correct_option":0},
-    {"id":"q40","question":"The program which is as permanent as hardware and stored in ROM is known as...","options":["Firmware","Hardware","Software","ROM ware"],"correct_option":0},
-    {"id":"q41","question":"MOS stands for...","options":["Most Often","Method Organized","Metal Oxide Semiconductor","None"],"correct_option":2},
-    {"id":"q42","question":"Which storage device is mounted on 'reels'?","options":["Magnetic tapes","Floppy disk","CD-ROM","Hard disk"],"correct_option":0},
-    {"id":"q43","question":"Which of the following statements is true?","options":["Cache memories are bigger than RAM","ROM is faster than RAM","Cache memories are smaller than RAM","Information in ROM can be written by users"],"correct_option":2},
-    {"id":"q44","question":"BIOS is the abbreviation of...","options":["Basic Input Output Symbol","Basic Input Output System","Best Input Output System","Base Input Output System"],"correct_option":1},
-    {"id":"q45","question":"Programs stored in ROM are called...","options":["Hardware","Software","Firmware","None"],"correct_option":2},
-    {"id":"q46","question":"Information stored in ________ is lost as soon as the power is cut.","options":["PROM","ROM","RAM","BIOS"],"correct_option":2},
-    {"id":"q47","question":"SCSI is a term related with...","options":["Network Data Transfer","Storage","Keystroke Rate","Picture resolution"],"correct_option":1},
-    {"id":"q48","question":"How many write cycles are allowed to a RAM?","options":["1","10","100","1000"],"correct_option":0},
-    {"id":"q49","question":"How many write cycles are allowed to an EEPROM?","options":["1000","10","1000","1"],"correct_option":0},
-    {"id":"q50","question":"WORM stands for?","options":["Write Once Read Memory","Wanted Once Read Memory","Wanted Original Read Memory","Write Original Read Memory"],"correct_option":0},
-    {"id":"q51","question":"Which of the following is a Temporary Primary Memory?","options":["ROM","PROM","RAM","EPROM"],"correct_option":2},
-    {"id":"q52","question":"Which of the following can hold maximum data?","options":["Optical Disk","Floppy Disk","Magnetic Disk","Magnetic Tape"],"correct_option":3},
-    {"id":"q53","question":"Data is stored in a Computer as?","options":["Directories","Files","Floppies","Matter"],"correct_option":1},
-    {"id":"q54","question":"MOS stands for?","options":["Most Often Stored","Metal Oxide Semiconductor","Method Organized Stack","Method Oxide Stack"],"correct_option":1},
-    {"id":"q55","question":"Memory unit is a part of ______","options":["Input Device","Control Unit","Output Device","Central Processing Unit"],"correct_option":3},
-    {"id":"q56","question":"RAM stands for...","options":["Real Available Memory","Random Access Memory","Read All Memory","Readily Available Memory"],"correct_option":1},
-    {"id":"q57","question":"Which is the smallest unit of hard disk that is used to store data?","options":["Cluster","Track","Sector","Cylinder"],"correct_option":2},
-    {"id":"q58","question":"ROM stands for?","options":["Read Only Memory","Real Onto Memory","Read Once Memory","Real One Memory"],"correct_option":0},
-    {"id":"q59","question":"PROM stands for?","options":["Programme Read Only Memory","Programmable Read Only Memory","Permanent Read Only Memory","Programmable Real Once Memory"],"correct_option":1},
-    {"id":"q60","question":"EEPROM stands for?","options":["Electrically Erased Programmable Read Only Memory","Electrically Erased Permanent Resident Of Memory","Especially Erased Programmable Read Only Memory","Encoded Erased Programmable Read Only Memory"],"correct_option":0},
-    {"id":"q61","question":"Which of the following is NOT a valid capacity of a Floppy Disk?","options":["360 KB","720 KB","1.24 MB","1.44 MB"],"correct_option":2},
-    {"id":"q62","question":"Floppy Disks are organised as ______","options":["Files","Heads and Folders","Tracks and Sectors","All of the above"],"correct_option":2},
-    {"id":"q63","question":"Hard Disks are organized as ______","options":["Cylinders","Tracks","Cylinders and Tracks","Master Boot Record"],"correct_option":2},
-    {"id":"q64","question":"The Hard Disk can hold data up to?","options":["10 KB","10 MB","10 GB","400 GB"],"correct_option":3},
-    {"id":"q65","question":"The information stored in CD-ROM is in the form of ______","options":["Binary","Digital","Analog","Codes"],"correct_option":1},
-    {"id":"q66","question":"A CD-ROM means?","options":["Can hold more than 650 MB of information","Compact Disk Read Only Memory","Its using Optical Storage Technology","All of the above"],"correct_option":3},
-    {"id":"q67","question":"1 Kilo Byte is?","options":["100 bits","1024 bytes","1000 bits","1020 bits"],"correct_option":1},
-    {"id":"q68","question":"1 Mega Byte is?","options":["2^20 bytes","1 Kilo KB","Both A and B","1024 bytes"],"correct_option":1},
-    {"id":"q69","question":"A byte represents a group of ______","options":["10 bits","40 bits","8 bits","24 bits"],"correct_option":2},
-    {"id":"q70","question":"One megabyte equals approximately...","options":["1,000 bits","1,000 bytes","1 million bytes","1 million bits"],"correct_option":2},
-    {"id":"q71","question":"Which of the following refers to the memory in your computer?","options":["RAM","DSL","USB","LAN"],"correct_option":0},
-    {"id":"q72","question":"When you are working on a document on a PC, where is the document temporarily stored?","options":["RAM","ROM","The CPU","Flash memory"],"correct_option":3},
-    {"id":"q73","question":"Which of the following is true?","options":["Byte is a single digit in a binary number","Bit represents a grouping of digital numbers","Eight-digit binary number is called a byte","Eight-digit binary number is called a bit"],"correct_option":2},
-    {"id":"q74","question":"Storage that retains its data after the power is turned off is referred to as...","options":["Volatile storage","Non-volatile storage","Sequential storage","Direct storage"],"correct_option":1},
-    {"id":"q75","question":"Which of the following is the largest unit of storage?","options":["GB","KB","MB","TB"],"correct_option":3},
-    {"id":"q76","question":"If a user needs information instantly available to the CPU, it should be stored _____","options":["On a CD","In Secondary storage","In the CPU","In RAM"],"correct_option":3},
-    {"id":"q77","question":"It is better to copy a file from a floppy disk to a hard disk because...","options":["A floppy disk is easily moved from one computer to another","You can store more on a hard disk","The computer cannot open a file stored on a floppy disk","Reading a hard disk is much faster and safer"],"correct_option":1},
-    {"id":"q78","question":"The best reason that a computer needs to have a hard disk is because...","options":["It can then use the same programs as other computers","It would not work without one","It can store information when it is switched off","It can store information while it is working"],"correct_option":2},
-    {"id":"q79","question":"Hard disk drives are considered _____ storage.","options":["Flash","Nonvolatile","Temporary","Permanent"],"correct_option":3},
-    {"id":"q80","question":"The term 'bit' is short for _____","options":["Megabyte","Binary language","Binary digit","Binary number"],"correct_option":2},
-    {"id":"q81","question":"___ is a form of permanent memory that holds all the instructions the computer needs to start up and does not get erased when the power is turned off.","options":["The Network Interface Card (NIC)","The CPU","RAM","ROM"],"correct_option":3},
-    {"id":"q82","question":"A _____ is approximately one billion bytes.","options":["Kilobytes","Bit","Gigabyte","Megabyte"],"correct_option":2},
-    {"id":"q83","question":"Reusable optical storage will typically have the acronym _____","options":["CD","RW","DVD","ROM"],"correct_option":1},
-    {"id":"q84","question":"A _____ is approximately a million bytes.","options":["Gigabyte","Kilobyte","Megabyte","Terabyte"],"correct_option":2},
-    {"id":"q85","question":"Which part of the computer helps to store information?","options":["Disk drive","Keyboard","Monitor","Printer"],"correct_option":0},
-    {"id":"q86","question":"A collection of related information sorted and dealt with as a unit is a _____","options":["Disk","Data","File","Floppy"],"correct_option":2},
-    {"id":"q87","question":"A CD-RW disk...","options":["Has a faster access than an internal disk","Is a form of optical disk, so it can only be written once","Holds less data than a floppy disk","Can be erased and rewritten"],"correct_option":3},
-    {"id":"q88","question":"Information on a computer is stored as...","options":["Analog data","Digital data","Modem data","Watts data"],"correct_option":1},
-    {"id":"q89","question":"What characteristic of Read Only Memory (ROM) makes it useful?","options":["ROM information can be easily updated","Data in ROM is nonvolatile, that is, it remains there even without electrical power","ROM provides very large amounts of inexpensive data storage","ROM chips are easily swapped between different brands of computers"],"correct_option":1},
-    {"id":"q90","question":"Where are programs and data kept while the processor is using them?","options":["Main memory","Secondary memory","Disk memory","Program memory"],"correct_option":0},
-    {"id":"q91","question":"Permanent memory in a computer is called...","options":["RAM","ROM","CPU","CD ROM"],"correct_option":0},
-    {"id":"q92","question":"By CD you can...","options":["Read","Write","Read and Write","Either Read or Write"],"correct_option":1},
-    {"id":"q93","question":"What does a storage unit provide?","options":["Place for typing data","Storage for information and instruction","Place for printing information","All of the above"],"correct_option":2},
-    {"id":"q94","question":"A disk's content that is recorded at the time of manufacture and that cannot be changed or erased by the user is _____","options":["Memory-only","Write-only","Read-only","Run-only"],"correct_option":2},
-    {"id":"q95","question":"What is the permanent memory built into your computer called?","options":["RAM","ROM","CPU","CD-ROM"],"correct_option":1},
-    {"id":"q96","question":"The contents of ____ are lost when the computer turns off.","options":["Storage","Input","Output","Memory"],"correct_option":2},
-    {"id":"q97","question":"When you save to this, your data will remain intact even when the computer is turned off _____","options":["RAM","Motherboard","Secondary storage device","Primary storage device"],"correct_option":2},
-    {"id":"q98","question":"An area of a computer that temporarily holds data waiting to be processed is _____","options":["CPU","Memory","Storage","File"],"correct_option":1},
-    {"id":"q99","question":"Where is data saved permanently?","options":["Memory","Storage device","CPU","Printer"],"correct_option":1},
-    {"id":"q100","question":"Which of the following is NOT true about RAM?","options":["RAM is a temporary storage area","RAM is the same as hard disk storage","RAM is volatile","Information stored in RAM is gone when you turn the computer off"],"correct_option":1},
-    {"id":"q101","question":"A group of 8 bits is known as a _____","options":["Byte","Kilobyte","Binary digit","Megabit"],"correct_option":0},
-    {"id":"q102","question":"What is the difference between a CD-ROM and a CD-RW?","options":["They are the same - just two different terms used by different manufacturers","A CD-ROM can be written to and a CD-RW cannot","A CD-RW can be written to but a CD-ROM can only be read from","A CD-ROM holds more information than a CD-RW"],"correct_option":2},
-    {"id":"q103","question":"All of the followings are included in removable media EXCEPT:","options":["CD-ROMs","Diskette","DVDs","Hard Disk Drive"],"correct_option":0},
-    {"id":"q104","question":"The contents of _____ are lost when the computer turns off.","options":["Storage","Input","Output","Memory"],"correct_option":3},
-    {"id":"q105","question":"Reusable optical storage will typically have the acronym...","options":["CD","DVD","ROM","RW"],"correct_option":3},
-    {"id":"q106","question":"The ability to find an individual item in a file immediately, _____ is used.","options":["File allocation table","Directory","Sequential access","Direct access"],"correct_option":3},
-    {"id":"q107","question":"Virtual memory is...","options":["Memory on the hard disk that the CPU uses as an extended RAM","RAM","Only necessary if you do not have any RAM in your computer","A back up device for floppy disks"],"correct_option":0},
-    {"id":"q108","question":"A program embedded in a semi-conductor chip during manufacture is called...","options":["Humanware","Firmware","Hardware","Software"],"correct_option":1},
-    {"id":"q109","question":"How many 30-bit SIMMs are required to populate a bank on a 486 system that has a 32-bit data bus?","options":["2","3","4","5"],"correct_option":2},
-    {"id":"q110","question":"The ability to find an individual item in a file immediately is called...","options":["Sequential access","File allocation table","Direct access","Directory"],"correct_option":2},
-    {"id":"q111","question":"CDs are of which shape?","options":["Square","Rectangular","Round","Hexagonal"],"correct_option":2},
-    {"id":"q112","question":"Which type of memory is closely related to the processor?","options":["Main Memory","Secondary Memory","Disk Memory","Tape Memory"],"correct_option":0},
-    {"id":"q113","question":"With a CD you can _____","options":["Read","Write","Read and Write","Either Read or Write"],"correct_option":2},
-    {"id":"q114","question":"RAM can be thought of as the _____ for the computer's processor.","options":["Factory","Operating room","Waiting room","Planning room"],"correct_option":2},
-    {"id":"q115","question":"____ is the ability of a device to jump directly to the requested data.","options":["Sequential access","Random access","Quick access","All of these"],"correct_option":3},
-    {"id":"q116","question":"BIOS stands for?","options":["Basis Integrated Output System","Bias Integrated Operator System","Basic Input Output Software","Basic Input Output System"],"correct_option":3},
-    {"id":"q117","question":"Magnetic tape is not practical for applications where data must be quickly recalled because tape is...","options":["A random-access medium","A sequential access medium","A read only medium","An expensive storage medium"],"correct_option":3},
-    {"id":"q118","question":"Which device works as both an output and input device?","options":["Monitor","Disk drive unit","Printer","OCR"],"correct_option":1},
-    {"id":"q119","question":"Which is the high speed memory used in the computer?","options":["RAM","BIOS","Hard disk","Cache"],"correct_option":3},
-    {"id":"q120","question":"Before booting the system, the system files are present in...","options":["Hard disk","ROM","RAM","Register"],"correct_option":0},
-    {"id":"q121","question":"Which one is the fastest memory of computer?","options":["Main memory","Magnetic Disk","Cache memory","Flash memory"],"correct_option":2},
-    {"id":"q122","question":"Which memory does not hold data for long even when power is off?","options":["ROM","RAM","Hard disk","Optical disk"],"correct_option":1},
-    {"id":"q123","question":"Which is also known as reprogrammable memory?","options":["RAM","EEPROM","ROM","Hard disk"],"correct_option":1},
-    {"id":"q124","question":"1 GB = _____ KB.","options":["2^10","2^20","2^30","2^40"],"correct_option":1},
-    {"id":"q125","question":"The area of memory where user files are stored is called...","options":["High memory area","Upper memory area","Base memory area","Cache memory"],"correct_option":2},
-    {"id":"q126","question":"Which memory has the lowest access time?","options":["Register","Cache memory","Disk","Magnetic Tape"],"correct_option":0},
-    {"id":"q127","question":"Which is also known as fixed memory?","options":["EPROM","ROM","RAM","Hard disk"],"correct_option":1},
-    {"id":"q128","question":"Which is NOT an auxiliary storage device?","options":["Hard disk","Magnetic tape","Compact disk","ROM"],"correct_option":3},
-    {"id":"q129","question":"Which memory is also known as user accessible memory of a computer system?","options":["ROM","RAM","Hard disk","None"],"correct_option":1},
-    {"id":"q130","question":"Which is a volatile memory?","options":["RAM","Cache memory","Virtual Memory","All"],"correct_option":3},
-    {"id":"q131","question":"The full form of DDR is?","options":["Double Data Rate","Dynamic Data Rate","Dynamic Data Ratio","All"],"correct_option":0},
-    {"id":"q132","question":"Which is NOT a backup storage?","options":["Floppy disk","Hard disk","Compact disk","Magnetic tape"],"correct_option":1},
-    {"id":"q133","question":"Which memory contents can be wiped out by supplying ultraviolet rays?","options":["ROM","EPROM","EEPROM","EAPROM"],"correct_option":1},
-    {"id":"q134","question":"Which memory is programmed during the manufacturing period?","options":["EPROM","ROM","EEPROM","PROM"],"correct_option":1},
-    {"id":"q135","question":"Which memory essentially needs to be empty?","options":["ROM","RAM","Hard disk","All"],"correct_option":1},
-    {"id":"q136","question":"Which memory has the shortest access time?","options":["Register","Cache","Main Memory","Magnetic Tape"],"correct_option":0},
-    {"id":"q137","question":"Which is a volatile memory?","options":["RAM","EEPROM","ROM","Hard disk"],"correct_option":0},
-    {"id":"q138","question":"Which is NOT a sequential storage device?","options":["Hard disk","Compact Disk","Cassette memory","Both A and B"],"correct_option":3},
-    {"id":"q139","question":"Which memory contents cannot be changed by supplying ultraviolet rays or electric charge?","options":["ROM","EPROM","EEPROM","RAM"],"correct_option":0},
-    {"id":"q140","question":"The time taken to position the access arm over a particular track of disk is known as...","options":["Latency Time","Seek time","Access Time","RPM"],"correct_option":1},
-    {"id":"q141","question":"A register organized to allow left or right shift operations is called a...","options":["Shift register","Counter","Loader","Adder"],"correct_option":0},
-    {"id":"q142","question":"Which of the following has the fastest access time?","options":["Magnetic Tapes","Magnetic Disks","Semiconductor memory","Compact Disks"],"correct_option":2},
-    {"id":"q143","question":"Which of the following is the largest manufacturer of Hard disk drives?","options":["Seagate","IBM","3M","Microsoft"],"correct_option":0},
-    {"id":"q144","question":"Which of the following storage devices can store the maximum amount of data?","options":["Floppy Disk","Compact Disk","Hard Disk","Magneto Optic disk"],"correct_option":2},
-    {"id":"q145","question":"Which technology is used in CD?","options":["Laser","Mechanical","Electrical","Electro Magnetic"],"correct_option":0},
-    {"id":"q146","question":"Which of the following is a read only memory storage device?","options":["Hard Disk","Floppy Disk","CD-ROM","None of Disk"],"correct_option":2},
-    {"id":"q147","question":"Which device is mostly used to carry user files?","options":["Floppy disk","Tape","Network Drive","All of the above"],"correct_option":0},
-    {"id":"q148","question":"Which device is used to backup data?","options":["Compact disk","Tape","Network drive","All"],"correct_option":3},
-    {"id":"q149","question":"Which of the following are the best units of data on an external storage device?","options":["Bytes","Bits","Hertz","Clock cycles"],"correct_option":0},
-    {"id":"q150","question":"Primary memory stores...","options":["Data alone","Program alone","Result alone","All"],"correct_option":3},
-    {"id":"q151","question":"Random Access Memory is also known as...","options":["Volatile memory","Users memory","Working memory","All of the above"],"correct_option":3},
-    {"id":"q152","question":"Which technology is used in an optical disk?","options":["Laser","Mechanical","Magnetic","Electro Magnetic"],"correct_option":0},
-    {"id":"q153","question":"Hard disk is...","options":["Direct storage device","Faster than Magnetic tape","Massive storage","All of the above"],"correct_option":3},
-    {"id":"q154","question":"Which memory is capable of transferring data at high speed?","options":["Magnetic disk","Semiconductor","Magnetic tapes","All of the above"],"correct_option":1},
-    {"id":"q155","question":"Which is NOT a storage device?","options":["Floppy disk","Virtual memory","Hard disk","Compact Disk"],"correct_option":1},
-    {"id":"q156","question":"ROM is needed in a computer for storing an initial program called...","options":["Computer Startup Loader","Bootstrap Loader","System files","None"],"correct_option":1},
-    {"id":"q157","question":"Which memory is often known as users' memory?","options":["Hard Disk","ROM","RAM","Floppy Disk"],"correct_option":2},
-    {"id":"q158","question":"1 GB is equal to...","options":["2^30 bits","2^30 bytes","2^20 bits","2^20 bytes"],"correct_option":1},
-    {"id":"q159","question":"Which is NOT auxiliary memory?","options":["Compact Disk","Virtual memory","Hard disk","Magnetic Tape"],"correct_option":1},
-    {"id":"q160","question":"Which is the correct sequence of memories according to their sizes?","options":["Register, Disk, RAM","Register, RAM, Disk","RAM, Disk, Register","Disk, RAM, Register"],"correct_option":1}
+    {
+      "id": "q1",
+      "question": "1000 millisecond = second.",
+      "options": [
+        "1",
+        "0.1",
+        "0.01",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which is the latest Filing system of Disk?",
+      "options": [
+        "FAT 32",
+        "FAT 64",
+        "NFTS",
+        "NTFS-64"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "Which disk storage that uses both a magnet and a laser beam is called…",
+      "options": [
+        "Floppy disk",
+        "BluRay Disk",
+        "MO Disk",
+        "WORM"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q4",
+      "question": "A magnetized spot on magnetic disk or Magnetic tape represents as….",
+      "options": [
+        "Block",
+        "Sector",
+        "zone",
+        "Bit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q5",
+      "question": "Which is an auxiliary storage device?",
+      "options": [
+        "Hard disk",
+        "Magnetic tape",
+        "compact disk",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q6",
+      "question": "Which is a not massive storage device?",
+      "options": [
+        "Floppy disk",
+        "Hard disk",
+        "compact disk",
+        "Magnetic tape"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q7",
+      "question": "Which memory is non-volatile time?",
+      "options": [
+        "Virtual Memory",
+        "Cache Memory",
+        "Main Memory",
+        "Floppy disk"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q8",
+      "question": "Which is also known as permanent Memory?",
+      "options": [
+        "RAM",
+        "EEPROM",
+        "ROM",
+        "Hard disk"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q9",
+      "question": "Which is a massive storage device?",
+      "options": [
+        "Hard disk",
+        "Memory Card",
+        "DVD",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q10",
+      "question": "The term Megabyte is equal to….",
+      "options": [
+        "103 KBs",
+        "1024 KBs",
+        "210 KBs",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q11",
+      "question": "EPROM can be used for;",
+      "options": [
+        "Reconstruction the contents of ROM",
+        "Erasing and reconstructing the contents of ROM",
+        "Erasing the contents of ROM",
+        "Duplicating ROM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "Memory unit is one part of ;",
+      "options": [
+        "CPU",
+        "Input Device",
+        "Output Device",
+        "Control Unit"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Which technology is used in Compact disks?",
+      "options": [
+        "Electronic",
+        "Mechanical",
+        "Laser",
+        "Electro Magnetic"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Size of the primary memory of a PC range between",
+      "options": [
+        "2KB to 8KB",
+        "256KB & 640KB",
+        "64KB & 256KB",
+        "None of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q15",
+      "question": "Which of the following devices have a limitation that we can only store information to it but cannot erase or modify it?",
+      "options": [
+        "Floppy disk",
+        "Hard disk",
+        "CDROM",
+        "Tape drive"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following is not a valid size of a Floppy disk?",
+      "options": [
+        "5 ½\"",
+        "8\"",
+        "5 ¼\"",
+        "3 ½\""
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "Memory is made up of ….;",
+      "options": [
+        "Large number of cells",
+        "Set of wires",
+        "Set of circuits",
+        "All of These"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "Which of the following is the storage device?",
+      "options": [
+        "Magnetic Tape",
+        "Hard disk",
+        "Floppy disk",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q19",
+      "question": "A normal CDROM usually can store up to …… data?",
+      "options": [
+        "680MB",
+        "680 Bytes",
+        "680KB",
+        "680GB"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "Which statement is valid?",
+      "options": [
+        "1 MB = 1024 bytes",
+        "1 KB = 8 bytes",
+        "1 KB = 8 KB",
+        "1 KB = 1024 bytes"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "Which device is used to process data?",
+      "options": [
+        "RAM",
+        "DCU",
+        "VDU",
+        "CPU"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q22",
+      "question": "Which of the following device can store large amounts of data?",
+      "options": [
+        "Hard Disk",
+        "Floppy disk",
+        "CDROM",
+        "ZIP Disk"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "Which of the following is handy to carry yet can stores large amount of data?",
+      "options": [
+        "Floppy disk",
+        "Zip disk",
+        "Hard disk",
+        "CDROM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "Which of the following is not a valid capacity of a floppy disk?",
+      "options": [
+        "1.24MB",
+        "720KB",
+        "1.44 MB",
+        "360KB"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "Data is stored in computer as;",
+      "options": [
+        "Directories",
+        "Files",
+        "Floppies",
+        "Matter"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "Which technology is used in a CDROM Drive?",
+      "options": [
+        "Optical",
+        "Mechanical",
+        "Electromechanical",
+        "Fiber Optical"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "Which of the following is not a valid storage medium?",
+      "options": [
+        "Zip disk",
+        "Hard disk",
+        "Floppy disk",
+        "none"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q28",
+      "question": "Which of the following is not a valid memory?",
+      "options": [
+        "ROM",
+        "NIC",
+        "EEPROM",
+        "RAM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "1KB is equal to;",
+      "options": [
+        "1024 bytes",
+        "100 bytes",
+        "1000 bytes",
+        "1048 bytes"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "Which is a semi Conductor memory?",
+      "options": [
+        "Bubble",
+        "Dynamic",
+        "Static",
+        "Both b & c"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q31",
+      "question": "Which is a volatile memory?",
+      "options": [
+        "RAM",
+        "BIOS",
+        "ROM",
+        "PROM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "What is the capacity of a 3.5\" Floppy disk?",
+      "options": [
+        "1.44MB",
+        "720KB",
+        "1.2MB",
+        "360KB"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "What is the full form of RAM?",
+      "options": [
+        "Random access memory",
+        "Read access memory",
+        "Rapid access memory",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "Floppy Disk Drives were first introduced by, which of the following computer manufacturer;",
+      "options": [
+        "Sony",
+        "IBM",
+        "Panasonic",
+        "Compaq"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "Floppy disk drives were originally designed by…",
+      "options": [
+        "IBM",
+        "Samsung",
+        "Sony",
+        "Panasonic"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q36",
+      "question": "Which of the following companies is a leader in manufacture of Hard disk drives?",
+      "options": [
+        "Samsung",
+        "IBM",
+        "Seagate",
+        "Fujitsu"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q37",
+      "question": "Which of the memories below is often used in a typical computer operation?",
+      "options": [
+        "ROM",
+        "FDD",
+        "RAM",
+        "HDD"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "Time taken to move form one cylinder of a HDD to another is called",
+      "options": [
+        "Average seek time",
+        "Transfer rate",
+        "Latency",
+        "Roundtrip time"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "Which of the following RAM types have to be refreshed often in order to retain its contents?",
+      "options": [
+        "DIMM",
+        "SIMM",
+        "SDMM",
+        "DSMM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "The program which is as permanent as hardware and stored in ROM is known as;",
+      "options": [
+        "Firmware",
+        "Hardware",
+        "Software",
+        "ROM ware"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "MOS stands for",
+      "options": [
+        "Most Often",
+        "Method Organized",
+        "Metal Oxide Semiconductor",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q42",
+      "question": "Which storage device is mounted on 'reels'?",
+      "options": [
+        "Magnetic tapes",
+        "Floppy disk",
+        "Magnetic tapes",
+        "CDROM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "Which of the following statements is/are true?",
+      "options": [
+        "Cache memories are bigger than RAM",
+        "ROM is faster than RAM",
+        "Cache memories are smaller than RAM",
+        "Information in ROM can be written by users"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q44",
+      "question": "The BIOS is the abbreviation of …….",
+      "options": [
+        "Basic Input output Symbol",
+        "Basic input output system",
+        "Best input output System",
+        "Base input output system"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q45",
+      "question": "Programs stored in ROM are called…..",
+      "options": [
+        "Hardware",
+        "Software",
+        "Firmware",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q46",
+      "question": "Information stored in ………… is lost as soon as the power is cut..",
+      "options": [
+        "PROM",
+        "ROM",
+        "RAM",
+        "BIOS"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q47",
+      "question": "SCSI is a term related with……",
+      "options": [
+        "Network Data Transfer",
+        "Storage",
+        "Keystroke Rate",
+        "Picture resolution"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q48",
+      "question": "How many write cycles are allowed to a RAM?",
+      "options": [
+        "1",
+        "10",
+        "100",
+        "1000"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q49",
+      "question": "How many write cycles are allowed to an EEPROM?",
+      "options": [
+        "1000",
+        "10",
+        "1000",
+        "1"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q50",
+      "question": "WORM stands for?",
+      "options": [
+        "Write Once Read Memory",
+        "Wanted Once Read Memory",
+        "Wanted Original Read Memory",
+        "Write Original Read Memory"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q51",
+      "question": "Which of the following is a Temporary Primary Memory?",
+      "options": [
+        "ROM",
+        "PROM",
+        "RAM",
+        "EPROM"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q52",
+      "question": "Which of the following can hold maximum data?",
+      "options": [
+        "Optical Disk",
+        "Floppy Disk",
+        "Magnetic Disk",
+        "Magnetic Tape"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q53",
+      "question": "Data is stored in Computer as?",
+      "options": [
+        "Directories",
+        "Files",
+        "Floppy’s",
+        "Matter"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q54",
+      "question": "MOS stands for?",
+      "options": [
+        "Most Often Stored",
+        "Metal Oxide Semiconductor",
+        "Method Organized Stack",
+        "Method Oxide stack"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q55",
+      "question": "Memory unit is a part of ______",
+      "options": [
+        "Input Device",
+        "Control Unit",
+        "Output Device",
+        "Central Processing Unit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q56",
+      "question": "RAM stands for",
+      "options": [
+        "Real Available Memory",
+        "Random Access Memory",
+        "Read All Memory",
+        "Readily Available Memory"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q57",
+      "question": "Which is the smallest unit of hard disk that is used to store data ?",
+      "options": [
+        "Cluster",
+        "Track",
+        "Sector",
+        "Cylinder"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q58",
+      "question": "ROM stands for?",
+      "options": [
+        "Read Only Memory",
+        "Real Onto Memory",
+        "Read Once Memory",
+        "Real One Memory"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q59",
+      "question": "PROM stands for?",
+      "options": [
+        "Programme Read Only Memory",
+        "Programmable Read Only Memory",
+        "Permanent Read Only Memory",
+        "Programmable Real Once Memory"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q60",
+      "question": "EEPROM stands for?",
+      "options": [
+        "Electrically Erased Programmable Read Only Memory",
+        "Electrically Erased Permanent Resident Of Memory",
+        "Especially Erased Programmable Read Only Memory",
+        "Encoded Erased Programmable Read Only Memory"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q61",
+      "question": "Which of the following is not a valid capacity of a Floppy Disk ?",
+      "options": [
+        "360 KB",
+        "720 KB",
+        "1.24 MB",
+        "1.44 MB"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q62",
+      "question": "Floppy Disk ’s are organised as ______",
+      "options": [
+        "Files",
+        "Heads and Folders",
+        "Tracks and Sectors",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q63",
+      "question": "Hard Disk are organized as ____",
+      "options": [
+        "cylinders",
+        "Tracks",
+        "Cylinders and Tracks",
+        "Master Boot Record"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q64",
+      "question": "The Hard Disk can hold the data upto?",
+      "options": [
+        "10 KB",
+        "10 MB",
+        "10 GB",
+        "400 GB"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q65",
+      "question": "The information stored in CD–ROM is in the form of ____",
+      "options": [
+        "Binary",
+        "Digital",
+        "Analog",
+        "Codes"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q66",
+      "question": "A CD-ROM means?",
+      "options": [
+        "Can hold more than 650 MB of information",
+        "Compact Disk Read Only Memory",
+        "Its using Optical Storage Technology",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q67",
+      "question": "1 Kilo Byte is?",
+      "options": [
+        "100 bits",
+        "1024 bytes",
+        "1000 bits",
+        "1020 bits"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q68",
+      "question": "1 Mega Byte is?",
+      "options": [
+        "220 bytes",
+        "1 Kilo KB",
+        "Both A and B",
+        "1024 bytes"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q69",
+      "question": "A byte represents a group of ____",
+      "options": [
+        "10 bits",
+        "40 bits",
+        "8 bits",
+        "24 bits"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q70",
+      "question": "One megabyte equals approximately",
+      "options": [
+        "1,000 bits",
+        "1,000 bytes",
+        "1 million bytes",
+        "1 million bits"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q71",
+      "question": "Which of the following refers to the memory in your computer?",
+      "options": [
+        "RAM",
+        "DSL",
+        "USB",
+        "LAN"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q72",
+      "question": "When you are working on a document on PC, where is the document temporarily stored?",
+      "options": [
+        "RAM",
+        "ROM",
+        "The CPU",
+        "Flash memory"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q73",
+      "question": "Which of the following is true?",
+      "options": [
+        "Byte is a single digit in a binary number",
+        "Bit represents a grouping of digital numbers",
+        "Eight-digit binary number is called a byte",
+        "Eight-digit binary number is called a bit"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q74",
+      "question": "Storage that retains its data after the power is tuned off is referred to as",
+      "options": [
+        "Volatile storage",
+        "Non-volatile storage",
+        "sequential storage",
+        "direct storage"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q75",
+      "question": "Which of the following is the largest unit of storage?",
+      "options": [
+        "GB",
+        "KB",
+        "MB",
+        "TB"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q76",
+      "question": "If a user needs information instantly available to the CPU it should be stored _____",
+      "options": [
+        "On a CD",
+        "In Secondary storage",
+        "In the CPU",
+        "In RAM"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q77",
+      "question": "It is better to copy a file form a floppy disk to a hard disk, then open the copy on the hard disk because _",
+      "options": [
+        "A floppy disk is easily moved from one computer to another.",
+        "You can store more on a hard disk",
+        "The computer cannot open a file stored on a floppy disk",
+        "Reading a hard disk is much faster and safer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q78",
+      "question": "The best reason that a computer needs to have a hard disk is because",
+      "options": [
+        "It can then use the same programs as other computers",
+        "It would not work without one",
+        "It can store information when it is switched off",
+        "It can store information while it is working"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q79",
+      "question": "Hard disk drives are considered _____ storage.",
+      "options": [
+        "Flash",
+        "Nonvolatile",
+        "Temporary",
+        "permanent"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q80",
+      "question": "The term bit is short for _____",
+      "options": [
+        "Megabyte",
+        "Binary language",
+        "Binary digit",
+        "Binary number"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q81",
+      "question": "___ is a form of permanent memory that holds all the instructions the computer needs to start up does not get erased when the power is turned off.",
+      "options": [
+        "The Network Interface Card (NIC)",
+        "The CPU",
+        "RAM",
+        "ROM"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q82",
+      "question": "A _____ is approximately one billion bytes.",
+      "options": [
+        "Kilobytes",
+        "Bit",
+        "Gigabyte",
+        "Megabyte"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q83",
+      "question": "Reusable optical storage will typically have the acronym _____",
+      "options": [
+        "CD",
+        "RW",
+        "DVD",
+        "ROM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q84",
+      "question": "A _____ is approximately a million bytes.",
+      "options": [
+        "Gigabyte",
+        "Kilobyte",
+        "Megabyte",
+        "Terabyte"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q85",
+      "question": "Which part of the computer helps to store information?",
+      "options": [
+        "Disk drive",
+        "Keyboard",
+        "Monitor",
+        "Printer"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q86",
+      "question": "A collection of related information sorted and dealt with as a unit is a _____",
+      "options": [
+        "Disk",
+        "Data",
+        "File",
+        "Floppy"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q87",
+      "question": "A CD–RW disk",
+      "options": [
+        "has a faster access than an internal disk.",
+        "is a form of optical disk, so it an only be written once",
+        "holds less data than a floppy disk",
+        "can be erased an rewritten"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q88",
+      "question": "Information on a computer is stored as",
+      "options": [
+        "analog data",
+        "digital data",
+        "modem data",
+        "Watts data"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q89",
+      "question": "What characteristic of read only memory (ROM) makes it useful?",
+      "options": [
+        "ROM information can be easily updated",
+        "Data in ROM is nonvolatile, that is, it remains there even without electrical power.",
+        "ROM provides very large amounts of inexpensive data storage",
+        "ROM Chips are easily swapped between different brands of computers."
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q90",
+      "question": "Where are programs and data kept while the processor is using them?",
+      "options": [
+        "Main memory",
+        "Secondary memory",
+        "Disk memory",
+        "Program memory"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q91",
+      "question": "Permanent Memory in computer is called",
+      "options": [
+        "RAM",
+        "ROM",
+        "CPU",
+        "CD ROM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q92",
+      "question": "By CD you can",
+      "options": [
+        "Read",
+        "Write",
+        "Read and Write",
+        "Either Read or Write"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q93",
+      "question": "What does storage unit provide?",
+      "options": [
+        "Place for typing data",
+        "Storage for information and instruction",
+        "Place for printing information",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q94",
+      "question": "A disk’s content that is recorded at the time of manufacture and that cannot be changed or erased by the user is _____",
+      "options": [
+        "Memory–only",
+        "Write–only",
+        "Read–only",
+        "Run–only"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q95",
+      "question": "What is the permanent memory built in to your computer called?",
+      "options": [
+        "RAM",
+        "ROM",
+        "CPU",
+        "CD-ROM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q96",
+      "question": "The contents of ____ are lost when the computer turns off.",
+      "options": [
+        "Storage",
+        "Input",
+        "Output",
+        "Memory"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q97",
+      "question": "When you save to this, your data will remain intact even when the computer is turned off _____",
+      "options": [
+        "RAM",
+        "Motherboard",
+        "Secondary storage device",
+        "Primary storage device"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q98",
+      "question": "An area of a computer that temporarily holds data waiting to be processed is _____",
+      "options": [
+        "CPU",
+        "Memory",
+        "Storage",
+        "File"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q99",
+      "question": "Where is data saved permanently?",
+      "options": [
+        "Memory",
+        "Storage device",
+        "CPU",
+        "Printer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q100",
+      "question": "Which of the following is not true about RAM?",
+      "options": [
+        "RAM is a temporary storage area",
+        "RAM is the same as hard disk storage",
+        "RAM is volatile",
+        "Information stored in RAM is gone when you turn the computer off"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q101",
+      "question": "A group of 8 bits is known as a _____.",
+      "options": [
+        "Byte",
+        "Kilobyte",
+        "Binary digit",
+        "Megabit"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q102",
+      "question": "What is the difference between a CD-ROM and a CD-RW?",
+      "options": [
+        "They are the same -just two different terms used by different manufacturers.",
+        "A CD-ROM can be written to and a CD-RW cannot",
+        "A CD-RW can be written to but a CD-ROM can only be read from",
+        "A CD-ROM holds more information than a CD-RW"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q103",
+      "question": "All of the followings are included in removable media EXCEPT:",
+      "options": [
+        "CD-ROMs",
+        "Diskette",
+        "DVDs",
+        "Hard Disk Drive"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q104",
+      "question": "The contents of _____ are lost when the computer turns off.",
+      "options": [
+        "Storage",
+        "input",
+        "output",
+        "memory"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q105",
+      "question": "Reusable optical storage will typically have the acronym.",
+      "options": [
+        "CD",
+        "DVD",
+        "ROM",
+        "RW"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q106",
+      "question": "The ability to find an individual item in a file immediately _____ is used.",
+      "options": [
+        "File allocation table",
+        "Directory",
+        "Sequential access",
+        "Direct access"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q107",
+      "question": "Virtual memory is",
+      "options": [
+        "Memory on the hard disk that the CPU uses as an extended RAM",
+        "RAM",
+        "Only necessary if you do not have any RAM in your computer",
+        "A back up device for floppy disks"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q108",
+      "question": "A program embedded in a semi–conductor chip during their manufacture is called",
+      "options": [
+        "Humanware",
+        "Firmware",
+        "Hardware",
+        "Software"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q109",
+      "question": "How many 30 bit SIMMS are required to populate a bank on a 486 system that has a 32 bit data bus?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q110",
+      "question": "The ability to find an individual item in a file immediately",
+      "options": [
+        "Sequential access",
+        "File allocation table",
+        "Direct access",
+        "Directory"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q111",
+      "question": "CDs are of which shape?",
+      "options": [
+        "Square",
+        "Rectangular",
+        "Round",
+        "Hexagonal"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q112",
+      "question": "Which type of memory is closely related to processor?",
+      "options": [
+        "Main Memory",
+        "Secondary Memory",
+        "Disk Memory",
+        "Tap Memory"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q113",
+      "question": "With a CD you can _____",
+      "options": [
+        "Read",
+        "Write",
+        "Read and Write",
+        "Either Read or Write"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q114",
+      "question": "RAM can be thought of as the for the computer’s processor.",
+      "options": [
+        "Factory",
+        "Operating room",
+        "Waiting room",
+        "Planning room"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q115",
+      "question": "____ is the ability of a device to “jump” directly to the requested data.",
+      "options": [
+        "Sequential access",
+        "Random access",
+        "Quick access",
+        "All of these"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q116",
+      "question": "BIOS stands for?",
+      "options": [
+        "Basis Integrated Output System",
+        "Bias Integrated Operator System",
+        "Basic Input Output Software",
+        "Basic Input Output System"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q117",
+      "question": "Magnetic tape is not practical for applications where data must be quickly recalled because tape is",
+      "options": [
+        "A random – access medium",
+        "A sequential access medium",
+        "A read only medium",
+        "An expensive storage medium"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q118",
+      "question": "Which device work as an output - input device?",
+      "options": [
+        "Monitor",
+        "Disk drive unit",
+        "Printer",
+        "OCR"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q119",
+      "question": "Which is the high speed memory used in the computer?",
+      "options": [
+        "RAM",
+        "BIOS",
+        "Hard disk",
+        "Cache"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q120",
+      "question": "Before booting the system, the system files are presents in …..",
+      "options": [
+        "Hard disk",
+        "ROM",
+        "RAM",
+        "Register"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q121",
+      "question": "Which one is the faster memory of computer?",
+      "options": [
+        "Main memory",
+        "magnetic Disk",
+        "Cache memory",
+        "Flash memory"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q122",
+      "question": "Which memory does not hold the data for long period even power is off?",
+      "options": [
+        "ROM",
+        "RAM",
+        "Hard disk",
+        "optical disk"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q123",
+      "question": "Which is also known as reprogrammable memory?",
+      "options": [
+        "RAM",
+        "EEPROM",
+        "ROM",
+        "Hard disk"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q124",
+      "question": "1 GB=……. KB.",
+      "options": [
+        "210",
+        "220",
+        "230",
+        "240"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q125",
+      "question": "The area of memory where user files are stored is called……..",
+      "options": [
+        "High memory area",
+        "upper memory Area",
+        "Base Memory area",
+        "Cache memory"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q126",
+      "question": "Which memory has low access time?",
+      "options": [
+        "Register",
+        "Cache memory",
+        "Disk",
+        "Magnetic Tape"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q127",
+      "question": "Which is also known as fixed memory?",
+      "options": [
+        "EPROM",
+        "ROM",
+        "RAM",
+        "Hard disk"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q128",
+      "question": "Which is not an auxiliary storage device?",
+      "options": [
+        "Hard disk",
+        "Magnetic tape",
+        "compact disk",
+        "ROM"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q129",
+      "question": "Which memory is also known as user accessible memory of computer system?",
+      "options": [
+        "ROM",
+        "RAM",
+        "Hard disk",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q130",
+      "question": "Which is a volatile memory?",
+      "options": [
+        "RAM",
+        "Cache memory",
+        "Virtual Memory",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q131",
+      "question": "The full form of DDR?",
+      "options": [
+        "Double Data Rate",
+        "Dynamic Data Rate",
+        "Dynamic Data Ratio",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q132",
+      "question": "Which is not a backup storage?",
+      "options": [
+        "Floppy disk",
+        "Hard disk",
+        "compact disk",
+        "Magnetic tape"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q133",
+      "question": "Which memory contents can be wiped out by supplying the ultraviolet ray?",
+      "options": [
+        "ROM",
+        "EPROM",
+        "EEPROM",
+        "EAPROM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q134",
+      "question": "Which Memory is programmed during the manufacturing period?",
+      "options": [
+        "EPROM",
+        "ROM",
+        "EEPROM",
+        "PROM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q135",
+      "question": "Which memory essentially needed an empty?",
+      "options": [
+        "ROM",
+        "RAM",
+        "Hard disk",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q136",
+      "question": "Which memory has short access time?",
+      "options": [
+        "Register",
+        "Cache",
+        "Main Memory",
+        "Magnetic Tape"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q137",
+      "question": "Which is a volatile memory?",
+      "options": [
+        "RAM",
+        "EEPROM",
+        "ROM",
+        "Hard disk"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q138",
+      "question": "Which is the not sequential storage device?",
+      "options": [
+        "Hard disk",
+        "Compact Disk",
+        "Cassette memory",
+        "Both A and B"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q139",
+      "question": "Which memory contents cannot be changed by supplying the ultraviolet ray or electric charge?",
+      "options": [
+        "ROM",
+        "EPROM",
+        "EEPROM",
+        "RAM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q140",
+      "question": "The time taken to position the access arm over a particular track of disk is known as…",
+      "options": [
+        "Latency Time",
+        "seek time",
+        "Access Time",
+        "RPM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q141",
+      "question": "A register organized to allow to move left or right operations is called a …..",
+      "options": [
+        "Shift registers",
+        "Counter",
+        "Loader",
+        "Adder"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q142",
+      "question": "Which of the following have the fastest access time ?",
+      "options": [
+        "Magnetic Tapes",
+        "Magnetic Disks",
+        "Semiconductor memory",
+        "Compact Disks"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q143",
+      "question": "Which of the following is the largest manufacturer of Hard disk drives?",
+      "options": [
+        "Seagate",
+        "IBM",
+        "3M",
+        "Microsoft"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q144",
+      "question": "Which of the following storage devices can store maximum amount of data?",
+      "options": [
+        "Floppy Disk",
+        "Compact Disk",
+        "Hard Disk",
+        "Magneto Optic disk"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q145",
+      "question": "Which technology is used in CD?",
+      "options": [
+        "Laser",
+        "Mechanical",
+        "Electrical",
+        "Electro Magnetic"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q146",
+      "question": "Which of the following is a read only memory storage device?",
+      "options": [
+        "Hard Disk",
+        "Floppy Disk",
+        "CD. ROM",
+        "None of Disk"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q147",
+      "question": "Mostly which of the following device is used to carry user files?",
+      "options": [
+        "Floppy disk",
+        "Tape",
+        "Network Drive",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q148",
+      "question": "Which device is used to backup the data?",
+      "options": [
+        "Compact disk",
+        "Tape",
+        "Network drive",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q149",
+      "question": "Which of the following are the best units of data on an external storage device?",
+      "options": [
+        "Bytes",
+        "Bits",
+        "Hertz",
+        "Clock cycles"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q150",
+      "question": "Primary memory stores;",
+      "options": [
+        "Data alone",
+        "Program alone",
+        "result alone",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q151",
+      "question": "Random Access Memory is also known as ….",
+      "options": [
+        "Volatile memory",
+        "Users' memory",
+        "Working memory",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q152",
+      "question": "Which technology is used in optical disk?",
+      "options": [
+        "Laser",
+        "Mechanical",
+        "Magnetic",
+        "Electro Magnetic"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q153",
+      "question": "Hard disk is ………",
+      "options": [
+        "Direct storage device",
+        "faster than Magnetic tape",
+        "Massive storage",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q154",
+      "question": "Which memory is capable transferring data at high speed?",
+      "options": [
+        "Magnetic disk",
+        "Semi conductor",
+        "Magnetic tapes",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q155",
+      "question": "Which is not storage Device?",
+      "options": [
+        "Floppy disk",
+        "Virtual memory",
+        "Hard disk",
+        "Compact Disk"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q156",
+      "question": "ROM is needed in computer for storing an initial program called__.",
+      "options": [
+        "Computer Startup Loader",
+        "Bootstrap Loader",
+        "System files",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q157",
+      "question": "Which Memory is often known as users Memory?",
+      "options": [
+        "Hard Disk",
+        "ROM",
+        "RAM",
+        "Floppy Disk"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q158",
+      "question": "1 GB is equal to ______.",
+      "options": [
+        "230 bits",
+        "230 bytes",
+        "220 bits",
+        "220 bytes"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q159",
+      "question": "Which is not Auxiliary memory?",
+      "options": [
+        "Compact Disk",
+        "Virtual memory",
+        "Hard disk",
+        "Magnetic Tape"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q160",
+      "question": "Which is the correct sequence of memories according to their Sizes ?",
+      "options": [
+        "Register, Disk , RAM",
+        "Register, RAM, Disk",
+        "RAM, DISK, Register",
+        "Disk, RAM, Register"
+      ],
+      "correct_option": 2
+    }
   ]
 }
