@@ -404,7 +404,7 @@
       "options": [
         "Allows each program in turn to use the memory",
         "Works best with many small partitions",
-        "Allows each program in turn to use the memory",
+        "None",
         "Does not work with overlaying"
       ],
       "correct_option": 1
@@ -649,7 +649,7 @@
         "Groupware",
         "E-mail"
       ],
-      "correct_option": 2
+      "correct_option": 1
     },
     {
       "id": "q60",
