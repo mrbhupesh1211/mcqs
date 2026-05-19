@@ -1,0 +1,1106 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Microsoft Word Advanced MCQ - Section 2",
+  "questions": [
+    {
+      "id": "q101",
+      "question": "What is the shortcut key for “Superscript” the selected text?",
+      "options": [
+        "Ctrl + =",
+        "Ctrl + –",
+        "Ctrl + Shift + =",
+        "Ctrl + Shift + –"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q102",
+      "question": "What is the shortcut key to Close Active Document in Microsoft Word?",
+      "options": [
+        "Ctrl + F4",
+        "Shift + F4",
+        "Ctrl + Shift + F4",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q103",
+      "question": "What is the shortcut key to show font dialog box?",
+      "options": [
+        "Ctrl + D",
+        "Ctrl + Shift + F",
+        "Ctrl + Shift + P",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q104",
+      "question": "How to remove all character formats?",
+      "options": [
+        "Shift + Spacebar",
+        "Shift + Enter",
+        "Ctrl + Spacebar",
+        "Ctrl + Enter"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q105",
+      "question": "What is the shortcut key to “Undo” the last action in a document?",
+      "options": [
+        "Ctrl + X",
+        "Ctrl + Y",
+        "Ctrl + Z",
+        "None of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q106",
+      "question": "Which key do you press to force a page break?",
+      "options": [
+        "CTRL+ALT",
+        "CTRL+ break",
+        "CTRL+ Enter",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q107",
+      "question": "To increase a paragraph indent, use the _____ shortcut keys.",
+      "options": [
+        "ctrl+l",
+        "ctrl+e",
+        "ctrl+1",
+        "ctrl+m"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q108",
+      "question": "To move to the end of the document, press the _____ key(s).",
+      "options": [
+        "down arrow",
+        "end",
+        "ctrl+down arrow",
+        "ctrl+end"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q109",
+      "question": "Which key is used to select all the text in the document?",
+      "options": [
+        "Ctrl+T",
+        "Ctrl+A",
+        "Ctrl+F",
+        "Ctrl+N"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q110",
+      "question": "To undo the last work, press …..",
+      "options": [
+        "Ctrl+U",
+        "Ctrl+Y",
+        "Ctrl+Z",
+        "Ctrl+W"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q111",
+      "question": "The scroll box on the vertical scroll bar indicates the _____.",
+      "options": [
+        "position of the insertion point from the top of the page",
+        "distance of the insertion point from the left margin",
+        "current relative location of the document portion displayed in the window",
+        "rank of the word in which the insertion point is found"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q112",
+      "question": "Headers and footers can include text and graphics, as well as the _____.",
+      "options": [
+        "current date",
+        "page number",
+        "current time",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q113",
+      "question": "Text boundary can be displayed or hidden from",
+      "options": [
+        "Auto text option from Insert menu",
+        "Options from Tools menu",
+        "Customize from Tools menu",
+        "All of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q114",
+      "question": "_____ are types of changes that occur when text has been omitted from a document and must be inserted later.",
+      "options": [
+        "Copy",
+        "Paste",
+        "Cut",
+        "Paste Special"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q115",
+      "question": "Which would you choose to move selected text from one place to another?",
+      "options": [
+        "Move and Paste",
+        "Copy and Paste",
+        "Cut and Paste",
+        "Delete and Paste"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q116",
+      "question": "Ctrl + X",
+      "options": [
+        "Close Document",
+        "Close Word Application",
+        "Cut the Selected Contents",
+        "Copy the Selected Contents"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q117",
+      "question": "Which is not a data source component?",
+      "options": [
+        "mail merge toolbar",
+        "header row",
+        "data fields",
+        "data records"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q118",
+      "question": "In Word, the mailing list is known as the ____________.",
+      "options": [
+        "data sheet",
+        "source",
+        "data source",
+        "sheet"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q119",
+      "question": "On the horizontal ruler, an upside down T indicates a _____ tab stop.",
+      "options": [
+        "left-aligned",
+        "right-aligned",
+        "decimal-aligned",
+        "centered"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q120",
+      "question": "To erase a character to the right of the insertion point, press the _____ key.",
+      "options": [
+        "cancel",
+        "backspace",
+        "delete",
+        "either b or c"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q121",
+      "question": "Ctrl + D",
+      "options": [
+        "Delete Dialog Box",
+        "Font Dialog Box",
+        "Delete All",
+        "Do nothing"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q122",
+      "question": "Ctrl + Y",
+      "options": [
+        "Undo the last Action",
+        "Repeat the last Action",
+        "Delete the last page",
+        "Delete the first page"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q123",
+      "question": "“Ctrl + Delete” is used to",
+      "options": [
+        "Delete the word just after the cursor",
+        "Delete the word just before the cursor",
+        "Delete the single letter just after the cursor",
+        "Delete the single letter just before the cursor"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q124",
+      "question": "“Ctrl + Backspace” is used to",
+      "options": [
+        "Delete the single letter just before the cursor",
+        "Delete the single letter just after the cursor",
+        "Delete the word just before the cursor",
+        "Delete the word just after the cursor"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q125",
+      "question": "Auto text and Auto correct are ___________ tools.",
+      "options": [
+        "styling",
+        "editing",
+        "designed",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q126",
+      "question": "In normal view, automatic page breaks _____.",
+      "options": [
+        "do not display",
+        "display on the screen as a single dotted horizontal line",
+        "display on the screen above the header and beneath the footer",
+        "display on the screen as a line separated by the words Page Break"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q127",
+      "question": "What is the extension of Word files?",
+      "options": [
+        "FIL",
+        "DOT",
+        "DOC",
+        "TXT"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q128",
+      "question": "To autofit the width of column",
+      "options": [
+        "Double click the right border of column",
+        "Double click the left border of column",
+        "Double click the column header",
+        "All of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q129",
+      "question": "To open Columns dialog box quickly",
+      "options": [
+        "double click on the left margin area of ruler",
+        "double click the space between area on ruler",
+        "double click the right margin in ruler",
+        "All of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q130",
+      "question": "To cancel a job that is printing or one that is waiting to be printed _____.",
+      "options": [
+        "click the Print button on the Standard toolbar",
+        "click the printer icon on the taskbar",
+        "double-click the Print button on the Standard toolbar",
+        "double-click the printer icon on the taskbar"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q131",
+      "question": "Which of the following enables you to make multiple changes in a document at once?",
+      "options": [
+        "find command",
+        "Replace command",
+        "Drag and Drop",
+        "copy command"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q132",
+      "question": "Which of the following is best for quick copy operation?",
+      "options": [
+        "Copy and Paste",
+        "Windows Clipboard",
+        "Drag and Drop",
+        "Auto Text"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q133",
+      "question": "Which of the following is best for quick copy operation?",
+      "options": [
+        "Copy and Paste",
+        "Windows Clipboard",
+        "Drag and Drop",
+        "Auto Text"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q134",
+      "question": "Which of the following operations moves text from clipboard?",
+      "options": [
+        "Copy",
+        "Paste",
+        "Drag and Drop",
+        "Cut"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q135",
+      "question": "To select a group of words, _____.",
+      "options": [
+        "click the Group button on the Formatting toolbar",
+        "double-click anywhere within the group to be selected",
+        "drag the mouse pointer through the characters to be selected",
+        "right-click the first and last characters of the group to be selected"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q136",
+      "question": "On which toolbar can you find Format Painter tool?",
+      "options": [
+        "Standard toolbar",
+        "Formatting toolbar",
+        "Drawing Toolbar",
+        "Picture Toolbar"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q137",
+      "question": "What must be used to control the layering of objects?",
+      "options": [
+        "formatting toolbar",
+        "picture toolbar",
+        "drawing toolbar",
+        "image toolbar"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q138",
+      "question": "Where can you find the Draw Table tool button?",
+      "options": [
+        "Standard toolbar",
+        "Formatting toolbar",
+        "Drawing toolbar",
+        "Tables and Formatting toolbar"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q139",
+      "question": "Which toolbar has crop button?",
+      "options": [
+        "Standard toolbar",
+        "Formatting toolbar",
+        "Drawing toolbar",
+        "Picture Toolbar"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q140",
+      "question": "Which of the following is graphics solution for Word Processors?",
+      "options": [
+        "Clipart",
+        "WordArt",
+        "Drop Cap",
+        "All of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q141",
+      "question": "Which of the following is not of the merge process?",
+      "options": [
+        "Sort the data source records",
+        "Format a main document",
+        "Edit a data source",
+        "Merge the two files to print or create a new document"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q142",
+      "question": "What would you do when you want to update the data in an embedded worksheet range?",
+      "options": [
+        "double click the worksheet range object",
+        "right click worksheet range object & choose format object",
+        "edit the data in the destination document",
+        "edit the data in the source document."
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q143",
+      "question": "Which command is used to establish a link between a source document and a destination document?",
+      "options": [
+        "Tools, Link, Documents",
+        "Tools, Link",
+        "Edit, Link",
+        "Edit, Paste Special"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q144",
+      "question": "To select multiple cells, rows, or columns in a table that are not adjacent to one another, select the first cell and then hold down the _____ key while selecting the next cell, row, or column.",
+      "options": [
+        "alt",
+        "shift",
+        "enter",
+        "ctrl"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q145",
+      "question": "The paragraph mark (¶) is a formatting mark that indicates where the _____ was pressed.",
+      "options": [
+        "tab key",
+        "spacebar",
+        "enter key",
+        "shift key"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q146",
+      "question": "Which of the following option in File pull down menu is used to close a MS Word document?",
+      "options": [
+        "Quit",
+        "Close",
+        "Exit",
+        "New"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q147",
+      "question": "Which keystroke is used for updating a field?",
+      "options": [
+        "F6",
+        "F9",
+        "F11",
+        "F12"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q148",
+      "question": "Pressing the _____ key instructs Word to replace an AutoText entry name with the stored AutoText entry.",
+      "options": [
+        "f1",
+        "f2",
+        "f3",
+        "f4"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q149",
+      "question": "Which of the following function key activates the speller?",
+      "options": [
+        "F5",
+        "F7",
+        "F9",
+        "Shift + F7"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q150",
+      "question": "Which simplifies the process of formatting text if the same formatting is required in more than one location",
+      "options": [
+        "Auto Text",
+        "Format Painter",
+        "Font dialog box",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q151",
+      "question": "Which simplifies the process of formatting text if the same formatting is required in more than one location?",
+      "options": [
+        "Auto Text",
+        "Format Painter",
+        "Font dialog box",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q152",
+      "question": "There can be many ways to insert page number in a document. Which of the following lets you insert page number",
+      "options": [
+        "Page number from Insert menu",
+        "Page Setup from file menu",
+        "Footnote from Insert menu",
+        "Both a & c"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q153",
+      "question": "The MLA style specifies that a superscript be used for a note reference mark to signal an explanatory note exists either at the bottom of the page as a(n) _____.",
+      "options": [
+        "footnote or at the end of the document as a startnote",
+        "headnote or at the end of the document as an endnote",
+        "footnote or at the end of the document as an endnote",
+        "headnote or at the end of the document as a startnote"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q154",
+      "question": "If you need to change the typeface of a document, which menu will you choose?",
+      "options": [
+        "Edit",
+        "View",
+        "Format",
+        "Tools"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q155",
+      "question": "Although it is not shown in normal view, to view a header, click _____ on the menu bar and then click Header and Footer.",
+      "options": [
+        "View",
+        "Edit",
+        "Format",
+        "Tools"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q156",
+      "question": "To change margin settings, click _____ on the menu bar and then point to the Page Setup command.",
+      "options": [
+        "File",
+        "Edit",
+        "Format",
+        "Tools"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q157",
+      "question": "Which menu in MSWord can be used to change character size and typeface?",
+      "options": [
+        "View",
+        "Tools",
+        "Format",
+        "Data"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q158",
+      "question": "From which menu you can insert Header and Footer?",
+      "options": [
+        "Insert Menu",
+        "View Menu",
+        "Format menu",
+        "Tools Menu"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q159",
+      "question": "What is the tool in Word that copies only the format of selected text so that you can apply on other text?",
+      "options": [
+        "Copy",
+        "Paste",
+        "Format Painter",
+        "Paste Special"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q160",
+      "question": "Select a ______ to apply a predefined format to a Word 2007 table",
+      "options": [
+        "Table style",
+        "Table format",
+        "Format Style",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q161",
+      "question": "_____ are types of wizards and templates in the Resume Wizard dialog box.",
+      "options": [
+        "Standard, Contemporary, and Sophisticated",
+        "Professional, Contemporary, and Elegant",
+        "Formatted, Unformatted, and Graphic",
+        "Basic, Comprehensive, and Formatted"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q162",
+      "question": "Changing the appearance of a document is called",
+      "options": [
+        "Proofing",
+        "Editing",
+        "Formatting",
+        "All of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q163",
+      "question": "Which language does MS-Word use to create Macros?",
+      "options": [
+        "Visual C++",
+        "Visual Basic",
+        "FoxPro",
+        "Access"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q164",
+      "question": "Word stores all frames associated with a Web page in a single file called the _____.",
+      "options": [
+        "authoring page",
+        "text page",
+        "frames page",
+        "hyperlink page"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q165",
+      "question": "You wished to justify text over the height of paper, which option will you choose",
+      "options": [
+        "Page Setup from File menu",
+        "Paragraph from Format menu",
+        "From formatting toolbar",
+        "Font from Format menu"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q166",
+      "question": "If you need to hide some paragraphs, how can you do it?",
+      "options": [
+        "From Paragraph dialog box",
+        "From Font dialog box",
+        "From Options Dialog box",
+        "None of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q167",
+      "question": "To display more of the document on the screen in print layout view, the _____ can be hidden.",
+      "options": [
+        "white space at the top of the pages",
+        "white space at the bottom of the pages",
+        "gray space between pages",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q168",
+      "question": "Which of the following is Page Orientation?",
+      "options": [
+        "Landscape",
+        "Portrait",
+        "Gutter",
+        "Only A & B"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q169",
+      "question": "Which indent marker controls all the lines except first line?",
+      "options": [
+        "First Line Indent Marker",
+        "Left Indent Marker",
+        "Hanging Indent Marker",
+        "Right Indent Marker"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q170",
+      "question": "Which of the following typically appear at the end of document for citation of source?",
+      "options": [
+        "End notes",
+        "Foot notes",
+        "Header",
+        "Footer"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q171",
+      "question": "MS Office provides help in many ways, which of these is one of them?",
+      "options": [
+        "What is this?",
+        "Office Assistant",
+        "Help menu",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q172",
+      "question": "To advance rightward from one cell to the next in a table, press the _____ key.",
+      "options": [
+        "tab",
+        "backspace",
+        "home",
+        "enter"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q173",
+      "question": "Which key deletes the character to the left of the cursor?",
+      "options": [
+        "End",
+        "Backspace",
+        "Home",
+        "Delete"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q174",
+      "question": "Which key deletes the character to the right of the cursor?",
+      "options": [
+        "End",
+        "Backspace",
+        "Home",
+        "Delete"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q175",
+      "question": "Where is the quick Access Toolbar and when should you use it?",
+      "options": [
+        "upper-left corner and use it for your favorite commands",
+        "floats over your text and use it when you need to make formatting changes",
+        "Home tab and use it when you need to quickly launch or start new document",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q176",
+      "question": "When you save a file as a Web page, Word converts the contents of the document into _____.",
+      "options": [
+        "Java",
+        "Perl",
+        "HTML",
+        "Unix"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q177",
+      "question": "By default, Word automatically formats each heading in a table of contents as __________",
+      "options": [
+        "bookmarks",
+        "cross-references",
+        "hyperlinks",
+        "word-fields"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q178",
+      "question": "Footnotes, endnotes, and indexes are all inserted as __________",
+      "options": [
+        "bookmarks",
+        "cross-references",
+        "hyperlinks",
+        "word fields"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q179",
+      "question": "Which of the following is not the part of standard office suite?",
+      "options": [
+        "Word Processor",
+        "Database",
+        "Image Editor",
+        "File manager"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q180",
+      "question": "Ctrl + L",
+      "options": [
+        "Left Align",
+        "Left Indent",
+        "Increase Left Margin",
+        "Decrease Left Margin"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q181",
+      "question": "The keystrokes Ctrl + I is used to",
+      "options": [
+        "Increase font size",
+        "Inserts a line break",
+        "Indicate the text should be bold",
+        "Applies italic format to selected text"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q182",
+      "question": "Ctrl + K",
+      "options": [
+        "Insert Page Number",
+        "Insert Hyperlink",
+        "Insert Header",
+        "Insert Footer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q183",
+      "question": "Which of the following can NOT be used to create parallel style column?",
+      "options": [
+        "Format Tabs",
+        "Table Insert Table",
+        "Insert Textbox",
+        "Format Columns"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q184",
+      "question": "Which of the following is used to create newspaper style columns?",
+      "options": [
+        "Format Tabs",
+        "Table Insert Table",
+        "Insert Textbox",
+        "Format Columns"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q185",
+      "question": "Which menu do you choose to create footer? (in MS Office 2003)",
+      "options": [
+        "format, header and footer",
+        "view, footer",
+        "insert, header and footer",
+        "view, header and footer"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q186",
+      "question": "Which menu do you choose to create header? (in MS Office 2003)",
+      "options": [
+        "format, header and footer",
+        "view, header",
+        "insert, header and footer",
+        "view, header and footer"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q187",
+      "question": "What happens when you insert an AutoShape by simply clicking in the document?",
+      "options": [
+        "it appears near the insertion point",
+        "it is inserted in its default size",
+        "is selected",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q188",
+      "question": "What does EXT indicator on status bar of MS Word indicate?",
+      "options": [
+        "It indicates whether the external text is pasted on document or not",
+        "It indicates whether extended add-ons are installed on MS Word or not",
+        "It indicates whether Extended Selection mode is turned on or off",
+        "None of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q189",
+      "question": "What happens if you click on Insert >> Picture >> Clip Art",
+      "options": [
+        "It inserts a clipart picture into document",
+        "It lets you choose clipart to insert into document",
+        "It opens Clip Art task pane",
+        "None of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q190",
+      "question": "What happens if you press Ctrl + Shift + F8?",
+      "options": [
+        "It activates extended selection",
+        "It activates the rectangular selection",
+        "It selects the paragraph on which the insertion line is.",
+        "None of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q191",
+      "question": "What is the use of “All Caps” feature in MS-Word?",
+      "options": [
+        "It changes all selected text into Capital Letter",
+        "It adds captions for selected Image",
+        "It shows all the image captions",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q192",
+      "question": "The feature of Word that automatically adjusts the amount of space between certain combinations of characters so that an entire word looks more evenly spaced. What is that feature called?",
+      "options": [
+        "Spacing",
+        "Scaling",
+        "Kerning",
+        "Positioning"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q193",
+      "question": "Gutter position can be set in following positions",
+      "options": [
+        "Left & Right",
+        "Left & Top",
+        "Left & Bottom",
+        "Left Only"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q194",
+      "question": "The ____ indents all the lines of a paragraph except first line",
+      "options": [
+        "First Line Indent Marker",
+        "Hanging Indent Marker",
+        "Left Indent Marker",
+        "Right Indent Marker"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q195",
+      "question": "A document in portrait orientation prints",
+      "options": [
+        "the same characters per line with the same document in landscape",
+        "More characters per line than the same document in landscape",
+        "Less characters per line than the same document in landscape",
+        "Smaller fonts in order to fit the same amount of characters per line with landscape"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q196",
+      "question": "A _____ is a formatting mark at the end of a line that moves the insertion point to the beginning of the next physical line.",
+      "options": [
+        "paragraph break character",
+        "nonbreaking space",
+        "line break character",
+        "nonbreaking hyphen"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q197",
+      "question": "Which option enables automatic updates in destination documents?",
+      "options": [
+        "embedding",
+        "objects",
+        "links",
+        "relationships"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q198",
+      "question": "Which of the following position is not available for fonts on MS Word?",
+      "options": [
+        "Normal",
+        "Raised",
+        "Lowered",
+        "Centered"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q199",
+      "question": "Which corner of the Word window has the zoom control?",
+      "options": [
+        "upper-left",
+        "upper-right",
+        "lower-left",
+        "lower-right"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q200",
+      "question": "When you point to the _____ corner of a table, the table move handle appears.",
+      "options": [
+        "upper-right",
+        "lower-left",
+        "lower-right",
+        "upper-left"
+      ],
+      "correct_option": 4
+    }
+  ]
+}
