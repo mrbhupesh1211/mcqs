@@ -110,7 +110,7 @@
         "210 KBs",
         "All"
       ],
-      "correct_option": 4
+      "correct_option": 2
     },
     {
       "id": "q11",
@@ -231,7 +231,7 @@
         "VDU",
         "CPU"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q22",
@@ -407,7 +407,7 @@
         "RAM",
         "HDD"
       ],
-      "correct_option": 1
+      "correct_option": 3
     },
     {
       "id": "q38",
@@ -424,9 +424,9 @@
       "id": "q39",
       "question": "Which of the following RAM types have to be refreshed often in order to retain its contents?",
       "options": [
-        "DIMM",
+        "DRAM",
+        "SRAM",
         "SIMM",
-        "SDMM",
         "DSMM"
       ],
       "correct_option": 1
@@ -459,7 +459,7 @@
       "options": [
         "Magnetic tapes",
         "Floppy disk",
-        "Magnetic tapes",
+        "Hard Disk",
         "CDROM"
       ],
       "correct_option": 1
@@ -523,7 +523,7 @@
       "id": "q48",
       "question": "How many write cycles are allowed to a RAM?",
       "options": [
-        "1",
+        "not cycle limited",
         "10",
         "100",
         "1000"
@@ -534,7 +534,7 @@
       "id": "q49",
       "question": "How many write cycles are allowed to an EEPROM?",
       "options": [
-        "1000",
+        "10000",
         "10",
         "1000",
         "1"
@@ -715,7 +715,7 @@
         "Analog",
         "Codes"
       ],
-      "correct_option": 2
+      "correct_option": 1
     },
     {
       "id": "q66",
@@ -792,7 +792,7 @@
         "The CPU",
         "Flash memory"
       ],
-      "correct_option": 4
+      "correct_option": 1
     },
     {
       "id": "q73",
@@ -840,14 +840,14 @@
     },
     {
       "id": "q77",
-      "question": "It is better to copy a file form a floppy disk to a hard disk, then open the copy on the hard disk because _",
+      "question": "It is better to copy a file from a floppy disk to a hard disk, then open the copy on the hard disk because _",
       "options": [
         "A floppy disk is easily moved from one computer to another.",
         "You can store more on a hard disk",
         "The computer cannot open a file stored on a floppy disk",
         "Reading a hard disk is much faster and safer"
       ],
-      "correct_option": 2
+      "correct_option": 4
     },
     {
       "id": "q78",
@@ -1001,7 +1001,7 @@
         "CPU",
         "CD ROM"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q92",
@@ -1012,7 +1012,7 @@
         "Read and Write",
         "Either Read or Write"
       ],
-      "correct_option": 2
+      "correct_option": 3
     },
     {
       "id": "q93",
@@ -1023,7 +1023,7 @@
         "Place for printing information",
         "All of the above"
       ],
-      "correct_option": 3
+      "correct_option": 2
     },
     {
       "id": "q94",
@@ -1056,7 +1056,7 @@
         "Output",
         "Memory"
       ],
-      "correct_option": 3
+      "correct_option": 4
     },
     {
       "id": "q97",
@@ -1133,7 +1133,7 @@
         "DVDs",
         "Hard Disk Drive"
       ],
-      "correct_option": 1
+      "correct_option": 4
     },
     {
       "id": "q104",
@@ -1192,7 +1192,7 @@
     },
     {
       "id": "q109",
-      "question": "How many 30 bit SIMMS are required to populate a bank on a 486 system that has a 32 bit data bus?",
+      "question": "How many 30 pin SIMMS are required to populate a bank on a 486 system that has a 32 bit data bus?",
       "options": [
         "2",
         "3",
@@ -1265,7 +1265,7 @@
         "Quick access",
         "All of these"
       ],
-      "correct_option": 4
+      "correct_option": 2
     },
     {
       "id": "q116",
@@ -1287,7 +1287,7 @@
         "A read only medium",
         "An expensive storage medium"
       ],
-      "correct_option": 4
+      "correct_option": 2
     },
     {
       "id": "q118",
@@ -1359,12 +1359,12 @@
       "id": "q124",
       "question": "1 GB=……. KB.",
       "options": [
-        "210",
-        "220",
-        "230",
-        "240"
+        "1048576",
+        "1024",
+        "8",
+        "65536"
       ],
-      "correct_option": 2
+      "correct_option": 1
     },
     {
       "id": "q125",
@@ -1734,7 +1734,7 @@
       "question": "1 GB is equal to ______.",
       "options": [
         "230 bits",
-        "230 bytes",
+        "2024 mega bytes",
         "220 bits",
         "220 bytes"
       ],
@@ -1753,7 +1753,7 @@
     },
     {
       "id": "q160",
-      "question": "Which is the correct sequence of memories according to their Sizes ?",
+      "question": "Which is the correct sequence of memories according to their Sizes (increasing) ?",
       "options": [
         "Register, Disk , RAM",
         "Register, RAM, Disk",
