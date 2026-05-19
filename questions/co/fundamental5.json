@@ -1,0 +1,1216 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer Fundamentals MCQ - Software and Programming Languages",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Antivirus software is also known as ….….",
+      "options": [
+        "Operating system",
+        "Application",
+        "Utility",
+        "Malware"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q2",
+      "question": "OS, editors & debuggers are types of software",
+      "options": [
+        "Application software",
+        "System Software",
+        "Utilities",
+        "None of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "Which is not software?",
+      "options": [
+        "OS programs",
+        "Application program",
+        "Drivers",
+        "Decoder"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "The Integrated programs that support to run computer smoothly is called………. software.",
+      "options": [
+        "Utility",
+        "System",
+        "Application",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q5",
+      "question": "Which language is understood by computer easily?",
+      "options": [
+        "High level",
+        "Assembly",
+        "Machine",
+        "Natural"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q6",
+      "question": "The Integrated program that is used to manage hardware and other programs in computer system is called……….",
+      "options": [
+        "Utility",
+        "Debugger",
+        "Application",
+        "Operating system"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "A software designed to meet the user requirement is …",
+      "options": [
+        "System software",
+        "Application Software",
+        "Utility Software",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "Which is the Language that the computer can understand directly?",
+      "options": [
+        "High Level Language",
+        "Machine Language",
+        "System Program",
+        "Assembly Language"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q9",
+      "question": "A computer generates the information that is used by……..",
+      "options": [
+        "A technician",
+        "An end user",
+        "A specialist",
+        "A Programmer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "COBOL language is used for ………………….",
+      "options": [
+        "Scientific applications",
+        "Business applications",
+        "Marketing Application",
+        "Mathematics application"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "Which programming languages are classified as low level language?",
+      "options": [
+        "Assembly language",
+        "English",
+        "Basic",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "Which program does not remove viruses from the computer?",
+      "options": [
+        "Oracle",
+        "F-Prot",
+        "NAV",
+        "AVG"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "MIS is designed to provide information needed for effective decision making by?",
+      "options": [
+        "Consumers",
+        "Workers",
+        "Managers",
+        "Foremen"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Basic is …. language;",
+      "options": [
+        "an object oriented",
+        "A procedural",
+        "Both A & B",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q15",
+      "question": "OS, editors & debuggers are types of software",
+      "options": [
+        "Application software",
+        "System Software",
+        "Utilities",
+        "None of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "What are the stages in the compilation process?",
+      "options": [
+        "Feasibility study, System design and testing",
+        "Lexical analysis, syntax analysis and code generation",
+        "Implementation and documentation",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "What is the first stage in software development?",
+      "options": [
+        "System analysis",
+        "Programming",
+        "Debugging",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "What is system analysis?",
+      "options": [
+        "System Analysis involves creating formal model of the program to be solved",
+        "Writing a Program",
+        "Testing a Program",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "A compiler….",
+      "options": [
+        "is a part of software",
+        "is a computer program",
+        "Translate a high level language into machine language",
+        "None of these"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "Computer software includes;",
+      "options": [
+        "OS programs",
+        "Application program",
+        "Packaged program",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "Machine language…",
+      "options": [
+        "Is the language in which programs were first written",
+        "Is the only language understood by the computer",
+        "Differs from one type of computer to another",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q22",
+      "question": "Assembly language….",
+      "options": [
+        "is the easiest language to write programs",
+        "uses alphabetic codes in place of binary numbers used in machine language",
+        "need not be translated into machine language",
+        "None of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "A source program is…….",
+      "options": [
+        "A program to be translate into machine language",
+        "A program written in a machine language",
+        "A machine language translation of a program written in a",
+        "None of these"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "Which is the valid program to access the Internet?",
+      "options": [
+        "Access",
+        "Front Page",
+        "Netscape",
+        "Windows Explorer"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "Animator,3D Studio, Coral draw and Flash are…….",
+      "options": [
+        "Word Processor",
+        "Multimedia S/W",
+        "Spreadsheet Packages",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "What do you call the rules of programming language?",
+      "options": [
+        "Semantic",
+        "Syntax",
+        "Logical",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "……….. Transforms one interface into another interface;",
+      "options": [
+        "Software",
+        "Program",
+        "Data",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Who is the founder of BSD UNIX?",
+      "options": [
+        "Lars Ellison",
+        "Bill gaes",
+        "Bill Joy",
+        "Linux Torvalds"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "Who is the founder of Oracle Corporation?",
+      "options": [
+        "Lars Ellison",
+        "Bill Gates",
+        "Andrew S Grove",
+        "Marc Anderson"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "What is the name of the software that allows us to browse through web page s called?",
+      "options": [
+        "Mail client",
+        "FTP client",
+        "Browser",
+        "Messenger"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "Macromedia is a name of a company related with……..",
+      "options": [
+        "Software",
+        "Hardware",
+        "Peripherals",
+        "Services"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "Direct X is a …..",
+      "options": [
+        "Software that drives Graphic hardware",
+        "Computer Part",
+        "A User Interface",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "When you purchase a product over a mobile phone. the transaction is called…….",
+      "options": [
+        "m-commerce",
+        "E-Commerce",
+        "Web Commerce",
+        "Mobile Purchases"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "Programs are executed on the basis of a priority number in a;",
+      "options": [
+        "Batch processing system",
+        "Multiprocessing",
+        "Time Sharing",
+        "Note of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "The …… is not formal enough to be implemented directly in a programming language;",
+      "options": [
+        "ER model",
+        "Object oriented data model",
+        "Object oriented model",
+        "Analysis models"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "VIRUS stands for",
+      "options": [
+        "Very Important Resource Under Search",
+        "Verify Interchange Result Until Source",
+        "Virtual Information Resource Under Seize",
+        "Very Important Record User Searched"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q37",
+      "question": "Swapping…….",
+      "options": [
+        "Allows each program in turn to use the memory",
+        "Works best with many small partitions",
+        "Allows each program in turn to use the memory",
+        "Does not work with overlaying"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "Page stealing;",
+      "options": [
+        "Is taking page frames from other working sets",
+        "Is a sign an efficient system",
+        "Should be the tuning goal",
+        "Is taking larger disk spaces for pages paged out"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "Which of the following program is not a utility?",
+      "options": [
+        "Editor",
+        "Spooler",
+        "Debugger",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q40",
+      "question": "What does virus do in a computer?",
+      "options": [
+        "Destruction of the file allocation table",
+        "Erasing of specific program or data from disk",
+        "Occupy the Space of RAM",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q41",
+      "question": "Which of the following is not a programming language?",
+      "options": [
+        "LOTUS",
+        "COBOL",
+        "PASCAL",
+        "FORTRAN"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "Editor is a/an ____",
+      "options": [
+        "Application Software",
+        "System Software",
+        "Utility Software",
+        "All Purpose Software"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "Which of the following is NOT a computer programming language?",
+      "options": [
+        "C",
+        "C++",
+        "Java",
+        "Microsoft"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "Microsoft Office is",
+      "options": [
+        "Shareware",
+        "Public-domain software",
+        "Open-source software",
+        "An application suite"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "Which of the following computer a language is a mathematically oriented language used for scientific problems?",
+      "options": [
+        "FORTRAN",
+        "COBOL",
+        "LISP",
+        "PROLOG"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "The _____ of a system includes the programs or instructions",
+      "options": [
+        "Hardware",
+        "Icon",
+        "Information",
+        "Software"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q47",
+      "question": "The primary purpose of software is to turn data into _____",
+      "options": [
+        "Web sites",
+        "Information",
+        "Programs",
+        "Objects"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q48",
+      "question": "A _____ contains specific rules and words that express the logical steps of an algorithm.",
+      "options": [
+        "Syntax",
+        "Programming structure",
+        "Programming language",
+        "Logic chart"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q49",
+      "question": "What is the process of copying software programs from secondary storage media to the hard disk called?",
+      "options": [
+        "Configuration",
+        "Download",
+        "Storage",
+        "Installation"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q50",
+      "question": "The first computers were programmed using _____",
+      "options": [
+        "Assembly language",
+        "Machine language",
+        "Source code",
+        "Object code"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q51",
+      "question": "_____is the process of finding errors in software code.",
+      "options": [
+        "Compiling",
+        "Testing",
+        "Running",
+        "Debugging"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q52",
+      "question": "Application software",
+      "options": [
+        "Is used to control the operating system",
+        "is designed to help programmers",
+        "Performs specific task for computer users",
+        "is used for making design only"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q53",
+      "question": "A set instructions telling the computer what to do is called",
+      "options": [
+        "Mentor",
+        "Instructor",
+        "Compiler",
+        "Program"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q54",
+      "question": "Which out of the following is not DBMS software?",
+      "options": [
+        "dBASE",
+        "C",
+        "ORACLE",
+        "SyBase"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q55",
+      "question": "A single application that combines the major features of several types of applications is called",
+      "options": [
+        "Integrated software",
+        "Suite",
+        "A combo package",
+        "High-end"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q56",
+      "question": "_____ are words that a programming language has set aside for its own use.",
+      "options": [
+        "Control words",
+        "Reserved words",
+        "Reserved keys",
+        "Control structure"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q57",
+      "question": "A(n) _____ is a program that makes the computer easier to use.",
+      "options": [
+        "Operating system",
+        "Application",
+        "Utility",
+        "Network"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q58",
+      "question": "A flaw in a program that causes it to produces incorrect or in appropriate results is called a _____",
+      "options": [
+        "Bug",
+        "Byte",
+        "Attribute",
+        "Unit problem"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q59",
+      "question": "Copyrighted software that can be used for free is:",
+      "options": [
+        "Shareware",
+        "Freeware",
+        "Groupware",
+        "E-mail"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q60",
+      "question": "Word processing spread sheet, and photo–editing are examples of _____",
+      "options": [
+        "Application software",
+        "System software",
+        "Operating system software",
+        "Platform software"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q61",
+      "question": "System software does all of the following EXCEPT:",
+      "options": [
+        "Help run the computer.",
+        "Coordinate instructions between application software and the computer’s hardware devices.",
+        "Help manage system resources.",
+        "Add graphics and pictures to files."
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q62",
+      "question": "What is correcting errors in a program called?",
+      "options": [
+        "Interpreting",
+        "Translating",
+        "Debugging",
+        "Compiling"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q63",
+      "question": "A Program designed to destroy data on your computer which can travels to “infect” other computers is called a _____",
+      "options": [
+        "Disease",
+        "Torpedo",
+        "Hurricane",
+        "Virus"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q64",
+      "question": "____is a set of keywords, symbols and a system of rules for constructing statements by which humans can communicate the instructions to be executed by a computer.",
+      "options": [
+        "A computer program",
+        "A programming language",
+        "An assemble",
+        "Syntax"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q65",
+      "question": "This can be another word for program",
+      "options": [
+        "Software",
+        "Disk",
+        "Floppy",
+        "Hardware"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q66",
+      "question": "The person who writes and tests computer programs is called a",
+      "options": [
+        "Programmer",
+        "Computer scientist",
+        "Software engineer",
+        "Project developer"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q67",
+      "question": "The two major categories of software include",
+      "options": [
+        "Operating system and utility",
+        "personal productivity and system",
+        "System software and application software",
+        "System and utility"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q68",
+      "question": "A _____ contains specific rules and words that express the logical steps of an algorithm.",
+      "options": [
+        "Programming language",
+        "programming structure",
+        "Syntax",
+        "logic chart"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q69",
+      "question": "A _____ is a design tool that graphically shows the logic in a solutions algorithm.",
+      "options": [
+        "Flowchart",
+        "Hierarchy chart",
+        "Structure chart",
+        "Context diagram"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q70",
+      "question": "What is the name for the process that is used to convert a series of instructions, or program, written in a high–level language into instructions (or a program) that can be run on a computer?",
+      "options": [
+        "Assembling",
+        "Compiling",
+        "Translating",
+        "Uploading"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q71",
+      "question": "A _____ converts all the statements in a program in a single batch and the resulting collection of instructions is placed in a new file.",
+      "options": [
+        "Converter",
+        "Compiler",
+        "Interpreter",
+        "Instruction"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q72",
+      "question": "A set of computer programs that helps a computer monitor itself and function more efficiently is a/an _____",
+      "options": [
+        "Windows",
+        "System Software",
+        "DBMS",
+        "Application Software"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q73",
+      "question": "Another word for software is",
+      "options": [
+        "Input",
+        "output",
+        "program",
+        "system"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q74",
+      "question": "Computer programs are written in a high–level programming language. However, the human–readable version of a program is called _____",
+      "options": [
+        "Cache",
+        "Instruction set",
+        "Source code",
+        "Word size"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q75",
+      "question": "The software tools that enable a user to interact with a computer for specific purposes are known as __.",
+      "options": [
+        "Hardware",
+        "Network Software",
+        "Shareware",
+        "Applications"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q76",
+      "question": "Antivirus software is an example of _____",
+      "options": [
+        "Business software",
+        "An operating system",
+        "A security utility",
+        "An office suite"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q77",
+      "question": "Compilers and translators are one form of _____.",
+      "options": [
+        "ROM",
+        "RAM",
+        "Hard disk",
+        "Software"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q78",
+      "question": "All of the followings are included in typical computer programming language which are in use currently EXCEPT.",
+      "options": [
+        "C++",
+        "Java",
+        "Visual Basic NET",
+        "Machine language"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q79",
+      "question": "System software does all of the following EXCEPT:",
+      "options": [
+        "Help run the computer.",
+        "Coordinate instructions between application software and the computer’s hardware devices.",
+        "Help manage system resources.",
+        "Add graphics and pictures to files."
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q80",
+      "question": "Software refers to a set of instructions that tells the computer what to do. These instruction sets are called:",
+      "options": [
+        "Programs",
+        "databases",
+        "peripherals",
+        "devices"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q81",
+      "question": "Microsoft Outlook and Lotus Organizer are examples of ____ software.",
+      "options": [
+        "Presentation",
+        "personal information manager (PIM)",
+        "database",
+        "communication"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q82",
+      "question": "Software designed for a specific industry is known as ____ software.",
+      "options": [
+        "Multimedia",
+        "general business",
+        "project management",
+        "vertical market"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q83",
+      "question": "QuarkXPress and Adobe InDesign are examples of _____ software.",
+      "options": [
+        "Image-editing",
+        "word processing",
+        "video-editing",
+        "desktop publishing"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q84",
+      "question": "Which is a true for compiler?",
+      "options": [
+        "it is a language processor",
+        "It translates the entire source code into object code at once",
+        "It is a system software",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q85",
+      "question": "Which of the following tools is not normally used during system analysis?",
+      "options": [
+        "Program flow Chart",
+        "Grid Chart",
+        "System Flow Chart",
+        "Question Check-list"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q86",
+      "question": "Computer-aided design (CAD) software can do all of the following EXCEPT:",
+      "options": [
+        "Design and create a Web page.",
+        "Allow engineers to build virtual models.",
+        "Allow engineers to create automated designs and model visualizations.",
+        "Work in conjunction with global positioning (GPS) systems."
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q87",
+      "question": "An application program has which one of the following functions?",
+      "options": [
+        "It specifies the information processing procedures required by a particular information processing job",
+        "It controls the input/output and storage functions of the computer system",
+        "It provides various support services for the computer system",
+        "It supervises the operations of the CPU"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q88",
+      "question": "Word processing, spreadsheet, and photo–editing are example of:",
+      "options": [
+        "Application software",
+        "System software",
+        "Operating system software",
+        "Platform software"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q89",
+      "question": "When a file contains instructions that can be carried out by the computer, it is often called a(n) _____ file.",
+      "options": [
+        "Data",
+        "information",
+        "executable",
+        "application"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q90",
+      "question": "C, BASIC, COBOL, and Java are examples of _____ languages.",
+      "options": [
+        "Low-level",
+        "Computer",
+        "System programming",
+        "High -level"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q91",
+      "question": "A collection of instructions is called….?",
+      "options": [
+        "Command",
+        "program",
+        "software",
+        "Shareware"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q92",
+      "question": "Which is the least level language?",
+      "options": [
+        "Assembly",
+        "Machine",
+        "Basic language",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q93",
+      "question": "The …..bridge between user and hardware.",
+      "options": [
+        "Application software",
+        "System Software",
+        "Tailor software",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q94",
+      "question": "The Integrated program that performs the user related task is called………. software.",
+      "options": [
+        "Utility",
+        "System",
+        "Application",
+        "All"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q95",
+      "question": "The Kaspersky Antivirus programs is also called a …………….",
+      "options": [
+        "Shareware",
+        "Freeware",
+        "Netware",
+        "Firmware"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q96",
+      "question": "Which one is the system software?",
+      "options": [
+        "Device driver",
+        "Operating system",
+        "Translator",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q97",
+      "question": "Which language is machine independent?",
+      "options": [
+        "High level",
+        "Assembly",
+        "Machine",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q98",
+      "question": "The system software that translates a source code into object code is…..",
+      "options": [
+        "Assembler",
+        "Compiler",
+        "Interpreter",
+        "Language processor"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q99",
+      "question": "Which is also known as commercial software?",
+      "options": [
+        "Driver software",
+        "Packaged software",
+        "system software",
+        "Shareware software"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q100",
+      "question": "Which language is(are) machine dependent?",
+      "options": [
+        "Machine Language",
+        "High level Language",
+        "Low level Language",
+        "Both a and c"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q101",
+      "question": "Which one is the Low level language?",
+      "options": [
+        "Visual Basic",
+        "C++",
+        "Java",
+        "Assembly language"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q102",
+      "question": "An interpreter is......",
+      "options": [
+        "An interpreter does the conversion line by line as the program is run",
+        "An Interpreter is a general purpose language providing very efficient execution",
+        "An Interpreter is the Representation of the system being designed",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q103",
+      "question": "A compiler is........",
+      "options": [
+        "A program which translates from one high level to a machine level language",
+        "A combination of computer hardware",
+        "A program which translates from high-level language to another",
+        "None of these"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q104",
+      "question": "What do you call the translator which takes assembly language program as input and products machine language code as output?",
+      "options": [
+        "Interpreter",
+        "Compiler",
+        "Assembler",
+        "Debugger"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q105",
+      "question": "What is the compiler?",
+      "options": [
+        "A compiler converts the whole of the higher level program code into machine code in one step.",
+        "A Compiler does a conversion line by line as the program is run",
+        "A compiler is a general purpose language providing very efficient execution",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q106",
+      "question": "FORTRAN programming language is more suitable for …..",
+      "options": [
+        "Scientific applications",
+        "Business applications",
+        "Marketing Application",
+        "All"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q107",
+      "question": "COBOL programming language is more suitable for …..",
+      "options": [
+        "Scientific applications",
+        "Business applications",
+        "Marketing Application",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q108",
+      "question": "Which of the following is a programming language?",
+      "options": [
+        "Pascal",
+        "Lotus",
+        "MS-Excel",
+        "Netscape"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q109",
+      "question": "Algorithm & Flow chart helps us to;",
+      "options": [
+        "Specify the problem completely and clearly",
+        "Know the memory capacity",
+        "Identify the base of a number system",
+        "Direct the output to a printer"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q110",
+      "question": "What do you call the program that is used to find out possible faults and their causes?",
+      "options": [
+        "Antivirus",
+        "Diagnostic software",
+        "System Repair tools",
+        "None of above"
+      ],
+      "correct_option": 2
+    }
+  ]
+}
