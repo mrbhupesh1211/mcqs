@@ -33,7 +33,7 @@
         "All of them Essential",
         "not of above required"
       ],
-      "correct_option": 3
+      "correct_option": 1
     },
     {
       "id": "q4",
@@ -132,7 +132,7 @@
         "Current ray technology",
         "Cathode ray technology"
       ],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q13",
@@ -242,7 +242,7 @@
         "PPM",
         "CPM"
       ],
-      "correct_option": 1
+      "correct_option": 3
     },
     {
       "id": "q23",
@@ -770,7 +770,7 @@
         "All of them Essential",
         "not of above required"
       ],
-      "correct_option": 3
+      "correct_option": 1
     },
     {
       "id": "q71",
@@ -1034,7 +1034,7 @@
         "PPM",
         "CPS"
       ],
-      "correct_option": 1
+      "correct_option": 3
     },
     {
       "id": "q95",
