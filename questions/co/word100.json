@@ -42,7 +42,7 @@
       "id": "q7",
       "question": "How many columns can you insert in a word document in maximum?",
       "options": ["35", "45", "55", "65"],
-      "correct_option": 4
+      "correct_option": 2
     },
     {
       "id": "q8",
@@ -176,7 +176,7 @@
       "id": "q26",
       "question": "In mail merge, main document might be:",
       "options": ["Sales brochure", "Form letter", "Database", "All of above"],
-      "correct_option": 1
+      "correct_option": 2
     },
     {
       "id": "q27",
