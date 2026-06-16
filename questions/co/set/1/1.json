@@ -1,0 +1,534 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer operator - 2059",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which is a spreadsheet package?",
+      "options": [
+        "Lotus",
+        "Excel",
+        "Quattro Pro",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q2",
+      "question": "What is the shortcut key for row hide?",
+      "options": [
+        "Ctrl+9",
+        "ctrl+f9",
+        "Shift+f9",
+        "ctrl+shift+9"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q3",
+      "question": "What is the function of network neighborhood?",
+      "options": [
+        "Navigate shared",
+        "folder in network",
+        "Shared computers in Network",
+        "None of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q4",
+      "question": "What is the function of Recycle bin?",
+      "options": [
+        "Store deleted file",
+        "Store Temporary file",
+        "Store Corrupted file",
+        "Store Document file"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "What is the Shortcut key for Superscript?",
+      "options": [
+        "Ctrl +=",
+        "ctrl ++",
+        "Ctrl + shift +=",
+        "ctrl + shift ++"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q6",
+      "question": "How many sheets are there in Excel workbook?",
+      "options": [
+        "3 b many c. 2 d. 1 7. What is the function of folder? a. Save files",
+        "Delete Files",
+        "Move files",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "Which command is not an Internal Command?",
+      "options": [
+        "DIR",
+        "EDIT",
+        "CD",
+        "CLS"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q9",
+      "question": "Which will be the title in words to save summary (status)?",
+      "options": [
+        "Summary Info",
+        "Summary Information",
+        "Summary",
+        "Sum Information"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "Which of the Drop down list?",
+      "options": [
+        "List",
+        "Combo box",
+        "Text Box",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "In which O/S can you give smallest file name?",
+      "options": [
+        "PS/2",
+        "DOS",
+        "Windows",
+        "windows NT"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "Which is the latest version of MSWord?",
+      "options": [
+        "Word XP",
+        "Windows XP",
+        "Windows 2000",
+        "Word 97"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "What is the function of Radio buttons?",
+      "options": [
+        "To select Multiple option",
+        "To select single option",
+        "To select all option",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "How do you connect Internet into your system.",
+      "options": [
+        "My Computer/Dialup networking",
+        "Control Panel/Modem",
+        "Network Neighborhood",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "What happen when selecting record presses delete key?",
+      "options": [
+        "Row will be deleted",
+        "Content will be deleted",
+        "Row moves one step up",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "Which device can not be shared in Network?",
+      "options": [
+        "Floppy",
+        "Keyboard",
+        "Computer",
+        "Printer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "What is the purpose of Query?",
+      "options": [
+        "Input data",
+        "Output data",
+        "Filter & sort",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q18",
+      "question": "Which port doesn’t exist in Computer?",
+      "options": [
+        "USB",
+        "Parallel",
+        "COM 1/ COM 2",
+        "none"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q19",
+      "question": "Database utility exist in——Menu.",
+      "options": [
+        "Format",
+        "Tools",
+        "File",
+        "Edit 2 / Question Bank"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "Which command doesn’t exist in DOS?",
+      "options": [
+        "Sum",
+        "CLS",
+        "CD",
+        "DIR"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "In which generation transistor was used.",
+      "options": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "Number increment is done by.",
+      "options": [
+        "Auto number",
+        "Auto increment",
+        "Auto cad",
+        "Auto increase"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "After copying how many times can you paste the content?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "many"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q24",
+      "question": "What is the function of workspace.",
+      "options": [
+        "Contain multiple workbook",
+        "Contain multiple worksheet",
+        "Contain multiple cells",
+        "All"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "What is the name of Excel File?",
+      "options": [
+        "Workbook",
+        "Worksheet",
+        "Spread Sheet",
+        "Spread Book"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which is the function of relationship?",
+      "options": [
+        "Relate Multiple tables",
+        "Relate multiple form",
+        "Relate table and form",
+        "Relate queries and forms"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "1 nibble contains—— bit",
+      "options": [
+        "8 bits",
+        "3 bits",
+        "1 byte",
+        "4 bit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q28",
+      "question": "OLE means.",
+      "options": [
+        "Open Linking and Embedding",
+        "Object linking and embedding",
+        "Objective Linking and Embedding",
+        "Open Link and End"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "In which object sql is used.",
+      "options": [
+        "Query",
+        "form",
+        "Report",
+        "Macro"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "Workgroup means",
+      "options": [
+        "Computers in network",
+        "Individual user",
+        "Individual user",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "Outline view is used to",
+      "options": [
+        "show Chapter wisewt heading",
+        "show Heading",
+        "show Content",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "What happens when you cut in excel",
+      "options": [
+        "The content of cell will be removed after paste",
+        "The value of cell will be remained after paste",
+        "The Content of cell will not be removed",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "What should you used to create Newspaper Style?",
+      "options": [
+        "Column",
+        "Bullet & Numbering",
+        "Tab",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "Which data type doesn’t exist in access?",
+      "options": [
+        "Number",
+        "Picture",
+        "Memo",
+        "Text"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "Synonym can be reviewed with",
+      "options": [
+        "Spelling & Grammar",
+        "Thesaurus",
+        "Both",
+        "Synonym Viewer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "Which device will process data?",
+      "options": [
+        "RAM",
+        "CPU",
+        "Hard disk",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q37",
+      "question": "In which data will be erased as power supply is off.",
+      "options": [
+        "RAM",
+        "ROM",
+        "PROM",
+        "EPROM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "Data store in",
+      "options": [
+        "Floppy",
+        "Hard disk",
+        "Tape",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q39",
+      "question": "Which files is (are) most essential in every computer?",
+      "options": [
+        "IO.sys",
+        "MSDOS.sys",
+        "Comman",
+        "com d. All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "Paper orientation can be change from",
+      "options": [
+        "Page setup/paper size",
+        "Property",
+        "Print/ layout",
+        "Print preview"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "Category is written in—",
+      "options": [
+        "X-axis",
+        "Y-axis",
+        "Both",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "What is there in Record?",
+      "options": [
+        "Collection of fields",
+        "Collection of number",
+        "Collection of Rows",
+        "All Question Bank / 3"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "Which command is used to create a directory?",
+      "options": [
+        "CHDIR",
+        "Make dir",
+        "Mkdir",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q44",
+      "question": "What operation is not permitted by query?",
+      "options": [
+        "Delete",
+        "Entry",
+        "Modify",
+        "Create table"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q45",
+      "question": "Which is not related with Database?",
+      "options": [
+        "Table",
+        "Query",
+        "Form",
+        "Macro"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q46",
+      "question": "What is the full form of ISP?",
+      "options": [
+        "Internet Service Provider",
+        "Internet Server Provider",
+        "Internal Service Provider",
+        "International Service Provider"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "Which is the Web Browser?",
+      "options": [
+        "Netscape Navigator",
+        "Windows explore",
+        "Outlook Express",
+        "Google.com"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q48",
+      "question": "Which is the search engine?",
+      "options": [
+        "Google.com",
+        "Hotmail.com",
+        "Internet.com",
+        "Find.com"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q49",
+      "question": "What will do by filter?",
+      "options": [
+        "Display the records that meet the criteria",
+        "Display only one record to delete",
+        "Modify all the records at once",
+        "All of the above"
+      ],
+      "correct_option": 1
+    }
+  ]
+}
