@@ -1,0 +1,666 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Kathmandu metro Computer operator - 2063",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "In network system, common information is stored in",
+      "options": [
+        "Client",
+        "Server",
+        "Workstation",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "WWW stands for ….",
+      "options": [
+        "World wide word",
+        "World wide web",
+        "World wide wage",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following is a Network operating system?",
+      "options": [
+        "Windows NT",
+        "Windows 95",
+        "Windows 98",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following is not required in Local Area Network?",
+      "options": [
+        "RJ-45",
+        "PC",
+        "HUB",
+        "Telephone"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following software is used for E-mail?",
+      "options": [
+        "Word",
+        "Outlook",
+        "Excel",
+        "Pagemaker"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "The capacity of 3.5” floppy is …..",
+      "options": [
+        "1.44KB",
+        "1.44 MB",
+        "1.44 GB",
+        "1.44 Byte"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "Computer is an ….. Machine.",
+      "options": [
+        "Electrician",
+        "Mechanical",
+        "Engineering",
+        "Electronic"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q8",
+      "question": "Keyboard is …. of computer.",
+      "options": [
+        "output device",
+        "software device",
+        "hardware device",
+        "all of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "PROM stands for ……………",
+      "options": [
+        "Programming ready on memory",
+        "Programmable read only memory",
+        "Package read only memory",
+        "programmable ready on memory"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "The sound pictures and video clips are known as ……",
+      "options": [
+        "media clips",
+        "animation",
+        "transition",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "Auto-correct is ………..",
+      "options": [
+        "check spell",
+        "find the synonyms",
+        "type automatically",
+        "correct automatically"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q12",
+      "question": "Slide layout ……….. to the prepared slide.",
+      "options": [
+        "could be applied",
+        "could not be applied",
+        "could be copied",
+        "could not be copied"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Master slide is to ………..",
+      "options": [
+        "correct all the slides to the different formats",
+        "create all the slides to the same format",
+        "copy all the slides to the same format",
+        "paste all the slides to the different format"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "Media clips is used for …………",
+      "options": [
+        "best colour match",
+        "best slide shape",
+        "wake up the audience",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Multimedia includes…..",
+      "options": [
+        "text, audio, video, sound, object",
+        "audio & video",
+        "Audio, video & game",
+        "none of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "To change the selected text from lowercase to uppercase, the shortcut key is used..",
+      "options": [
+        "Shift+F1",
+        "Shift+F2",
+        "Shift+F3",
+        "Shift+F4"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "Drag and drop method is best process of repositioning",
+      "options": [
+        "Text & Page",
+        "Object & Page",
+        "Object only",
+        "Object & text"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q18",
+      "question": "Bookmark is used to ………….",
+      "options": [
+        "mark text or location in the document 26 / Question Bank",
+        "mark text and document",
+        "mark text and page of document",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "Which of the following item is not printed with document unless you specify?",
+      "options": [
+        "footnote",
+        "header & footer",
+        "endnote",
+        "comment"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q20",
+      "question": "Managing attached data source file with text of message of main document window is simply called…",
+      "options": [
+        "Data merging",
+        "Document merging",
+        "file merging",
+        "Mail merging"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "If you have to divide one column / row into two or more than two columns or rows is called…",
+      "options": [
+        "split table",
+        "split cell",
+        "merge cells",
+        "merge table"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "Distance between left margin and paragraph text is simply called…",
+      "options": [
+        "tab",
+        "gutter",
+        "indent",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "Macro is used to record…….",
+      "options": [
+        "Sequential key strokes",
+        "document information",
+        "summary information",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "The shortcut key Shift+Ctrl+End is used to .",
+      "options": [
+        "select text from the insertion point to the end of document",
+        "Select whole document",
+        "select single paragraph text",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "Oracle and Ms access are …….",
+      "options": [
+        "spreadsheet",
+        "RDBMS",
+        "Operating system",
+        "Utility"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "The main output object of MS access is..",
+      "options": [
+        "Table",
+        "Macro",
+        "Report",
+        "Module"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q27",
+      "question": "The extension of dBase data file is …",
+      "options": [
+        ".exe",
+        ".mdb",
+        ".dbf",
+        ".ndx"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "The extension of MS access data file is .",
+      "options": [
+        ".mdx",
+        ".mdb",
+        ". dbf",
+        ".ndx"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "Browse means to ……",
+      "options": [
+        "display continuously",
+        "update continuously",
+        "delete",
+        "input"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "We can select single column by pressing………",
+      "options": [
+        "Ctrl+Spacebar",
+        "Shift+Spacebar",
+        "Alt+Spacebar",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "Which of the following key is editing key in Excel?",
+      "options": [
+        "F1",
+        "F2",
+        "F3",
+        "F4"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q32",
+      "question": "A special marker that appears at the upper right corner of the active cell is called….",
+      "options": [
+        "text",
+        "formula",
+        "formula",
+        "comment"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "A graphical form of worksheet data is called……..",
+      "options": [
+        "Object",
+        "Comment",
+        "Formula",
+        "Chart"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q34",
+      "question": "Vertical alignment is used to adjust the text and numbers with the ……..",
+      "options": [
+        "current row height",
+        "current column width",
+        "both a & b",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "Windows explorer is to ………..",
+      "options": [
+        "operate the computer",
+        "Manage all hardware & Software",
+        "Manage files & folders",
+        "All of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q36",
+      "question": "What is paint brush?",
+      "options": [
+        "It is used to create text",
+        "it is used to create, edit, and view pictures",
+        "it is graphic and chart making software",
+        "all of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q37",
+      "question": "What is scandisk?",
+      "options": [
+        "It is used to write program",
+        "It is used to play game",
+        "it is used to destroy disk",
+        "it is used to fix logical errors"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q38",
+      "question": "What is Modem?",
+      "options": [
+        "An error message",
+        "A network tool",
+        "A personal computer",
+        "A communication device Question Bank / 27"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q39",
+      "question": "In Windows operating system, the size of file extension is …",
+      "options": [
+        "8",
+        "64",
+        "3",
+        "none of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q40",
+      "question": "If you copy files or folders, how many times can you paste the files and folders?",
+      "options": [
+        "many times",
+        "as long as power is on",
+        "until you copy other files",
+        "all of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q41",
+      "question": "What is cut and paste command?",
+      "options": [
+        "move",
+        "delete",
+        "copy",
+        "paste"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "BCC stands for…………",
+      "options": [
+        "Black carbon copy",
+        "Blank carbon copy",
+        "Balance carbon copy",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q43",
+      "question": "Which of the following is not an operating system?",
+      "options": [
+        "DOS",
+        "Windows",
+        "Linux",
+        "Office"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "Which of the following is not a type of ROM?",
+      "options": [
+        "PROM",
+        "Flash memory",
+        "EPROM",
+        "Virtual Memory"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "Which of the following is not a mass storage device?",
+      "options": [
+        "CDROM",
+        "RAM",
+        "Hard disk",
+        "Tape"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q46",
+      "question": "The data in memory survives as long as power is supplied.",
+      "options": [
+        "Non volatile memory",
+        "Volatile memory",
+        "Read only memory",
+        "Shared memory"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q47",
+      "question": "Machine readable code is in the form of",
+      "options": [
+        "1’s and 0’s",
+        "0’s, 1’s and 2’s",
+        "a to z, 0 to 9",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q48",
+      "question": "Which of the following software is not used for database design?",
+      "options": [
+        "MS access",
+        "Oracle",
+        "SQL server",
+        "Web Server"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "……….. is used to transfer address of data in the computer.",
+      "options": [
+        "CPU",
+        "Memory",
+        "Bus",
+        "External Device"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q50",
+      "question": "A half byte is known as …..",
+      "options": [
+        "Bug",
+        "nibble",
+        "Bus",
+        "½ Byte"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q51",
+      "question": "The arranging data in a logical sequence is called………..",
+      "options": [
+        "Classifying",
+        "Sorting",
+        "Summarizing",
+        "Reproducing"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q52",
+      "question": "A single binary integer consists of 1’s or 0’s is called a bit, how many bits are combined to form a byte?",
+      "options": [
+        "4",
+        "8",
+        "12",
+        "16"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q53",
+      "question": "What is the name given to the 8-bits unit used for data coding?",
+      "options": [
+        "Data set",
+        "Byte",
+        "Word",
+        "KB"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q54",
+      "question": "All modern computers operate on ..",
+      "options": [
+        "Diskette",
+        "information",
+        "Data",
+        "Words"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q55",
+      "question": "An error in computer data is called….",
+      "options": [
+        "Chip",
+        "Byte",
+        "Bug",
+        "Debug"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q56",
+      "question": "In a computer, all calculation are performed and all comparisons are made in …….. unit",
+      "options": [
+        "Control",
+        "Memory",
+        "Arithmetic – Logic",
+        "Register"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q57",
+      "question": "The ALU of a computer responds to the commands coming from",
+      "options": [
+        "Primary memory",
+        "Control unit",
+        "Register unit",
+        "Cache memory"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q58",
+      "question": "Presently, the most expensive component in a computer system is …",
+      "options": [
+        "hardware",
+        "Peripheral",
+        "Software",
+        "External storage"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q59",
+      "question": "A smart intelligence device is so called because it contains with in a ……..",
+      "options": [
+        "Computer",
+        "microprocessor",
+        "Programmable CPU",
+        "Sensor"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q60",
+      "question": "What is sum of -3 and -3 ?",
+      "options": [
+        "6",
+        "0",
+        "3",
+        "-6"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

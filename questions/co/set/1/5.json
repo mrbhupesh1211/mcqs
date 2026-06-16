@@ -1,0 +1,545 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer operator - 2061",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which one is the last column?",
+      "options": [
+        "II",
+        "IV",
+        "IX d VI 2. How many row in MS-excel? a. 65535 b. 65636 c. 66535",
+        "65536"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "Which one is odd?",
+      "options": [
+        "Binary",
+        "numeric",
+        "Character",
+        "External"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "Find sum (A1:A7), if A1=2, A23=5, A3=1, A4=3, A5=4, A6=1, A7=Blank.",
+      "options": [
+        "6",
+        "14",
+        "0",
+        "16"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q5",
+      "question": "Which short - cut key is used to insert chart?",
+      "options": [
+        "F10",
+        "F11 12 / Question Bank",
+        "F2",
+        "F8"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "Which one is easiest way to insert a chart?",
+      "options": [
+        "Select data->chart wizard",
+        "select data and press F11",
+        "insert->chart from menu",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "Best use of Ms-Excel is...",
+      "options": [
+        "Word processing",
+        "Spreadsheet management",
+        "Payroll & Balance Sheet",
+        "Data processing"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "The PowerPoint view that displays only text (title & text) is…",
+      "options": [
+        "Slide shows",
+        "Slide sorter view",
+        "Outline view",
+        "Note page view"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "Which feature is available in custom animation?",
+      "options": [
+        "Design template",
+        "Transition",
+        "Master slide",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "What is capacity of MF2DD 9 sector 80 track?",
+      "options": [
+        "360 KB",
+        "720KB",
+        "1.2MB",
+        "1.24MB"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "Which Standard is used for converting the keystroke into the corresponding bits?",
+      "options": [
+        "ASCII",
+        "EBCDIC",
+        "ANSI",
+        "ISO"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "When was first microprocessor developed?",
+      "options": [
+        "1991",
+        "1981",
+        "1971",
+        "1961"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q13",
+      "question": "To Display the content of the disk to use",
+      "options": [
+        "Format",
+        "Dir",
+        "Copy",
+        "WinZip"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "Which one is not operating system?",
+      "options": [
+        "Pl1",
+        "OS/2",
+        "Windows",
+        "Unix"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Which one is not multitasking operating system?",
+      "options": [
+        "Windows",
+        "Linux",
+        "Win NT",
+        "DOS"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "Which one is not hardware?",
+      "options": [
+        "Zip drive",
+        "Hard disk",
+        "Zip disk",
+        "NIC"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "Which one is odd?",
+      "options": [
+        "Monitor",
+        "Consol",
+        "Screen",
+        "Printer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "Which one is easily translation?",
+      "options": [
+        "Win 95 to 98",
+        "Win NT to 98",
+        "Win 2000 to 98",
+        "Win 95 to 3.1"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "How many ways can we go to control panel?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "Which is easiest method to go to MsDos?",
+      "options": [
+        "My computer",
+        "Go to DOS from start menu",
+        "Click on icon of desktop",
+        "Type command in Run dialog box"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "To print table structure is called",
+      "options": [
+        "Documenter",
+        "Generator",
+        "Analyzer",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "which object extracts the subset of data?",
+      "options": [
+        "Form",
+        "Field",
+        "Query",
+        "Report"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "If you have to send a same letter to 100 customers use",
+      "options": [
+        "Send document",
+        "Despatch document",
+        "Mail-Merge",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "Which type of Website is used for university library?",
+      "options": [
+        ".com",
+        ".net",
+        ".org",
+        ".edu"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q25",
+      "question": "Which option is not available in shut down dialog box?",
+      "options": [
+        "Stand by",
+        "Network",
+        "Restart",
+        "Restart in ms-dos mode"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "Which is not put in top of the page?",
+      "options": [
+        "Header",
+        "Footer",
+        "Picture",
+        "Page number"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "Which shortcut key is used undoing format?",
+      "options": [
+        "Ctrl+Q",
+        "Ctrl+Z",
+        "Ctrl+M",
+        "Ctrl+P"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "To set line spacing",
+      "options": [
+        "Format\\Paragraph toolbar",
+        "Format\\Paragraph\\Indent Question Bank / 13",
+        "Format\\Paragraph\\link",
+        "none of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "What is the name of vertical space of between two columns?",
+      "options": [
+        "Orientation",
+        "Margin",
+        "Alignment",
+        "Indentation"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q30",
+      "question": "Which one is used to locate the web address?",
+      "options": [
+        "Uniform resource locator",
+        "Universal reform location",
+        "united research line",
+        "universal resource language"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "Which is included in table?",
+      "options": [
+        "Record",
+        "Field",
+        "Index",
+        "All of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "Which one default sheet in Ms-excel?",
+      "options": [
+        "Sheet1/sheet2/sheet3",
+        "Sheet3/sheet2/sheet1",
+        "Sheet1",
+        "1/2/3"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "How many maximum pages is available in note page for printing?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q34",
+      "question": "Which extension is used in MsPowerPoint?",
+      "options": [
+        "PPT",
+        "POT",
+        "PPP",
+        "POP"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "What is maximum data size in MsAccess?",
+      "options": [
+        "1 GB",
+        "1.2GB",
+        "1.4 GB",
+        "2 GB"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "Which function is used to find the Reminder?",
+      "options": [
+        "avg()",
+        "div()",
+        "fact()",
+        "mod()"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "Form and Report is called",
+      "options": [
+        "Object",
+        "Field",
+        "Record",
+        "Column"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "Web style is ..............",
+      "options": [
+        "Content of the web page",
+        "Desktop style",
+        "Internet style",
+        "website style"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q39",
+      "question": "Which one is unique key?",
+      "options": [
+        "index key",
+        "foreign key",
+        "Assign a common field",
+        "primary key"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "To insert a form within a form is called …",
+      "options": [
+        "Sub Form",
+        "Query",
+        "Report",
+        "Form"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "Which of the following is input device?",
+      "options": [
+        "Floppy disk",
+        "Monitor",
+        "Printer",
+        "Keyboard"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q42",
+      "question": "Which protocol is used to connect Internet?",
+      "options": [
+        "TCP/IP",
+        "SPX",
+        "Telnet",
+        "gopher"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "Which is not system file of MSDOS?",
+      "options": [
+        "Io.sys",
+        "Msdos.sys",
+        "comman",
+        "com d. himem.sys"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "Chart wizard completes any chart with … steps.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q45",
+      "question": "Acronyms of CRT",
+      "options": [
+        "Computer Resource table",
+        "Cathode ray tube",
+        "Computer research tabulate",
+        "Command resource table"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q46",
+      "question": "Computer virus can not be contracted by",
+      "options": [
+        "Scanner",
+        "Email",
+        "Floppy",
+        "Internet"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "Hybrid computer is used in",
+      "options": [
+        "ATM",
+        "Petrol Pump",
+        "Railway",
+        "Jet Plane"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q48",
+      "question": "What is the shortcut key to hide row?",
+      "options": [
+        "Ctrl+F9",
+        "Ctrl+9",
+        "Ctrl+shift+9",
+        "Shift+9"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "Which is the most powerful computer?",
+      "options": [
+        "super computer",
+        "Main frame computer",
+        "Mini computer",
+        "Personal computer"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "A nibble contains …..bits.",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16 14 / Question Bank"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer operator - 2061",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which on is the Relational operator?",
+      "options": [
+        "=",
+        "+",
+        "*",
+        "/"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which formula is used to make multiple calculations?",
+      "options": [
+        "simple",
+        "complex",
+        "natural",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "To copy cell contents using drag and drop, press",
+      "options": [
+        "end",
+        "shift",
+        "esc",
+        "none"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "The auto fill feature is",
+      "options": [
+        "extend sequential series",
+        "Filling with same value",
+        "automatically adds a cell value",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "The excel formula start with……..",
+      "options": [
+        "+",
+        "=",
+        "/",
+        "*"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "The Ms Dos is the …..",
+      "options": [
+        "application software",
+        "hardware",
+        "system software",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q7",
+      "question": "The core of operating system is ……..",
+      "options": [
+        "Unix",
+        "Kernel",
+        "comman",
+        "com d. none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "Which command is used to list out deleted files in Dos?",
+      "options": [
+        "list",
+        "undelete /list",
+        "recover",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q9",
+      "question": "Which command allows you to create root directory and fat on disk?",
+      "options": [
+        "MD",
+        "Deltree",
+        "Format",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "Which command allows you to create a directory on root?",
+      "options": [
+        "MD",
+        "Deltree",
+        "Format",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "Which is the 1st generation language?",
+      "options": [
+        "Machine language",
+        "assembly language",
+        "high level language",
+        "Natural language"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "Presentation designs regulate the formatting and layout for the slide and are commonly called",
+      "options": [
+        "template",
+        "design plates",
+        "place holder",
+        "Blue print"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Who is the father of modern digital computer?",
+      "options": [
+        "Charles Babbage",
+        "Dr. Herman Hollerith",
+        "Joseph jacquard",
+        "John von Neumann"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q14",
+      "question": "The custom animation is located in the …………. menu.",
+      "options": [
+        "slide show",
+        "View",
+        "window",
+        "Tools"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "The transition time is measured in …..",
+      "options": [
+        "minutes",
+        "Seconds",
+        "Hour",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "Full form of BIOS…",
+      "options": [
+        "basic input output service",
+        "basic input output system",
+        "bus input -output system",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "The acronyms of RTF a Rich Text Format b. Red Text form c. Reach text format d. None 18. The sentence \"My father was write\"",
+      "options": [
+        "highlight the text write",
+        "blue color underline write",
+        "green color underline write",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "The default background color in page layout?",
+      "options": [
+        "white",
+        "Gray",
+        "Transparent",
+        "Green 10 / Question Bank"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "The shortcut key for thesaurus is…….",
+      "options": [
+        "F7",
+        "Shift+F7",
+        "Alt+F7",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "Which field allows you to add lengthy text?",
+      "options": [
+        "hyperlink",
+        "text",
+        "memo",
+        "OLE"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q22",
+      "question": "Which menu allows you to add date & time?",
+      "options": [
+        "edit",
+        "tools",
+        "format",
+        "insert"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q23",
+      "question": "The content of a excel cell is ……..",
+      "options": [
+        "32676",
+        "255",
+        "1024",
+        "32000"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q24",
+      "question": "Which is the default font in Excel ?",
+      "options": [
+        "Arial",
+        "Courier",
+        "Times New Roman",
+        "Preeti"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "Which is the largest computer?",
+      "options": [
+        "super computer",
+        "mini computer",
+        "mainframe computer",
+        "micro computer"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q26",
+      "question": "Which is the action query?",
+      "options": [
+        "append",
+        "update",
+        "cross tab",
+        "parameter"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "Which is an external command?",
+      "options": [
+        "format",
+        "copy",
+        "path",
+        "ren"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Which is not factor for screen resolution?",
+      "options": [
+        "Bandwidth",
+        "screen size",
+        "Pixel",
+        "Display adaptor"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "Which is input device?",
+      "options": [
+        "Plotter",
+        "printer",
+        "touch pad",
+        "monitor"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "Which operator is used to change drive?",
+      "options": [
+        ">",
+        "\\",
+        ":",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "The auto-sum button exists on …………toolbar.",
+      "options": [
+        "Standard",
+        "chart",
+        "formatting",
+        "drawing"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "Which network covers large area?",
+      "options": [
+        "LAN",
+        "WAN",
+        "MAN",
+        "VAN"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "1 TB = …………………",
+      "options": [
+        "1024 GB",
+        "1024 KB",
+        "1024MB",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "The ALU Stands for ………..",
+      "options": [
+        "Arithmetic logic unit",
+        "Automatic logic Unit",
+        "Auto Loan Unit",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "The primary key is ……….",
+      "options": [
+        "redundant key",
+        "unique key",
+        "index key",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "The number of default sheets in excel is ….",
+      "options": [
+        "3",
+        "16",
+        "5",
+        "15"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q37",
+      "question": "Which of the following is helps you to create or edit formula and also provide information about function ?",
+      "options": [
+        "Cell tip",
+        "Formula palette",
+        "standard toolbar",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q38",
+      "question": "The auto –Report generates the ……..report.",
+      "options": [
+        "simple",
+        "formatted",
+        "summary",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "Which memory is required to refresh?",
+      "options": [
+        "cache",
+        "DRAM",
+        "SRAM",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q40",
+      "question": "Which is an operating system?",
+      "options": [
+        "DOS",
+        "UNIX",
+        "Windows",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q41",
+      "question": "What are line, curve, freeform and scribble?",
+      "options": [
+        "Emphasis effects that can be applied to animation",
+        "Types of custom motion path",
+        "Predefined entrance and exit effect",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "How can you see the system date on your computer?",
+      "options": [
+        "date",
+        "display date",
+        "system Date",
+        "All of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "Which of the following is the strategy of information technology policy 2057?",
+      "options": [
+        "The government shall act as a promoter, facilitator and regulator",
+        "E-commerce shall be promoted with legal provision Question Bank / 11",
+        "IT shall be used to assist e-governance",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "The range of cells from which you want to count cells that meet the criteria is .",
+      "options": [
+        "if count",
+        "count if",
+        "sum if",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q45",
+      "question": "Which is the command type in DOS?",
+      "options": [
+        "Internal",
+        "External",
+        "both a & b",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q46",
+      "question": "What are the components inside the hard disk?",
+      "options": [
+        "Sector",
+        "Partition",
+        "Tracks",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q47",
+      "question": "The process or starting or restarting a computer by loading the system files from secondary memory into the primary memory is called…",
+      "options": [
+        "booting",
+        "Startup",
+        "bootstrapping",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q48",
+      "question": "Which of the following is a word processor?",
+      "options": [
+        "MS word",
+        "word star",
+        "Word perfect",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "To create different types of page in specific formatting within a same document by using ……….",
+      "options": [
+        "page break",
+        "Text wrapping break",
+        "Section breaks",
+        "all"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q50",
+      "question": "To move the insertion cursor left end of the line, you must press",
+      "options": [
+        "home",
+        "left arrow",
+        "end",
+        "Ctrl+left arrow"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

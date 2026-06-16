@@ -1,0 +1,523 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer operator - 2060",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which is the first Computing Device ?",
+      "options": [
+        "ABACUS",
+        "UNIVAC-I",
+        "IBM-1400",
+        "Marc-II"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which is non- Impact Printer ?",
+      "options": [
+        "Leaser printer",
+        "Dot-Matrix",
+        "Daisy-wheel",
+        "Line"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q3",
+      "question": "Which one is Sequential access device ?",
+      "options": [
+        "Floppy disk",
+        "Magnetic Tape",
+        "Compact Disk",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "Which command is used to copy file myfile.doc from floppy disk to hard disk",
+      "options": [
+        "copy a:\\myfile.doc c:",
+        "copy c:\\myfile.doc a:",
+        "copy a:\\ c:\\myfile.doc",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "Which is not system tool?",
+      "options": [
+        "Folder",
+        "Backup",
+        "Scandisk",
+        "Format"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "Which is not concern with control Panel?",
+      "options": [
+        "Printer",
+        "Run application 4 / Question Bank",
+        "Font",
+        "Key board"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "Desktop is a",
+      "options": [
+        "Provide workspace",
+        "Screen saver",
+        "Display Program",
+        "Working with my doc."
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "URL is a",
+      "options": [
+        "Uniform Resource Locator",
+        "United Resource Locator",
+        "United Resource Location",
+        "Uniform Resource Location"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "The abbreviation of HTML is .......",
+      "options": [
+        "Hyper Text Mark-up Language",
+        "Hyper Text Marque Language",
+        "Hybrid Text Marque Language",
+        "Hyper Type Marque Location"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "Full form of LSI",
+      "options": [
+        "Large Scale Integrated",
+        "Large Scale Integration",
+        "Long Scale Integrated",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "Full form of EEPROM",
+      "options": [
+        "Electrically erasable Programmable Read Only Memory",
+        "Electronically erasable Programmable Read Only Memory",
+        "Electric erasable Programmable Read Only Memory",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "Which one is primary storage ?",
+      "options": [
+        "PROM",
+        "Hard disk",
+        "CPU",
+        "Zip disk"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Which memory loses data when power is off ?",
+      "options": [
+        "RAM",
+        "PROM d. EAPROM d. ROM 14. Which program translates one line at time ? a. Interpreter b. Translator",
+        "Compiler",
+        "Assembler"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "what gives when word is opened ?",
+      "options": [
+        "Default setting",
+        "Formatting setting",
+        "paragraph setting",
+        "standard setting"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "Which one displays antonyms and synonyms",
+      "options": [
+        "tools\\language\\thesaurus",
+        "tools\\language\\Dictionary",
+        "tools\\language\\Synonyms",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "Indentation is a ...................",
+      "options": [
+        "left margin",
+        "Right margin",
+        "left space of paragraph",
+        "top"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q18",
+      "question": "While typing, number in cell margin is",
+      "options": [
+        "Right align",
+        "justify",
+        "left align",
+        "center align"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "Work space is a ...........................",
+      "options": [
+        "collection of workbook",
+        "Collection of sheet",
+        "collection of documents",
+        "none of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "Which character fixes row or column.",
+      "options": [
+        "&",
+        "$",
+        "=",
+        "@"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "What is integer value of 3/2+5*0.5+A1 where A1= 0.75",
+      "options": [
+        "4.75",
+        "5",
+        "3.75",
+        "none"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q22",
+      "question": "Which is not numeric data type?",
+      "options": [
+        "byte",
+        "bit",
+        "single",
+        "double"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "Which object uses table & report?",
+      "options": [
+        "switch board",
+        "query",
+        "report",
+        "form"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "How many relation can be formed with two tables?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "Which one is unique field",
+      "options": [
+        "Primary Key",
+        "Foreign key",
+        "Index Key",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which is not Data field Type?",
+      "options": [
+        "OLE",
+        "Memo d. Lookup Wizard d. E-mail 27. Function of F5 in power point. a. Slide Sorter b. View show",
+        "Slide view",
+        "Normal view"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q28",
+      "question": "How many options is display in power point starting ?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "5 Question Bank / 5"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "Which heading appears when exploring Power point slide into word ?",
+      "options": [
+        "heading 1",
+        "heading 2",
+        "Heading3",
+        "Heading4"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "Web site is a",
+      "options": [
+        "Collection of related web page",
+        "Collection of Web page",
+        "Collection of document",
+        "Collection of file"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "Which is graphical presentation ?",
+      "options": [
+        "Folder",
+        "icon",
+        "File",
+        "None of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q32",
+      "question": "which fields appears when report is created with report wizard",
+      "options": [
+        "all fields",
+        "selected fields",
+        "Related fields",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "Which characters forms the formula mode in excel ?",
+      "options": [
+        "=",
+        "+",
+        "^",
+        "*"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "What is multimedia",
+      "options": [
+        "sound, text, video, picture",
+        "Sound, Video, picture",
+        "Text and Picture",
+        "Video and sound"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "What is the combination of characters and paragraph formatting ?",
+      "options": [
+        "style",
+        "theme",
+        "autoformat",
+        "Paragraph"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q36",
+      "question": "Which chart will show nominal Data series",
+      "options": [
+        "pie",
+        "bar",
+        "line",
+        "column"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q37",
+      "question": "Which menu provides apply design in power point ?",
+      "options": [
+        "Format Menu",
+        "Slide show Menu",
+        "Insert Menu",
+        "Edit Menu"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "How many tracks & sector contains MFDD ?",
+      "options": [
+        "40,9",
+        "30,9",
+        "50,9",
+        "60,9"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "Which option provides user to create separate document format or layouts?",
+      "options": [
+        "create section break",
+        "create Page break",
+        "create column break",
+        "Text wrapping break"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "How do you create news paper column ?",
+      "options": [
+        "Format/column",
+        "Insert/column",
+        "Edit/column",
+        "Tools/column"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "Full form of E-R diagram",
+      "options": [
+        "Engineer Relational Diagram",
+        "Entity Relation Diagram",
+        "External Relational Diagram",
+        "Enternal Relation diagram"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q42",
+      "question": "which does not detect virus ?",
+      "options": [
+        "Oracle",
+        "name",
+        "f-prot d . MacAfee 43. Advantage of Networking a. Internet b. Email c. data share",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q44",
+      "question": "Which is a part of CPU?",
+      "options": [
+        "ALU",
+        "CU",
+        "Register Unit",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "What is the function of print manager?",
+      "options": [
+        "print queue",
+        "print cancel",
+        "Print stop",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q46",
+      "question": "How many sheets will open when excel is loaded (default value)?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "unlimited"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "To Go to specified page …..",
+      "options": [
+        "go to",
+        "search",
+        "find",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q48",
+      "question": "Data is",
+      "options": [
+        "Raw facts",
+        "processed details",
+        "data record",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q49",
+      "question": "Which is not sending message from word ?",
+      "options": [
+        "mail recipient",
+        "fax recipient",
+        "internet explorer",
+        "PowerPoint"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q50",
+      "question": "Modem is used for",
+      "options": [
+        "data transfer",
+        "Internet connect",
+        "Email connect",
+        "None of the above 6 / Question Bank"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer operator - 2061",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Filter is available on…",
+      "options": [
+        "Tools Menu",
+        "Data Menu",
+        "Edit Menu",
+        "View Menu"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "When insert a column in excel previous column moves on",
+      "options": [
+        "Left side",
+        "Left most side",
+        "Right side",
+        "Right most side"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "Function of filter is",
+      "options": [
+        "Selection no.",
+        "Select special character",
+        "Select character",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "We can run PowerPoint slide in another computer program",
+      "options": [
+        "Pack and go",
+        "Save and go",
+        "Export",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "Font folder is located on…",
+      "options": [
+        "Program folder",
+        "Ms-Word file",
+        "Window folder",
+        "Desktop folder"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q6",
+      "question": "Which short-cut use to column break?",
+      "options": [
+        "Ctrl+Enter",
+        "Enter",
+        "Ctrl+ Shift+Enter",
+        "Alt+ Enter"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q7",
+      "question": "Which short cut use to slide show",
+      "options": [
+        "F4",
+        "F3",
+        "F2",
+        "F5"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q8",
+      "question": "For insert new slide use … Short cut.",
+      "options": [
+        "Ctrl+N",
+        "Alt+M",
+        "Ctrl+M",
+        "Ctrl+Shift+M"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "In Access which wild card is not mostly used?",
+      "options": [
+        "!",
+        "#",
+        "?",
+        "*"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "Which application program is called data base program?",
+      "options": [
+        "Excel",
+        "Word",
+        "PowerPoint",
+        "Access"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q11",
+      "question": "Which one is not relationship type?",
+      "options": [
+        "Many to Many",
+        "Many to One",
+        "One to Many",
+        "One to One"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "What function does form?",
+      "options": [
+        "Adding",
+        "Deleting",
+        "Modify",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "Which one is not database object?",
+      "options": [
+        "Form",
+        "Table",
+        "Report",
+        "Datasheet"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "Table is …",
+      "options": [
+        "Row & Column",
+        "Field/Column",
+        "Row & Chart",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "What many ways to save the document?",
+      "options": [
+        "2",
+        "3 Question Bank / 7",
+        "4",
+        "1"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "To save a document in different location use",
+      "options": [
+        "Save",
+        "Save as",
+        "Save as web page",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "How many steps are there to create a form letter?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "The arrangement of elements such as Title and subtitle text, pictures, tables etc. is called",
+      "options": [
+        "Layout",
+        "Presentation",
+        "Design",
+        "Scheme"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "To move slide from one computer to another, the operation is…",
+      "options": [
+        "Pack and go",
+        "Save and go",
+        "Save and Pack",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "What do you mean by dialog box?",
+      "options": [
+        "interactive message box",
+        "group of options",
+        "set of controls",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "The information of cell gives on",
+      "options": [
+        "Formula bar",
+        "Name bar",
+        "Name box",
+        "Formatting bar"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "Where in located Footnote?",
+      "options": [
+        "Top of the page",
+        "Button of the page",
+        "Both",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "We create new document from",
+      "options": [
+        "File/New Tab",
+        "File / New",
+        "Format / New option",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "The technology is used in CD-ROM?",
+      "options": [
+        "Optical",
+        "Magnetic",
+        "Mechanical",
+        "Electro mechanical"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "Which one is not a floppy capacity?",
+      "options": [
+        "1.24 MB",
+        "1.44 MB",
+        "360 KB",
+        "720 KB"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which code is used in keystroke?",
+      "options": [
+        "ASCII",
+        "ANSI",
+        "Both",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "Charts hold with all the information?",
+      "options": [
+        "Legend",
+        "Data table",
+        "Axis",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q28",
+      "question": "SVGA is related with",
+      "options": [
+        "Printer",
+        "Monitor",
+        "CPU",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "Which is popular secondary storage device?",
+      "options": [
+        "Disk",
+        "CD",
+        "RAM",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "WWW stands for",
+      "options": [
+        "World Wide Web",
+        "World wide work",
+        "World wide webpage",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "Which is database application?",
+      "options": [
+        "Excel",
+        "Access",
+        "Spread sheet",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q32",
+      "question": "Which one is used for database management?",
+      "options": [
+        "Jet Engine",
+        "Boot & Logic",
+        "Procedure",
+        "Format"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "Where is located Marge cell option?",
+      "options": [
+        "Alignment",
+        "Pattern",
+        "border",
+        "font"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "Command is associated with,",
+      "options": [
+        "Disabled command",
+        "Shortcut key",
+        "None",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "The fastest printer is….",
+      "options": [
+        "Laser printer",
+        "Dot Matrix printer",
+        "Inkjet printer",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q36",
+      "question": "Word processing is …",
+      "options": [
+        "32 bit",
+        "16 bit",
+        "64 bit",
+        "8 bit"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q36",
+      "question": "Which devise used to relation for computer and user?",
+      "options": [
+        "Software",
+        "Hardware",
+        "Peripheral",
+        "Memory"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q37",
+      "question": "What is the function of Info super highway?",
+      "options": [
+        "Network to Network connection",
+        "linked other part of the world through broadband information network",
+        "Rapidly flow & gradually development of multimedia service",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q38",
+      "question": "To delete cell, press",
+      "options": [
+        "Ctrl+d",
+        "Alt + d",
+        "Delete",
+        "Esc 8 / Question Bank"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q39",
+      "question": "To view comment…",
+      "options": [
+        "Edit menu",
+        "Insert menu",
+        "View menu",
+        "Format menu"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q40",
+      "question": "Which is ROM software?",
+      "options": [
+        "Romware",
+        "Firmware",
+        "Humanware",
+        "Fireware"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "Which is used in binary code?",
+      "options": [
+        "EDBCDIC",
+        "ASCII",
+        "ANSI",
+        "COBOL"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "Restrict to database file use to another user we protect in",
+      "options": [
+        "Exclusive mode",
+        "Inclusive mode",
+        "Extended mode",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "Which DOS command uses to additional file",
+      "options": [
+        "Internal dos command",
+        "External dos command",
+        "primary command",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q44",
+      "question": "The box which is appear right side of chart is called",
+      "options": [
+        "Legend",
+        "Label",
+        "Series",
+        "Data marker"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q45",
+      "question": "In Access to insert picture the data type is used",
+      "options": [
+        "OLE",
+        "Hyperlink",
+        "Lookup wizard",
+        "Picture"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "In Access table, which components are exist?",
+      "options": [
+        "Field and column",
+        "Row and Record",
+        "Column and Row",
+        "Row and cell"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q47",
+      "question": "Which is database program?",
+      "options": [
+        "Oracle",
+        "Word",
+        "Excel",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q48",
+      "question": "Which device connects the CPU and users?",
+      "options": [
+        "Peripheral devices",
+        "multimedia devices",
+        "optical devices",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q49",
+      "question": "Where does text box lies?",
+      "options": [
+        "Drawing tool bars",
+        "standard toolbar",
+        "formatting toolbar",
+        "text box toolbar"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "In which menu we can add footnote?",
+      "options": [
+        "Insert menu",
+        "View menu",
+        "Format menu",
+        "Edit menu"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Kathmandu metro Computer operator - 2062",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "When you open “My Computer” on desktop you see the information of",
+      "options": [
+        "Hard Disk",
+        "CD",
+        "Removable disk",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q2",
+      "question": "When you delete file, where recently store in?",
+      "options": [
+        "Brief case b Recycle bin c. CD d. desktop 3. To print Window with components as is it a. Print screen",
+        "ALT + copy",
+        "Ctrl+ Copy",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "Query structure",
+      "options": [
+        "Field",
+        "Records",
+        "snapshot",
+        "Dynaset"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q5",
+      "question": "Which is not the function of OS?",
+      "options": [
+        "File Management",
+        "Disk management",
+        "Application management",
+        "Virus detection"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q6",
+      "question": "Keyboard shortcut key for superscript as x2, which is correct",
+      "options": [
+        "Ctrl+=",
+        "Ctrl++",
+        "Ctrl+ shift++",
+        "Ctrl +Alt+="
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q7",
+      "question": "Which is the function of macro?",
+      "options": [
+        "Speed up editing & formatting",
+        "Automate complex task easily",
+        "Complete different command at once",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "Redoing formatting",
+      "options": [
+        "CTRL+W",
+        "CTRL+ Z",
+        "CTRl +Y",
+        "Ctrl+ q"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "RJ- 45 has cable",
+      "options": [
+        "2 cable",
+        "4 cable",
+        "6 cable",
+        "8 cable"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q10",
+      "question": "Which is transfer most fast?",
+      "options": [
+        "RAM",
+        "ROM",
+        "CD-ROM",
+        "Removable Disk"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "Which does modulation & demodulation? a Modem b. Multiplexture c. De mutiplexure d. All of the above 12. Which cable transfer data faster?",
+      "options": [
+        "Twisted fair cable",
+        "UTP Cable",
+        "Fiber optics",
+        "Coaxial cable"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "In Ms Word header & footer will display by default",
+      "options": [
+        "On first page",
+        "Every page",
+        "Even page",
+        "None of the above Question Bank / 23"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "Which is the correct example of function?",
+      "options": [
+        "=add(A1:A2)",
+        "=A1+A2",
+        "=SUM(A1:A2)",
+        "A1+A2"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Ellipse (... ) show ....",
+      "options": [
+        "Dialog box",
+        "Entry box",
+        "window",
+        "Menu"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "Which is used to boot menu?",
+      "options": [
+        "F10",
+        "F8",
+        "F9",
+        "F7"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "Continuous data transmission",
+      "options": [
+        "Digital computer",
+        "Analog computer",
+        "Hybrid computer",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "Where will store data first time when you copy?",
+      "options": [
+        "Clip board",
+        "Clip book",
+        "hard disk",
+        "Cd"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "“Collection of character and formatting “is",
+      "options": [
+        "style",
+        "template",
+        "bibliography",
+        "formatting"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "How you can optimize performance of your computer?",
+      "options": [
+        "Delete unused file d. Defrag disk c. Scan for virus d. All of the above 21. To save your computer from virus you will do a. install antivirus software and run it",
+        "Make physical safe for the removable disk",
+        "Scan the removable disk before using it",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q22",
+      "question": "From which you can save your computer a Virus b. Time bom c. Worm d. All of the above 23. In MS Word, If you check the spelling form where word check the error",
+      "options": [
+        "From top of the document",
+        "Form the insertion point",
+        "Button of the document",
+        "None of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q24",
+      "question": "In Ms Access, if you type ?sort(abs(- 81)), then it display",
+      "options": [
+        "9",
+        "-9",
+        "0",
+        "Wrong Command"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "Complete horizontal row of the data is called",
+      "options": [
+        "Record",
+        "Fields",
+        "Column",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "If you have network and you are transfer file then what will be done",
+      "options": [
+        "Uploading",
+        "Downloading",
+        "Sending Cline Email",
+        "Receiving Email"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "To add new slide in PowerPoint, What is the keyboard shortcut key?",
+      "options": [
+        "CTRL + N",
+        "CTRL + M",
+        "CTRL + copy",
+        "ALT + copy"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Ms Access can import file from….",
+      "options": [
+        "Dbase database file",
+        "Excel Workbook",
+        "Notepad Delimited text file",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "Which is not the database Application?",
+      "options": [
+        "PowerPoint",
+        "Excel",
+        "Ms Access d All of the above 30. You can apply Slide design scheme form a. Slide layout b. Slide animation c. Slide show",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "Which command make the text \"Nepal\" Capital?",
+      "options": [
+        "Upper (\"Nepal\")",
+        "Capital (Nepal)",
+        "CAP \"Nepal\"",
+        "Capital (\"nepal\")"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "Whish translator translate whole source program into object program at once",
+      "options": [
+        "Compiler",
+        "Interpreter",
+        "Translator",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "Which Protocol is used to transfer Email? a POP3 b. SMTP c. SGTP d. None 34. To remove extra space from the left site of string which if used?",
+      "options": [
+        "Left ( )",
+        "Right ( )",
+        "Ltrim( )",
+        "Rtrim( )"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "Form can be making from",
+      "options": [
+        "Table & Queries",
+        "Table only",
+        "Table & Report",
+        "Report & Queries"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q36",
+      "question": "<UL> </UL> gives the",
+      "options": [
+        "Bullet list",
+        "ordered list 24 / Question Bank",
+        "Definition list",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q37",
+      "question": "Thesaurus is used to check",
+      "options": [
+        "Meaning of the word",
+        "Check error",
+        "Check the grammatical error",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "XGA, VGA are types of ………",
+      "options": [
+        "Printers",
+        "Plotters",
+        "Keyboards",
+        "Video standards"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q39",
+      "question": "The VLSI was used in ……. generation computers.",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "Which of the following formula is invalid?",
+      "options": [
+        "=sum (a4:zz5)",
+        "=if(a5>23,\"Pass\",\"Fail\")",
+        "=A1+A25",
+        "=SUM(A1,A2)"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "Which is not valid reference in Excel?",
+      "options": [
+        "Relative reference",
+        "Mixed reference",
+        "Absolute reference",
+        "join reference"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q42",
+      "question": "Which is not storage device?",
+      "options": [
+        "Hard disk",
+        "zip disk",
+        "Floppy disk",
+        "Zip drive"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q43",
+      "question": "A utility that can be used to minimize the number of fragmented files and enhanced the speed.",
+      "options": [
+        "Drive Space",
+        "Defragment",
+        "Scandisk",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q44",
+      "question": "The gutter position can be applied for",
+      "options": [
+        "Left",
+        "Button",
+        "Top",
+        "a & B"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "Hyperlinks can be",
+      "options": [
+        "Text",
+        "drawing object",
+        "Pictures",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q46",
+      "question": "DBMS stands for",
+      "options": [
+        "database managerial system",
+        "database management system",
+        "database basic managerial system",
+        "database basic management system"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q47",
+      "question": "OLE stands for",
+      "options": [
+        "Object link & Engaging",
+        "object linking & Embedding",
+        "object like & energy",
+        "Online linking & embedding"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q48",
+      "question": "Table can be created by...in ms access",
+      "options": [
+        "2 ways",
+        "3 ways",
+        "4 ways",
+        "5 ways"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "Tag can appear",
+      "options": [
+        "Many times",
+        "2 times",
+        "1",
+        "Depends of mark-up language"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

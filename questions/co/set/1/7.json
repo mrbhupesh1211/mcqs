@@ -1,0 +1,457 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer operator - 2062",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the function of Alt+f9?",
+      "options": [
+        "To insert Field code",
+        "Switching field code",
+        "Run macro",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "When was Abacus used?",
+      "options": [
+        "china, 2000 BC",
+        "America , 2000 BC",
+        "Korea, 1000 BC",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q3",
+      "question": "To Make directory",
+      "options": [
+        "MKD",
+        "MKDIR",
+        "CD",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "The function of Count A() is ...",
+      "options": [
+        "counts the number of empty cells",
+        "counts the number of non empty cells",
+        "counts the number of cells contains number",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q5",
+      "question": "Full form of URL",
+      "options": [
+        "uniform resource language",
+        "Uniform resource locator",
+        "universal resource locator",
+        "universal resource language"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "Hyperlink is",
+      "options": [
+        "graphics",
+        "underline",
+        "colored text",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "Short key for left indent",
+      "options": [
+        "Ctrl+L",
+        "Ctrl+M",
+        "Ctrl+I",
+        "Ctrl+T"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "The short cut key for replace operation",
+      "options": [
+        "Ctrl + H",
+        "Ctrl+R",
+        "Ctrl+F",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Which key is used to retrieve back deleted text",
+      "options": [
+        "Ctrl + Z",
+        "Ctrl+Y",
+        "Ctrl+S",
+        "Ctrl+U"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "The key is used to uniquely defined record in master table",
+      "options": [
+        "Primary Key",
+        "Foreign key",
+        "composite key",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "In Ms-word, drop down shows the maximum font size.",
+      "options": [
+        "48",
+        "72",
+        "100",
+        "1638"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "Digital Signal",
+      "options": [
+        "1 / 0",
+        "high / low",
+        "on/ off",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q13",
+      "question": "Properties of database",
+      "options": [
+        "consistency",
+        "independence",
+        "security",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "BIOS is used in",
+      "options": [
+        "Operating system",
+        "Compiler",
+        "interpreter",
+        "application software"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "The program translates Line by line of source program is",
+      "options": [
+        "compiler",
+        "Assembler",
+        "interpreter",
+        "translator"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q16",
+      "question": "Pixel is found in",
+      "options": [
+        "XGA",
+        "VGA",
+        "SVGA",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q17",
+      "question": "Eight bits equals",
+      "options": [
+        "byte",
+        "nibble",
+        "Kilobyte",
+        "Megabyte"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "To add effect to the object",
+      "options": [
+        "Slide transition",
+        "Custom animation",
+        "slide sorter view",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "The maximum number of handouts per page in PowerPoint?",
+      "options": [
+        "3",
+        "6",
+        "5",
+        "9"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q20",
+      "question": "Which cable transfer data faster?",
+      "options": [
+        "Twisted fair cable",
+        "UTP Cable",
+        "Fiber optics",
+        "Coaxial cable"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "Which is not programming language?",
+      "options": [
+        "basic",
+        "Cobol",
+        "DDL",
+        "APL 18 / Question Bank"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q22",
+      "question": "In excel first two lines are fixed to every page is from..",
+      "options": [
+        "Print",
+        "Page setup d. Print preview d. none of above 23. Volatile memory is a. RAM b. ROM",
+        "EPROM",
+        "PROM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "Independence means",
+      "options": [
+        "Exclusive",
+        "Inclusive d. Sharing d. none of the above 25. To modify the data type by a. Table design view b. Datasheet view",
+        "Open mode",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "The function of Save as ...",
+      "options": [
+        "supply new name",
+        "Overwrites the existing file",
+        "fast saving",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "Excel formula start from",
+      "options": [
+        "equal sign",
+        "function name",
+        "Plus sign",
+        "Opening parenthesis"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Methods of saving document in MSword.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "The extension of index file is",
+      "options": [
+        "ndx",
+        "idx",
+        "ind",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "Which operating system uses short file name ?",
+      "options": [
+        "Windows",
+        "Unix",
+        "DOS",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "View menu doesn't show",
+      "options": [
+        "Outline",
+        "normal",
+        "page layout",
+        "object"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "To sent file to recipient",
+      "options": [
+        "File",
+        "Edit",
+        "View",
+        "Insert"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "Easiest way to create chart",
+      "options": [
+        "Select range and click chart wizard",
+        "Insert chart and select range",
+        "draw the chart using drawing toolbar",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "Home page of HTML",
+      "options": [
+        "introductory page",
+        "details information of page",
+        "summary of page",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "The function of Dir/w",
+      "options": [
+        "shows all details of files",
+        "show only file & directory name",
+        "shows only directory",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "Tree Structure displays the ....",
+      "options": [
+        "File only",
+        "directory only",
+        "directory and file name",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q37",
+      "question": "John Napier ...",
+      "options": [
+        "1550",
+        "1617",
+        "1740",
+        "1920"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q38",
+      "question": "Word processor is used to create document",
+      "options": [
+        "text",
+        "number",
+        "graphics",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "Slide sorter view is used",
+      "options": [
+        "sorting slides",
+        "numeric order",
+        "alphabetic order",
+        "to view all slides"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "Batch file is used....",
+      "options": [
+        "to run program",
+        "to show the contents",
+        "to record command",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q41",
+      "question": "which one is the currently popular database?",
+      "options": [
+        "object oriented",
+        "Flat file database",
+        "Object oriented relational database",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q42",
+      "question": "Hard disk is .....",
+      "options": [
+        "primary memory",
+        "Auxiliary memory d. volatile memory d. none of the above 43. Select Odd one. a. Print / Print Purview b. Column/ text",
+        "Save / save as",
+        "Inset/ insert cell"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q44",
+      "question": "Full form of EGA",
+      "options": [
+        "Enhanced graphic adaptor",
+        "Enhanced graph adaptor",
+        "Eco graphic array",
+        "Eco Graphical agency Question Bank / 19"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "EPF - Computer operator - 2062",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What component was used in first generation computer?",
+      "options": [
+        "Transistor",
+        "vacuum tube",
+        "chips",
+        "optics"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "Which is not operating system?",
+      "options": [
+        "GEOX",
+        "windows",
+        "OS/2",
+        "Linux"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q3",
+      "question": "This is the smallest unit of data in a computer/",
+      "options": [
+        "bit",
+        "exabyte",
+        "bogomip",
+        "byte"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "This is the measure of the range of frequencies a communication signal occupies.",
+      "options": [
+        "frequency modulation",
+        "frequency hopping spread spectrum",
+        "dynamic range",
+        "bandwidth"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q5",
+      "question": "Which one works as an output and input device?",
+      "options": [
+        "modem",
+        "scanner",
+        "mouse",
+        "monitor"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "All computers must have",
+      "options": [
+        "work processing software",
+        "operating system",
+        "a printer attached",
+        "virus checking program"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "An operating system is ………….",
+      "options": [
+        "integrated software",
+        "CD-ROM software",
+        "application software",
+        "system software"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q8",
+      "question": "1 MB is equal to …………..",
+      "options": [
+        "The amount of RAM in every computer",
+        "1 billion byte",
+        "1024 KB",
+        "1 thousand bytes"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "The resolution of a printer is measured in………",
+      "options": [
+        "megabits",
+        "Hz",
+        "Dots per inch",
+        "inches (diagonal)"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "Which computer is the fastest?",
+      "options": [
+        "PII 600 MHZ",
+        "PIII 600 MHz",
+        "Pentium 600 MHz",
+        "486 Turbo"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "In order to play music in your computer, you need………..",
+      "options": [
+        "a network card & speakers",
+        "a Sound card & speaker",
+        "nothing more than the internal speaker",
+        "A CD-ROM drive"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "Which windows program do you use to manage folders and files?",
+      "options": [
+        "windows explorer",
+        "Windows Accessories",
+        "Microsoft office 20 / Question Bank",
+        "Windows control panel"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Which one is an email address?",
+      "options": [
+        "http://vianet.com/index.htm",
+        "d:\\\\email\\standard",
+        "joesmart@billme.com",
+        "haminade.org/teachers/mailaddress"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Which is not a network topology?",
+      "options": [
+        "ring",
+        "bus",
+        "rapid",
+        "star"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Sunil typed the following sentence: “The girl was very beautiful.” In which word processing utility could he find a synonym for “beautiful”?",
+      "options": [
+        "Thesaurus",
+        "Spell checker",
+        "grammar checker",
+        "outliner"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "URL stands for………",
+      "options": [
+        "United resource link",
+        "undeleted record link",
+        "Uniform record link",
+        "uniform resource locator"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q17",
+      "question": "In MS word what keys are applied for page break?",
+      "options": [
+        "Alt+Enter",
+        "Shift+Enter",
+        "Ctrl+Enter",
+        "Tab+Enter"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q18",
+      "question": "ROM is an abbreviated form of :",
+      "options": [
+        "Recall only memory",
+        "Read only memory",
+        "Red only memory",
+        "Retrieve only memory"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "Which one of the following is a volatile memory?",
+      "options": [
+        "RAM",
+        "ROM",
+        "EPROM",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "What is the full form of FAT?",
+      "options": [
+        "Function allocation table",
+        "File allocation table",
+        "File attribute text",
+        "Fixed assets table"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "GUI stands for ……",
+      "options": [
+        "graphical users Index",
+        "Graphical user interface",
+        "Graphical users interpretation",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "The mechanical parts of the computer are known as …",
+      "options": [
+        "Software",
+        "hardware",
+        "peopleware",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "The full form of CPU is:",
+      "options": [
+        "control processing unit",
+        "Central processing unit",
+        "Central progress unit",
+        "Core progress Unit"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "To exit DoS prompt and return to windows; which process should be followed?",
+      "options": [
+        "press Enter key",
+        "type Exit and press Enter key",
+        "Type clear screen",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "Which of the following helps to adjust the setting in your computer?",
+      "options": [
+        "control panel",
+        "Virus program",
+        "Split panel",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which command is used to underline the text and numbers?",
+      "options": [
+        "Alt+U",
+        "Crl+U",
+        "Alt+U",
+        "Shit+U"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "Which command is used to save a file?",
+      "options": [
+        "Alt+S",
+        "Ctrl+S",
+        "Alt+Ctrl+S",
+        "Shift+S"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "Insert of clipart is possible in:",
+      "options": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "To see how a file will look when we print, We click.",
+      "options": [
+        "print overview",
+        "Print preview",
+        "print review",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q30",
+      "question": "a series of command grouped together as a single command to make every day task easier is known as:",
+      "options": [
+        "Micro",
+        "Macro",
+        "Super",
+        "Mini"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q31",
+      "question": "In excel, when a result is too long to fit in a cell what will be displayed?",
+      "options": [
+        "#N/A",
+        "#Num",
+        "Err",
+        "####"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "To organize data in a list alphabetically, numerically or chronologically is known as;",
+      "options": [
+        "filter",
+        "Sort",
+        "Match",
+        "Drag Question Bank / 21"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "Which of the following is the most popular presentation graphics program?",
+      "options": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q34",
+      "question": "Which key is necessary to define relationship between the tables?",
+      "options": [
+        "Secondary key",
+        "Primary key",
+        "miscellaneous key",
+        "Auxiliary key"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "Which of the following help you trace and identify the errors?",
+      "options": [
+        "Backup",
+        "Debug",
+        "Virus",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "What is the full form of LAN?",
+      "options": [
+        "Local access network",
+        "local area network",
+        "local area news",
+        "local area networth"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q37",
+      "question": "Basic Stands for;",
+      "options": [
+        "Beginners all purpose symbolic instruction code",
+        "basic language",
+        "Beginners all purpose scientific instruction code",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "... Can be program one time by either the manufactured or the computer user. Once programmed it cannot be modified?",
+      "options": [
+        "RAM",
+        "EEPROM",
+        "PROM",
+        "EPROM"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q39",
+      "question": "Which of the following is not application software?",
+      "options": [
+        "Word processing",
+        "Excel",
+        "Unix",
+        "Desktop publishing"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q40",
+      "question": "A device that can convert digital signals into analog signals is…",
+      "options": [
+        "a packet",
+        "a modem",
+        "An emulator",
+        "multiplexer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "What is the requirement for connecting internet?",
+      "options": [
+        "phone, modem, computer",
+        "computer, Internet Account, phone, modem",
+        "internet account, phone, Computer",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q42",
+      "question": "Which of the following is an example of single user operating system?",
+      "options": [
+        "Unix b, Windows NT c.MS Dos d. none of above 43. Special characters of symbol, which is used for substituting one or a set of unknown characters of file name and its extension? a. Child card",
+        "Wild card",
+        "internal command",
+        "external card"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q44",
+      "question": "Deleting a folder from the disk shall delete?",
+      "options": [
+        "All folders under that folder",
+        "All files under the folder",
+        "all files and folders form the disk",
+        "All files and folders from the folder"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "Word pad is……..",
+      "options": [
+        "word processing software",
+        "Ancilliary",
+        "Language",
+        "operating system"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "What is the shortcut key to select all text?",
+      "options": [
+        "Ctrl+A",
+        "Ctrl+V",
+        "Ctrl+S",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "When a PowerPoint presentation is saved as a web page, with which application do we open that web page?",
+      "options": [
+        "Power point",
+        "Internet Explorer",
+        "Word",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "A tool provided in a database management system that allows users to define the database is called….",
+      "options": [
+        "Structured query language",
+        "Data definition language",
+        "Data manipulation language",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "What is the full form of RDBMS?",
+      "options": [
+        "Relational database management system",
+        "rational database management system",
+        "Record database management system",
+        "Read database management system"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "Full form of OCR is:",
+      "options": [
+        "Open character Reader",
+        "Optional character reader",
+        "open code reader",
+        "Optical code reader 22 / Question Bank"
+      ],
+      "correct_option": 2
+    }
+  ]
+}
