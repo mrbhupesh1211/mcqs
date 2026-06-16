@@ -1,0 +1,545 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "18",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Who is father of modern digital computer?",
+      "options": [
+        "Charles Babbage",
+        "bill gates",
+        "Pascal",
+        "Von Neumann"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which one is the fastest memory?",
+      "options": [
+        "L1 Cache",
+        "L2 Cache",
+        "SRAM",
+        "DRAM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following is non-impact printer?",
+      "options": [
+        "Laser",
+        "Dot Matrix",
+        "Chain",
+        "Drum"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "The Acronyms of URL…",
+      "options": [
+        "Universal Resource Location",
+        "Uniform Resource locator",
+        "Unify resource location",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q5",
+      "question": "The full form of UPS",
+      "options": [
+        "Uninterruptible Power Supply",
+        "Uniform power supply",
+        "Universal Power Supply",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "The Artificial intelligence represents…..",
+      "options": [
+        "4th Generation",
+        "1st Generation",
+        "5th Generation",
+        "3rd Generation"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q7",
+      "question": "The first generation computer uses….",
+      "options": [
+        "Transistor",
+        "Vacuum tube/Valve",
+        "IC",
+        "Microprocessor"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "Which of the following doesn't support more than one program at a time?",
+      "options": [
+        "DOS",
+        "Linux",
+        "Windows",
+        "Unix"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Which of the following is not core job of operating system?",
+      "options": [
+        "Manage file",
+        "Memory management",
+        "CPU management",
+        "Router management"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "Which is the invalid user's file name?",
+      "options": [
+        "command.com",
+        "user.dot",
+        "autoexec.bat",
+        "paymentbill"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "Which command is used to delete all the files / directories including subdirectory?",
+      "options": [
+        "deltree",
+        "Erase",
+        "RD",
+        "Del"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "Which is used to set a path?",
+      "options": [
+        "path.sys",
+        "Config.sys",
+        "IO.sys",
+        "Autoexec.bat"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q13",
+      "question": "Which is an internal command?",
+      "options": [
+        "Label",
+        "chkdsk",
+        "Verify",
+        "All Question Bank / 43"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Which command is used to see the version of operating system?",
+      "options": [
+        "Vol",
+        "version",
+        "Ver",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Which is the fastest transmission media?",
+      "options": [
+        "Fibre optics",
+        "Twisted pair",
+        "Coaxial cable",
+        "microwave"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "Ethernet card is used in………..",
+      "options": [
+        "Local area network",
+        "computer education",
+        "Robots",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "To make Readability of the text is.……",
+      "options": [
+        "Auto formatting",
+        "bullet and numbering",
+        "Auto text",
+        "template"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "Mail merge can not done ………….",
+      "options": [
+        "Mailing Labels",
+        "Email message",
+        "Letters",
+        "Template"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q19",
+      "question": "Border and shading lies in which of the following menu?",
+      "options": [
+        "Format",
+        "Table",
+        "Tools",
+        "Window"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "The shortcut key to make center align….",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+E",
+        "Ctrl+L",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "Which of the following features of ms word?",
+      "options": [
+        "Spelling",
+        "AutoFormat",
+        "AutoCorrect",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q22",
+      "question": "Which is not a table property?",
+      "options": [
+        "Cell",
+        "Row",
+        "column",
+        "Line"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q23",
+      "question": "Table sort……….",
+      "options": [
+        "Number",
+        "Text",
+        "Date",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q24",
+      "question": "Which is the default Font in Word?",
+      "options": [
+        "Arial",
+        "Times New Roman",
+        "Courier",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "Which is the highest evaluation operator precedence (order)?",
+      "options": [
+        "( )",
+        "%",
+        "=",
+        "&"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which menu contains the sort command?",
+      "options": [
+        "Window",
+        "Tools",
+        "Data",
+        "Edit"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q27",
+      "question": "Which is a valid range in Excel?",
+      "options": [
+        "A1:B2",
+        "A1;B2",
+        "A1 to B2",
+        "A1 B2"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "In Ms-word, which of the following is not an option for change the case of text?",
+      "options": [
+        "Lower case",
+        "Indent case",
+        "Sentence case",
+        "toggle case"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "Which is the valid in validation dialog box?",
+      "options": [
+        "text length",
+        "whole number",
+        "Date",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "Which is the system file?",
+      "options": [
+        "Command.com",
+        "IO.sys",
+        "Msdos.sys",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q31",
+      "question": "Which is the template extension?",
+      "options": [
+        ".dot",
+        ".exe",
+        ".com",
+        ".sys"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "if you have multiple slides in presentation but you want to present some of them by using?",
+      "options": [
+        "Run",
+        "Slide show",
+        "Custom show",
+        "Custom animation"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q33",
+      "question": "Motion path is………….",
+      "options": [
+        "animation effect",
+        "Scheme",
+        "Design",
+        "All"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "Auto fit is ………",
+      "options": [
+        "Adjust the row height as contents",
+        "Adjust the Column width as contents",
+        "Both A & B",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q35",
+      "question": "The short cut key to close window is …..",
+      "options": [
+        "Ctrl+F4",
+        "Alt+F4",
+        "Shift+F4",
+        "Alt + Tab"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q36",
+      "question": "Which color display the print preview?",
+      "options": [
+        "White",
+        "Red",
+        "Gray",
+        "Green"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q37",
+      "question": "Virus is a …………….",
+      "options": [
+        "repeating program",
+        "Useful Program",
+        "Utility program",
+        "All"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "Which is the smallest piece of database?",
+      "options": [
+        "bit",
+        "byte 44 / Question Bank",
+        "Record",
+        "table"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "Which is not action query?",
+      "options": [
+        "append",
+        "update",
+        "make table",
+        "Select"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "The shortcut key for add new record?",
+      "options": [
+        "Ctrl+ +",
+        "Alt+ +",
+        "Shift++",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "Filter is used for",
+      "options": [
+        "Extract the data",
+        "add the data",
+        "delete the data",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "Which is not the system tools?",
+      "options": [
+        "Scandisk",
+        "Defragment",
+        "display",
+        "Character map"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "Which is not the chart type?",
+      "options": [
+        "Bar",
+        "Pie",
+        "Column",
+        "data marker"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "Print command button prints the file………..",
+      "options": [
+        "Entire document",
+        "Single page",
+        "Selected Range",
+        "Current page"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q45",
+      "question": "Which option doesn't display the receiver mail id?",
+      "options": [
+        "cc",
+        "bcc",
+        "subject",
+        "Title"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q46",
+      "question": "Goal seek is ……….",
+      "options": [
+        "a method of finding input value to meet target",
+        "a method of finding output value",
+        "a method of accumulating data",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "Objective of IT Policy?",
+      "options": [
+        "increase employment",
+        "Builds Knowledge based society",
+        "Establish Knowledge based Industry",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q48",
+      "question": "Which of the following is a valid file property?",
+      "options": [
+        "Read only",
+        "Hidden",
+        "achieve",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "Which of the following is the valid orientation?",
+      "options": [
+        "Landscape",
+        "Proper",
+        "A4",
+        "all"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

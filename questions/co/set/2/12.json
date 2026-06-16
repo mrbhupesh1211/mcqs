@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "12",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Mini computer is..",
+      "options": [
+        "Larger than pc & smaller than super",
+        "Smaller than pc and Larger than Mainframe",
+        "Larger than mainframe and smaller than super",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Macro is",
+      "options": [
+        "Record frequently repeated action",
+        "Playing object",
+        "backup utility",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q3",
+      "question": "The application is used for calculation and charting…",
+      "options": [
+        "DBMS",
+        "Spreadsheet",
+        "Presentation",
+        "Graphics"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "Data entry is done through",
+      "options": [
+        "Report",
+        "Switchboard Question Bank / 31",
+        "Form",
+        "Page"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "Virus is a ….",
+      "options": [
+        "Code can be created problem",
+        "Code generate useful information",
+        "Code to maintain program",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "MS DOS is a",
+      "options": [
+        "Application software",
+        "Utility software",
+        "System software",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q7",
+      "question": "Two or more task done simultaneously……..",
+      "options": [
+        "Multitasking",
+        "Batch operating",
+        "Multiprocessing",
+        "Multi user"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "To convert whole source code into machine code…..",
+      "options": [
+        "Compiler",
+        "Interpreter",
+        "Debugger",
+        "Loader"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Freely available (Open) operating system is….",
+      "options": [
+        "Internet",
+        "Linux",
+        "DOS",
+        "Windows"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "Input and output device is",
+      "options": [
+        "Touch Screen",
+        "Microphone",
+        "Touch pad",
+        "Printer"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "Which is the least domain name account@ntc.net.np?",
+      "options": [
+        "Ntc",
+        "Net",
+        "np",
+        "all"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q12",
+      "question": "How many generation are came till now?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Which short cut used in desktop to make duplicate …?",
+      "options": [
+        "Ctrl_X, Ctrl_V",
+        "Ctrl_c,Ctrl_V",
+        "Alt_C, Ctrl_V",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q14",
+      "question": "Which networking using within a building?",
+      "options": [
+        "LAN",
+        "WAN",
+        "MAN",
+        "VAN"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Which is true?",
+      "options": [
+        "WAN is faster than LAN",
+        "LAN transferring in speed than WAN",
+        "LAN and WAN same",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "The network for specific use……",
+      "options": [
+        "Internet",
+        "Intranet",
+        "Extranet",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "NEA is used for which application for data processing",
+      "options": [
+        "DBMS",
+        "Word processing",
+        "Spreadsheet",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "What is the result of 3^3+9/3+3?",
+      "options": [
+        "30",
+        "33",
+        "35",
+        "37"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "Which is the input device?",
+      "options": [
+        "Printer",
+        "Plotter",
+        "mouse",
+        "Monitor"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "Which is used for email?",
+      "options": [
+        "Website address",
+        "email address",
+        "IP address",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "Which device is used for two way communication?",
+      "options": [
+        "Printer",
+        "scanner",
+        "Mouse",
+        "Modem"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q22",
+      "question": "Which communication media is fast?",
+      "options": [
+        "Satellite",
+        "Coaxial cable",
+        "Twisted pair",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "Which protect the backup of outline?",
+      "options": [
+        "SMPS",
+        "UPS",
+        "Storage",
+        "all of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "Which device is the voltage storage?",
+      "options": [
+        "Battery",
+        "Power Supply",
+        "Volt Guard",
+        "All"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "The decimal equivalent of 101010 is…..",
+      "options": [
+        "40",
+        "42",
+        "45",
+        "46"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "Which is the latest Operating system?",
+      "options": [
+        "Windows xp",
+        "Windows Vista",
+        "Windows Millennium",
+        "Windows 2003"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "The Vacuum tube is used for ….. generation.",
+      "options": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Who is known as father of modern computer?",
+      "options": [
+        "John mauchly",
+        "Charles Babbage",
+        "Lady augausta",
+        "Hollerith"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "HTML Stands for ……",
+      "options": [
+        "Hypher text main language",
+        "Hypher text mark up language",
+        "high technology machine language",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q30",
+      "question": "GIF stands for",
+      "options": [
+        "Graphics Interchange Format",
+        "Graphics information form",
+        "Graphics info format",
+        "None"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

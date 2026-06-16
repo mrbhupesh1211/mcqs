@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "34",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "FORTRAN programming language is more suitable for ……...",
+      "options": [
+        "business application",
+        "marketing applications",
+        "scientific applications",
+        "data base applications"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following is a read only memory storage device ?",
+      "options": [
+        "floopy disk",
+        "compack disk",
+        "hard disk",
+        "magnetic tape"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "What do you call the translator which takes high level language program as input & produce machine language code as output ?",
+      "options": [
+        "complier",
+        "interpreter",
+        "debugger",
+        "assembler 86 / Question Bank"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "The program which is as permanent as hardware & stored in ROM is known as :",
+      "options": [
+        "hardware",
+        "software",
+        "firmware",
+        "live ware"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "What is the first stage in software development ?",
+      "options": [
+        "specification and design",
+        "testing",
+        "system analysis",
+        "writing program codes"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q6",
+      "question": "MIS is designed for …………",
+      "options": [
+        "consumers",
+        "workers",
+        "end users",
+        "managers"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "How many pair cables does RJ45 UTP cable have ?",
+      "options": [
+        "2 pair",
+        "3 pair",
+        "4 pair",
+        "5 pair"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q8",
+      "question": "How was the generation of computer classified ?",
+      "options": [
+        "by the device used in memory & processor",
+        "by the time period",
+        "by the model of the computer",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Through which device do the main components of the computer communicate with each other ?",
+      "options": [
+        "keyboard",
+        "system bus",
+        "monitor",
+        "memory"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "The digital signal can be represented by :",
+      "options": [
+        "binary codes",
+        "0 and 1",
+        "high and low",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q11",
+      "question": "Which of the following device is used only in LAN (Local Area Network) ?",
+      "options": [
+        "gateway",
+        "modem",
+        "NIC",
+        "router"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q12",
+      "question": "Which of the following cables can transmit data at high speed ?",
+      "options": [
+        "Coaxial cable",
+        "Optical fiber cable",
+        "Twisted pair cable",
+        "UTP cable"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q13",
+      "question": "When a computer is first turned on or restarted, a special type of absolute loader called is executed ?",
+      "options": [
+        "compile loader",
+        "boot loader",
+        "bootstrap loader",
+        "relating loader"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Which among the following are the best tools for fixing errors on disks ?",
+      "options": [
+        "FDISK",
+        "SCANDISK",
+        "CHKDSK",
+        "FIXDSK"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q15",
+      "question": "………….. runs on a computer hardware and serve as platform for other software to run on.",
+      "options": [
+        "operating system",
+        "application software",
+        "system software",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following operating system does not implement multitasking truly ?",
+      "options": [
+        "windows 98",
+        "windows NT",
+        "Windows XP",
+        "MS DOS"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q17",
+      "question": "Which of the following operating system do you choose to implement a client-server network ?",
+      "options": [
+        "MS DOS",
+        "Windows 95",
+        "Windows 98",
+        "Windows 2000"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q18",
+      "question": "The operating system manages :",
+      "options": [
+        "memory",
+        "processes",
+        "disk and I/O devices",
+        "all of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q19",
+      "question": "The operating system is the most common type of ………… software.",
+      "options": [
+        "communication",
+        "application",
+        "system",
+        "word-processing software"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "Which of the following do you use to change margins ?",
+      "options": [
+        "formatting toolbar",
+        "page setup dialog box",
+        "standard toolbar",
+        "paragraph dialog box"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "In word-processing the task of changing the appearance of a document is :",
+      "options": [
+        "formatting",
+        "editing",
+        "proofing",
+        "inserting"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "In Ms word, you can insert the hyperlink:",
+      "options": [
+        "pressing ctrl + K or by choosing hyperlink form insert menu",
+        "pressing ctrl + shift+ K or by choosing hyperlink form insert menu",
+        "pressing ctrl + K or by choosing hyperlink form format menu Question Bank / 87",
+        "pressing ctrl + shift + K or by choosing hyperlink form format menu"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "You can break the column by :",
+      "options": [
+        "pressing ctrl + shift+enter",
+        "Pressing ctrl + enter",
+        "pressing shift + enter",
+        "pressing alt + enter"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "In MS-Word, you can convert the document's file format by applying the command :",
+      "options": [
+        "save",
+        "permission",
+        "save as",
+        "convert"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "Which page orientation you will select, if you wish to print in wide format ?",
+      "options": [
+        "landscape",
+        "portrait",
+        "horizontal",
+        "vertical"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "The insertion point in a table can be moved by using :",
+      "options": [
+        "tab key",
+        "shift+tab key",
+        "arrows keys",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "Which bar is usually located below the title bar that provides categorized options ?",
+      "options": [
+        "menu bar",
+        "tool bar",
+        "status bar",
+        "scroll bar"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Mail merge is concerned with :",
+      "options": [
+        "combining main document with data file",
+        "sending a typed letter to share holder of a company",
+        "to split main document",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "The thesaurus tool :",
+      "options": [
+        "Finds repeated words in the document",
+        "adds new words to the custom dictionary",
+        "correct two initial capitalized letters in a word",
+        "none of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "The cell labeled F5 refers to :",
+      "options": [
+        "row F column 5",
+        "column F rows 5",
+        "functions available in cell",
+        "function key F5"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q31",
+      "question": "Which is an example of a formula in MS Excel ?",
+      "options": [
+        "=A1 + A2",
+        "= add (A1 : A2)",
+        "A1 + A2",
+        "sum (A1 :A2)"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "It is possible to display pictures in HTML specification by using the key :",
+      "options": [
+        "<GR src=picture file>",
+        "<pic src=picture file>",
+        "<IMG src=picture file>",
+        "<GIF src = picture file>"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q33",
+      "question": "How do you display current date and time in MS Excel ?",
+      "options": [
+        "date ()",
+        "today ( )",
+        "now ( )",
+        "time ( )"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q34",
+      "question": "In MS-excel, B7:B9 indicates :",
+      "options": [
+        "cell B7 and cell B9 only",
+        "cells B7 through B9",
+        "cell B8 only",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "In MS Excel, what happens when dollar sign ($) are entered in a cell address ? (Ex:$B$2:$B$10)",
+      "options": [
+        "an absolute cell address is created",
+        "cell address will change when it is copied to another cell",
+        "the sheet tab is changed",
+        "the status bar does not display the cell address"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q36",
+      "question": "In MS Exvel, what do you mean by a workspace ?",
+      "options": [
+        "group of columns",
+        "group of worksheets",
+        "group of rows",
+        "group of workbook"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "Which of the following is a popular DOS based spreadsheet package ?",
+      "options": [
+        "Word",
+        "smart cell",
+        "excel",
+        "lotus 1-2-3"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q38",
+      "question": "The intersection of a row and column is called :",
+      "options": [
+        "data",
+        "a field",
+        "a cell",
+        "an equation"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q39",
+      "question": "Which operator will combine text from two cells into one cell ?",
+      "options": [
+        "& (ampersand)",
+        "= (equal)",
+        "space",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "An excel workbook is a collection of :",
+      "options": [
+        "workbook",
+        "worksheets",
+        "charts",
+        "worksheets and charts 88 / Question Bank"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q41",
+      "question": "Database that contains tables linked by common field is called a….",
+      "options": [
+        "centralized database",
+        "flat file database",
+        "relational database",
+        "none of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q42",
+      "question": "DBMS is :",
+      "options": [
+        "collection of data",
+        "Set of programs to access those data",
+        "Set of programs to update those data",
+        "all of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q43",
+      "question": "What term refers to a collection of related information ?",
+      "options": [
+        "database",
+        "list",
+        "outline",
+        "record"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q44",
+      "question": "A DBMS allowyou to create and maintain a database, create reports, and develop application programs, select the best fit answer :",
+      "options": [
+        "database management approach",
+        "DBBMS uses",
+        "database administrator",
+        "query language"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q45",
+      "question": "………present data in a way similar to an excel spreadsheet.",
+      "options": [
+        "datasheet view",
+        "design view",
+        "print preview",
+        "layout preview"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "Where from you can insert shapes in your slide ?",
+      "options": [
+        "home menu",
+        "design menu",
+        "animations menu",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "Which key used for slide show from beginning ?",
+      "options": [
+        "F1",
+        "F2",
+        "F5",
+        "F9"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "Page setup for slides is available on :",
+      "options": [
+        "home menu",
+        "design menu",
+        "insert menu",
+        "view menu"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "A world wide web contains web pages :",
+      "options": [
+        "residing in many computer",
+        "created using HTML",
+        "with links to other web pages",
+        "residing in many computers linked together using HTML"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q50",
+      "question": "A web pages is located using a :",
+      "options": [
+        "universal record linking",
+        "uninform resource locator",
+        "universal record locator",
+        "uniformaly reachable links"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

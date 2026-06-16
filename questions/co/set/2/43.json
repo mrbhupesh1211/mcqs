@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "43",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "IBM 1401 was brought to prepare the census report of ...............",
+      "options": [
+        "2018 BS",
+        "2028 BS",
+        "2038 BS",
+        "2048 BS"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "Unicode Standard is .....................",
+      "options": [
+        "Software",
+        "Font",
+        "Character encoding system",
+        "Keyboard layout"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following is not valid storage medium?",
+      "options": [
+        "zip disk",
+        "floppy disk",
+        "Hard disk",
+        "None of these"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "Computer follows a simple principle called GIGO which means......",
+      "options": [
+        "garbage in garbage out",
+        "garbage in good output",
+        "good input good output",
+        "grater in grates out"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "one byte consists of",
+      "options": [
+        "four bits",
+        "one bit",
+        "ten bits",
+        "eight bits"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q6",
+      "question": "Which of the following is not valid memory?",
+      "options": [
+        "ROM",
+        "RAM",
+        "EEPROM",
+        "NIC"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "The serial mouse has a",
+      "options": [
+        "9 pin connecter",
+        "16 pin connecter",
+        "25 pin connecter",
+        "32 pin connector"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "laser printer used",
+      "options": [
+        "Raster scan",
+        "comera lens",
+        "Heat sensitive paper",
+        "None of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q9",
+      "question": "CD ROM is a",
+      "options": [
+        "Random Access Memory",
+        "Volatile Memory",
+        "Optical Memory",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "The second Generation Computer was based on",
+      "options": [
+        "vacuum tubes",
+        "Silicon chips",
+        "Transistor",
+        "Biochips"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q11",
+      "question": "Which of the following is not component of Control Panel?",
+      "options": [
+        "keyboard",
+        "mouse",
+        "monitor",
+        "printer"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q12",
+      "question": "short cut key combination for closing windows is",
+      "options": [
+        "Ctrl+s",
+        "Alt+F",
+        "Ctrl+V",
+        "F1"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q13",
+      "question": ".................tool helps to reduce file access time from disk",
+      "options": [
+        "scandisk",
+        "Disk degragmenter",
+        "backup",
+        "format"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "What term is use to describe two or more computers that are linked to each other?",
+      "options": [
+        "star connection",
+        "computer system",
+        "computer network",
+        "Net"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Which of the following is not a MS-Dos internal command",
+      "options": [
+        "dir",
+        "copy",
+        "more",
+        "rd"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q16",
+      "question": "What bar is usually found at the bottom of the desktop",
+      "options": [
+        "Tol bar",
+        "Task bar",
+        "Menu bar",
+        "Title bar"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "Which windows application do you use if you don't know the key position to display a nepali",
+      "options": [
+        "notepad",
+        "calculator",
+        "character map",
+        "Accessibility Wizard"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q18",
+      "question": "Which of the following is a page layout",
+      "options": [
+        "shading",
+        "portrait",
+        "template",
+        "window Question Bank / 113"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "The feature of MS-Word that combines a set of database records with a main document is",
+      "options": [
+        "thesaurus",
+        "mail merge",
+        "Auto correct",
+        "word wrap"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "In MS-Word which of the following is not available in paragraph spacing?",
+      "options": [
+        "single",
+        "double",
+        "triple",
+        "multiple"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "What is the smallest width of columns?",
+      "options": [
+        "0\"",
+        "1\"",
+        "0.5\"",
+        "1.5\""
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "Which file starts Ms-Word",
+      "options": [
+        "winword.exe",
+        "msword.exe",
+        "wor",
+        "exe d. word2003.exe"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "To insert a drop cap in one of the paragraph you should access",
+      "options": [
+        "insert menu",
+        "tools",
+        "format",
+        "none of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "Ms-Word allows creations of ................ type of documents by default",
+      "options": [
+        "DOC",
+        "TXT",
+        "WPF",
+        "DOT"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "What word would i use to describe the act of correcting something",
+      "options": [
+        "whiteout",
+        "correcting",
+        "erase",
+        "edit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q26",
+      "question": "If wanted to take a paragraph from one place, and put it into another, what word would best describes that",
+      "options": [
+        "rotate",
+        "copy",
+        "relocate",
+        "move"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "To define a page border, select",
+      "options": [
+        "file, page setup",
+        "format, paragraph",
+        "format, border and shading",
+        "Edit, object"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "Filter option is use to",
+      "options": [
+        "arrange data in alphabetical order",
+        "arrange data in numeric order",
+        "arrange data chronological order",
+        "extract the records that meet given criteria"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "What is the short cut key to select entire row in Excel sheet?",
+      "options": [
+        "Ctrl+spacebar",
+        "alt+spacebar",
+        "Shift+spacebar",
+        "Ctrl+Shift+spacebar"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "Short cut key ctrl+shift+; inserts ............... at the current cell",
+      "options": [
+        "current date",
+        "current time",
+        "current date that get updated",
+        "current time that get updated"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q31",
+      "question": "To go to the previous worksheet, press",
+      "options": [
+        "alt+pgup",
+        "ctrl+pgup",
+        "ctrl+pg dn",
+        "Shift+tab"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q32",
+      "question": "Which of the following methods cannot be used to edit the content of cell?",
+      "options": [
+        "Flexibility of moving entries",
+        "pressing F2",
+        "double clicking the cell",
+        "Clicking the formula bar"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "A function inside another function is called a .................... function.",
+      "options": [
+        "nested",
+        "round",
+        "sum",
+        "text"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "What do you mean by a workspace",
+      "options": [
+        "Group of columns",
+        "group of worksheets",
+        "group of rows",
+        "group of workbooks"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q35",
+      "question": "What will be the output is you format the cell containing 5436.8 as '#,##0.00'",
+      "options": [
+        "5,430.00",
+        "5436,80",
+        "5436,8",
+        "6.8"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "How do you wrap the text in a cell",
+      "options": [
+        "format, cells, font",
+        "format, cells, number",
+        "format, cells, protection",
+        "format, cells, alignment"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "Which of the following should you use if you want all the slide in the presentation to have the same look",
+      "options": [
+        "the slide layout option",
+        "add a slide option",
+        "outline view",
+        "a presentation design template"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "The arrangement of elements such as title and subtitle text, pictures, table etc. is called",
+      "options": [
+        "layout",
+        "presentation",
+        "Design",
+        "scheme 114 / Question Bank"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "Which option can be used to set custom timing for slides in a presentation",
+      "options": [
+        "slider timer",
+        "setup",
+        "slide show",
+        "Rehearsal"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "Which of the following can you use to add times to the slide in a presentation?",
+      "options": [
+        "Slide Show menu",
+        "Rehearse timings button",
+        "Slider Transition button",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q41",
+      "question": "Objects on the slide that hold text are called",
+      "options": [
+        "Place holders",
+        "Object holders",
+        "Auto layout",
+        "Text holders"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "Good design determines",
+      "options": [
+        "Credibility",
+        "Readability",
+        "First impression",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q43",
+      "question": "The organized process or set of steps that needs to be followed to develop an information system is known as the:",
+      "options": [
+        "Analytical cycle",
+        "program specification",
+        "System development life cycle",
+        "Designing cycle"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q44",
+      "question": "Which is not a part of record keeping",
+      "options": [
+        "Collecting record",
+        "Categorizing records",
+        "Retrieving records",
+        "Buying and Selling"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "Correspondence is the exchange of message done by........................",
+      "options": [
+        "Internet",
+        "Letters",
+        "E-mail",
+        "All"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q46",
+      "question": "Memorandum is a document used for",
+      "options": [
+        "Internet communication within an organization",
+        "Communication between one organization to another",
+        "Both",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q47",
+      "question": "Gif images can have only up to......... colors",
+      "options": [
+        "128",
+        "256",
+        "512",
+        "1024"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q48",
+      "question": "What type of os is MS-Dos",
+      "options": [
+        "single user, GUI",
+        "Single user, CUI",
+        "Multi user, GUI",
+        "Multi user, CUI"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "Short cut key to bring format cell dialog box is",
+      "options": [
+        "strl+f",
+        "ctrl+1",
+        "ctrl+E",
+        "ctrl+d"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q50",
+      "question": "Macros are run or executed from the................. menu",
+      "options": [
+        "Insert",
+        "format",
+        "tools",
+        "data"
+      ],
+      "correct_option": 3
+    }
+  ]
+}

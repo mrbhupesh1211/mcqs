@@ -1,0 +1,545 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "33",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which one of the following is only input Device",
+      "options": [
+        "Hard Disk",
+        "RAM",
+        "Printer",
+        "Keyboard"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q2",
+      "question": "Find the odd one out",
+      "options": [
+        "CPU",
+        "RAM",
+        "CD Drive",
+        "ALU"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "What is difference between Notepad and wordpad",
+      "options": [
+        "One for editing document and other for chart",
+        "One for only ascii text and other for text with formatting codes",
+        "Editor for different operating system's configuration files",
+        "One with mouse support and other without mouse support editor"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "The name for the way that computers manipulate data into information is called :",
+      "options": [
+        "programming",
+        "processing",
+        "storing",
+        "organizing"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q5",
+      "question": "Everything you see on the screen is called the ……",
+      "options": [
+        "wallpaper",
+        "desktop",
+        "screen saver",
+        "window"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "The bottom of your window gives additional information about your work in a place called the………",
+      "options": [
+        "output area",
+        "bottom area",
+        "status area",
+        "text area"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q7",
+      "question": "If you format your heading using standard heading styles of word, automated features you can create a ……..for your documents.",
+      "options": [
+        "title",
+        "main heading",
+        "TOC",
+        "header"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q8",
+      "question": "To print only slides 4, 5, 6 and 10 use the file/print menu option, select the slides option under print range. The range you would enter would be………….",
+      "options": [
+        "4-6,10",
+        "4-6;10 Question Bank / 83",
+        "4,4-6,10",
+        "6,10"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "In power point you can add a new slide by pressing the ..key combination.",
+      "options": [
+        "Ctrl+1",
+        "Ctrl +w",
+        "ctrl+M",
+        "ctrl+N"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "To change the system date you can use …command.",
+      "options": [
+        "Sysdate",
+        "time",
+        "datetime",
+        "date"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q11",
+      "question": "A…………..constraint restricts values you can insert into a column.",
+      "options": [
+        "CHECK",
+        "VALIDATE",
+        "CERUFY",
+        "same"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "Which is not a part of the CPU ?",
+      "options": [
+        "Memory",
+        "Processor",
+        "Keyboard",
+        "Arithmetic Logic unit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "Power point is usually used for :",
+      "options": [
+        "data processing",
+        "typing letters",
+        "Accounting",
+        "Lecturing and presentation"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "Which of the following software cannot be used for removing computer virus ?",
+      "options": [
+        "Kaspersky",
+        "AVG",
+        "CHKDSK",
+        "NOD"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Which of command is not included in COMMAND.COM in MS DOS ?",
+      "options": [
+        "DIR",
+        "MKDIR",
+        "COPY",
+        "Xcopy"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "Which facility is not available in MS Excel ?",
+      "options": [
+        "writing stories",
+        "Drawing Charts",
+        "Statistical Analysis",
+        "mail merge"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "Which facility is not available in MS Excel ?",
+      "options": [
+        "Graphs",
+        "Database",
+        "Scheduler",
+        "Statisticala functions"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q18",
+      "question": "If formula \"=SUM($A$1+B1)\" in cell C1 is copied to cell C2 .What will be the resulting formula in the cell C2?.",
+      "options": [
+        "=SUM($A$1+B2)",
+        "=SUM($A$1+B1)",
+        "=SUM($A$2+B1)",
+        "=SUM($A$2+B2)"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "What is wrong with formula =E1+A1 in cell E1 in excel ?",
+      "options": [
+        "Circular Reference",
+        "wrong format",
+        "Incalid cell",
+        "wrong operator"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "What will be the output of the following MS Excel formula =2^2+4/2*2",
+      "options": [
+        "5",
+        "16",
+        "8",
+        "2"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "Maximum rows of data that can be entered in excel 2007 excel sheet is",
+      "options": [
+        "Unlimited",
+        "2MB",
+        "1048576",
+        "65556"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q22",
+      "question": "Thesaurus in MS-Word is used for",
+      "options": [
+        "Checking spelling",
+        "Checking grammar",
+        "Finding words with similar meanings",
+        "Correcting English"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "Which of the following command can be used in all windows office application ?",
+      "options": [
+        "CTR>-X",
+        "CTR>-F",
+        "CTR>-S",
+        "All of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q24",
+      "question": "What do you need to do before generating table of content in MS Word ?",
+      "options": [
+        "Select text for table of content",
+        "Select text to be included in heading and change style to heading",
+        "Copy and paste text into table of content",
+        "Drag and drop text into table of content"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "In powerpoint Slide show what do you do to go to next slide ?",
+      "options": [
+        "Press Space Bar",
+        "Click Mouse",
+        "Page Down",
+        "Any of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q26",
+      "question": "MS access is used for",
+      "options": [
+        "Writing letters",
+        "Calculating totals",
+        "Storing Data",
+        "Generating graphics"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q27",
+      "question": "Which of the following can you use to add times to the slides in a presentation",
+      "options": [
+        "Slide show menu",
+        "Reherase timing button",
+        "Slide transition button",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "Which of the following is an example of text in a spreadsheet ?",
+      "options": [
+        "2763",
+        "Sales 1994 1995",
+        "=A1+A2+A3",
+        "=Sum(A1+A2+A3)"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "To make a number in cell C1 10% smaller than the number in C3 you enter",
+      "options": [
+        "= C3*1.10",
+        "C3*0.90",
+        "+C3*110",
+        "C3%10 84 / Question Bank"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q30",
+      "question": "Which command brings you to the first slide in your power point presentation ?",
+      "options": [
+        "Next slide bottom",
+        "ctrl+Home",
+        "page up",
+        "ctrl+End"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "What your logo in the same position on every slide, automatically ? Insert it on the",
+      "options": [
+        "Handout master",
+        "notes master",
+        "Slide master",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q32",
+      "question": "If You need to see a listing of a directory with all files and subdirectories and files and subdirectories within subdirectories, which of the following command syntax will be most appropriate ?",
+      "options": [
+        "dir/P",
+        "dir/w",
+        "dir/ad",
+        "dir/s"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "In MS words, once you view the document in full screen mode, to come back to normal mode again you have to press :",
+      "options": [
+        "Ctrl-Q keys",
+        "Ctrl -BREAK Keys",
+        "ESC key",
+        "F1 key"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q34",
+      "question": "Term 'Query' is used generally in :",
+      "options": [
+        "word processing",
+        "presentation",
+        "Operating system",
+        "Database"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q35",
+      "question": "To calculate the interest, principle, and total payment involved in the repayment of a loan you can use the built-infunctions…………",
+      "options": [
+        "ST(rat,per,nper,pv,fv), KT(rate,nper,pv,fv,type), LT(rate,nper,pv,fv,type)",
+        "IPMT(rate,per,nper,pv,fv), PPMT(rate,nper,pv,fv,type), PMT(rate,nper,pv,fv,type)",
+        "IMP(rate,per,nper,pv,fv), PPM(rate,nper,pv,fv,type), PM(rate,nper,pv,fv,type)",
+        "T (rate,per,nper,pv,fv), QT(rate,nper,pv,fv,type),RT(rate,nper,p v,fv,type)"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "Click on Tools, then click on protection, then click on sheet, click on a check box (contents, objects, or scenarios) and type a password in the password box to….. worksheet.",
+      "options": [
+        "share",
+        "change",
+        "protect",
+        "freeze"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q37",
+      "question": "You can search for worksheet data using the …command to select information that meets the criteria of your choosing.",
+      "options": [
+        "project",
+        "select",
+        "filter",
+        "enquiry"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q38",
+      "question": "A…………..key is a column in your table that makes each record unique and it cannot have null value.",
+      "options": [
+        "Primary",
+        "foreign",
+        "filter",
+        "enquiry"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "After a picture has been taken with a digital Camera and processed appropriately, the actual print of the picture is considered.",
+      "options": [
+        "Data",
+        "Output",
+        "the process",
+        "input"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q40",
+      "question": "Word processing, spreadsheet, and photo-editing are examples of :",
+      "options": [
+        "application software",
+        "system software",
+        "operating system software",
+        "platform software"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "A copyright © symbol can be inserted using",
+      "options": [
+        "ctrl+alt+A",
+        "ctrl+alt+C b. Ctrl+Alt+B d. Ctrl+Alt+D 42. In a relational database, a key that is on the many side of a one to many relationship is known as a. primary key b. Foreign key",
+        "Secondary key",
+        "None of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q43",
+      "question": "Which one is the latest operating system of Microsoft mentioned below :",
+      "options": [
+        "Windows NT",
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q44",
+      "question": "Which one of following is correct sequence to change the format of text to ITALICS in MS word :",
+      "options": [
+        "Select the text that you want to make ITALICS and select Icon->I",
+        "Select the text that you want to make to make Italic and press ctrl+I",
+        "Press ctrl+I and type text",
+        "All of above Question Bank / 85"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "If you want to write this text SAMPLE what format do you apply to the text ?",
+      "options": [
+        "superscript",
+        "subscript",
+        "strike-through",
+        "double strikethrough"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q46",
+      "question": "To type date in word (21st) what format need to apply to the text ?",
+      "options": [
+        "Superscript",
+        "Subscript",
+        "Strike though",
+        "All Caps"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "What will happen if you press Ctrl +P while typing the text ?",
+      "options": [
+        "The screen will be closed",
+        "Printing windows will pop up",
+        "Selected text will be pasted",
+        "whole text will be selected"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q48",
+      "question": "In MS Excel work sheet B3 has formula A1:A2+A3 and A1, A2 and A3 has value 2. What will result displayed in B3 ?",
+      "options": [
+        "6",
+        "Error",
+        "8",
+        "10"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "From which table, Data fetching will be slow :",
+      "options": [
+        "Table with less number of columns",
+        "Table with less number of fields",
+        "Table without index on columns",
+        "Table with index on columns"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q50",
+      "question": "Which of the following is not hardware ?",
+      "options": [
+        "Processor",
+        "Display unit",
+        "Memory unit",
+        "Pinter driver"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

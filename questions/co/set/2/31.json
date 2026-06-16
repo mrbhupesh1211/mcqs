@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "31",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which operation is not performed by computers ?",
+      "options": [
+        "Processing",
+        "Inputting",
+        "Controlling",
+        "Undrstanding"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q2",
+      "question": "The word length of mainframe computer is :",
+      "options": [
+        "8 to 16 bit",
+        "16 to 32 bit",
+        "32 to 64 bit",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "The input unit of a computer",
+      "options": [
+        "feeds data to the CPU or memory",
+        "retrieves data from CPU",
+        "directs all other units",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following holds the ROM, CPU, RAM and expansion cards ?",
+      "options": [
+        "hard disk",
+        "floppy disk",
+        "motherboard",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following devices can be used to directly input prited text ?",
+      "options": [
+        "OCR",
+        "OMR",
+        "MICR",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "CD-ROM is a :",
+      "options": [
+        "Semiconductor memory",
+        "memory register",
+        "magnetic memory",
+        "none of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "Actual execution of instructions in a computer takes place in :",
+      "options": [
+        "ALU",
+        "Control unit",
+        "storage unit",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "Software can be categories into :",
+      "options": [
+        "three major groups",
+        "four major groups",
+        "five major groups",
+        "six major groups"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "An attempt to slow down or stop a computer system or network by flooding the system with requests for information is called a :",
+      "options": [
+        "Virus",
+        "Worm",
+        "denial-of-service attack",
+        "Trojan horse"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "Typical data transfer rate in LAN are the order of :",
+      "options": [
+        "bits per sec",
+        "Kilo bits per Sec",
+        "Mega bits per sec",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q11",
+      "question": "The errors that can be pointed out by the compiler are :",
+      "options": [
+        "syntax errors",
+        "sematic errors",
+        "logical errors",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "The ASCII code of 'A' is :",
+      "options": [
+        "66H",
+        "41H",
+        "01000010",
+        "01100011"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q13",
+      "question": "In the URL http:// loksew",
+      "options": [
+        "com.np the portion labeled http is the: a. host",
+        "domain name",
+        "protocol",
+        "top-level domain"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "The number of pixels displayed on a screen is known as the screen–",
+      "options": [
+        "resolution",
+        "colour depth",
+        "refresh rate",
+        "viewing size"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Which one is example of GUI ?",
+      "options": [
+        "Windows XP",
+        "Windows 7",
+        "Linux",
+        "all of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "Fonts install from :",
+      "options": [
+        "font setup file",
+        "font.exe file",
+        "add from control panel",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "Which one is a not system tool ?",
+      "options": [
+        "disk defragmentation",
+        "virus scanning",
+        "backup",
+        "all of above 78 / Question Bank"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "Recently deleted file restore from :",
+      "options": [
+        "desktop",
+        "taskbar",
+        "my computer",
+        "Recycle bin"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q19",
+      "question": "Which one is not part of control panel ?",
+      "options": [
+        "my documents",
+        "add or remove programs",
+        "display",
+        "date and time"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "What is the file extension of MS.word document ?",
+      "options": [
+        "Dot",
+        "Doc",
+        "Dom",
+        "Txt"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "In H2O the figure 2 is appeared lowered. Which effect has been applied ?",
+      "options": [
+        "Superscript",
+        "lowered",
+        "subscript",
+        "laid down"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q22",
+      "question": "Why are headers and footers used in the document ?",
+      "options": [
+        "to enhance the overall appearance of the document",
+        "to mark the starting and ending of a page",
+        "to make large document more readable",
+        "to allow page headers and footers to appear on document when it is printed"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "Which of the following shortcut key is used to check spelling ?",
+      "options": [
+        "F1",
+        "F2",
+        "F7",
+        "F9"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "What is the Thesaurus used for ?",
+      "options": [
+        "Spelling options",
+        "grammar options",
+        "Synonyms and antonyms",
+        "opposite words"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "How can you insert a sound file in your word document ?",
+      "options": [
+        "from insert->object menu option",
+        "from insert->Clipart menu option",
+        "from insert->file menu option",
+        "by right clicking the document and choosing 'Add sound' option"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "A bookmark is an item or location in document that you identify an name for future reference. Which of the following task is accomplished by using bookmarks ?",
+      "options": [
+        "to quickly jump to a specific location in the document",
+        "to add hyper links in a web page",
+        "to add anchors in a web page",
+        "to mark the ending of a page of document"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "Macros are :",
+      "options": [
+        "Small add-on programs that are installed afterwards if you need them",
+        "Programming language that you can use to customize MS-word",
+        "Large tools in word such as mail merge",
+        "Small programs created in MS-Word to automate repetitive tasks by using VBA"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q28",
+      "question": "A template stores :",
+      "options": [
+        "customized word command settings",
+        "auto text entries",
+        "graphics, text, styles, macros",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "What do you mean by the vertical separation between columns ?",
+      "options": [
+        "gutter",
+        "Margin",
+        "index",
+        "Orientation"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q30",
+      "question": "The default header for a worksheets is :",
+      "options": [
+        "Your name",
+        "the date and time",
+        "the sheet tab name",
+        "none of these"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q31",
+      "question": "Which of the following is an absolute cell reference ?",
+      "options": [
+        "!A!!",
+        "$A$1",
+        "#a#1",
+        "A1"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q32",
+      "question": "Which symbol must all formula begin with :",
+      "options": [
+        "=",
+        "+",
+        "(",
+        "@"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "to add two cells (A1 and A2) together you use the following formula :",
+      "options": [
+        "= A1 + A2",
+        "=Add (A1+A2)",
+        "together (A1:A2)",
+        "A1 Plus A2"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "On an excel sheet the active cell in indicated by :",
+      "options": [
+        "a dark wide boarder",
+        "a dotted border",
+        "a blinking border",
+        "none of above Question Bank / 79"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "You can create hyperlinks from the Excel workbook to :",
+      "options": [
+        "A webpage on company internet",
+        "a web page on the internet",
+        "other office 97 application documents",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "The advantage of using a spreadsheet is :",
+      "options": [
+        "calculations can be done automatically",
+        "changing data automatically updates calculations",
+        "more flexibility",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "There are three types of data found in a spreadsheet :",
+      "options": [
+        "data, words, numbers",
+        "equations, data, numbers",
+        "words, numbers, labels",
+        "numbers, formulas, labels"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q38",
+      "question": "To merge the cells which tab do you use from the format, cells menu ?",
+      "options": [
+        "number tab",
+        "alignment tab",
+        "font tab",
+        "merge tab"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q39",
+      "question": "How do you rearrange the date in ascending or descending order ?",
+      "options": [
+        "data.sort",
+        "data. form",
+        "data.table",
+        "data. subtotals"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "Which of the following is not a data base application ?",
+      "options": [
+        "dBase",
+        "Edit",
+        "Foxpro",
+        "Access"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "Size of a database are usually measured in terms of :",
+      "options": [
+        "tera bytes",
+        "mega bytes",
+        "data bytes",
+        "giga bytes"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q42",
+      "question": "An organized collection of logically related data is known as :",
+      "options": [
+        "data",
+        "meta data",
+        "database",
+        "data versus information"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "Which of the following is NOT one of the four major data processing functions of a computer ?",
+      "options": [
+        "gathering data",
+        "processing data into information",
+        "analyzing the data or information",
+        "storing data or information"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "A field that uniquely identify each record in a table is :",
+      "options": [
+        "main field",
+        "Primary key",
+        "key field",
+        "index key"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q45",
+      "question": "How can you stop a slide show ?",
+      "options": [
+        "press the right arrow",
+        "press escape",
+        "press the left arrow",
+        "press the down arrow"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q46",
+      "question": "What would I choose to create a preformatted style ?",
+      "options": [
+        "Slide sorter",
+        "Slide layout",
+        "slide transition",
+        "Slide design"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q47",
+      "question": "Which view shows all the slides at once ?",
+      "options": [
+        "normal view",
+        "all slide view",
+        "slide sorter view",
+        "slide show view"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "What is the syntax to write the HTML tags ?",
+      "options": [
+        "(HTML)",
+        "<%HTML>",
+        "\"HTML\"",
+        "<HTML>"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "Which is not a HTML tag ?",
+      "options": [
+        "tr",
+        "br",
+        "hr",
+        "dr"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q50",
+      "question": "Email uses …………… protocol to transfer data from client to email server.",
+      "options": [
+        "SMTP",
+        "HTTP",
+        "WWW",
+        "all of the above 80 / Question Bank"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "22",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which is not application software?",
+      "options": [
+        "Windows",
+        "Spreadsheet",
+        "Game",
+        "Word processor"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which is common memory?",
+      "options": [
+        "RAM",
+        "Hard disk",
+        "ROM",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q3",
+      "question": "What does the WAN stand for?",
+      "options": [
+        "Wide Area Network",
+        "World Area Network",
+        "Web Area Network",
+        "Word Area Network"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "Which one is ODD?",
+      "options": [
+        "Linux",
+        "DOS",
+        "OS/2",
+        "Windows"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q5",
+      "question": "The communication mode that supports data in both direction at the same time?",
+      "options": [
+        "Simplex",
+        "Half duplex",
+        "Full duplex",
+        "Multiplex"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q6",
+      "question": "When selecting some thing on screen it is",
+      "options": [
+        "Highlight",
+        "Underline",
+        "Shadowing",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q7",
+      "question": "What is the full form of CSS?",
+      "options": [
+        "Casual Style Spreadsheet",
+        "Cost style Sheet",
+        "Casual Style Spreadsheet",
+        "Cascade Style Sheet"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q8",
+      "question": "What is the full form of EPROM…….",
+      "options": [
+        "Erasable program Read Memory",
+        "Erasable Program Read only Memory",
+        "Erasable Program Read Only Memory",
+        "Erasable Programmable Read Only Memory"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q9",
+      "question": "Row is another name of ….",
+      "options": [
+        "Record",
+        "Field",
+        "Table",
+        "Query"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "Framework of for storing records in database is a",
+      "options": [
+        "Form",
+        "Report",
+        "Query",
+        "Table"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q11",
+      "question": "Which is not a character formatting?",
+      "options": [
+        "Font style",
+        "Color",
+        "Font size",
+        "Indent"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q12",
+      "question": "Which of the following is not a command?",
+      "options": [
+        "Ren",
+        "Mkdir",
+        "Def",
+        "Me dir"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "Second generation computers were developed during",
+      "options": [
+        "1949 to 1955",
+        "1956 to 1965 Question Bank / 53",
+        "1965 to 1970",
+        "1970 to 1990"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "Which generation of computer is still under development ?",
+      "options": [
+        "Fourth",
+        "Sixth",
+        "Fifth`",
+        "Seventh"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "The first electronics general purpose digital computer built by Mauchly and Eckert called ENIAC did not work on the stored program principle. How many numbers could it store in its internal memory?",
+      "options": [
+        "100",
+        "20",
+        "40",
+        "80"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "In presentation we can insert",
+      "options": [
+        "Date and Time",
+        "Placeholder",
+        "Both a and b",
+        "a only"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q17",
+      "question": "A value used in a formula that does not change is called",
+      "options": [
+        "Cell address",
+        "Constant",
+        "Function",
+        "Range"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "To open the format cell dialog box, Press",
+      "options": [
+        "Alt + 1",
+        "Ctrl + 1",
+        "Ctrl+Shift+ 1",
+        "F1"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "Which of the following printing devices an output composed of a series of dots?",
+      "options": [
+        "Wire- matrix printer",
+        "Band printer",
+        "Wang image Printer",
+        "Both a & c"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "An online backing storage system capable of storing larger quantities of data is",
+      "options": [
+        "CPU",
+        "Memory",
+        "Mass Storage",
+        "Secondary Storage"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "An input/ output device at which data enters or leaves a computer system is...",
+      "options": [
+        "Keyboard",
+        "Terminal",
+        "Printer",
+        "Plotter"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "The program stored in the ROM is called…..",
+      "options": [
+        "Hardware",
+        "Firmware",
+        "Software",
+        "None of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "Which works as an output and input device?",
+      "options": [
+        "Modem",
+        "Scanner",
+        "Mouse",
+        "Monitor"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "Which of the following required large computer memory?",
+      "options": [
+        "Imaging",
+        "Graphics",
+        "Voice",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q25",
+      "question": "When you are typing an equation into a cell the first thing that must be entered is",
+      "options": [
+        "the first cell referenced",
+        "parenthesis",
+        "quotation marks",
+        "an equal sign"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q26",
+      "question": "The LEN function does what?",
+      "options": [
+        "Compares the content in two cells",
+        "Counts the numbers of characters in a cell",
+        "Deletes extra space in text",
+        "An equal sign"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "Append from command is used to",
+      "options": [
+        "Adds new record from file",
+        "Add record from a variable",
+        "Add records from stock",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "What is the name for match between the words between the words or phrases being searched and the items found in an electronic database?",
+      "options": [
+        "Bug",
+        "Hit",
+        "It",
+        "Default"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "Macro is ……….",
+      "options": [
+        "Programming language that you can use to customize MS- Word",
+        "Large tools in Word such as Mail Merge.",
+        "Small programs created in MS- Word to automate repetitive tasks by using VBA",
+        "all of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "What process should be used to recall a document saved previously?",
+      "options": [
+        "copy",
+        "Save",
+        "Open",
+        "Enter"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "Which of the following bar is not available in MS- Word?",
+      "options": [
+        "Toolbar",
+        "Formula Bar",
+        "Status Bar",
+        "Menu Bar"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q32",
+      "question": "In Ms- Word every command is available in?",
+      "options": [
+        "Letter",
+        "Icon",
+        "Printer",
+        "Menu 54 / Question Bank"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "Which view in MS- Word can't display graphics?",
+      "options": [
+        "Normal View",
+        "Page layout View",
+        "Print Preview",
+        "None of these"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "Which is not an advantage of using computerized spreadsheet?",
+      "options": [
+        "Flexibility of moving entries",
+        "Speed of calculation b. Ability of generate tables d. Cost of initial cost 35. What is the short cut key of default chart ? a. Ctrl + F11 b. F11",
+        "Ctrl+shfit+1",
+        "Alt+ C"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "You can put in presentation?",
+      "options": [
+        "Bullet and text",
+        "Place holders",
+        "Both A and B",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q37",
+      "question": "Mostly used components of database is…",
+      "options": [
+        "Table",
+        "Form",
+        "Query",
+        "Report"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "Which is not related to DOS command?",
+      "options": [
+        "Dir b, Mkdir c. Tree d. Ctrl 39. Which is a common memory? a. RAM",
+        "ROM",
+        "Hard disk",
+        "None"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "DBMS is…….",
+      "options": [
+        "collection of data",
+        "Set of programs to access data",
+        "set of programs to update data",
+        "all of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "Which is not changes the cell value?",
+      "options": [
+        "constant",
+        "Range",
+        "Change of formula",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "Graphics object on a chart are used to _",
+      "options": [
+        "add emphasis to chart data",
+        "Add Interest to chart",
+        "help explain the chart area",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "The Shortcut key of format cell is…..",
+      "options": [
+        "Ctrl+1",
+        "Ctrl+F9",
+        "F2",
+        "F7"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q44",
+      "question": "Which is not in word?",
+      "options": [
+        "Formula bar",
+        "Standard toolbar",
+        "Status bar",
+        "Menu bar"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q45",
+      "question": "Copy only value from the text ….",
+      "options": [
+        "paste special",
+        "Shift+1",
+        "copy Value",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "Which is not character style?",
+      "options": [
+        "Indent",
+        "Style and font type",
+        "Fonts",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "Which is an I/O Device?",
+      "options": [
+        "Touch pad",
+        "Modem",
+        "Track ball",
+        "all of above"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "16",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which is used for connecting database with front-end object?",
+      "options": [
+        "ADO",
+        "Recordset",
+        "Query",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which is used for insert footnote?",
+      "options": [
+        "View -> footnote",
+        "insert ->reference-> footnote",
+        "tools->footnote",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "Which is not database?",
+      "options": [
+        "LISP",
+        "FoxPro",
+        "Dbase",
+        "Oracle"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "Which is an odd?",
+      "options": [
+        "SQL",
+        "QBE",
+        "MS access",
+        "QUEL"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q5",
+      "question": "What will happen if you drag downward for cell containing date?",
+      "options": [
+        "Auto increment by day",
+        "Auto increment by Month b. Auto increment by year d. Copy same thing 6. The shortcut key to insert new slide? a. Ctrl+N b. Ctrl+M",
+        "Ctrl+D",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q7",
+      "question": "You have LPT1 printer if you want to change printer which would be possible?",
+      "options": [
+        "LPT 2",
+        "COM1",
+        "Com 2",
+        "All"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "What is the full form of ASCII?",
+      "options": [
+        "American standard code for information interchange",
+        "American scientist council for information imagine",
+        "All standard code for information interchange",
+        "All ways status correct information engine"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Which will be used to identify the IP Address in website?",
+      "options": [
+        "Web browser",
+        "DNS",
+        "File server",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "Which is expensive to put in website?",
+      "options": [
+        "Picture",
+        "text",
+        "Video",
+        "Flash document"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q11",
+      "question": "The shortcut key for speller?",
+      "options": [
+        "F7",
+        "Shift+F7",
+        "Alt+F1",
+        "F8"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "Which is not input device?",
+      "options": [
+        "Touch pad",
+        "touch screen",
+        "Scanner",
+        "mouse"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q13",
+      "question": "To change the volume label?",
+      "options": [
+        "vol",
+        "label",
+        "scandisk",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "Which is not located in toolbar?",
+      "options": [
+        "text wrap",
+        "New",
+        "Bold",
+        "Word art"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Which is the shortcut key to underline for word only?",
+      "options": [
+        "Ctrl+W",
+        "Ctrl+Shift+W",
+        "Ctrl+D",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "To decrease the space of Characters?",
+      "options": [
+        "Kerning",
+        "Expanding",
+        "Condensing",
+        "All of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "Which is relationship type?",
+      "options": [
+        "1:1",
+        "1:m",
+        "m:n",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q18",
+      "question": "Which is the absolute reference?",
+      "options": [
+        "A1",
+        "A$1",
+        "$A1",
+        "$A$1"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q19",
+      "question": "Which is the application software?",
+      "options": [
+        "Defragment",
+        "speller",
+        "Editor",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "What is the full form of USB?",
+      "options": [
+        "Universal Serial bus",
+        "Uniform Serial bus 38 / Question Bank",
+        "Unique Serial bus",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "Minimum refresh rate of CRT Screen.",
+      "options": [
+        "60 htz",
+        "70 htz",
+        "30 htz",
+        "75 htz"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "Which is not executable file?",
+      "options": [
+        ".com",
+        ".exe",
+        ".bat",
+        ".txt"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q23",
+      "question": "Which is not multitasking OS?",
+      "options": [
+        "DOS",
+        "Windows",
+        "Unix",
+        "Linux"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "Which is not network topology?",
+      "options": [
+        "bus",
+        "Ring",
+        "Ethernet",
+        "Star"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "Job priority is used in …",
+      "options": [
+        "Time sharing operating system",
+        "Multiuser operating system",
+        "Real time operating system",
+        "Batch operating system"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Summary function of Excel…",
+      "options": [
+        "Stdv",
+        "Num",
+        "sum",
+        "all"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q27",
+      "question": "1 point is …………?",
+      "options": [
+        "1/72 inch",
+        "72 inch",
+        "1/ 6 inch",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Which is not default toolbar in word?",
+      "options": [
+        "picture",
+        "Formatting",
+        "Standard",
+        "Drawing"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "Full form of ISP….",
+      "options": [
+        "Internal Service provider",
+        "Internet Service provider",
+        "Internet System Provider",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q30",
+      "question": "To show format dialog box in Excel",
+      "options": [
+        "Ctrl+1",
+        "Ctrl+2",
+        "Ctrl+F1",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "To activate cell.",
+      "options": [
+        "tab",
+        "click",
+        "enter",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "The shortcut key to insert new slide.",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+M",
+        "Ctrl+D",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "The maximum zoom percentage in PowerPoint is ..",
+      "options": [
+        "200 %",
+        "400%",
+        "500%",
+        "1000%"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q34",
+      "question": "1 GB = …………… byte",
+      "options": [
+        "109",
+        "106",
+        "103",
+        "1012"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "Which is fast memory?",
+      "options": [
+        "Cache memory",
+        "Register",
+        "Disk",
+        "Tape"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "How to use rehearsal timing?",
+      "options": [
+        "Format/Rehearse timing",
+        "Slide show / Rehearse timing",
+        "Setup show / Rehearse timing",
+        "All of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q37",
+      "question": "The command to partition large disk.",
+      "options": [
+        "Fdisk",
+        "Format",
+        "MD",
+        "All of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "The template is a….",
+      "options": [
+        "Determines the basic structure for a document and contains document settings",
+        "Documents created in VBA",
+        "Document format",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "The tag is used for picture?",
+      "options": [
+        "a href",
+        "Vlink",
+        "picture",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "Which is not software?",
+      "options": [
+        "Word",
+        "Touch pad",
+        "DOS",
+        "Antivirus"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "Host is …………",
+      "options": [
+        "Server",
+        "Client",
+        "Desktop",
+        "Remote computer"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "The mail merge combines the …………",
+      "options": [
+        "Main Document & Data source",
+        "Letter and Envelope",
+        "Data Field and Data source",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "AutoContent wizard in PowerPoint is used to………….",
+      "options": [
+        "Create Presentation by providing information",
+        "Apply readymade format for the presentation d. Creates the blank presentation d. None 44. Foreign key is used to………. a. Establish relationship b. Indexing table Question Bank / 39",
+        "Unique Record",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q45",
+      "question": "Slide consistency is provided by ……",
+      "options": [
+        "Design template",
+        "Slide layout",
+        "Slide master",
+        "all of above"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

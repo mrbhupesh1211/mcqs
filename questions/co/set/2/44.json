@@ -1,0 +1,358 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "44",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Dial Up Networking",
+      "options": [
+        "Is a full featured communication program for accessing mainframes.",
+        "Supports 12 terminal emulations",
+        "Provides a communications connection to an Internet service provider.",
+        "Enables file transfers between mainframe using 14 different file transfer protocols"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q2",
+      "question": "What is the name of the network topology in which there are bidirectional links between each possible node?",
+      "options": [
+        "Ring",
+        "star",
+        "tree",
+        "mesh"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q3",
+      "question": "All example of CSMA/CD standard is",
+      "options": [
+        "Ethernet",
+        "Token Ring",
+        "FDDI",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "What is the usual number of bits transmitted simultaneously in parallel data transmission used by microcomputer?",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "7"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "When a host knows its physical address but not its IP Address, it can use_______",
+      "options": [
+        "ICMP",
+        "RISC",
+        "ARP",
+        "RARP"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q6",
+      "question": "Hardwired Implementation is:",
+      "options": [
+        "CISC",
+        "RISC",
+        "Both of above",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "ISA stands for",
+      "options": [
+        "Industry Standard Architecture",
+        "Intel standard Architecture",
+        "Interconnect Standard Architecture",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "The symbol \":( \" represent the feeling and views over internet chatting as given below:",
+      "options": [
+        "Smiling",
+        "disappointing",
+        "Winking",
+        "raising brows"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q9",
+      "question": "Uniform Resource Locator (URL) are ….",
+      "options": [
+        "the same as search engine",
+        "used to find specific documents and resource on the WWW",
+        "never more than 11 characters long",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "Which of the following are names for the internet?",
+      "options": [
+        "the net",
+        "cyberspace",
+        "information super highway",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q11",
+      "question": "Which protocol is used to transfer information between WWW server and WWW browser?",
+      "options": [
+        "FTP",
+        "TCP",
+        "IP",
+        "HTTP"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q12",
+      "question": "A website that is restricted to the members of an organization, i.e. within a collage, is called (modified):",
+      "options": [
+        "an internet",
+        "an extranet",
+        "an intranet c. All of the above 13. Which of the following is a search engine? a. Netscape b. Java c. Alta Vista",
+        "Yahoo.com"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "The internet was developed in the ……..",
+      "options": [
+        "early 1970's",
+        "late 1960's",
+        "late 1980's",
+        "early 1990's"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q15",
+      "question": "World Wide Web pages can The internet was developed in the ……..be described as multimedia page. This means that a ……..",
+      "options": [
+        "the pages may contain 116 / Question Bank",
+        "text and pictures only",
+        "text pictures, sound",
+        "video clips sound, text, pictures"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "The speed of the data pathway or channel is called……..",
+      "options": [
+        "Channel speed",
+        "baud rate",
+        "disk access time",
+        "Data transfer time"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "HTML stands for:",
+      "options": [
+        "Hyper Test Markup Language",
+        "Hyper Text Media Language",
+        "Hyper Text Markup Language",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q18",
+      "question": "IT Policy advisory body of Government of Nepal is:",
+      "options": [
+        "Ministry of Science & Technology",
+        "Ministry of Information & Communication",
+        "High Level Commission for Information Technology",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "What is the name of block diagram that outlines, step by step, how a computer program will work?",
+      "options": [
+        "Program Flow Chart",
+        "Program Layout",
+        "Structure Program",
+        "Logical planning"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "National computer Center was established in Nepal in the year:",
+      "options": [
+        "2028 BS",
+        "2031BS",
+        "2032 BS",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "According to cyber law of Nepal any one of the following meaning does not belongs to the definition of \"Computer Samagree\".",
+      "options": [
+        "Any information",
+        "Any software",
+        "Any hardware",
+        "Any humanware"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q22",
+      "question": "The first copy right act of Nepal was promulgated in the year",
+      "options": [
+        "1967",
+        "1997",
+        "2002",
+        "2008"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "Firewalls are used to protect against___",
+      "options": [
+        "unauthorized attacks",
+        "External resources",
+        "Data driven attacks",
+        "Fire attacks"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "The 4-bit binary number 0111 represents",
+      "options": [
+        "15",
+        "-7",
+        "7",
+        "-1"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "The ASCII Code of '0' (Zero) is",
+      "options": [
+        "48 D",
+        "32H",
+        "00111000",
+        "1024 bytes"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "A gigabyte represents",
+      "options": [
+        "1 billion bytes",
+        "1000 kilobytes",
+        "230 bytes",
+        "1024 bytes"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "Personal computer use number of chips mounted on a main circuit board. What is the common name for such boards?",
+      "options": [
+        "Daughter board",
+        "Motherboard",
+        "Father board",
+        "Bread Board"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "What is the control unit's function in the CPU?",
+      "options": [
+        "To transfer data to primary storage",
+        "To store program instruction",
+        "To perform logic operations",
+        "To decode program instruction"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "The storage required for an image such as an X-ray is approximately",
+      "options": [
+        "a few bytes",
+        "a few hundred bytes",
+        "a few gigabytes",
+        "in the megabyte range"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "In analog computer",
+      "options": [
+        "Input is first converted to digital form",
+        "Input is never converted to digital form",
+        "Output is displayed in digital form",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q31",
+      "question": "The data recording format in most of the modern magnetic tape is",
+      "options": [
+        "7 bit ASCII",
+        "7 bit EBCDIC",
+        "8 bit ASCII",
+        "8 bit EBCDIC"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "Computer follows a simple principle called GIGO which means",
+      "options": [
+        "Garbage input Good Output",
+        "Garbage in garbage out",
+        "Great instructions great output",
+        "Good input good output"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "A data structure where elements can be added or removed at either end but not in the middle",
+      "options": [
+        "linked lists",
+        "stacks",
+        "Queues",
+        "Deque Question Bank / 117"
+      ],
+      "correct_option": 3
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "23",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Fourth Generation of computer used …..circuit.",
+      "options": [
+        "IC",
+        "VLSI",
+        "LSI",
+        "Transistor"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "In excel to edit a cell content press …… key.",
+      "options": [
+        "F5",
+        "F4",
+        "F1",
+        "F2"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q3",
+      "question": "In…. data model are organized into tables.",
+      "options": [
+        "Relational",
+        "network",
+        "Tree",
+        "Hierarchical"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "Excel has …. Function.",
+      "options": [
+        "Relative",
+        "Text b. Built-in d. imported 5. Microcomputers are also called……. a. Fastest computer b. Network computer",
+        "Personal computer",
+        "Analog computer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "High level language is developed by…",
+      "options": [
+        "USER",
+        "CPU",
+        "ROM",
+        "Operating System"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q7",
+      "question": "A \"WORM\" in computer spoils by …",
+      "options": [
+        "Copying itself",
+        "Deleting Files",
+        "Bugging Programs",
+        "Hacking programs"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "An input / output device at which data enters or leaves a computer system is…….",
+      "options": [
+        "Printer",
+        "Plotter",
+        "Terminal",
+        "Keyboard"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "Which chips are erasable by ultra violet rays after removing them from main circuit?",
+      "options": [
+        "ROM",
+        "EPROM",
+        "EEPROM",
+        "RAM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "A typical Personal computer now a days have RAM capacity of...",
+      "options": [
+        "256 KB",
+        "1 MB",
+        "128 MB",
+        "1 GB"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q11",
+      "question": "Wild card used to……..",
+      "options": [
+        "Represents one unknown file",
+        "Represents one directory",
+        "Represents one letter",
+        "Represents one extension"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q12",
+      "question": "Where is the BIOS stored?",
+      "options": [
+        "on the hard drive",
+        "on a diskette",
+        "on a USB Drive",
+        "On a Flash memory Chip"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "Which below IP address would be used for a local network?",
+      "options": [
+        "74.125.127.100",
+        "69.72.169.241",
+        "192.168.1.100",
+        "209.131.36.100"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Which of the below media types hold the most information?",
+      "options": [
+        "Blu-ray",
+        "CD",
+        "DVD",
+        "Floppy Diskette"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Which of the below utilities allow you to view a drives partition information?",
+      "options": [
+        "Chkdsk",
+        "Disk management",
+        "Device Manager",
+        "Scandisk"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "What is the minimum memory requirements for MS windows XP?",
+      "options": [
+        "32 MB",
+        "64 MB",
+        "128 MB",
+        "256 MB"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "What is XML short for?",
+      "options": [
+        "eXtensive Markup Language",
+        "eXtensive Markup List",
+        "eXtension Markup Language",
+        "eXtensible Markup Language 56 / Question Bank"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q18",
+      "question": "\".TMP\" extension refers usually to what kind of file?",
+      "options": [
+        "compressed file",
+        "image file",
+        "temporary file",
+        "audio file"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q19",
+      "question": "Who built the world's First binary digit computer Z1?",
+      "options": [
+        "Ken Thompson",
+        "Konard Zuse",
+        "Alan Turing",
+        "George Boole"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "Which command is used to backup in DOS 6+ version?",
+      "options": [
+        "Backup",
+        "MS Backup",
+        "Ms Backedup",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "To copy the hidden system files of DOS to another disk you can use the command..",
+      "options": [
+        "copy",
+        "Xcopy",
+        "Sys",
+        "Diskcopy"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q22",
+      "question": "The command used to copy a file named temp.doc from drive C: to drive A: is;",
+      "options": [
+        "Copy temp.doc to A:",
+        "Copy c:\\temp.doc A:",
+        "Copy C: A:",
+        "Copy temp A: C:"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "Which command be used to ask you to confirm that you want to delete the directory?",
+      "options": [
+        "Deltree",
+        "Deltree/f",
+        "del *.*/p",
+        "erase *.*"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "Which of the following is NOT one of the four major data processing function of a computer?",
+      "options": [
+        "Gathering data",
+        "Processing data into information",
+        "Analyzing the data or information",
+        "Storing the data or information"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q25",
+      "question": "Technology no longer protected by copyright, available to every one, is considered to be …..",
+      "options": [
+        "proprietary",
+        "Open",
+        "Experimental",
+        "in the public domain"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "The name for the way that computers manipulate data into information is called…",
+      "options": [
+        "Programming",
+        "Processing",
+        "Storing",
+        "Organizing"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "Computers process data into information by working exclusively with:",
+      "options": [
+        "multimedia",
+        "words",
+        "Characters",
+        "Numbers"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q28",
+      "question": "In the binary language each letter of the alphabet, each letter of alphabet, each digit and each special character is made up of a unique combination of :",
+      "options": [
+        "Eight bytes",
+        "Eight bits",
+        "Eight characters",
+        "Eight kilobytes"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "Which of the following application is not included in office package?",
+      "options": [
+        "Access",
+        "Excel",
+        "Word perfect",
+        "PowerPoint"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "Macros are ….",
+      "options": [
+        "small add-on programs that are installed afterward if you need them",
+        "Programming language that you can use to customize word",
+        "Large tools in word such as mail merge",
+        "small programs created in word to automate repetitive tasks by using VBA"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q31",
+      "question": "What process should be used to recall a document save previously?",
+      "options": [
+        "copy",
+        "Save",
+        "Open",
+        "Enter"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q32",
+      "question": "Which of the following bar is not available in word?",
+      "options": [
+        "Toolbar",
+        "Formula bar",
+        "Status bar",
+        "Menu bar"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "In ms word, every command is available in?",
+      "options": [
+        "Letter",
+        "Icon",
+        "Printer",
+        "Menu"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q34",
+      "question": "Which view in Word can't display graphics?",
+      "options": [
+        "Normal View",
+        "Page Layout view",
+        "Print Preview",
+        "None of these"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "Which is not an advantage of using computerized spreadsheet?",
+      "options": [
+        "Flexibility of moving entries",
+        "speed of calculation",
+        "ability of generate tables",
+        "cost of initial setup Question Bank / 57"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "When you are typing an equation into a cell the first thing that you must be entered…",
+      "options": [
+        "Parenthesis",
+        "Quotation mark",
+        "Equal Sign",
+        "Exclamation"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q37",
+      "question": "The LEN functions does what?",
+      "options": [
+        "compare the content in two cells",
+        "counts the number of characters in a cell",
+        "delete extra space in text",
+        "all of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q38",
+      "question": "Append from command is used to,,,,,,",
+      "options": [
+        "adds records from a file",
+        "adds records from a variable",
+        "Add records from stock",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "What is the name for match between the words or phrases being searched and the items found in an electronic database?",
+      "options": [
+        "bug",
+        "Hit",
+        "It",
+        "Default"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q40",
+      "question": "DBMS is…….",
+      "options": [
+        "collection of data",
+        "Set of programs to access data",
+        "set of programs to update data",
+        "all of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "What term refers to a collection of related information?",
+      "options": [
+        "database",
+        "list",
+        "Outline",
+        "record"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "To give a PowerPoint presentation to a large audience, you :",
+      "options": [
+        "Setup your computer in a large auditorium, and click large, auditorium, OK",
+        "Click the slide you wish the audience to see in normal view, then click the next slide and So on.",
+        "Chose either view, slide show or slide show or view show",
+        "click slide show, ok"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "To import text from a word document that uses headings into a PowerPoint presentation:",
+      "options": [
+        "This can not be done in PowerPoint",
+        "Click Insert, Slides from outline",
+        "Click Import, word document Heading",
+        "Click File, New, Presentation from Word headings"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q44",
+      "question": "The first electronic general purpose digital computer built by motley and Accrete called ENIAC did not work on the stored program concept. How many numbers could it store in the internal memory?",
+      "options": [
+        "100",
+        "20",
+        "40",
+        "80"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q45",
+      "question": "Which of the following required large computer memory?",
+      "options": [
+        "Imaging",
+        "Graphics",
+        "Voice",
+        "All of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q46",
+      "question": "One of the main features that distinguish microprocessor from microcomputers is..",
+      "options": [
+        "Words are usually larger in microprocessor",
+        "Words are shorter in microprocessors",
+        "Microprocessor does not contain I/O devices.",
+        "Exactly the same as the machine cycle time"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q47",
+      "question": "Which generation of computer is still under development?",
+      "options": [
+        "Fourth generation",
+        "Fifth generation",
+        "Sixth generation",
+        "Seventh generation"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q48",
+      "question": "A factor in the selection of a source language is…….",
+      "options": [
+        "programmer skill",
+        "Language availability",
+        "program compatibility with other software",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "One disadvantage of a direct access file is…",
+      "options": [
+        "The delay in computing the storage address",
+        "duplication of address location",
+        "unused, but available, storage locations",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "All of the following are examples of real security and privacy risks except:",
+      "options": [
+        "Hackers",
+        "Spam 58 / Question Bank",
+        "Viruses",
+        "identity theft"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

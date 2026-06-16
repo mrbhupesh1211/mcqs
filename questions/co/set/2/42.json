@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "42",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Special effects used to introduce slides in a presentation are called…",
+      "options": [
+        "effects",
+        "custom animations",
+        "Slide transitions",
+        "Present animations"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q2",
+      "question": "What is the purpose of indexing?",
+      "options": [
+        "To reduce table size",
+        "To speedup data search",
+        "Both (a) & (b)",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "You can edit a cell in spreadsheet by",
+      "options": [
+        "Clicking the formula button",
+        "Double clicking the cell to edit it inplace",
+        "Selecting Edit>Edit cell from the menu",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "Which function will calculate the number of workdays between 6/11/2012 and 8/12/2012 in spreadsheet?",
+      "options": [
+        "Workday",
+        "date 110 / Question Bank",
+        "Net workdays",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is not a valid data type in Excel?",
+      "options": [
+        "Number",
+        "Character",
+        "Label",
+        "Date/Time"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "The file type____indicates the file, is a word document.",
+      "options": [
+        ".msw",
+        ".wor",
+        ".wrd",
+        ".doc"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "How can you make the selected character superscripted in word document?",
+      "options": [
+        "Ctrl+=",
+        "cgrl+Shift+=",
+        "Alt+ctrl+Shift+=",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "What is the short key to open Font dialog box in MS-Word?",
+      "options": [
+        "Ctrl+F",
+        "Alt+Ctrl+F",
+        "Ctrl+d",
+        "Ctrl+Shift+d"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "a – acts as a security buffer between a company's private network and all external",
+      "options": [
+        "firewall",
+        "password",
+        "disaster recovery plan",
+        "virus checker"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "Protecting the data from unauthorized access in called",
+      "options": [
+        "data inaccessibility",
+        "Data encryption",
+        "data security",
+        "Data validity"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q11",
+      "question": "Which of the following is responsible for coordinating various operations using timing signals?",
+      "options": [
+        "Arithmetic-logic unit",
+        "Control Unit",
+        "Memory unit",
+        "I/O unit"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "a computer consists of",
+      "options": [
+        "a central processing unit",
+        "a memory",
+        "input and output units",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "Which of the following package is used to create slides for presentation ?",
+      "options": [
+        "MS-word",
+        "MS-Excel",
+        "MS-Power point",
+        "MS- Access"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Which of the following in DBMS?",
+      "options": [
+        "MS-word",
+        "MS-Excel",
+        "MS-Power point",
+        "MS- Access"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q15",
+      "question": "Which of the following formula is entered correctly?",
+      "options": [
+        "=SUM(A1A10:)",
+        "=SUM((:A1A10)",
+        "=SUM(A1:A10)",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q16",
+      "question": "Each excel file is called a workbook, because",
+      "options": [
+        "It can contain text and data",
+        "It can be modified",
+        "It can contain many sheets",
+        "You have to work hard to create it"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "Which of the following shortcut key is used to select all the contents of a MSWord document?",
+      "options": [
+        "Ctrl+B",
+        "Ctrl+a",
+        "Ctrl+C",
+        "Ctrl+V"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "In word processing, the task of changing the appearance of a document is called",
+      "options": [
+        "Formatting",
+        "Editing",
+        "Proofing",
+        "Inserting"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "MS-Word is an example of",
+      "options": [
+        "Word processor",
+        "Spreadsheet",
+        "Presentation",
+        "DBMS"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "Which of the following network device is used to connect different network?",
+      "options": [
+        "Hub",
+        "Switch",
+        "Router",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "The output quality of a printer is measured by",
+      "options": [
+        "Dots per square inch",
+        "Dots per inch",
+        "Dots printed per unit time",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "Which of the following memory is volatile?",
+      "options": [
+        "RAM",
+        "ROM",
+        "PROM",
+        "EPROM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "Which command will you choose to convert a column of data into row?",
+      "options": [
+        "Cut and Paste",
+        "Edit>>Paste Special>>Transpose",
+        "Both (a) & (b)",
+        "None of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "How can you update the values of formula cells if Auto Calculate mode of Excel is disabled?",
+      "options": [
+        "F8",
+        "F9 Question Bank / 111",
+        "F10",
+        "F11"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "How can you show or hide the gridlines in Excel worksheet?",
+      "options": [
+        "Go to Tools>>Options>>View tab and mark or remove the check box named Gridline",
+        "To Gridline tool on Forms toolbar",
+        "Both (a) & (b)",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "What is the purpose of inserting header and footer in document?",
+      "options": [
+        "To enhance the overall appearance of the document",
+        "To mark the starting and ending of page",
+        "To make large document more readable",
+        "To allow page headers and footer appear on document when printed"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "Which feature help you to setup document page size in Microsoft word?",
+      "options": [
+        "Page setup",
+        "Print setup",
+        "Styles",
+        "Print preview"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Which of the following is the symptom of the virus?",
+      "options": [
+        "It must execute itself.",
+        "It often places its own code in the part of execution of another program",
+        "It must replicate itself.",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "Which of the following protocol is used to receive email?",
+      "options": [
+        "SMTP",
+        "POP3",
+        "TCP/IP",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "Which of the following is the operating system?",
+      "options": [
+        "Microsoft word",
+        "Microsoft Excel",
+        "Microsoft Windows 7",
+        "All of the above"
+      ],
+      "correct_option": 3
+    }
+  ]
+}

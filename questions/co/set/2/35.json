@@ -1,0 +1,545 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "35",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which of the following short cut command is used to print the active document ?",
+      "options": [
+        "ctrl +P",
+        "Alt+P",
+        "Ctrl+shift+P",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following short cut command is used to underline words only ?",
+      "options": [
+        "ctrl +W",
+        "ctrl+Shift+W",
+        "Shift +W",
+        "A and B"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "Why are headers and footers used in document ?",
+      "options": [
+        "to allow page headers and footer to appear on document when it is printed",
+        "to enhance the overall appearance of the document",
+        "to make large document more readable",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following shortcut key is used to display help document ?",
+      "options": [
+        "F9",
+        "F1",
+        "F2",
+        "F7"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q5",
+      "question": "What is the save as __ command used to :",
+      "options": [
+        "change properties",
+        "save only",
+        "save as new filename",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q6",
+      "question": "When gutter margin is increased on page setup, the text area of the page will be….",
+      "options": [
+        "increased",
+        "decreased",
+        "neither increased nor decreased",
+        "the gutter margin cannot be changed"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "Which command is used to change the formatted text into normal format ?",
+      "options": [
+        "Alt+enter",
+        "ctrl+space bar",
+        "ctrl+enter",
+        "alt+space bar"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "What is the extension of microsoft word file ?",
+      "options": [
+        "ppt",
+        "doc",
+        "jpg",
+        "xls"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q9",
+      "question": ".XLs is the file extention for……..",
+      "options": [
+        "MS word",
+        "Ms XLs",
+        "Ms Excel",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "The formula in MS excel starts with …",
+      "options": [
+        "/ (divide)",
+        "+ (Plus)",
+        "=(equal)",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q11",
+      "question": "The default row height in a MS Excel worksheet is ………… points.",
+      "options": [
+        "15.75",
+        "10.75",
+        "12.75",
+        "13.75"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q12",
+      "question": "Which of the following formula is true in MS excel ?",
+      "options": [
+        "A6 + C6=",
+        "B6+C6",
+        "=B6+C6",
+        "A6 + B6 ="
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q13",
+      "question": "Operater used to combine text from two cells into one cell.",
+      "options": [
+        "(space)",
+        "& (ampersand)",
+        "= (equal sign)",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "What symbol is used before a number to make it into a balel in MS Excel ?",
+      "options": [
+        "'(apostrophe)",
+        "\"(quote)",
+        "= (equal)",
+        "_ (Underscore)"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Which of the following is not a valid data type in MS excel ?",
+      "options": [
+        "date/time",
+        "number",
+        "character",
+        "label"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q16",
+      "question": "In MS Excel, comments put in cells are called …..",
+      "options": [
+        "soft tip",
+        "Smart tip",
+        "cell tip",
+        "web tip"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "Workbook is collection of :",
+      "options": [
+        "projects",
+        "cells",
+        "worksheets",
+        "workspaces"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q18",
+      "question": "Short-cut key to bring format cells dialog box is :",
+      "options": [
+        "ctrl + D",
+        "ctrl + F",
+        "ctrl + E",
+        "Ctrl + 1 90 / Question Bank"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q19",
+      "question": "The cell reference $A$5 is a ……………",
+      "options": [
+        "mixed cell reference",
+        "relative cell reference",
+        "absolute cell reference",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "'OR' operator shows 'TRUE' value when …..",
+      "options": [
+        "all conditions are false",
+        "any one condition is true",
+        "both conditions are true",
+        "both B & C"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "A large collections of tables are called _",
+      "options": [
+        "file system",
+        "fields",
+        "records",
+        "databases"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q22",
+      "question": "Which of the following is a database management system?",
+      "options": [
+        "oracle",
+        "Ms word",
+        "Lotus 1-2-3",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "Which of the following is not a data type ?",
+      "options": [
+        "picture",
+        "date",
+        "numeric",
+        "character"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "Which command is used to insert duplicate slide in current presentation ?",
+      "options": [
+        "ctrl + N",
+        "ctrl + L",
+        "ctrl+M",
+        "ctrl + d"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q25",
+      "question": "…………...refers to the way things are arranged on a slide.",
+      "options": [
+        "reherarse timing",
+        "slide design",
+        "Slide layout",
+        "Slide transition"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q26",
+      "question": "IBM 1401 was brought to prepare the census report of……..",
+      "options": [
+        "2048 BS",
+        "2018 BS",
+        "2028 BS",
+        "2038 BS"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q27",
+      "question": "Transistor is related to …..generation computers.",
+      "options": [
+        "fifth",
+        "Second",
+        "third",
+        "fourth"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "Which of the following is the type of computer on the bases of size ?",
+      "options": [
+        "hybrid a. analog c. micro d. digital 29. Component of computer system….. a. processing unit",
+        "input unit",
+        "output unit",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "Unicode standard is ………..",
+      "options": [
+        "keyboard layout",
+        "software",
+        "font",
+        "character encoding system"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q31",
+      "question": "If any person publishes illegal materials in electronic form, he shall be liable to the punishment with :",
+      "options": [
+        "Fine not exceeeding two thousand ruppees and with imprisonment not exceeding five years or with both",
+        "Fine not exeeding one hundred thousand ruppees or with the imprisonment not exceeding five year or with both",
+        "Fine not execeeding two thousand ruppees and with imprisonment not exceeding three years or with both",
+        "Fine not exceeding two hundred thousand ruppees or with imprisonment not exceeding three years or with both"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q32",
+      "question": "Program development according to the requirement specific to an office is …..",
+      "options": [
+        "packaged software",
+        "tailored software",
+        "utility software",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "Cache memory ………",
+      "options": [
+        "holds last time visited web site only",
+        "helps to store more data in hard disk",
+        "Placed between main memory and microprocessor",
+        "stores data permanently"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q34",
+      "question": "A protocol is ………..",
+      "options": [
+        "an operating system",
+        "interconnection pattern of computers",
+        "set of rules for communication",
+        "a device for internet"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q35",
+      "question": "A dot matrix printer",
+      "options": [
+        "input device",
+        "is output device",
+        "cannot print alphabet",
+        "cannot print number"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "Which of the following language is not related with webpages ?",
+      "options": [
+        "PHP",
+        "JSP",
+        "ASP",
+        "CHP"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "Which of the following is not a transmission medium ?",
+      "options": [
+        "microwave systems",
+        "telephone lines",
+        "coaxial cable",
+        "modem Question Bank / 91"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q38",
+      "question": "Which is considered a direct entry input device ?",
+      "options": [
+        "light pen",
+        "optical scanner",
+        "mouse and digitizer",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q39",
+      "question": "What are the advantages of the USB?",
+      "options": [
+        "ease of configuration",
+        "speed",
+        "expansion",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "What is the function of a folder ?",
+      "options": [
+        "move files",
+        "store files",
+        "delete files",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "Which of the following is a file attribute ?",
+      "options": [
+        "hidden",
+        "archive",
+        "read only",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q42",
+      "question": "Which of the following is not a operating system ?",
+      "options": [
+        "DOS",
+        "Linux",
+        "Windows",
+        "Oracle"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q43",
+      "question": "Which of the following is not a component of control panel ?",
+      "options": [
+        "printer",
+        "keyboard",
+        "mouse",
+        "monitor"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "Short-cut key combination for closing windows is ……….",
+      "options": [
+        "F1",
+        "Ctrl +S",
+        "alt+F4",
+        "ctrl +V"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q45",
+      "question": "Which of the following is the word processor in MS office ?",
+      "options": [
+        "word perfect",
+        "word star",
+        "word pad",
+        "Ms word"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q46",
+      "question": "Which input device cannot be used to work in MS office ?",
+      "options": [
+        "joy stick",
+        "scanner",
+        "light pen",
+        "mouse"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "Which key should be pressed to start a new paragraph in MS word ?",
+      "options": [
+        "ctrl+enter",
+        "down cursor key",
+        "enter key",
+        "shift+enter"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "Which function key is used to break the column ?",
+      "options": [
+        "alt+enter",
+        "Shift + enter",
+        "ctrl+enter",
+        "Ctrl+shift+enter"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "How many ruler can we see on normal view in MS word ?",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q50",
+      "question": "A4 size paper is :",
+      "options": [
+        "8.5\" × 14\"",
+        "8.5\" × 11\"",
+        "8.5\" × 11.5\"",
+        "8.27\" × 11.69\""
+      ],
+      "correct_option": 4
+    }
+  ]
+}

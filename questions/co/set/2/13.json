@@ -1,0 +1,215 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "13",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Extranet is based on a……………",
+      "options": [
+        "intranet",
+        "internet",
+        "Ethernet",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q2",
+      "question": "Full form of EEPROM…",
+      "options": [
+        "Electrically erasable Programmable Read Only Memory",
+        "Electronically erasable Programmable Read Only Memory",
+        "Electric erasable Programmable Read Only Memory",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q3",
+      "question": "What is used in fourth generation computer?",
+      "options": [
+        "IC",
+        "Transistor",
+        "Bio-chips",
+        "Microprocessor"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "Spreadsheet is ………",
+      "options": [
+        "Access",
+        "word",
+        "Table",
+        "Excel"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q5",
+      "question": "Full form of WORM",
+      "options": [
+        "Write once read many",
+        "Work once read many",
+        "Word on Random many",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "Which is not a input device?",
+      "options": [
+        "monitor",
+        "Scanner",
+        "keyboard",
+        "Mouse"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q7",
+      "question": "Decimal has ……… base.",
+      "options": [
+        "8",
+        "2",
+        "10",
+        "16"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q8",
+      "question": "Which command create a new document in DOS?",
+      "options": [
+        "copy",
+        "md",
+        "create",
+        "Move"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "GUI means",
+      "options": [
+        "Graphic user interface",
+        "Geographic user interface",
+        "Graphical user interface",
+        "Geometric user interface"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "HTML stands for……..",
+      "options": [
+        "hot text markup language",
+        "Hyper text markup language",
+        "Hotmail language",
+        "None Question Bank / 33"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "In windows, start button is used for..",
+      "options": [
+        "Run application",
+        "Device setting",
+        "Turn off the system",
+        "all of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q12",
+      "question": "Workstation computers are connected with centrally located server computer is called….",
+      "options": [
+        "star topology",
+        "ring topology",
+        "bus topology",
+        "hybrid"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Which is not protocol?",
+      "options": [
+        "TCP/IP",
+        "HTTP",
+        "FTP",
+        "BSB"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "Binary deals with ………….",
+      "options": [
+        "0",
+        "1",
+        "both",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Who is father of computer?",
+      "options": [
+        "Charles Babbage",
+        "Bill gates",
+        "Lebnitz",
+        "Blaise Pascal"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "Which is not a virus?",
+      "options": [
+        "torjan",
+        "Insect",
+        "Logic bomb",
+        "all of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "Which network covers large area?",
+      "options": [
+        "LAN",
+        "MAN",
+        "WAN",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q18",
+      "question": "To select entire document, you must press…",
+      "options": [
+        "Ctrl+A",
+        "Ctrl+alt+ A",
+        "Ctrl+Shift+ A",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "Booting means ……….",
+      "options": [
+        "restarting computer",
+        "installing program",
+        "removing errors",
+        "Switch off"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

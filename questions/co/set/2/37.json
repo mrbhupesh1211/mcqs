@@ -1,0 +1,512 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "37",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the name of Operating System that reads and reacts in terms of actual time?",
+      "options": [
+        "Time sharing Operating System",
+        "batch Operating System",
+        "Real time Operating System",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q2",
+      "question": "The relational model defines two root language –relational algebra & relational calculus for a accessing",
+      "options": [
+        "text file",
+        "document file",
+        "relational database",
+        "flat-file database"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "Meaning of metadata is :",
+      "options": [
+        "data definition",
+        "data of data",
+        "data for data",
+        "data dictionary"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "Collection of interrelated data is known as:",
+      "options": [
+        "data model",
+        "DBMS",
+        "database",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is not a relational database",
+      "options": [
+        "reflex",
+        "Dbase_IV",
+        "Sybase",
+        "SQL server"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "The relational algebra is a _ Is language",
+      "options": [
+        "Complex language",
+        "Lower level Language",
+        "Procedural Language",
+        "Non-Procedural Language"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "The highest level in the hierarchy of data organization is called",
+      "options": [
+        "Data record",
+        "Data bank",
+        "Database",
+        "Data file"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "The basic SQL select statement has three clauses:",
+      "options": [
+        "Select, From, Where",
+        "Select, for, Next",
+        "Select, Next, For",
+        "Select, until, end"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Which of the following is not characteristics of relational database model?",
+      "options": [
+        "Records",
+        "Tables",
+        "Tree like structure",
+        "Complex logical relationship"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "The number of operations done by CPU is dependent upon the ……… of the microprocessor?",
+      "options": [
+        "Clock Frequency",
+        "RAM",
+        "ROM",
+        "DRAM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "The commands for plotting lines characters are interpreted by ..?",
+      "options": [
+        "Compiler",
+        "ALU",
+        "Display processor",
+        "Interpreter"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q12",
+      "question": "External devices are connected to the computer through a …..",
+      "options": [
+        "Monitor",
+        "Port",
+        "Networking",
+        "Server."
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q13",
+      "question": "Artificial Intelligence (AI) is a feature of which generation of computer?",
+      "options": [
+        "Second",
+        "Third",
+        "Fourth",
+        "Fifth"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "one GB is equal to ……MB",
+      "options": [
+        "230",
+        "25",
+        "210",
+        "220"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Notepad is used for",
+      "options": [
+        "HTML text storage",
+        "Only text files",
+        "Format layout and print",
+        "Temporary storage"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "Which is not common memory in personal computers?",
+      "options": [
+        "EEPROM",
+        "Mask ROM 96 / Question Bank",
+        "PROM",
+        "EPROM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "The unit of hardware an operator uses to monitor computer processing is…",
+      "options": [
+        "Console",
+        "Card Reader",
+        "CPU",
+        "Line printer"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "Command to copy all files form floppy drive A: to a directory of myfiles in a drive C: …..",
+      "options": [
+        "Copy a:\\*.* c:\\myfiles",
+        "copy c:\\*.* a:\\myfiles",
+        "copy a:\\*.txt c:\\myfiles",
+        "copy c:\\*.txt a:\\myfiles"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "Windows XP is….",
+      "options": [
+        "Operating system",
+        "Application Software",
+        "Utility Software",
+        "Program Software"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "Which is not true for memory? (Additional)",
+      "options": [
+        "Program of EEPROM can be erased by Electric Charge",
+        "Program of EPROM can be erased by Ultra-violet ray",
+        "Program of ROM can be erased By Delete command",
+        "Program of Hard disk can be erased by Delete command"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "_is the uniform interface for users providing a collection of standard expression for sorting and retrieving data in relational database?",
+      "options": [
+        "Filtering",
+        "Structure Query language",
+        "Virtual storage access method",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "Which is the first commercial computer?",
+      "options": [
+        "Mark -I",
+        "UNIVAC -I",
+        "ENIAC",
+        "CISE"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "HTTP is:",
+      "options": [
+        "Link of a hypertext",
+        "A designation with URL that indicates hypertext resource",
+        "Address of URL",
+        "None of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "An entity is:",
+      "options": [
+        "a data structure",
+        "a collection of items in an application",
+        "a distinct real world item in an application",
+        "an inanimate object in an application"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "operating system that used the BIOS…",
+      "options": [
+        "need to know the proper register address",
+        "never need to know the location of the part",
+        "need to know the location of part",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q26",
+      "question": "Anyone who uses an information system or the information it produces is :",
+      "options": [
+        "A technician",
+        "An end user",
+        "A specialist",
+        "A knowledge worker"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "Which is not an essential file in a MSDOS boot disk?",
+      "options": [
+        "Command.com",
+        "IO.Sys",
+        "MSDOS.sys",
+        "xcopy.com"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q28",
+      "question": "What is URL known as?",
+      "options": [
+        "Uniform readable link",
+        "Unix readable link",
+        "Uniform resource locator",
+        "Universal resource locator"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "MIS incorporates which of the following concepts?",
+      "options": [
+        "End user computing",
+        "Decision support system",
+        "Information resource management",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "Unicode provides a unique number for every character..",
+      "options": [
+        "No Matters what the language",
+        "No matters what the platform",
+        "No matters what the program",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q31",
+      "question": "Which of the following is not the Nepali fonts?",
+      "options": [
+        "Shangrila",
+        "Preeti",
+        "Kantipur",
+        "Tunga"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "In e-comerce, digital signature is used for_",
+      "options": [
+        "Threat",
+        "security",
+        "Firewalls",
+        "authentication"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "To implement Digital Signature:",
+      "options": [
+        "Private key is needed",
+        "Public key is needed",
+        "Both keys are needed Question Bank / 97",
+        "none of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q34",
+      "question": "In the electronic transaction act 2063BS: a system for producing a secure key pair consisting of a private key for cheating digital signature and a public key for verifying the digital signature is referred to as:",
+      "options": [
+        "Digital security system",
+        "Asymmetric crypto system",
+        "Digital verification system",
+        "Information verification system"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "The Operating System keeps the information of files in a table is called…",
+      "options": [
+        "FAT",
+        "Directory",
+        "Folder",
+        "Index table"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q36",
+      "question": "An Operating System is a program that _",
+      "options": [
+        "uses a database for the storage of data",
+        "Produces text from the typing efforts of user",
+        "manages the resources of computer",
+        "Helps in checking the spelling of words"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q37",
+      "question": "The first computer used at the central bureau of Statistics (CBS) was….",
+      "options": [
+        "PRIME",
+        "IBM 1401",
+        "ICL 2950/10",
+        "Data General (DG)"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q38",
+      "question": "One of the main objective of a DBMS is used to:",
+      "options": [
+        "Replace file based systems",
+        "Create a database for an organisation",
+        "Facilitate sharing of a database by current and future application",
+        "Allow sharing application program"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q39",
+      "question": "Demand of paging is used by the Operating System for………",
+      "options": [
+        "printing management",
+        "memory management",
+        "Display management",
+        "not all above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q40",
+      "question": "Which one is not system software?",
+      "options": [
+        "Operating system",
+        "Translator",
+        "Language processor c. Tally 41. Which is the lowest level programming language? a. Machine Language b. Assembly Language c. C",
+        "BASIC"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q42",
+      "question": "Which is the part that transmits data from one part of the computer to other ?",
+      "options": [
+        "Hard disk",
+        "BUS",
+        "CPU",
+        "None of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q43",
+      "question": "The computer system is usually designed with a hierarchy of memories _",
+      "options": [
+        "CPU Register, Secondary Memory , Primary Memory",
+        "CPU Register, Primary Memory, Secondary memory",
+        "Primary memory, Secondary memory, CPU Register",
+        "Secondary memory, Primary memory, CPU Register"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q44",
+      "question": "Translation of Assembly codes into binary or object a code is performed by special program is called…",
+      "options": [
+        "A Debugger",
+        "A Compiler",
+        "An Assembler",
+        "An interpreter"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q45",
+      "question": "On which connection, the data transfer is observed as the fastest transfer",
+      "options": [
+        "Wireless Network",
+        "UTP Cable Networ",
+        "Fibre optics network",
+        "Co-axial Network"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q46",
+      "question": "In a……… connection, more than two devices can share a single link.",
+      "options": [
+        "Secondary",
+        "point to point",
+        "Multi point",
+        "Primary"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q47",
+      "question": "A syntax error is signaled by the...",
+      "options": [
+        "run time system",
+        "compiler",
+        "linker",
+        "editor 98 / Question Bank"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

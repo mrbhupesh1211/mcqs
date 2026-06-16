@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "17",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "In msword, you can decrease your document by one page by using the",
+      "options": [
+        "Reduce by one page button",
+        "shrink to fit button",
+        "fit to one page button",
+        "magnifier button"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "The divide symbol is …..",
+      "options": [
+        ")",
+        "D",
+        "/",
+        "\\"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "New record is added using",
+      "options": [
+        "append record into from browse menu",
+        "append record from browse menu",
+        "add record from edit menu",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "In MS access … is used to build and modify database objects and also to create new queries",
+      "options": [
+        "layout preview",
+        "datasheet view",
+        "design view",
+        "print preview"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is not the type of relationship?",
+      "options": [
+        "many to many",
+        "one to two",
+        "one to one",
+        "one to many"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "PowerPoint is also known as…..",
+      "options": [
+        "access",
+        "presentation package",
+        "database package",
+        "Excel"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "The short cut key to view show is………",
+      "options": [
+        "F5",
+        "F6",
+        "F4",
+        "F8"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "The PowerPoint view that displays only text (title and bullets) is….",
+      "options": [
+        "outline view",
+        "slide show",
+        "slide sorter view",
+        "notes page view"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Material consisting of text and numbers, the best presented as:",
+      "options": [
+        "a bullet slide",
+        "a table slide",
+        "a title slide",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "Which one of the following is consider as a office package?",
+      "options": [
+        "Ms PowerPoint",
+        "visual basic",
+        "C++",
+        "Java"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "Full form of HTML is…..",
+      "options": [
+        "Hypher text main language",
+        "Hypher text mark up language",
+        "high technology machine language 40 / Question Bank",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "Word inside < > is called in HTML as:",
+      "options": [
+        "Tags",
+        "HTML",
+        "body",
+        "Head"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "HTML is similar to a:",
+      "options": [
+        "Search engine",
+        "word processing language",
+        "screen editor",
+        "Scripting language"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "Which of the following is a part of central processing unit (CPU) of computer?",
+      "options": [
+        "control unit",
+        "Hard disk",
+        "Graphics card",
+        "MODEM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Charles Babbage \"Father of computer\" has invented……..",
+      "options": [
+        "microprocessor",
+        "DOS",
+        "Mainframe computer",
+        "Analytical engine"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "ASCII stands for…",
+      "options": [
+        "American standard code for information interchange",
+        "American scientist council for information imagine",
+        "All standard code for information interchange",
+        "All ways status correct information engine"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "Address assigned to computer when connected in a network is known as:",
+      "options": [
+        "Domain name server (DNS)",
+        "Network Node",
+        "System ID",
+        "Internet protocol (IP) address"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q18",
+      "question": "In Ms-Excel, to delete an embedded object, First:",
+      "options": [
+        "Select it and then press the delete key",
+        "double – click the object",
+        "Select the object by clicking it",
+        "press the shift +Delete keys"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "In Ms-Excel, to drag a selected range of data to another worksheet in the same workbook, use the:",
+      "options": [
+        "Ctrl key",
+        "Tab key",
+        "Alt key",
+        "Shift key"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "How many rows are there in excel worksheet?",
+      "options": [
+        "36",
+        "65535",
+        "65256",
+        "65536"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "Protection sub menu is found in:",
+      "options": [
+        "tools",
+        "view",
+        "insert",
+        "format"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "In Ms Excel, you can activate cell by:",
+      "options": [
+        "pressing an arrow key",
+        "pressing the tab key",
+        "clicking at cell",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q23",
+      "question": "Which one of the following is short key of copy?",
+      "options": [
+        "Ctrl+V",
+        "Alt+C",
+        "Ctrl+C",
+        "Alt+P"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "In Ms-Excel, when integrating word and excel, Word is usually the:",
+      "options": [
+        "Client and destination",
+        "Server",
+        "Source",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "What are the main building blocks of a database?",
+      "options": [
+        "tables",
+        "lists",
+        "Queries",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which of the following is not a relational database?",
+      "options": [
+        "Reflex",
+        "FoxPro",
+        "Dbase IV",
+        "4th Dimension"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "A phone number in a database is an example of a :",
+      "options": [
+        "File",
+        "Field",
+        "Record",
+        "Sort"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "Which command is used to find and displays all records that match the text that you enter?",
+      "options": [
+        "remove / sort",
+        "Filter by selection",
+        "Filter excluding selection",
+        "Filter for"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "A………. helps you perform routine tasks by automating them:",
+      "options": [
+        "Report",
+        "Query",
+        "Macro",
+        "Form"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "The selection bar is:",
+      "options": [
+        "located below the status bar in the word window",
+        "below the title bar",
+        "to the far left of your document",
+        "used to open other office application Question Bank / 41"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "Which of the following is not an option for changing the case of text?",
+      "options": [
+        "lower case",
+        "sentence case",
+        "Toggle case",
+        "indent case"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "Which of the following is not a paragraph formatting?",
+      "options": [
+        "bold face",
+        "alignment",
+        "indenting",
+        "line spacing"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "The Shortcut key Ctrl+Z is used for",
+      "options": [
+        "save the file with changes",
+        "Redo",
+        "undo",
+        "Close word"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q34",
+      "question": "In Ms Word, you can display margins in text on the horizontal or vertical ruler with the mouse and:",
+      "options": [
+        "the space bar",
+        "the Alt key",
+        "the delete key",
+        "The Font size button"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "1 GB pen drive has capacity equivalent to how many 1 KB pen drive?",
+      "options": [
+        "1024 x 1024",
+        "1024",
+        "1024 x 1024 x 1024",
+        "1024 x 10241 x 1024 x 1024"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q36",
+      "question": "Which of the following is an output device?",
+      "options": [
+        "Scanner",
+        "Light pen",
+        "joy stick",
+        "Plotter"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "The speed of printer is measured in following term:",
+      "options": [
+        "DPI",
+        "GPI",
+        "PPM",
+        "Print rate index"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q38",
+      "question": "Among the following communication system, which is the fastest?",
+      "options": [
+        "Co-axial cable",
+        "UTP cables",
+        "CAT 6 cable",
+        "Optic fibre cable"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q39",
+      "question": "What is the name of software that allows user to access web pages?",
+      "options": [
+        "FTP client",
+        "Messenger",
+        "Mail Client",
+        "Browser"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "Windows is GUI operating system, where GUI stands for:",
+      "options": [
+        "Graphical user interface",
+        "Graphical utility interface",
+        "Graphic user interface",
+        "General user interface"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "The fundamental information required for booting computer is stored in BIOS, BIOS stands for:",
+      "options": [
+        "Booting input output sequence",
+        "Basic information output storage",
+        "Basic input output system",
+        "Booting information output sequence"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q42",
+      "question": "Which is of the following is the volatile memory?",
+      "options": [
+        "Floppy disk memory",
+        "Random Access memory",
+        "Flash memory",
+        "Read only memory"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q43",
+      "question": "Which of the following is not an integral function of OS?",
+      "options": [
+        "organize file and folders",
+        "run application software",
+        "control input output device",
+        "control virus and malwares"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "Essential files of MS DOS are.",
+      "options": [
+        "Command.com",
+        "IO.sys",
+        "Msdos.sys",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "In Ms-word, which of the following is not an option for change the case of text?",
+      "options": [
+        "Lower case",
+        "Indent case",
+        "Sentence case",
+        "toggle case"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q46",
+      "question": "Operating system is :",
+      "options": [
+        "a collection of software routines",
+        "A collection of hardware components",
+        "a collection of input output devices",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "Which of the following is not an operating system?",
+      "options": [
+        "CP/M",
+        "Unix",
+        "Pascal",
+        "MSDOS"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "Cryptography technique is used in:",
+      "options": [
+        "File management",
+        "Polling",
+        "Job Scheduling",
+        "Protection"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "A front End processor is used in:",
+      "options": [
+        "multiprocessing",
+        "Multiprogramming",
+        "Virtual storage",
+        "Time sharing"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "Which of the following is not part of the merge process?",
+      "options": [
+        "Main document",
+        "Data field",
+        "merge field",
+        "Data source 42 / Question Bank"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

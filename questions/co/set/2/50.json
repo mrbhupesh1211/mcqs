@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "50",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Speed of printer is measured in",
+      "options": [
+        "EPM",
+        "PPM",
+        "CPI",
+        "MPI"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following is NOT the part of the CPU?",
+      "options": [
+        "Arithmetic Logical Unit",
+        "Control Unit",
+        "Hard Disk",
+        "Cache Memory"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following networking media has highest speed potential?",
+      "options": [
+        "CAT6",
+        "Microwave",
+        "Optical Fiber",
+        "Satellite"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q4",
+      "question": "MODEM stands for",
+      "options": [
+        "Modulator/Demodulator",
+        "Modulator/Dispatch",
+        "Multiplexer/Demodulation",
+        "Magnify/Diminish"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "Which command is used to send the contents of a file names ABC.TXT to the standard printing device?",
+      "options": [
+        "TYPE ABC.TXT>PRN",
+        "TYPE AB",
+        "TXT to PRN c. TYPE ABC.TXT | PRN",
+        "None of these"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "An internal window utility that is used to minimize fragmentation of storage is",
+      "options": [
+        "Defragment",
+        "Unfragment",
+        "Fragment me",
+        "Nofragment"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q7",
+      "question": "You can break the column by",
+      "options": [
+        "Pressing Ctrl + Shift + Enter",
+        "Pressing Ctrl + Enter",
+        "Pressing Shift + Enter",
+        "Pressing Alt + Enter"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "Chart in worksheet itself is known as",
+      "options": [
+        "Embedded chart",
+        "Implied chart",
+        "Inserted chart",
+        "Overlapping chart"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Which of the following is NOT a Relational operator? (modified)",
+      "options": [
+        "+",
+        "=",
+        ">",
+        "<"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "Which of the following is the valid type of relationship?",
+      "options": [
+        "One-to-one",
+        "One-to-many",
+        "Many-to-many",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q11",
+      "question": "Which of the following is the property of Primary Key?",
+      "options": [
+        "Duplicate",
+        "Unique",
+        "Pictorials",
+        "Limited"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "Data Definition Language (DDL) includes",
+      "options": [
+        "Creating Table",
+        "Select Query",
+        "Data Insert",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Technique to speed up data retrieval",
+      "options": [
+        "Indexing",
+        "Referencing",
+        "Speeding",
+        "Listing"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q14",
+      "question": "Device to connect two different networks is known as",
+      "options": [
+        "Bridge",
+        "Switch",
+        "Router",
+        "Repeater"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "A tool to control virus and malware is commonly known as",
+      "options": [
+        "Virus Killer",
+        "Antivirus",
+        "Virus remover",
+        "Defender"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following is a valid IP address?",
+      "options": [
+        "192.168.111.1111",
+        "192.168.1.1",
+        "192.168.400.1",
+        "192.400.168.1"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "Which computer memory is used for storing programs and data currently being processed by the CPU?",
+      "options": [
+        "Mass memory 132 / Question Bank",
+        "Non-Volatile Memory",
+        "PROM",
+        "None of these"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q18",
+      "question": "What the commonly used unit for measuring the speed of data transmission?",
+      "options": [
+        "Mega Hertz",
+        "Bits Per Second",
+        "Characters Per Second",
+        "None of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "What Viruses cannot do?",
+      "options": [
+        "Delete files on your computer",
+        "Delete your backup files on Tape",
+        "Send confidential Information to a stranger",
+        "Make your whole computer unusable"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "Which command of MS-DOS is used to copy only files changed on or after the specified date?",
+      "options": [
+        "XCOPY/D:Date",
+        "COPY/D:date",
+        "XCOPY/V",
+        "None of these"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "What is the order in which command.com searches for programs to execute?",
+      "options": [
+        "EXE, COM, BAT",
+        "EXE, BAT, COM",
+        "COM, EXE, BAT",
+        "None of these"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q22",
+      "question": "What is the meaning of “Hibernate” in Windows xp/windows 7?",
+      "options": [
+        "Restart the computer in Hibernate Mode",
+        "Shut down the computer terminating all the running applications.",
+        "Shut down the computer without closing the running applications.",
+        "None of these"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "The file system “NTFS” stands for",
+      "options": [
+        "New Type File System",
+        "Non terminated File System",
+        "New Technology File System",
+        "None of these"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "What is the name of the temporary storage area in memory which stores items that you cut or copy?",
+      "options": [
+        "Desktop",
+        "Clipboard",
+        "Notepad",
+        "None of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "How to use format Painter multiple times?",
+      "options": [
+        "By clicking on format painter icon",
+        "By double clicking on format painter- >Multiple",
+        "Format Painter cannot be used multiple times",
+        "None of these"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q26",
+      "question": "How many worksheets can workbook have?",
+      "options": [
+        "8",
+        "30",
+        "128",
+        "None of these"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "Which is an example of the function in Excel?",
+      "options": [
+        "=Add(A1:A2)",
+        "=A1+A2",
+        "=Sum(A1:A2)",
+        "A1+A2"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "The Trace Precedence on Auditing shows",
+      "options": [
+        "Which cells are used in current formula?",
+        "In which formula that current cell is used",
+        "Which cells are used in current formula and in which formula current cell is used",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "Which of the following is not true about the Pivot table in Excel?",
+      "options": [
+        "You can apply conditional formatting on pivot tables",
+        "You can drill down on a particular summary value",
+        "You cannot create chart from a pivot table",
+        "You can change the pivot table summary formulas"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "Arrange according to the size",
+      "options": [
+        "Record, field, byte, bit",
+        "Bit, field, byte, record",
+        "Field, byte, record, bit",
+        "Byte, bit, record, field"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "What is the best data type for a field that scores mobile numbers?",
+      "options": [
+        "Text",
+        "Number",
+        "Date/Time",
+        "Memo"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "Where you can keep the sum ([Sales]) to calculate the totals for each month?",
+      "options": [
+        "In the report footer section",
+        "In the page footer section",
+        "In the month group footer section Question Bank / 133",
+        "In the summary section"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q33",
+      "question": "What contains readymade styles that can be used for a presentation?",
+      "options": [
+        "Auto Style",
+        "Template",
+        "Wizard",
+        "None of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q34",
+      "question": "Where we can apply Animation schemes?",
+      "options": [
+        "All slides",
+        "Selected slides",
+        "Current slide",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q35",
+      "question": "For placing a company logo automatically in the same position on every slide of presentation, what will you modify?",
+      "options": [
+        "Handout Master",
+        "Note Master",
+        "Slide Master",
+        "None of these"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q36",
+      "question": "The ALU of a computer normally contains a number of high speed storage elements called",
+      "options": [
+        "semiconductor memory",
+        "registers",
+        "flash memory",
+        "Cache"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q37",
+      "question": "Which of the following is not a primary storage device?",
+      "options": [
+        "magnetic tape",
+        "magnetic disk",
+        "optical disk",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q38",
+      "question": "The output quality of a printer is measured by ………………",
+      "options": [
+        "Dots per inch",
+        "Dots printed per unit time",
+        "Dots per page",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "The full form of ADSL is ………………",
+      "options": [
+        "Asynchronous digital subscriber line",
+        "Asymmetric digital subscriber line",
+        "Asynchronous data subscription line",
+        "Asymmetric data subscriber line"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q40",
+      "question": "What will this command do ? RD A:\\School",
+      "options": [
+        "This will remove the School directory from A: including all its subdirectories and files",
+        "This will remove the School directory from A: and all files in it",
+        "This will remove the School directory from A:, provided it is empty",
+        "This will remove the School file from A:"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q41",
+      "question": "Which keyboard short-cut can be used to switch between programs in windows?",
+      "options": [
+        "Ctrl + Tab",
+        "Shift + Tab",
+        "Alt + Space",
+        "Alt + Tab"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q42",
+      "question": "How to use Format Painter multiple times?",
+      "options": [
+        "By clicking on lock format painter icon",
+        "By double clicking on the format painter icon",
+        "By selecting edit>format painter- >multiple use",
+        "Format painter cannot be used multiple times"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q43",
+      "question": "What is the short cut for inserting a page break in MS Word?",
+      "options": [
+        "Ctrl + break",
+        "Ctrl + tab",
+        "Ctrl + Space",
+        "Ctrl + Enter"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "The short-cut key for search and replace in MS-Word is ………………",
+      "options": [
+        "Alt + H",
+        "Ctrl + H",
+        "Ctrl + R",
+        "Alt + R"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q45",
+      "question": "What is the meaning of % in a formula in MS Excel?",
+      "options": [
+        "Division",
+        "Remainder",
+        "Modulus",
+        "Percentage"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "In Excel, by default Numeric values appear ………………",
+      "options": [
+        "Left aligned",
+        "Right aligned",
+        "Center aligned",
+        "Justify aligned"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q47",
+      "question": "Which of the following is not a Schema?",
+      "options": [
+        "Database schema",
+        "Physical Schema",
+        "Critical Schema",
+        "Logical Schema"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "What is the shortcut key to insert a new slide in MS PowerPoint?",
+      "options": [
+        "Alt + N",
+        "Alt + M",
+        "Ctrl + M",
+        "Ctrl + N"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q49",
+      "question": "The PowerPoint view that displays only text (title and bullets) is",
+      "options": [
+        "Slide show",
+        "Slide sorter view",
+        "Notes page view",
+        "Outline view"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q50",
+      "question": "100 micro-seconds equals",
+      "options": [
+        "1 milli-sec",
+        "0.01 milli-sec",
+        "0.01 sec",
+        "0.1 milli-sec 134 / Question Bank"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

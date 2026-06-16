@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "25",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Virus is",
+      "options": [
+        "Utility Program",
+        "Application Software",
+        "Unwanted Computer Program",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following statement is correct?",
+      "options": [
+        "Cache memory is Greater than RAM",
+        "Cache memory is smaller than RAM",
+        "RAM is Faster than ROM",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "Carbon print copy can be created by",
+      "options": [
+        "Laser Printer",
+        "Inkjet Printer",
+        "Dot Matrix Printer",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q4",
+      "question": "Which statement is valid?",
+      "options": [
+        "1KB = 1024 bytes",
+        "1 MB=2048 bytes",
+        "1 MB = 1000 kilobytes",
+        "1 KB = 1000 bytes"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "VGA refers to",
+      "options": [
+        "Video Graphic Array",
+        "Visual Graphics Array",
+        "Volatile Graphics Array",
+        "Visual Graphics Adapter"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "Monitor is",
+      "options": [
+        "Serial & Block Device",
+        "Serial & Character Device",
+        "Parallel & Block Device",
+        "Parallel & Character"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "IP Address size of IPV4",
+      "options": [
+        "2 byte",
+        "3 byte",
+        "4 byte",
+        "6 byte"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q8",
+      "question": "WWW stands for",
+      "options": [
+        "World Wide Web",
+        "Wide World Web",
+        "Word Wide Web",
+        "World Wide Word"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "The brain of any computer system is",
+      "options": [
+        "ALU",
+        "Memory",
+        "Control Unit",
+        "CPU"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "Objective of IT Policy",
+      "options": [
+        "Accessible Information Technology to the general public",
+        "to access ISP",
+        "To increase cyber crime Question Bank / 61",
+        "All"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "The program in ROM is called",
+      "options": [
+        "Software",
+        "Hardware",
+        "Firmware",
+        "Humanware"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q12",
+      "question": "USB stands for",
+      "options": [
+        "Universal Serial Bus",
+        "Universal System Bus",
+        "Uniform serial bus",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Internal command residing in",
+      "options": [
+        "config.sys",
+        "command.com",
+        "IO.sys",
+        "internal.com"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "Which command displays the list of all previous commands entered by the used?",
+      "options": [
+        "COMMANDS/ALL",
+        "KEYDOS",
+        "DOSKEY",
+        "DIR/ALL"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Function of Alt + Ctrl + Delete",
+      "options": [
+        "Activate task manager",
+        "Run......",
+        "Cancel Program",
+        "Shutdown"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "DOS makes which of the special batch file named",
+      "options": [
+        "AUTOEXCE.BAT",
+        "AUTOEXE.BAT",
+        "AUTOEXEC.BAT",
+        "AUTOEXC.BAT"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "Linked file name & extension",
+      "options": [
+        ", (comma)",
+        ". (period)",
+        "- (dash)",
+        "; (semi-colon)"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "Which is executable file?",
+      "options": [
+        ".exe",
+        ".doc",
+        ".tif",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "Which of the following shortcut key is used to check spelling?",
+      "options": [
+        "F1",
+        "F2",
+        "F7",
+        "F9"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "Which of the following bar is not available in MS-Word?",
+      "options": [
+        "Toolbar",
+        "Formula Bar",
+        "Menu Bar",
+        "Status Toolbar"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "Function of Ctrl + Shift + D is",
+      "options": [
+        "Double Underline",
+        "Single Underline",
+        "Insert Date",
+        "Insert Date & Time"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "The Status bar shows the..",
+      "options": [
+        "Page Number",
+        "Date & Time",
+        "Cursor Position",
+        "Both A & C"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q23",
+      "question": "Ms Word used for",
+      "options": [
+        "Text & documentation",
+        "Presentation",
+        "Calculation",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "The view to see how appears text & graphics are in page after printing is…..",
+      "options": [
+        "Page Layout",
+        "Print Preview",
+        "Outline Layout",
+        "Web Page Layout"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "Number of panes in windowis…",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which protocol is used to transfer a file over the email?",
+      "options": [
+        "UPD",
+        "FTP",
+        "SMTP",
+        "TCP"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q27",
+      "question": "To make a number in cell C1 10% smaller than the number in C3 you enter",
+      "options": [
+        "=C3*1.10",
+        "=C3*110",
+        "=C3%10",
+        "=C3*.90"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q28",
+      "question": "To select several cells or ranges that are not touching each other, you would … while selecting",
+      "options": [
+        "hold down the Ctrl key",
+        "hold down the Shift key",
+        "hold down the Alt key",
+        "hold down Ctrl + Shift key"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "What term describes explanatory text attached to a cell?",
+      "options": [
+        "Callout",
+        "Comment",
+        "Dialog",
+        "Extension"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q30",
+      "question": "You can activate a cell by",
+      "options": [
+        "Pressing the Tab key",
+        "Clicking the cell",
+        "Pressing an arrow key",
+        "All of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q31",
+      "question": "Which of the following is an absolute cell reference?",
+      "options": [
+        "!A!1",
+        "$A$1",
+        "#a#1",
+        "A1"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q32",
+      "question": "To add a1 and a9 cell, which is true?",
+      "options": [
+        "add(a1:a9)",
+        "sum(a1to a9)",
+        "sum(a1and a9)",
+        "sum(a1, a9) 62 / Question Bank"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "Where can not export from excel file?",
+      "options": [
+        ".doc",
+        "csv",
+        ".html",
+        ".xml"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "To display current date",
+      "options": [
+        "date",
+        "today",
+        "time",
+        "date & time"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "COUNT command is used to",
+      "options": [
+        "Count the number of data fields in an active database file",
+        "Count the number of data files which are active",
+        "Count the records which are updated",
+        "Count the number of records in an active database file"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "Database has",
+      "options": [
+        "design view",
+        "datasheet view",
+        "format view",
+        "Both A and B"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "Which command is used to display the record that satisfies the specified criteria?",
+      "options": [
+        "FIND QUERY",
+        "SEARCH QUERY",
+        "SELECT QUERY",
+        "LOCATE QUERY"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q38",
+      "question": "Which of the following is not a Access database object?",
+      "options": [
+        "Datasheet",
+        "Table",
+        "Form",
+        "Query"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "What is the maximum character for text field?",
+      "options": [
+        "64 Character",
+        "255 Character",
+        "512 Character",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q40",
+      "question": "Linked 2 computers for data transfer over telephone line",
+      "options": [
+        "Modem",
+        "Network",
+        "Protocol",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "Real time operation is done by computer....",
+      "options": [
+        "Accuracy",
+        "Multiple......",
+        "Speed",
+        "Versatility"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q42",
+      "question": "Connector or central device in star topology",
+      "options": [
+        "Bridge",
+        "Hub & Switch",
+        "Router",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q43",
+      "question": "You can create a new presentation by completing all of the following except",
+      "options": [
+        "Clicking the new button on the standard toolbar",
+        "Clicking file, new",
+        "Clicking file open",
+        "Pressing ctrl + N"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q44",
+      "question": "Which key on the keyboard can be used to view the presentation?",
+      "options": [
+        "F1",
+        "F2",
+        "F5",
+        "F10"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q45",
+      "question": "To insert a new slide in the current presentation, we can choose",
+      "options": [
+        "Ctrl + M",
+        "Ctrl +N",
+        "Ctrl + O",
+        "Ctrl + F"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "Maximum Number of slides can be printed in a page is called……",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q47",
+      "question": "Which can be inserted in presentation?",
+      "options": [
+        "Text",
+        "Sound",
+        "Video",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q48",
+      "question": "Which is correct for applying background in page?",
+      "options": [
+        "<body bg color=\"color\">",
+        "<body bgcolor=\"color\">",
+        "<body bg-color=\"color\">",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "What is C++?",
+      "options": [
+        "Application software",
+        "System Software",
+        "Programming Language",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q50",
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hypertext Markup Language",
+        "Hyper Test Mark up Language",
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language Question Bank / 63"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

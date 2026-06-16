@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "27",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which of the following company developed Ms. Office?",
+      "options": [
+        "Apple",
+        "Novell",
+        "Microsoft",
+        "IBM"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following memory needs continuous electricity for the refreshment?",
+      "options": [
+        "RAM",
+        "ROM",
+        "SRAM",
+        "DRAM"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following device understands the user's instructions?",
+      "options": [
+        "Input",
+        "output",
+        "Memory",
+        "Microprocessor"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "How many bytes are there in 1 GB of memory?",
+      "options": [
+        "260",
+        "29",
+        "230",
+        "210"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is the software?",
+      "options": [
+        "Application Software",
+        "System Software",
+        "Packaged Software",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q6",
+      "question": "What is the name of the symbol that shows the placement of the next character?",
+      "options": [
+        "Mouse",
+        "Cursor",
+        "Trackball",
+        "Joystick"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "Which was the first operating system?",
+      "options": [
+        "DOS",
+        "Apple",
+        "UNIX",
+        "Windows"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "What is the LAN card termed as?",
+      "options": [
+        "Modem",
+        "NIC",
+        "Internet card",
+        "Network connector"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q9",
+      "question": "What is the full form of FAT?",
+      "options": [
+        "File Allocation Table",
+        "File Accommodation Table",
+        "File Access Table",
+        "File Activity Table"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "Which of the following is not an operating system?",
+      "options": [
+        "DOS",
+        "UNIX",
+        "Oracle",
+        "Linux"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q11",
+      "question": "Which of the following computer is used to measure the continuous value?",
+      "options": [
+        "Analog",
+        "Digital",
+        "Hybrid",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "What is the full form of POST?",
+      "options": [
+        "Power On Self Test",
+        "Power Off Self Test",
+        "Power on self text",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Which of the following is not a protocol used by internet?",
+      "options": [
+        "SMTP",
+        "UDP",
+        "SMAP",
+        "TCP"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Which command is used to give the volume name of the disk?",
+      "options": [
+        "Label",
+        "Vol",
+        "Volume",
+        "Disklable"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Which command is used to see the version of operating system?",
+      "options": [
+        "Ver",
+        "Version",
+        "Verify",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "Which command is used to recover accidentally deleted files from the computer?",
+      "options": [
+        "UNDELETE",
+        "RESTORE",
+        "RECOVER",
+        "Cancle"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "The active cell is identified with the:",
+      "options": [
+        "black border",
+        "cell pointer",
+        "cross line",
+        "white border"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "Which command is used to see the system time?",
+      "options": [
+        "Time",
+        "Date",
+        "cls",
+        "dir"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "What is the smallest element of picture?",
+      "options": [
+        "Icon",
+        "Pixel",
+        "Silicon chip",
+        "Optical illusion Question Bank / 67"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "Which of the following shortcut key is used to save the file?",
+      "options": [
+        "ctrl + a",
+        "ctrl + p",
+        "ctrl + s",
+        "alt + s"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "What keeps the space between the characters in Ms. word?",
+      "options": [
+        "Proposition",
+        "Kerning",
+        "Spacing",
+        "Pre-formatting"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q22",
+      "question": "Ms. Office provides a full-fledged web page designing package, which of the following is that?",
+      "options": [
+        "Ms Front page",
+        "Ms Excel",
+        "Ms Word",
+        "Ms Access"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "From which menu do you place the picture on your document?",
+      "options": [
+        "Edit",
+        "View",
+        "Insert",
+        "Tools"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "For what purpose, the Thesaurus is used?",
+      "options": [
+        "Checking spelling",
+        "Checking synonyms",
+        "Correcting meaning",
+        "Correcting Grammar"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "In which menu, does the letters and mailing labels?",
+      "options": [
+        "Tools",
+        "Insert",
+        "Format",
+        "Data"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Ms. Office provides help in many ways, which of the following are more closer to help?",
+      "options": [
+        "What is this?",
+        "Office Assistant",
+        "Help Menu",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "What is the extension of workbook file?",
+      "options": [
+        ".txt",
+        ".doc",
+        ".xls",
+        ".tmp"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "What is the formula to add A1 and B1?",
+      "options": [
+        "=add(A1+B1)",
+        "=(A2,B1)",
+        "=A1+B1",
+        "together(A1+B1)"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "What is B2 in excel?",
+      "options": [
+        "column heading B and row 2",
+        "Row heading",
+        "cell reference",
+        "both a &b"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "From which menu, you can hide sheet?",
+      "options": [
+        "View",
+        "Insert",
+        "Format",
+        "Window"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "Which of the following key is used to slide show?",
+      "options": [
+        "F1",
+        "F2",
+        "F5",
+        "F10"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q32",
+      "question": "Presentation design that regulates the formatting and layout for the slide and are commonly called?",
+      "options": [
+        "Auto Style",
+        "Templete",
+        "Wizard",
+        "Pre-formatting"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "Text and number is best described as:",
+      "options": [
+        "Title slide",
+        "Table slide",
+        "Chart Slide",
+        "Normal slide"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q34",
+      "question": "Which is not a filed property?",
+      "options": [
+        "Format",
+        "Indexed",
+        "Color",
+        "Field size"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q35",
+      "question": "Which of the following automates the task?",
+      "options": [
+        "Macro",
+        "Autotext",
+        "Wizard",
+        "template"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q36",
+      "question": "Each individual data item is called:",
+      "options": [
+        "Field",
+        "Data type",
+        "Comment",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q37",
+      "question": "A numeric value can be presented as label, if it is preceded with:",
+      "options": [
+        "'",
+        "!",
+        "#",
+        "&"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "Which of the following is not related to Ms. Excel?",
+      "options": [
+        "Row",
+        "Column",
+        "Lookup",
+        "Cell"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q39",
+      "question": "Which of the following is related to retrieval of data?",
+      "options": [
+        "Quary",
+        "Field",
+        "Record",
+        "Table"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "The function that are related to textual data are called:",
+      "options": [
+        "Financial function",
+        "Numeric function",
+        "String function",
+        "Scientific function"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q41",
+      "question": "What are the data called?",
+      "options": [
+        "Raw and number",
+        "Image",
+        "Facts and figure",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q42",
+      "question": "Which of the following is the Database programme?",
+      "options": [
+        "Ms. Access",
+        "Ms. Word",
+        "Ms. Excel",
+        "Ms. Powerpoint 68 / Question Bank"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "How can you search for files and folders in your computer?",
+      "options": [
+        "Type google.com in internet explorer",
+        "use start>search> for files and folder",
+        "Start->Run",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q44",
+      "question": "Which of the following can't be done using control pannel?",
+      "options": [
+        "Time Setting",
+        "Display setting",
+        "Booting setting",
+        "printer setting"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q45",
+      "question": "Which of the following type of data is transmitted by the Fiber Optic cable?",
+      "options": [
+        "True",
+        "False",
+        "Both of Above",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q46",
+      "question": "What is internet?",
+      "options": [
+        "Interconnected network.",
+        "Local Area Network",
+        "computer connected with user",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "What is the unit of memory that equals to a single character?",
+      "options": [
+        "Byte",
+        "Bit",
+        "Kilo Byte",
+        "Nibble"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q48",
+      "question": "Which of the following files are executable files of Ms. Dos?",
+      "options": [
+        ".com, .sys, .bat",
+        ".sys, exe, .cfg",
+        ".txt, .doc, .xls",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q49",
+      "question": "What are the files of dbms called?",
+      "options": [
+        "Table",
+        "attribute",
+        "Filed",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "From where you can add and remove the application program in your computer?",
+      "options": [
+        "Control panel",
+        "My computer",
+        "Recycle bin",
+        "Internet Explorer"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

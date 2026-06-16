@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "15",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which is non-impact printer?",
+      "options": [
+        "Daisy wheel",
+        "Dot matrix",
+        "ink jet",
+        "all"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q2",
+      "question": "Which is fast memory?",
+      "options": [
+        "Cache memory",
+        "RAM",
+        "Disk",
+        "Tape"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q3",
+      "question": "The shortcut key to create default chart?",
+      "options": [
+        "F1",
+        "F10",
+        "F2",
+        "F11"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "To delete record from Table?",
+      "options": [
+        "Edit->delete record",
+        "Edit->delete",
+        "Record ->delete record",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "Which is not changed by slide master?",
+      "options": [
+        "Layout",
+        "title",
+        "handouts",
+        "place holders"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q6",
+      "question": "Default page orientation of Ms Word is…",
+      "options": [
+        "Landscape",
+        "Portrait",
+        "Wide",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "Which command verifies the copied file?",
+      "options": [
+        "Copy/v c. copy /verify c. copy/d d. none 8. How do you set slide timing? a. Slide show/ slide transition",
+        "Format/ slide transition",
+        "Tools / slide transition",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Which cable allows the fastest data transfer?",
+      "options": [
+        "Fiber optics",
+        "Twisted pair",
+        "coaxial cable",
+        "UTP"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "The KIPS is used",
+      "options": [
+        "Processor",
+        "printer",
+        "hard disk",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "Which is not function of OS?",
+      "options": [
+        "File management",
+        "Plateform",
+        "memory management",
+        "Virus detection"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q12",
+      "question": "The format apply based on user criteria is called.",
+      "options": [
+        "conditional formatting",
+        "Autoformatting",
+        "style",
+        "Theme"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "The unit of CPU is …………",
+      "options": [
+        "Control Unit",
+        "ALU",
+        "Register Unit",
+        "All 36 / Question Bank"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "The function upper(\"Nepal\") will give you",
+      "options": [
+        "NEPAL",
+        "Nepal",
+        "Nepal",
+        "NePal"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Which one is the highest priority operator?",
+      "options": [
+        "( )",
+        "%",
+        "/",
+        "*"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "? indicates in file searching is ...",
+      "options": [
+        "a single character",
+        "a group of character",
+        "Questions",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "Pivot chart shows…….",
+      "options": [
+        "summarized data",
+        "Grouping data",
+        "latest data",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "The page numbers located in……….",
+      "options": [
+        "Left",
+        "Center d. Right d. all of above 19. Which can not create report from……? a. table b. query",
+        "table & query",
+        "Filter"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q20",
+      "question": "The header and footer is set by ……… menu",
+      "options": [
+        "Insert",
+        "edit",
+        "view",
+        "tools"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "The UTP connector is used…",
+      "options": [
+        "RJ65",
+        "RJ45",
+        "RJ 30",
+        "RJ 90"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "Which is not in print dialog box?",
+      "options": [
+        "orientation",
+        "Collate",
+        "Current page",
+        "Print what"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "The Scenario is used for….",
+      "options": [
+        "What if analysis",
+        "Data summarizing",
+        "Data Grouping",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "The shortcut key to fill down.",
+      "options": [
+        "F2",
+        "Ctrl+F,D",
+        "Ctrl+D",
+        "Edit->Fill->Down"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "The protocol is used for Email?",
+      "options": [
+        "SMTP",
+        "http",
+        "mailtp",
+        "ftp"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which is the network protocol?",
+      "options": [
+        "TCP/IP",
+        "http",
+        "mailtp",
+        "ftp"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "The mail merged is used for mailing purpose because it generates",
+      "options": [
+        "Personal mails",
+        "Mass mails",
+        "customize mail",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "Fdisk /Q does ………….",
+      "options": [
+        "Exiting Fdisk",
+        "quick partitioning",
+        "Partition for small disk",
+        "None"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

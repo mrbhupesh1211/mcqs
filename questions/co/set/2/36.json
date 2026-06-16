@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "36",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "To move to the previous worksheet press ....",
+      "options": [
+        "Ctrl+pgup",
+        "Ctrl+pgdn",
+        "alt+pgup",
+        "Shift+Tab"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "What displays the content of the active cell in excel ?",
+      "options": [
+        "name pox",
+        "row headings",
+        "formula bar",
+        "taskpane"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "What do you press to enter the current date in a cell ?",
+      "options": [
+        "ctrl+;",
+        "ctrl+shift;",
+        "ctrl+f10",
+        "ctrl+f11"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "What symbol in excel is used to enter number as text ?",
+      "options": [
+        "'",
+        "\"",
+        "=",
+        "+"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is concatenating (adding) operator in excel ?",
+      "options": [
+        "'",
+        "!",
+        "&",
+        "#"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q6",
+      "question": "When you create two or four separate windows containing part of the spreadsheet that can be viewed, you have created....",
+      "options": [
+        "sections",
+        "panes",
+        "subsheets",
+        "views"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "Excel is a :",
+      "options": [
+        "database package",
+        "spreadsheet package",
+        "word processing package",
+        "presentation package"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "A template file is :",
+      "options": [
+        "a special kind of workbook that provides basic tools for shaping a final work book",
+        "a special work book you can use as a pattern to create other work books of the same type",
+        "a blueparint for the text, graphics & fromatting of a work book",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q9",
+      "question": "Rounding errors can occur:",
+      "options": [
+        "when you use multiplication, division or exponerntiation in a formula",
+        "when you use addition and subtraction in a formula",
+        "because excel uses hidden decimal places in computation",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "To view a cell comment in Excel :",
+      "options": [
+        "click the edit comment command on the insert menu",
+        "click the display comment comand on the window menu",
+        "position the mouse pointer over the cell",
+        "click the comment command on the view menu"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q11",
+      "question": "........ is a collection of data stored in a standardized fomat., designed to be shared by multiple users.",
+      "options": [
+        "database",
+        "record",
+        "database management system",
+        "relation"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "A field or group of fields that uniquely identifies every row of table is",
+      "options": [
+        "primary key",
+        "Foreign key",
+        "Hot key",
+        "Access key"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "The oldest data base models are:",
+      "options": [
+        "hierarchical and network",
+        "relational and object - oriented",
+        "object oriented and deductive",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q14",
+      "question": "Where can you add graphics, movies and sounds in Ms Power point?",
+      "options": [
+        "outline pane",
+        "slide pane",
+        "note pane",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q15",
+      "question": "In Microsoft power point the entry effect as one slide replaces another in a show is called a (an) :",
+      "options": [
+        "animation",
+        "slide transition",
+        "custom animation",
+        "preset animation Question Bank / 93"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "All peripheral devices connected to computer system are known as :",
+      "options": [
+        "keyboard",
+        "hardware",
+        "software",
+        "application"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "Computer is a system having",
+      "options": [
+        "storage",
+        "I/O devices",
+        "CPU",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q18",
+      "question": "Who was the first to conceptualize and design a fully programmable mechanical computer analytical engine?",
+      "options": [
+        "Lady Ada",
+        "Bill Gates",
+        "Charles Babbage",
+        "non of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q19",
+      "question": "Which is not the characteristics of computer?",
+      "options": [
+        "automatic",
+        "lazy",
+        "high speed",
+        "accurate"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "which one has the highest stotage capacity ?",
+      "options": [
+        "CD",
+        "DVD",
+        "floppy disk",
+        "Hard disk"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "mouse is an ..... device",
+      "options": [
+        "input",
+        "CPU",
+        "Output",
+        "Processor"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "The storage capacity of hard disk is measured in.....",
+      "options": [
+        "tera byte",
+        "Giga byte",
+        "Mega byte",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q23",
+      "question": "Faster memory of computer system is.....",
+      "options": [
+        "hard disk",
+        "Firmware",
+        "Cache memory",
+        "CD"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "The full form of ASCII is......",
+      "options": [
+        "International code for Asia",
+        "Asian Standard code international interchange",
+        "Asian Standard Code II",
+        "American Standard code for Information interchange"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q25",
+      "question": "WAN, LAN, MAN are types of",
+      "options": [
+        "Computer",
+        "Network",
+        "Police Unit",
+        "Mobile"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "Which one is an internet browser?",
+      "options": [
+        "Safari",
+        "Internet Explorer",
+        "Firefox",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "if CPU is brain of computer then CU is....",
+      "options": [
+        "head of computer",
+        "Nerve center of computer",
+        "Tail of computer",
+        "main memory of computer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "Disk are further divided into …..",
+      "options": [
+        "tracks and sectors",
+        "memory and space",
+        "plates and plastics",
+        "keyboard and mouse"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "CD-ROM is a ,.,,",
+      "options": [
+        "semiconductor memory",
+        "memory register",
+        "Magnetic memory",
+        "none of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "if you need to duplicate the entire disk, which command will you use?",
+      "options": [
+        "copy",
+        "move",
+        "diskcopy",
+        "transfer"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "Which of the following are loaded in safe mode?",
+      "options": [
+        "keyboard driver",
+        "mouse driver",
+        "VGA driver",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "Which is the easiest method to go to MSDOS in windows environment?",
+      "options": [
+        "my computer",
+        "goto DOS from start menu",
+        "click on icon of desktop",
+        "type command in Run dialog box"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "What is FAT stands for?",
+      "options": [
+        "File attribute type",
+        "File allocation Table",
+        "format all tab setting",
+        "file for all type"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q34",
+      "question": "Which command is not internal command of DOS?",
+      "options": [
+        "DIR",
+        "Edit",
+        "CD",
+        "CLS"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "Leader character is associated with …..",
+      "options": [
+        "bullet and numbering",
+        "gutter",
+        "indent",
+        "tab"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "page formatting which is used frequently in future is saved as…",
+      "options": [
+        "master document",
+        "theme",
+        "cross reference",
+        "template"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "Short cut key for manual column break in word.",
+      "options": [
+        "Ctrl+Enter",
+        "Shift+Space bar",
+        "Ctrl+Shift+Enter",
+        "Alt+Enter 94 / Question Bank"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q38",
+      "question": "Ctrl+Shift+D is used for,,,",
+      "options": [
+        "Double paragraph spacing",
+        "Delete current word",
+        "Dotted underline",
+        "Double underline"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q39",
+      "question": "Which of the following is feature of MS word?",
+      "options": [
+        "Drag & Drop",
+        "Text wrap",
+        "Find & replace",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "… increase the readability of text",
+      "options": [
+        "save",
+        "bullet & numbering",
+        "Thesaurus",
+        "help"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "Which is not the type of indent available in word?",
+      "options": [
+        "right indent",
+        "left Indent",
+        "Center Indent",
+        "Hanging indent"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q42",
+      "question": "Page numbering is inserted as ….",
+      "options": [
+        "footnote",
+        "endnote",
+        "footer",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "Shortcut key combination for undo is .,,.",
+      "options": [
+        "Ctrl+U",
+        "Ctrl+Y",
+        "Ctrl+z",
+        "Ctrl+V"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q44",
+      "question": "Which of the following is a page layout?",
+      "options": [
+        "Shading",
+        "portrait",
+        "template",
+        "window"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q45",
+      "question": "Shortcut key combination for displaying print dialog box is…",
+      "options": [
+        "Ctrl+P",
+        "Ctrl+ T",
+        "Ctrl+A",
+        "Ctrl+N"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "The feature of Ms word that combines a set of database records with a main document is ….",
+      "options": [
+        "Thesaurus",
+        "Mail merge",
+        "Autocorrect",
+        "Word wrap"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q47",
+      "question": "In Ms word, which of the following is not available in paragraph spacing?",
+      "options": [
+        "single",
+        "double",
+        "triple",
+        "multiple"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "To paste, we use….",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+P",
+        "Ctrl+x",
+        "Ctrl+V"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "When a formatted number doesnot fit within a cells it display?",
+      "options": [
+        "####",
+        "#Div/0",
+        "#Div @",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "by default, how many sheets will be in excel workbook?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

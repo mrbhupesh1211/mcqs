@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "38",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which of the following is TRUE about the Recycle Bin?",
+      "options": [
+        "Windows stores items in the Recycle Bin until they are permanently deleted",
+        "Files sent to the Recycle Bin cannot be restored.",
+        "The Recycle Bin automatically empties its contents every 24 hours",
+        "The Recycle Bin is a special section of the computer's memory."
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following would be best tool to diagnose and troubleshoot when hard drive seems to have higher than normal activity ?",
+      "options": [
+        "Disk defragmenter",
+        "task manager",
+        "NTBACK UP",
+        "FDISK"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "Operating system is :",
+      "options": [
+        "a collection of input-output devices",
+        "a collection of system software",
+        "a collection of hardware components",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following are loaded into main memory when the computer is booted ?",
+      "options": [
+        "Word processing instruction",
+        "internal command instructions",
+        "external command instructions",
+        "utility programs"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q5",
+      "question": "Headers and footers are :",
+      "options": [
+        "text that appears on a separate page in the document",
+        "text that appears only in print preview",
+        "text that appears on every page above or below the body text",
+        "text that appear only in online layout view"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q6",
+      "question": "Word processing software can be used to create :",
+      "options": [
+        "Presentations",
+        "letters",
+        "Spreadsheets",
+        "database files"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "What is the short cut key to open the thesaurus window?",
+      "options": [
+        "Shift+F7",
+        "Ctrl+F7",
+        "F7",
+        "Alt+F7"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "Which short cut do you use to double space a paragraph ?",
+      "options": [
+        "Ctrl+F2",
+        "Ctrl+1",
+        "Ctrl+2",
+        "Alt+F2"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "Which feature do you use to create newspaper ?",
+      "options": [
+        "Tables",
+        "tabs",
+        "Columns",
+        "Bullets and numbering Question Bank / 99"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "MS word allows creation of ...... type of documents by default.",
+      "options": [
+        ".dot",
+        ".doc",
+        ".wpf",
+        ".txt"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "Which input device cannot be used to work in MS-office?",
+      "options": [
+        "joy stick",
+        "light Pen",
+        "scanner",
+        "mouse"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "Which of the following methods cannot be used to enter data in a cell?",
+      "options": [
+        "clicking the enter button on the formula bar",
+        "pressing an arrow key",
+        "pressing the TAB key",
+        "pressing the ESC Key."
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "Thesaurus is used for:",
+      "options": [
+        "Opposite Word",
+        "Spelling options",
+        "Grammar option",
+        "Synonyms and antonyms"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "Which is the shortcut key to check spelling of a document?",
+      "options": [
+        "F9",
+        "F2",
+        "F1",
+        "F7"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q15",
+      "question": "What tool can the user use to set indents or tabs?",
+      "options": [
+        "ruler",
+        "insert point",
+        "title bar",
+        "auto correct"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following keystrokes lets you recalculate the formula?",
+      "options": [
+        "F9",
+        "F7",
+        "F2",
+        "F3"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "An excel workbook is a collection of__",
+      "options": [
+        "Worksheets and charts",
+        "workbooks",
+        "workbooks",
+        "charts"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "To return the remainder after a number is divided by a divisor in EXCEL we use the function:",
+      "options": [
+        "DIV ( )",
+        "FACT ( )",
+        "ROUND ( )",
+        "MOD ( )"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q19",
+      "question": "What will be the output if you format the cell containing 5436.8 as '#, ##0.00'?",
+      "options": [
+        "6.8",
+        "5,436.80",
+        "5,430.00",
+        "5,436.8"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "Excel displays the current cell address in the...........",
+      "options": [
+        "Title bar",
+        "status bar",
+        "Formula bar",
+        "name box"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "Which language is used to create macros in excel?",
+      "options": [
+        "Java",
+        "visual basic",
+        "Access",
+        "visual C++"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "You can delete text by:",
+      "options": [
+        "Selecting the text and pressing the Ext key",
+        "Selecting the text and pressing the Ctrl key",
+        "Selecting the text and pressing the Delete key",
+        "Selecting the text and pressing the Alt+Pageup key"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "Getting data from a cell located a different sheet is called.....",
+      "options": [
+        "Functioning",
+        "accessing",
+        "referencing",
+        "updating"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "A numeric value can be treated as a label value if it proceeds with:",
+      "options": [
+        "ampersand (&)",
+        "apostrophe (')",
+        "Exclamation (!)",
+        "has (#)"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "–––– means: that the data contained in a database is accurate and reliable:",
+      "options": [
+        "data consistency",
+        "data redundancy",
+        "data integrity",
+        "data reliability"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q26",
+      "question": "Any request for data from a database is known as a:",
+      "options": [
+        "formula",
+        "result",
+        "query",
+        "record"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q27",
+      "question": "Database management systems are intended to:",
+      "options": [
+        "establish relationship among records in different files",
+        "eliminate data redundancy",
+        "manage file access",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q28",
+      "question": "The relational model uses some unfamiliar terminology. A tuple is equivalent to a:",
+      "options": [
+        "database",
+        "record",
+        "field",
+        "file"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "The sorting and indexing must be performed according to a:",
+      "options": [
+        "tuple",
+        "record",
+        "row",
+        "key field 100 / Question Bank"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "Which category is found in Custom Animation?",
+      "options": [
+        "transition",
+        "master slide",
+        "design templates",
+        "entrance"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q31",
+      "question": "Which key on the keyboard can be used to view slide show?",
+      "options": [
+        "F10",
+        "F1",
+        "F2",
+        "F5"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "In MS-PowerPoint, to insert new slide in the current presentation. We can choose:",
+      "options": [
+        "Ctrl+F",
+        "Ctrl+M",
+        "Ctrl+N",
+        "Ctrl+O"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "CMS in web page stand for:",
+      "options": [
+        "Content Mapping system",
+        "Content Management System",
+        "Customer Management System",
+        "Content Management Sources"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q34",
+      "question": "Which one is not used in web page designing?",
+      "options": [
+        "oracle",
+        "DHTML",
+        "PHP",
+        "HTML"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "Which one is not skeleton and Flesh of HTML documents?",
+      "options": [
+        "Video and sentence",
+        "text and hyperlink",
+        "List and forms",
+        "tables and frames"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q36",
+      "question": "A hard copy would be prepared on a:",
+      "options": [
+        "Typewriter terminal",
+        "line printer",
+        "dot matrix printer",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "Fifth generation computer is also known as:",
+      "options": [
+        "knowledge information processing system",
+        "very large scale integration (VLSI)",
+        "both of above",
+        "none of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "A compiler is ––––––––––",
+      "options": [
+        "a program which translates from one high-level to a machine level",
+        "a combination of computer hardware",
+        "a program which translates from one high-level language to another",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "A pixel is:",
+      "options": [
+        "the smallest resolvable part of a picture",
+        "a computer program that draws picture",
+        "a picture stored in secondary memory",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "Memory is made up of:",
+      "options": [
+        "large number of cells",
+        "set of wires",
+        "set of circuits",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "A disadvantage of the laser printer is:",
+      "options": [
+        "the output is of a lower quality",
+        "it is quieter than an impact printer",
+        "it is very slow",
+        "none of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q42",
+      "question": "Which of the following devices can be used to directly input printed text?",
+      "options": [
+        "MICR",
+        "OCR",
+        "OMR",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q43",
+      "question": "Which one is volatile memory?",
+      "options": [
+        "pen drive",
+        "ROM",
+        "RAM",
+        "none of these"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q44",
+      "question": "Which one is output device?",
+      "options": [
+        "printer",
+        "keyboard",
+        "mouse",
+        "scanner"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "The –– shows all the websites and pages that you have visited over a period of time.",
+      "options": [
+        "tool bar",
+        "status bar",
+        "task bar",
+        "history bar"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q46",
+      "question": "A proxy server is used for which of the following:",
+      "options": [
+        "to provide TCP/IP",
+        "to provide security against unauthorized users",
+        "to provide client request for web pages",
+        "to process client request for database access"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q47",
+      "question": "Which of the following bit patterns represents the decimal value 5?",
+      "options": [
+        "11111001",
+        "00011010",
+        "11111011",
+        "00000101"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q48",
+      "question": "Which of the following connects existing networks to form an internet?",
+      "options": [
+        "repeater",
+        "bridge",
+        "router",
+        "switch"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q49",
+      "question": "The difference between people is known as the:",
+      "options": [
+        "broadband divide",
+        "internet divide",
+        "digital divide",
+        "web divide Question Bank / 101"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q50",
+      "question": "Which of the following capabilities is required for a system program to execute more than one program at a time?",
+      "options": [
+        "multitasking",
+        "under processing",
+        "compiling",
+        "virtual memory"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

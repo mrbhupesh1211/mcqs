@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "41",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which of the following printers uses light beam and electrostatically sensitive black powder?",
+      "options": [
+        "Dot matrix printer",
+        "Daisywheel printer",
+        "Chain printer",
+        "Laser printer"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q2",
+      "question": "Which command of MS-DOS is used to copy only files that have been modified on or after the data you specify?",
+      "options": [
+        "XCOPY /d: date",
+        "COPY /d: date",
+        "COPY /M",
+        "XCOPY /V"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q3",
+      "question": "An algorithm is best described as",
+      "options": [
+        "a computer language",
+        "a step by step procedure for solving a problem",
+        "a branch of mathematics",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "The location of the 1st computer instructions available on boot up from.",
+      "options": [
+        "ROM BIOS",
+        "CPU",
+        "BOOT.INL",
+        "CONFIG.SYS"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following unit of the CPU performed the Boolean function?",
+      "options": [
+        "Control Unit",
+        "Memory Unit",
+        "Arithmetic logical unit",
+        "All above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q6",
+      "question": "Your company has a LAN in its main office and has now set up a LAN in the manufacturing plant in the sub office. To enable everyone to share data and resources between the two LANs, what type of device(s) are needed to connect them ? Choose the most correct answer.",
+      "options": [
+        "Modem",
+        "Cable",
+        "Hub",
+        "Router"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "Internet-like networks within an enterprise is called…",
+      "options": [
+        "Intranets",
+        "Switching alternating",
+        "Inter organizational networks",
+        "Extranets"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "Which of the following match with the page orientation?",
+      "options": [
+        "Portrait",
+        "Landscape",
+        "Page preview",
+        "a and b 108 / Question Bank"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q9",
+      "question": "To add different header and footer in the same document, which of the following break type is used?",
+      "options": [
+        "Page break",
+        "Section break",
+        "column break",
+        "Text wrapping break"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "a form defines",
+      "options": [
+        "Where data is placed on the scree",
+        "the width of each field",
+        "both (a) and (b)",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "The text between <p>and </p> is display is",
+      "options": [
+        "heading",
+        "paragraph",
+        "bold text",
+        "page content is separate page"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "Which of the following is system software?",
+      "options": [
+        "Microsoft windows",
+        "Disk defragmenter",
+        "Microsoft word",
+        "Both a and b"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "Which of the following is an external DOS command?",
+      "options": [
+        "Copy",
+        "MD",
+        "Rename",
+        "Deltree"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "a system has two IDE hard drives that are each divided into primary and extended partitions; which drive letter is assigned to the primary partition of the second drive?",
+      "options": [
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Which of the following operating system is based on graphical user interface?",
+      "options": [
+        "Windows XP",
+        "Windows vista",
+        "Windows 7",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following formula is not entered correctly?",
+      "options": [
+        "=SUM(A1:A10)",
+        "=SUM(:A1A10)",
+        "= AVG(A1:A10)",
+        "COUNT(A1:A10)"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "the database is said to be –– if the same information is duplicated in several places.",
+      "options": [
+        "Consistent",
+        "Redundant",
+        "Secure",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "Which of the following data type in MSAccess supports text of more than 255 characters?",
+      "options": [
+        "Text",
+        "Memo",
+        "number",
+        "Yes/No"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "Bug means",
+      "options": [
+        "a logical error in a program",
+        "a difficult syntax error in a program",
+        "Documenting programs using an efficient documentation tool.",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "Which of the following is characteristic of an operating system?",
+      "options": [
+        "Resource management system files",
+        "Error recovery Memory files",
+        "Memory management",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "Which shortcut keys you will use to select all the text after current cursor position in MS-Word?",
+      "options": [
+        "Shift+End",
+        "Ctrl+Shift+End",
+        "Ctrl+End",
+        "Ctrl+Shift+Page Down"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "To return the remainder after a number is divided by a divisor in EXCEL, we use the function?",
+      "options": [
+        "ROUND( )",
+        "FACT( )",
+        "MOD( )",
+        "DIV( )"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "Which key do you press to check spelling in power point?",
+      "options": [
+        "F3",
+        "F7",
+        "F5",
+        "F9"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "Which file format can be added to a power point show?",
+      "options": [
+        ".jpg",
+        ".wav",
+        ".gif",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q25",
+      "question": "Which of the following performs modulation and demodulation?",
+      "options": [
+        "fiber optics",
+        "satellite",
+        "Coaxial cable",
+        "modem Question Bank / 109"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

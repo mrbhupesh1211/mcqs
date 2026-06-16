@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "48",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "We use….. operator to multiply in MS Excel.",
+      "options": [
+        "*",
+        "x",
+        "/",
+        "<="
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Types of chart are:",
+      "options": [
+        "bar chart",
+        "Pie chart",
+        "Column chart",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q3",
+      "question": "Which one is an example of absolute cell reference?",
+      "options": [
+        "$D$7",
+        "A5:h5",
+        "C5",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "What is the extension of Microsoft Excel File?",
+      "options": [
+        ".html",
+        ".xls",
+        ".pmt",
+        ".xml"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q5",
+      "question": "In Ms Excel a formula always start with…….. sign.",
+      "options": [
+        "=",
+        "<>",
+        ">=",
+        "<"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "MS excel is…….. program.",
+      "options": [
+        "Database",
+        "Spreadsheet",
+        "Graphics",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "Which of the following is not a valid data type in excel?",
+      "options": [
+        "label",
+        "Number",
+        "Character",
+        "Date/Time Question Bank / 127"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q8",
+      "question": "Select the correct formula for addition:",
+      "options": [
+        "=sum(A2:A5)",
+        "add(A2+A3+A4+A5)",
+        "=Max(A2:A5)",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "< is ……..Operator.",
+      "options": [
+        "Logical",
+        "Arithmetic",
+        "Comparison",
+        "my operator"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "In Excel a numeric value can be treated as a label value if it precedes with:",
+      "options": [
+        "Apostrophe(')",
+        "Exclamation (!)",
+        "Hash (#)",
+        "ampersand(&)"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "Which of the following key uniquely identify table?",
+      "options": [
+        "foreign key",
+        "Key record",
+        "Primary key",
+        "unique key"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q12",
+      "question": "What is the column in MS access table called?",
+      "options": [
+        "Rows",
+        "Records",
+        "Field",
+        "Columns"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q13",
+      "question": "Which of the following control is known as drop down list?",
+      "options": [
+        "list",
+        "Combo box",
+        "text box",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "The power Point view that displays only text (Title & text)….",
+      "options": [
+        "Slide show",
+        "Slide sorter view",
+        "outline view",
+        "note page view"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "We can run power point slide in another computer program:",
+      "options": [
+        "Pack and go",
+        "Save and go",
+        "Export",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following items do not have unique on a network ?",
+      "options": [
+        "IP address",
+        "Computer name",
+        "Workgroup name",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "The mouse, joystick and light pen are example of…………",
+      "options": [
+        "Input Devices",
+        "Output devices",
+        "Storage devices",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "Which generation of the computer was made of transistor?",
+      "options": [
+        "First",
+        "Second",
+        "third",
+        "fourth"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "The output quality of a printer is measured by…",
+      "options": [
+        "dot per inch",
+        "dot per square. Inch",
+        "dots printed per unit time",
+        "all the above."
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "which of the following is not computer language ?",
+      "options": [
+        "high level language",
+        "low level language",
+        "medium level language",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "An ip address contains four sets of number ranging from…..",
+      "options": [
+        "1 to 100",
+        "1 to 1000",
+        "1 to 255",
+        "none of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q22",
+      "question": "Which American computer is called big blue ?",
+      "options": [
+        "Microsoft",
+        "Compaq corp.",
+        "IBM",
+        "Tandy sevenson"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "Which of the following is a term related with scanners ?",
+      "options": [
+        "Laser",
+        "TWAIN",
+        "Cartridge",
+        "Media"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "In a Supermarket which of the following will be used in its computerized system?",
+      "options": [
+        "Pen",
+        "Pencil",
+        "Bar code reader",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "The first computer introduced in Nepal was….",
+      "options": [
+        "IBM 1400",
+        "IBM 1401",
+        "ICT 1401",
+        "ICT 1402"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "Charles Babbage invented:",
+      "options": [
+        "ENIAC",
+        "Difference engine",
+        "Electronic computer",
+        "pouched card"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "Who designed the first electronic computer – ENIAC ?",
+      "options": [
+        "Van – Neumann",
+        "Joseph m. Jacquard",
+        "J. Presper Eckert",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "All of the following are example of Storage devices EXCEPT:",
+      "options": [
+        "hard disk",
+        "Printers",
+        "floppy disk",
+        "CD"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "Demodulation is a process of :",
+      "options": [
+        "converting analog to digital signal 128 / Question Bank",
+        "converting digital signals",
+        "Multiplexing various solution into one high speed line signals",
+        "Performing data description"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "Which is not an Operating System?",
+      "options": [
+        "Linux",
+        "Ms-dos",
+        "Ms-word",
+        "Unix"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "The major functions of operating system:",
+      "options": [
+        "memory Management",
+        "Files management",
+        "Process management",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "Spooling technique is associated with:",
+      "options": [
+        "Operating system and scanner",
+        "Operating system and printer",
+        "Operating system and hard disk",
+        "Operating system and keyboard"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "GUI stands for:",
+      "options": [
+        "Graphical Universal interconnection",
+        "Graphical user information",
+        "Graphical user internet",
+        "Graphical User Interface"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q34",
+      "question": "FAT Stand for :",
+      "options": [
+        "file for all type",
+        "format all tab setting",
+        "file allocation table",
+        "file attribute type"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q35",
+      "question": "to move to the bottom of a document press……",
+      "options": [
+        "end key",
+        "home key",
+        "alt+end key",
+        "ctrl+end key"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "By default your document print in …mode.",
+      "options": [
+        "land scape",
+        "Protrait",
+        "Page setup",
+        "Print preview"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q37",
+      "question": "Ms-word is a …………..software",
+      "options": [
+        "system",
+        "application",
+        "utility",
+        "game"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q38",
+      "question": "Which one of the following is not found in Ms-word ?",
+      "options": [
+        "Table",
+        "formula Bar",
+        "font",
+        "bullet"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q39",
+      "question": "Borders can be applied to :",
+      "options": [
+        "Image",
+        "paragraph",
+        "text box",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "which of the following is not type of page margin?",
+      "options": [
+        "left",
+        "right",
+        "center",
+        "top"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q41",
+      "question": "What is the default left margin in word document ?",
+      "options": [
+        "1\"",
+        "1.25\"",
+        "1.5\"",
+        "2\""
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q42",
+      "question": "what is a gutter margin?",
+      "options": [
+        "margin that is added to the left margin when printing",
+        "margin that is added to right margin when printing",
+        "margin that is added to the binding side of page when printing",
+        "none of the above."
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "Which of the following is not a font style ?",
+      "options": [
+        "bold",
+        "italics",
+        "regular",
+        "superscript"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "Which is true with save as command ?",
+      "options": [
+        "save a document in new location",
+        "save a document with a new name",
+        "cancel saving",
+        "both a and b"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "Ms –word is a ……………program",
+      "options": [
+        "Graphics",
+        "word processing",
+        "spread sheet",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q46",
+      "question": "Table is a …………..",
+      "options": [
+        "collection of rows only",
+        "collection of rows and columns",
+        "collection of columns only",
+        "computer's memory"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q47",
+      "question": "short cut key for find and replace dialog box is:",
+      "options": [
+        "shift+f",
+        "crtl+f",
+        "Alt+r",
+        "shift+r"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q48",
+      "question": "Which of the following is not the feature of Ms-word?",
+      "options": [
+        "provides tools such as data consolidation, goal seek, scenario etc.",
+        "margins and page length can be adjusted as desired",
+        "spelling cab be checked and modified through the spell check facility",
+        "multiple document /files can be merged Question Bank / 129"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q49",
+      "question": "we can show the record of table graphically through …",
+      "options": [
+        "chart",
+        "table",
+        "formula",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q50",
+      "question": "Intersectional part of rows and columns are knows as ……………",
+      "options": [
+        "Column",
+        "Table",
+        "Row",
+        "Cell"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

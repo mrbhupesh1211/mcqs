@@ -1,0 +1,545 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "20",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Computer Viruses are",
+      "options": [
+        "Dust particles",
+        "Human Virus",
+        "Computer Programs",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q2",
+      "question": "CPU is combination of:",
+      "options": [
+        "control unit and storage",
+        "Control unit and output unit",
+        "ALU and input unit",
+        "ALU and Control Unit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following device can be used for both input device and output device?",
+      "options": [
+        "Track Ball",
+        "Track Pad",
+        "Track Point",
+        "Touch Screen"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "The first computer introduced in Nepal was:",
+      "options": [
+        "IBM 1400",
+        "IBM 1401",
+        "1402 CDC 1604 Question Bank / 47 5. The operation which is not performed by the computers that are commonly used is a. inputting b. Processing c. Controlling",
+        "Understanding"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "Which is not a primary Memory?",
+      "options": [
+        "ROM",
+        "EPROM",
+        "Hard Disk",
+        "RAM"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q7",
+      "question": "WAN Stands for:",
+      "options": [
+        "Wide Area Network",
+        "World Area Network",
+        "World Access Network",
+        "Wide Access Network"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "Operating System is",
+      "options": [
+        "System Software",
+        "Application Software",
+        "Utility Software",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Window 95/98 is ……..operating system.",
+      "options": [
+        "16 bit",
+        "32 bit",
+        "64 bit",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "In MS DOS which command transfers a specific file from one disk to another?",
+      "options": [
+        "Disk Copy",
+        "Copy",
+        "Both of the above",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "For center align of the selected text, which of the following key combination is used?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + E",
+        "Both of the above",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "What should be typed on pages of print window to print first five pages of a document?",
+      "options": [
+        "1,2,3,4,5",
+        "1-5",
+        "Both of the above",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q13",
+      "question": "Which key or key combination will move the insertion point to the bottom of the whole document?",
+      "options": [
+        "End",
+        "Page Down",
+        "Ctrl + End",
+        "Ctrl + Page Down"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "All formula in MS Excel starts with:",
+      "options": [
+        "%",
+        "+",
+        "=",
+        "-"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "An excel workbook is a collection of :",
+      "options": [
+        "workbooks",
+        "Work Sheets",
+        "Charts",
+        "Worksheet and Charts"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "In MS Excel maximum number or columns in a worksheet are:",
+      "options": [
+        "128",
+        "256",
+        "512",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "DBMS is",
+      "options": [
+        "A collection of data",
+        "set of program to access and update those data",
+        "Both",
+        "None of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "The framework for storing records in a database is:",
+      "options": [
+        "Table",
+        "Form",
+        "Report",
+        "Query"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "A field that uniquely identifies a record is called a:",
+      "options": [
+        "Main Field",
+        "Header Field",
+        "Key Field",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "Count command is used to:",
+      "options": [
+        "Count the number of data fields in an active database file.",
+        "Count the number of data files which are active.",
+        "Count the records which are update",
+        "d. Count the number of records in an active database file."
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "The checking operation performed on input data is called:",
+      "options": [
+        "Validation of the data",
+        "Verification of data",
+        "Cross Check",
+        "Control of Data"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "Which of the following should be used when you want to add a slide to an existing presentation?",
+      "options": [
+        "File, Add a new slide",
+        "Insert, New slide",
+        "File, Open",
+        "View, slide show"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "WWW is made of the documents created by the language called:",
+      "options": [
+        "HTML",
+        "HTRL",
+        "HTTL",
+        "URL"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "A web-site is a collection of…..",
+      "options": [
+        "Components of internet",
+        "Web Links",
+        "Web Pages",
+        "None of the above 48 / Question Bank"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "By opening My Computer in the Desktop one can see the information on:",
+      "options": [
+        "Hard Disk",
+        "CD",
+        "Removable Disk",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q26",
+      "question": "Deleted files will be stored initially:",
+      "options": [
+        "My Document",
+        "My Computer",
+        "My Briefcase",
+        "Recycle Bin"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "To Copy entire window information we do:",
+      "options": [
+        "Print Screen",
+        "Copy Screen",
+        "Alt + Copy",
+        "Ctrl + Copy"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Who writes program into ROM?",
+      "options": [
+        "Manufacturer",
+        "Sales Manager",
+        "Programmer",
+        "Program Coacher"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "When we delete a file the related shortcut icon will be:",
+      "options": [
+        "Deleted Automatically",
+        "Not automatically deleted",
+        "Sometimes deleted",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q30",
+      "question": "Who is known as the father of computer?",
+      "options": [
+        "Charles Babbage",
+        "Bill Gates",
+        "Pascal",
+        "John Napier"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "What displayed in the window title bar?",
+      "options": [
+        "Edit Menu",
+        "Print Menu",
+        "File Menu",
+        "Control Menu"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "What is BIOS an acronym for?",
+      "options": [
+        "Bootstrap initial operation system",
+        "Basic Input output startup",
+        "Boot initial operating startup",
+        "Basic Input Output System"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "Which protocol sends electronic mail?",
+      "options": [
+        "Mail Transfer",
+        "POP3",
+        "FTP",
+        "Outbox"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "What is windows?",
+      "options": [
+        "GUI",
+        "OS",
+        "Most user friendly",
+        "All of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q35",
+      "question": "The command Alt + F4 does:",
+      "options": [
+        "open a file",
+        "close an application",
+        "Delete a file",
+        "Open a new document"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "Most computers understand program written in:",
+      "options": [
+        "English Language",
+        "Basic Language",
+        "Any High Level Language",
+        "Machine language"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "What is odd in the following MS Office suit?",
+      "options": [
+        "Oracle",
+        "PowerPoint",
+        "Excel",
+        "Access"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "JAVA is widely used for:",
+      "options": [
+        "Web page designing",
+        "Database designing",
+        "System E-Designing",
+        "Circuit designing"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q39",
+      "question": "MS Access 2000 wizard help us to:",
+      "options": [
+        "Create tables to store data",
+        "Designs forms to enter data correctly",
+        "Create queries and generate report",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "In MS Excel, formula begins with",
+      "options": [
+        "@",
+        "*",
+        "=",
+        ":"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q41",
+      "question": "The result of formula \"5^3\" in MS Excel equal to:",
+      "options": [
+        "15",
+        "125",
+        "225",
+        "5.3"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q42",
+      "question": "Sending a data by using a continuous signal over a medium is:",
+      "options": [
+        "Analog Transmission",
+        "Hybrid Transmission",
+        "Digital Transmission",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "Which is not essential elements to the web?",
+      "options": [
+        "Browsers",
+        "Pages",
+        "URL's",
+        "Web Cam"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "…..is not the MS Access database object.",
+      "options": [
+        "Table",
+        "Report",
+        "Micro",
+        "Module"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q45",
+      "question": "What is Data?",
+      "options": [
+        "Raw numbers",
+        "Set of numbers",
+        "Cache Memory",
+        "Removable Memory Card"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "Excel formula follows the rule of:",
+      "options": [
+        "BODMAS",
+        "Matrix Function",
+        "Logical Function",
+        "Trigonometric Function Question Bank / 49"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "Popular Browsers that lets you access WebPages:",
+      "options": [
+        "Internet Explorer",
+        "American online",
+        "Netscape",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q48",
+      "question": "What happens to the contents of clipboard we close down the clipboard viewer?",
+      "options": [
+        "Contents of clipboard disappears",
+        "Contents of clipboard deleted",
+        "Clipboard content remains intact",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q49",
+      "question": "To start a slide show press,",
+      "options": [
+        "F5",
+        "Ctrl + M",
+        "Ctrl + D",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "Unicode is a:",
+      "options": [
+        "Program",
+        "Font",
+        "Software",
+        "All of the above"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

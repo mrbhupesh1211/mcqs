@@ -1,0 +1,512 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "21",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "WWW stands for …",
+      "options": [
+        "World Wide Wan",
+        "World Wide Web",
+        "Web Wide Web",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "A 32 bit microprocessor has the word length equal to",
+      "options": [
+        "2 byte",
+        "32 byte",
+        "4 byte",
+        "8 byte"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "The first microprocessor built by the Intel Corporation was called",
+      "options": [
+        "8008",
+        "8080",
+        "4004",
+        "8800"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following shortcut key is used to check spelling?",
+      "options": [
+        "Shift F7",
+        "Alt F7",
+        "F7",
+        "Ctrl F7"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "An excel workbook is a collection of …..",
+      "options": [
+        "Workbooks",
+        "Worksheets",
+        "Charts",
+        "Worksheets and chart sheet"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q6",
+      "question": "…is the first program run on a computer when the computer boots up …",
+      "options": [
+        "Microsoft Word",
+        "Operating system",
+        "Norton Antivirus",
+        "None 50 / Question Bank"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "Drop Cap is in ….",
+      "options": [
+        "Tools/Drop Cap No.",
+        "Insert/Drop Cap",
+        "Format/Drop Cap",
+        "Format/Drop Cap Number"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q8",
+      "question": "Which is external command?",
+      "options": [
+        "Dir",
+        "Copy",
+        "Format",
+        "Xcopy"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q9",
+      "question": "Which is not Indent type?",
+      "options": [
+        "Left Indent",
+        "Right Indent",
+        "Center Indent",
+        "Hanging Indent"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "Full form of UPS …..",
+      "options": [
+        "Uninterrupted power supply",
+        "Uniform power supply",
+        "Uninterruptable power supply",
+        "Uninterruptible power system"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q11",
+      "question": "Which is primary memory?",
+      "options": [
+        "RAM",
+        "CDROM",
+        "Hard Disk",
+        "Floppy Disk"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "Types of Network are …?",
+      "options": [
+        "LAN",
+        "WAN",
+        "MAN",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "You enter the data vertically in database is ….",
+      "options": [
+        "Field",
+        "Record",
+        "Data",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q14",
+      "question": "Which conditional function is true?",
+      "options": [
+        "CountIff()",
+        "Countiif()",
+        "Countif()",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "USB is …..",
+      "options": [
+        "Universal Section Bus",
+        "Universal Section Bank",
+        "Universal Serial Bus",
+        "Universal Serial Ball"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q16",
+      "question": "When did invent the Transister?",
+      "options": [
+        "1948",
+        "1958",
+        "1949",
+        "1957"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "You can type formula in excel from ….",
+      "options": [
+        "Menu Bar",
+        "Standard Toolbar",
+        "Formula Toolbar",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q18",
+      "question": "When you press ctrl+U, the output is….",
+      "options": [
+        "Underlink the text",
+        "Underline the text",
+        "Underline the word",
+        "Underlink the word"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "If the file name is “index” and this file is in the “book” directory; the path is….",
+      "options": [
+        "c:book\\index",
+        "c:\\book\\index",
+        "c:\\ index\\book",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "……… is monitors and controls all hardware and software within a computer system.",
+      "options": [
+        "Control Unit",
+        "Operating System",
+        "System Software",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "Telnet is ….",
+      "options": [
+        "used to send email",
+        "uses telephone lines",
+        "is part of Netscape",
+        "is a protocol that allows for remote login"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q22",
+      "question": "Process is ….",
+      "options": [
+        "Calculation",
+        "manipulation",
+        "computation",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q23",
+      "question": "Virus cannot do?",
+      "options": [
+        "Remove registry file",
+        "Erase programs",
+        "Delete hard drive",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "Which you need when you sending Email?",
+      "options": [
+        "Recipient’s Email Address",
+        "Recipient’s Home Address",
+        "Recipient’s Email User Name and Password",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "Which will store the Firmware?",
+      "options": [
+        "ROM",
+        "RAM",
+        "Hard Disk",
+        "CDROM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Complete form of BIOS is ….",
+      "options": [
+        "Basic Input Output System",
+        "Base input output system",
+        "Basic information system",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "What is the function of CHKDSK?",
+      "options": [
+        "Check Disk",
+        "Fixed Errors",
+        "Maintenance the disk problems",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "Which is in the print dialog box?",
+      "options": [
+        "Printer selection",
+        "Print What",
+        "copies",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "How can you select the entire document?",
+      "options": [
+        "ctrl + A",
+        "Ctrl + Shift + A",
+        "Alt + Ctrl + A",
+        "Alt + A Question Bank / 51"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "How do you insert the page number in your document?",
+      "options": [
+        "View / Page no.",
+        "Insert / Page no.",
+        "Format/ Page no.",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q31",
+      "question": "How do you cut your required contents within your document?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + X",
+        "Ctrl + K",
+        "Ctrl + Shift + C"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q32",
+      "question": "In excel, type =if(23<2,1,2), what is the cell value?",
+      "options": [
+        "23",
+        "2",
+        "1",
+        "false"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "Lotus is a …..",
+      "options": [
+        "Electronic Work Book",
+        "Electronic spreadsheet",
+        "Database",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q34",
+      "question": "What is short cut key for switching one program to another?",
+      "options": [
+        "Ctrl + Tab",
+        "Alt + Tab",
+        "Shift + Tab",
+        "Alt + F4"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "For print quality you would expect best results from …",
+      "options": [
+        "Line Printer",
+        "Dot Matrix Printer",
+        "Ink Jet Printer",
+        "Laser Printer"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "Index is used to perform the ………..operation.",
+      "options": [
+        "Searching",
+        "Sorting",
+        "Validating",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q37",
+      "question": "What is command to remove ‘student’ table in database?",
+      "options": [
+        "Remove all",
+        "Drop all",
+        "Select student table & Drop",
+        "Select all table & Drop all"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q38",
+      "question": "Which is not operating system?",
+      "options": [
+        "Windows",
+        "Vista",
+        "PowerPoint",
+        "Linux"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q39",
+      "question": "An NIC is …..",
+      "options": [
+        "interfaces a modem to a computer",
+        "a Novell Interface Controller",
+        "connects a computer to a network",
+        "used to control a printer"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q40",
+      "question": "Thesaurus is …",
+      "options": [
+        "List of related words",
+        "Checking Spelling",
+        "Checks the grammer",
+        "Corrects the word automatically"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "Password is ….",
+      "options": [
+        "Change continuously",
+        "Combination of alphabet, number & symbol",
+        "Restrict the unauthorized",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q42",
+      "question": "How do you control your sound or speaker in your computer?",
+      "options": [
+        "By Keyword",
+        "Click by Mouse",
+        "Controller of speaker",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "How do you select a column in excel?",
+      "options": [
+        "Click on column header",
+        "Click on row header",
+        "Press Ctrl+Tab",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q44",
+      "question": "Which system is in the Modern computer?",
+      "options": [
+        "Decimal System",
+        "Octal System",
+        "Binary System",
+        "Hexadecimal system"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q45",
+      "question": "Which is output device?",
+      "options": [
+        "Speaker",
+        "Keyboard",
+        "Mouse",
+        "45. Which is output device? a. Speaker b. Keyboard c. Mouse d. Scanner"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "Which will allow you to configure hardware settings including system settings such as computer passwords, time, and date?",
+      "options": [
+        "BIOS",
+        "Boot Strapping",
+        "Warm boot",
+        "Power On Self Test 52 / Question Bank"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

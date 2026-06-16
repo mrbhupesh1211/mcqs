@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "47",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "In which generation computer were very large?",
+      "options": [
+        "1st Generation",
+        "2nd Generation",
+        "3rd Generation",
+        "4th Generation"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "One Giga bytes in power of ten is expressed as….",
+      "options": [
+        "109",
+        "1012",
+        "1015",
+        "1018"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q3",
+      "question": "Which device will process data?",
+      "options": [
+        "RAM",
+        "CPU",
+        "Hard Disk",
+        "ROM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "The second computer introduced in Nepal by the government was for",
+      "options": [
+        "Census of 2018 BS",
+        "Census of 2028 BS",
+        "Census of 2038 BS",
+        "Census of 2038 BS"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is not a computer language?",
+      "options": [
+        "High level language",
+        "Medium level language",
+        "Low level Language",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "Which of the following is not a web browser?",
+      "options": [
+        "Internet Explorer",
+        "Fire Fox",
+        "Opera",
+        "Skype"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "Network Protocol is set:",
+      "options": [
+        "of rule for communication",
+        "of Hardware tools",
+        "of application software",
+        "of system software"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "Which device resides at the centre of a star network and links the network",
+      "options": [
+        "switch",
+        "Bridge 124 / Question Bank",
+        "Network Adaptor",
+        "Server"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "What is the equivalent number (110)2 = (?)10",
+      "options": [
+        "6",
+        "8",
+        "11",
+        "23"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "Existing IT policy of Nepal Government was revised in …",
+      "options": [
+        "2067 BS",
+        "2068 BS",
+        "2069 BS",
+        "2066 BS"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "Digital signature is produced by using the:",
+      "options": [
+        "PKI Method",
+        "RSA method",
+        "DNS method",
+        "WAN method"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "Which of the following is not computer threat?",
+      "options": [
+        "Virus",
+        "Trojan",
+        "Phising",
+        "Fishing"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "Which one is the correct email Address?",
+      "options": [
+        "laxmi/shrestha@nlk.org.np",
+        "laxmi@nlk.org.nepal",
+        "laxmiShrestha@nlk.org.np",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "POP3 protocol in internet is related with…",
+      "options": [
+        "browsing web pages",
+        "Sending Email",
+        "Reading Email",
+        "File Transfer"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Which of the following is a file attribute?",
+      "options": [
+        "hidden",
+        "archive",
+        "read only",
+        "all of them"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following is not an operating system?",
+      "options": [
+        "Linux",
+        "Windows",
+        "Oracle",
+        "DOS"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "Which of the following is not a component of Control panel?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Monitor",
+        "Printer"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q18",
+      "question": "Short-cut key combination for closing windows is……..",
+      "options": [
+        "Ctrl+S",
+        "Alt+F4",
+        "Ctrl+V",
+        "Alt+F1"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "…… tool helps to reduce file access time from disk.",
+      "options": [
+        "Scandisk",
+        "Disk defragmenter",
+        "Backup",
+        "Format"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "Which is not true for operating system?",
+      "options": [
+        "Helps to execute applications",
+        "Performs memory management",
+        "Solves users' actual problems",
+        "Control all the operations of computer"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "How does the autocorrect feature of MS word functions?",
+      "options": [
+        "It places correct spellings of misspelled words after save",
+        "It corrects errors when the Autocorrect button is pressed",
+        "It corrects errors automatically as you type",
+        "This feature is not available"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q22",
+      "question": "What symbols are not allowed for file name created with MS word?",
+      "options": [
+        "-",
+        "Alphabet",
+        "number",
+        "?"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q23",
+      "question": "What is command key sequence to create table in MS Word?",
+      "options": [
+        "Edit-Table-Create",
+        "Table-Insert table",
+        "Tools-Table",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "If you want to write this text Sample Text, what format do you apply to the text?",
+      "options": [
+        "Superscript",
+        "Subscript",
+        "Strikethrough",
+        "Double Strikethrough"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q25",
+      "question": "What are shortcut keys for copying and pasting a block of selected text?",
+      "options": [
+        "Ctrl+X, Ctrl+V",
+        "Ctrl+P, Ctrl+V",
+        "Ctrl+V, Ctrl+P",
+        "Ctrl+C, Ctrl+V"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q26",
+      "question": "Which bar is used to draw your own picture in MS word?",
+      "options": [
+        "Drawing Toolbar",
+        "Auto shape Toolbar",
+        "Picture Toolbar",
+        "Outline toolbar"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "What is the default extension for the MS Word file?",
+      "options": [
+        ".Rtf",
+        ".Doc Question Bank / 125",
+        ".Txt",
+        ".Htm"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "MS Word automatically moves the text to the next line when it reaches the right edge of the screen is called…",
+      "options": [
+        "Carriage return",
+        "Word Wrap",
+        "Return",
+        "None of Above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "In MS WORD, What does ruler help?",
+      "options": [
+        "To Set tabs",
+        "To set Indents",
+        "To change page margin",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "Comments put in cells are called…",
+      "options": [
+        "Smart Tip",
+        "Cell Tip",
+        "Web Tip",
+        "Soft Tip"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q31",
+      "question": "Concatenation of text can be done using…",
+      "options": [
+        "Apostrophe (')",
+        "Exclamation (!)",
+        "Hash (#)",
+        "Ampersand (&)"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "Workbook is collection of:",
+      "options": [
+        "Cells",
+        "Worksheets",
+        "Workspaces",
+        "Projects"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "Short-cut key to bring format cells dialog box is….",
+      "options": [
+        "Ctrl+F",
+        "Ctrl+E",
+        "Ctrl+1",
+        "Ctrl+D"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q34",
+      "question": "The Cell reference $A$5 is a…………",
+      "options": [
+        "Relative Cell reference",
+        "Absolute Cell reference",
+        "Mixed Cell reference",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "Function to get sum of the contents of the cells A1, A2, B1, B2 is……..",
+      "options": [
+        "= Sum (A1+A2+B1+B2)",
+        "= Sum(A1:B2)",
+        "=Total (A1..B2)",
+        "= Sum(A1,B2)"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "To Edit the contents of Cell……..",
+      "options": [
+        "Press F2",
+        "Double click on cell",
+        "Click on formula bar",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "Graphical representation of Worksheet data is…….",
+      "options": [
+        "Pivot Table",
+        "Goal Seek",
+        "Graph",
+        "Scenario"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q38",
+      "question": "Filter option is used to …..",
+      "options": [
+        "arrange data in alphabetical order",
+        "arrange data in Numeric order",
+        "arrange data in Chronological order",
+        "Extract the record that meets given criteria"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q39",
+      "question": "The Formula = IF(A1>B1, A1-B1, B1- A1) gives",
+      "options": [
+        "Larger one from cell A1 and B1",
+        "Positive difference of A1 and B1",
+        "Contents of A1",
+        "Consents of B1"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q40",
+      "question": "…… is a collection of data stored in a standardized format, designed to be shared between users?",
+      "options": [
+        "Database",
+        "Record",
+        "Database Management System",
+        "Relation"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "The SQL Query: SELECT * FROM Employee",
+      "options": [
+        "Displays all field names from Employee table",
+        "Displays all records from Employee table",
+        "Displays structure of Employee table",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q42",
+      "question": "A field or group of fields that uniquely identifies every row of a table is …",
+      "options": [
+        "Primary key",
+        "Foreign key",
+        "Hot key",
+        "Access key"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "Which is the best file organization when data is frequently added or deleted from a file?",
+      "options": [
+        "Sequential",
+        "Direct",
+        "Index sequential",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q44",
+      "question": "…… operator is used to compare a value to a list of literals values that have been specified.",
+      "options": [
+        "Like",
+        "Compare",
+        "Between",
+        "IN"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "Which command is used to insert duplicate slide in current presentation?",
+      "options": [
+        "Ctrl+L",
+        "Ctrl+ M",
+        "Ctrl+D",
+        "Ctrl+ N"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q46",
+      "question": "…….. refers to the way things are arranged on a slide.",
+      "options": [
+        "Slide design",
+        "Slide Layout",
+        "Slide Transition",
+        "Rehearse timing 126 / Question Bank"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q47",
+      "question": "MS PowerPoint is a ……….. software.",
+      "options": [
+        "Word processing",
+        "Electronic Spreadsheet",
+        "Presentation",
+        "database Management System"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "Full form of HTML is,,,,,,,",
+      "options": [
+        "Hypertext Markup Language",
+        "HoTMail",
+        "Hypertext Mail Language",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q49",
+      "question": "… is a standalone tag ( i.e. does not have closing tag).",
+      "options": [
+        "<font>",
+        "<hr>",
+        "<B>",
+        "<table>"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q50",
+      "question": "To set the background color we use:",
+      "options": [
+        "<Body text =\"color\">",
+        "<body=\"color\">",
+        "<body bgcolor=\"color\">",
+        "All of the above"
+      ],
+      "correct_option": 3
+    }
+  ]
+}

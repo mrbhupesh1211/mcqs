@@ -1,0 +1,457 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "24",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which one is correct for simple average?",
+      "options": [
+        "average(number1:number2:number3:…)",
+        "=average(number1,number2,number3…)",
+        "=avg (number1+number2+number3…)",
+        "=avg(number1number2number3,…)"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "To calculate sum of A1,A2,B1 &B2",
+      "options": [
+        "=sum(a1:b2)",
+        "=sum(a1,a2,b1,b2)",
+        "=sum(a1-a2-b1-b2)",
+        "=sum(a1+a2+b1+b2)"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "Which command will create sector on disk?",
+      "options": [
+        "xcopy",
+        "format",
+        "defrag",
+        "scandisk"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "The type of excel application is …..",
+      "options": [
+        "Spreadsheet",
+        "word processor",
+        "accounting",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "How many columns in excel?",
+      "options": [
+        "150",
+        "200",
+        "256",
+        "300"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q6",
+      "question": "Which is not function of CU?",
+      "options": [
+        "to calculate Number",
+        "Add number",
+        "to process",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "Maximum slide in handsout has ..…",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q8",
+      "question": "To make straight two sides of paragraph is or remove ragness of text?",
+      "options": [
+        "Justify",
+        "Center",
+        "Right",
+        "Left"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Print only snapshot (picture) in screen.",
+      "options": [
+        "Ctrl + Print Screen",
+        "Print Screen",
+        "Print",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "Full form of Virus",
+      "options": [
+        "Vital Information Resources Under Siege",
+        "Valuable information record system",
+        "vocal information record size",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "1024 kb is refers to …. ?",
+      "options": [
+        "1 GB",
+        "1 MB",
+        "100 bit",
+        "1byte"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "Which is no dBase object?",
+      "options": [
+        "Table",
+        "Form",
+        "Clipboard",
+        "Micro Question Bank / 59"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q13",
+      "question": "If RAM is primary storage, secondary storage is?",
+      "options": [
+        "DVD",
+        "HDD",
+        "CD",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "To create identical slide, what do you do?",
+      "options": [
+        "Ctrl + Shift + D",
+        "Ctrl + D",
+        "Ctrl+M",
+        "All"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Allow entry in excel, Press …..",
+      "options": [
+        "Enter",
+        "Esc",
+        "Ctrl",
+        "Shift"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "All option found in Menu except",
+      "options": [
+        "Page number",
+        "Break",
+        "Format painter",
+        "font"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "What type of PowerPoint presentation?",
+      "options": [
+        "Analog",
+        "Digital",
+        "Distinct",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "Word, places data from another application is referred to…",
+      "options": [
+        "link",
+        "embedding",
+        "linking",
+        "place in word table"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "To insert new slide ….",
+      "options": [
+        "insert/New slide",
+        "Format/ New slide",
+        "View / new slide",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "To put comment in slide using",
+      "options": [
+        "use view",
+        "note pane",
+        "slide shorter view",
+        "Title master"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "To establish LAN, you donot need…",
+      "options": [
+        "Modem",
+        "Ethernet Card",
+        "RJ45",
+        "Network cable"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "Hub used in …..",
+      "options": [
+        "Star",
+        "Mesh",
+        "Bus",
+        "Ring"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "Email is",
+      "options": [
+        "Click & send",
+        "Forward & Receive message",
+        "Compose & draft",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "What type of software creates duplicate file?",
+      "options": [
+        "Virus",
+        "Worm",
+        "Trojan Horse",
+        "Antivirus"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "To copy file from floppy disk,",
+      "options": [
+        "copy a:\\*.doc",
+        "copy *.doc a:\\",
+        "copy *.doc a:\\",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "To search file with special criteria into your computer?",
+      "options": [
+        "locate",
+        "search",
+        "find",
+        "B& C"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "System date format is in…..",
+      "options": [
+        "mm-dd-yy",
+        "dd-mm--yy",
+        "yy-mm-dd",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Which is not use in micro name?",
+      "options": [
+        "special characters",
+        "number",
+        "Wild character",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "What is basic feature word",
+      "options": [
+        "Graphic, formatting, printing",
+        "Creating, formatting, printing",
+        "editing & printing",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q30",
+      "question": "What type of chart can be creating?",
+      "options": [
+        "Bar only",
+        "column only",
+        "Bar & column",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "To make white space around page text,",
+      "options": [
+        "Margin",
+        "Page width",
+        "Border",
+        "Gutter"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "For Excel, data sources can be ….",
+      "options": [
+        "dBase",
+        "Excel",
+        "Text file",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "To show slide No. with Contents of slide is",
+      "options": [
+        "Miniature",
+        "slide sorter view",
+        "slide view",
+        "Layout"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q34",
+      "question": "Maximum row no. in excel?",
+      "options": [
+        "65534",
+        "65536",
+        "256",
+        "255"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q35",
+      "question": "Which is not supporting by Ms Word?",
+      "options": [
+        "Editing",
+        "Graphics",
+        "Painting",
+        "Formatting"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q36",
+      "question": "Which connector is used for LAN?",
+      "options": [
+        "RJ45",
+        "RJ11",
+        "RJ10",
+        "rj65"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q37",
+      "question": "DBMS is ….",
+      "options": [
+        "Application Software",
+        "System Software",
+        "Program Software",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "Ms Word is …………………………….. type of software.",
+      "options": [
+        "Customized",
+        "Packaged",
+        "Tailored",
+        "System"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q39",
+      "question": "What do you mean by report?",
+      "options": [
+        "Output",
+        "Modify 60 / Question Bank",
+        "Entry Format",
+        "Enquiry"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "Which one is Manufactured by Microsoft ?",
+      "options": [
+        "Access",
+        "Oracle",
+        "dBase",
+        "SQL"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "Worksheet is compose of …..",
+      "options": [
+        "Row & row",
+        "Column & column",
+        "Row & column",
+        "None"
+      ],
+      "correct_option": 3
+    }
+  ]
+}

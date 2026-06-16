@@ -1,0 +1,358 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "14",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which is not in word art text editor?",
+      "options": [
+        "bold",
+        "italic",
+        "font",
+        "underline"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q2",
+      "question": "The main units of cpu are",
+      "options": [
+        "cpu & register",
+        "CPU & ALU",
+        "CU and Register",
+        "CU & ALU"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q3",
+      "question": "Which is a computer programming language?",
+      "options": [
+        "interpreted language",
+        "structured programming language",
+        "object oriented language",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "Where you can define permanent path in DOS?",
+      "options": [
+        "IO.sys",
+        "Config.sys",
+        "Autoexec.bat",
+        "Command.com"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "The shortcut key for repeating task.",
+      "options": [
+        "Ctrl+z",
+        "Ctrl+y",
+        "Ctrl+B",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "To select entire document",
+      "options": [
+        "double click on left margin",
+        "Double click on right margin",
+        "triple click on left margin 34 / Question Bank b. triple click on right margin 7. Switch board is also called ……….. form. a. sub b. main c. control",
+        "datasheet"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q8",
+      "question": "IT policy was launch on …………. year.",
+      "options": [
+        "2000",
+        "2001",
+        "2004",
+        "2005"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Which is not database object?",
+      "options": [
+        "table",
+        "form",
+        "macro",
+        "datasheet"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q10",
+      "question": "How do you set margin?",
+      "options": [
+        "page setup \\ margin",
+        "page \\ margin",
+        "page setup \\ size",
+        "page setup \\ layout"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "which is an input device?",
+      "options": [
+        "printer",
+        "speaker",
+        "scanner",
+        "plotter"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q12",
+      "question": "What was used in first computer?",
+      "options": [
+        "vacuum tube",
+        "transistor",
+        "IC",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "The hexa-decimal value of 13 is……..",
+      "options": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Which is odd in CRT?",
+      "options": [
+        "Dot pitch",
+        "Radio frequency",
+        "Refresh rate",
+        "pixel"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q15",
+      "question": "The latency is …………………..",
+      "options": [
+        "Position the write head over data",
+        "Position the write head under data track",
+        "accessing data from track",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "Which is 4th generation language?",
+      "options": [
+        "SQL",
+        "JAVA",
+        "C++",
+        "Basic"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "The function of format painter is…….",
+      "options": [
+        "auto formatting document",
+        "apply format",
+        "alignment of text",
+        "none of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "To update the date & time in presentation ……",
+      "options": [
+        "F7",
+        "F8",
+        "F9",
+        "F10"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "Which is sequential device?",
+      "options": [
+        "tape",
+        "magnetic disk",
+        "optical disk",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "How do you set password in PowerPoint?",
+      "options": [
+        "Tools/option/Security",
+        "File/option/Security",
+        "Tools/Security/Password",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "The decimal value of 1101 0011 0011…..",
+      "options": [
+        "3379",
+        "3378",
+        "3360",
+        "3579"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "What is the value of mod ((D3/10)+int(D3/10),D3) where d3 =67",
+      "options": [
+        "13",
+        "12",
+        "75",
+        "86"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "Which is not valid file system?",
+      "options": [
+        "Fat 16",
+        "Fat 32",
+        "NTFS",
+        "FXz"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q24",
+      "question": "DDL supports for",
+      "options": [
+        "Drop",
+        "insert",
+        "Update",
+        "Delete"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q25",
+      "question": "Ellipse motion is ………….",
+      "options": [
+        "Animation scheme",
+        "Design template",
+        "Transition",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Custom time setting in presentation ….",
+      "options": [
+        "Rehearsal",
+        "Automatic",
+        "Show time",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q27",
+      "question": "Which is not essential in creating Frame?",
+      "options": [
+        "HTML",
+        "Rows",
+        "ol",
+        "Frame"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "Which is automatically executable batch file?",
+      "options": [
+        "Autorun.bat",
+        "automati",
+        "bat c. Autoexec.bat",
+        "Auto.bat"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "Which is not tag?",
+      "options": [
+        "a href",
+        "Tr",
+        "Td",
+        "Q"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "Which can you import in MS access?",
+      "options": [
+        "Workbook",
+        "Slide",
+        "Word document",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "Advantages of USB is …..",
+      "options": [
+        "Speed",
+        "High cost",
+        "Both",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "What is function of Scenario?",
+      "options": [
+        "Data summarizing",
+        "what if analysis Question Bank / 35",
+        "Charting",
+        "financial function"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "If you apply format d-mmm-y in 11/30/2008, what will display?",
+      "options": [
+        "30-nov-2008",
+        "30-Nov-08",
+        "30-11-08",
+        "none"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

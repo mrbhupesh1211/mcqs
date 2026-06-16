@@ -1,0 +1,369 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "19",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which memory is fastest to access?",
+      "options": [
+        "Cache Memory",
+        "RAM",
+        "ROM",
+        "Bubble Memory"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Digital Computer did not Score over than analog computer?",
+      "options": [
+        "Speed",
+        "Accuracy Question Bank / 45",
+        "Cost",
+        "Memory"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "Which stored programme of companies products?",
+      "options": [
+        "ROM",
+        "PROM",
+        "EPROM",
+        "EEPROM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "Which memory is used to Read and write simultaneously?",
+      "options": [
+        "ROM",
+        "RAM",
+        "ALU",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q5",
+      "question": "Which one is the brain of computer or heart of computer?",
+      "options": [
+        "CPU",
+        "Monitor",
+        "Keyboard",
+        "Server"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "Resolution of printer quality is measured in..",
+      "options": [
+        "Pin per inch",
+        "Drum per inch",
+        "Character per inch",
+        "Dots per Inch"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "Two types of operating systems are …",
+      "options": [
+        "Sequential & Direct",
+        "Offline & Online",
+        "Logical & Permanent",
+        "Batch & Timesharing"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q8",
+      "question": "A computer professional working in a offices who operate computer is called….",
+      "options": [
+        "Shareware",
+        "Humanware",
+        "Firmware",
+        "Airware"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q9",
+      "question": "We can protect our file from in Dos for editing?",
+      "options": [
+        "Safety",
+        "Attrib",
+        "Searching",
+        "Matrib"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "What command is used for creating a directory?",
+      "options": [
+        "DMD",
+        "MD",
+        "MKD",
+        "CMD"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "Completely computer close is done by ..",
+      "options": [
+        "Close",
+        "Exit",
+        "Quit",
+        "Shutdown"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q12",
+      "question": "The system update or convert the FAT 16 into FAT 32?",
+      "options": [
+        "FAT Converter",
+        "Encoder",
+        "Charger",
+        "compiler"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "The RTF is ……….",
+      "options": [
+        "Rich text format",
+        "Reach Text format",
+        "Real text format",
+        "Rich text form"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q14",
+      "question": "In excel, Multiplication is done by …….",
+      "options": [
+        "/",
+        "*",
+        "^",
+        "&"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q15",
+      "question": "To Add together (a1:A2), Which is the correct formula?",
+      "options": [
+        "=sum(a1:a2)",
+        "318:92",
+        "=add(a1:a2)",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "Which one is a conditional operator?",
+      "options": [
+        "OR",
+        "IF",
+        "AND",
+        "Cov"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "To join text from two cells, which operator is used?",
+      "options": [
+        "&",
+        "^",
+        "#",
+        "%"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "To edit chart object which is correct?",
+      "options": [
+        "Click",
+        "Drag",
+        "Double click",
+        "Triple click"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q19",
+      "question": "To break page break horizontally, you can apply break…",
+      "options": [
+        "Place the cursor in row",
+        "Place the cursor in column a",
+        "Select the row below where you want to break",
+        "all of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "How do you insert the picture into your documents?",
+      "options": [
+        "insert/Clipart",
+        "Insert / Picture",
+        "Insert/Drawing",
+        "Insert/Word art"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "Two Search specific text in a document, you can used to press..",
+      "options": [
+        "Ctrl+G",
+        "Ctrl+F",
+        "Alt+F",
+        "Shift+F"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "To update or Recalculate the value, you must press",
+      "options": [
+        "Ctrl+F9",
+        "F9",
+        "Alt+F9",
+        "Shift+F9"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "Which is not way of creating new document?",
+      "options": [
+        "Click new button",
+        "File/new",
+        "Ctrl+N",
+        "File / Open"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q24",
+      "question": "Number and text will fitted or arranged in attractive presentation in …….",
+      "options": [
+        "Bullet slide",
+        "table slide",
+        "title slide",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "Database is a ……….",
+      "options": [
+        "Relation",
+        "order 46 / Question Bank",
+        "list",
+        "Collection of data"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q26",
+      "question": "Which of the following is the largest unit of data?",
+      "options": [
+        "Field",
+        "Database",
+        "Records",
+        "Table"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "To add data from which menu…….",
+      "options": [
+        "Append from browse menu",
+        "append from browser",
+        "append from briefcase",
+        "append from edit menu"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "The append is……….",
+      "options": [
+        "adds data mid of record source",
+        "Adds data top of record source",
+        "adds data at the bottom of record source",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "Which is used for bold HTML tag?",
+      "options": [
+        "<b>text</b>",
+        "<b>text<b>",
+        "<text></b>",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "Virus affect",
+      "options": [
+        "Corrupts the file",
+        "destroy the keyboard",
+        "Destroy the monitor",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "The compiled program ….. than script.",
+      "options": [
+        "faster",
+        "slower",
+        "medium",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "Which is not the elements of SQL?",
+      "options": [
+        "Select",
+        "From",
+        "Where",
+        "Main"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "When you use WAN…",
+      "options": [
+        "Telephone chanel",
+        "Microwave",
+        "Satellite",
+        "All of above"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

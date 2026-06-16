@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "26",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "\"Attrib\" is used for",
+      "options": [
+        "To access control",
+        "to modify control",
+        "to overwrite control",
+        "None"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q2",
+      "question": "In MSDOS \">\" is indicates",
+      "options": [
+        "Redirection",
+        ".............. Control",
+        "Pipe ........",
+        "........ Option"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q3",
+      "question": "Which tool is popular for web page design?",
+      "options": [
+        "Excel",
+        "PowerPoint",
+        "Notepad",
+        "Java"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "Outlook Express is",
+      "options": [
+        "Email Client",
+        "Scheduling",
+        "Address Book",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "In MSDOS internal command are loaded from",
+      "options": [
+        "config.sys",
+        "command.com",
+        "IO.sys",
+        "Himem.sys"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "Which batch file is automatically executed after MSDOS Booting?",
+      "options": [
+        "autorun.bat",
+        "run.bat",
+        "config.sys",
+        "Autoexec.bat"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "To configure system setting",
+      "options": [
+        "My Computer",
+        "Control Panel",
+        "My document",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "Which bar locate the start button, time and volume?",
+      "options": [
+        "Toolbar",
+        "Menu bar",
+        "Task bar",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "The first residing location for deleted files is",
+      "options": [
+        "My documents",
+        "My computer",
+        "Folder",
+        "Recycle bin"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q10",
+      "question": "Which is not operating system?",
+      "options": [
+        "Windows XP",
+        "Unix",
+        "Linux",
+        "DB2"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q11",
+      "question": "To turn on or off the background printing through",
+      "options": [
+        "File-Print-Background",
+        "File-Page Setup-Background",
+        "Tools-Options-View-Background colors & images",
+        "Tools-Options-Print options-Background colors & images"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q12",
+      "question": "Cursor....",
+      "options": [
+        "Thin blinking indicator",
+        "Dark border",
+        "Led indicator",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Word wrap is.... 64 / Question Bank",
+      "options": [
+        "Align text",
+        "Insert pictures within text",
+        "To bring background image to front",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "To underline word only",
+      "options": [
+        "Ctrl + Shift + W",
+        "Ctrl + U",
+        "Shift + W",
+        "Both A & C"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "The combination key for find & replace is....",
+      "options": [
+        "Ctrl + F",
+        "Ctrl + H",
+        "Ctrl + F5",
+        "Ctrl +D"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "Function of Ctrl + K is",
+      "options": [
+        "Create Link",
+        "Small cap",
+        "Insert Hyperlink",
+        "Delete text"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "In MS Word, Select all, find, go to are found in",
+      "options": [
+        "edit",
+        "view",
+        "file",
+        "insert"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "Which toolbar is not found in Ms Word?",
+      "options": [
+        "Toolbar",
+        "Menu Bar",
+        "Formula Bar",
+        "Standard Toolbar"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q19",
+      "question": "In Ms Word, The Tab sign \"L\" means",
+      "options": [
+        "Right align",
+        "Left align",
+        "Justify",
+        "Both a & b"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": ".................. is animated character helps to search in Ms Office.",
+      "options": [
+        "Office Assistant",
+        "Clipboard",
+        "Comic Text",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "How do you put comments in cell?",
+      "options": [
+        "Edit",
+        "view",
+        "Insert",
+        "Format"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q22",
+      "question": "An excel workbook is a collection of.....",
+      "options": [
+        "Worksheets",
+        "Charts",
+        "Workbooks",
+        "Worksheets and Charts"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q23",
+      "question": "Which key do you press to check spelling?",
+      "options": [
+        "F3",
+        "F5",
+        "F7",
+        "F9"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "In excel do not sort for",
+      "options": [
+        "Integer",
+        "Character",
+        "String",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "Ms Excel is popular for",
+      "options": [
+        "Data Entry",
+        "Document.....",
+        "Small Calculation",
+        "Presentation"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q26",
+      "question": "False for Excel is...",
+      "options": [
+        "Workbook protect by password",
+        "Worksheet protect by password",
+        "A part of Worksheet is protect by password",
+        "None"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "In Excel \"Shrink to fit\" does:",
+      "options": [
+        "Increase/Decrease Font size to fit with cell size",
+        "Increase/Decrease cell size to fit with font size",
+        "Decrease the font size to fit with cell width",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "Which is not text function?",
+      "options": [
+        "Len",
+        "Count",
+        "Upper",
+        "Proper"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "Arrange the information in the row and column is called",
+      "options": [
+        "Table",
+        "Field",
+        "Record",
+        "Database"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "Formula starts with",
+      "options": [
+        "%",
+        ">",
+        "=",
+        "+"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "The collection of related information is called",
+      "options": [
+        "Database",
+        "Table",
+        "Field",
+        "Record"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "In Ms Access, Wizard helps to",
+      "options": [
+        "Create Table",
+        "Create Form",
+        "Generate Report",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "Filter displays.....",
+      "options": [
+        "To suppress data and display list of data to meet the criteria",
+        "To display all data",
+        "Sort the data",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "In RDBMS file refers as....",
+      "options": [
+        "Table",
+        "Entities",
+        "field",
+        "None"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q35",
+      "question": "What is an intersection of row and column?",
+      "options": [
+        "Form",
+        "Cursor",
+        "Cell",
+        "Record"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q36",
+      "question": "The arrangement of elements such as Title and subtitle text, pictures, tables etc. is called...... Question Bank / 65",
+      "options": [
+        "Layout",
+        "Presentation",
+        "Design",
+        "Scheme"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q37",
+      "question": "To insert new slide in the current Presentation, we can choose:",
+      "options": [
+        "Ctrl + M",
+        "Ctrl + N",
+        "Ctrl + O",
+        "Ctrl + F"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "Which key on the keyboard can be used to view Slide show?",
+      "options": [
+        "F1",
+        "F2",
+        "F5",
+        "F10"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q39",
+      "question": "Which is standard Wireless Network?",
+      "options": [
+        "802.3",
+        "802.5",
+        "802.7",
+        "802.11"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "Which is not object oriented programming language?",
+      "options": [
+        "C",
+        "Java",
+        "Eiffel",
+        "Smalltalk"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q41",
+      "question": "3 buttons mouse is......",
+      "options": [
+        "Software",
+        "Human ware",
+        "Hardware",
+        "all"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q42",
+      "question": "Which is odd terminology?",
+      "options": [
+        "Linux",
+        "Device Driver",
+        "Antivirus Program",
+        "MS Word"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q43",
+      "question": "Which is not internal memory?",
+      "options": [
+        "RAM",
+        "PROM",
+        "ROM",
+        "Cache"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q44",
+      "question": "Carbon print copy",
+      "options": [
+        "Laser Printer",
+        "Inkjet Printer",
+        "Dot Matrix Printer",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q45",
+      "question": "To measure the printing speed is....",
+      "options": [
+        "cpm",
+        "Ibs",
+        "ppm",
+        "bts"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q46",
+      "question": "Which is Input & Output device?",
+      "options": [
+        "Disk drive",
+        "Card puncher",
+        "Tape Reader",
+        "Paper Reader"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "Warm boot is done by ..... key pressing.",
+      "options": [
+        "Ctrl + Alt + Del keys",
+        "Shift + Alt + D keys",
+        "Ctrl+shift+Delete key",
+        "Power button"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q48",
+      "question": "Pressing keystrokes is understood by the language is",
+      "options": [
+        "ANSI",
+        "ASCII",
+        "EBCDIC",
+        "BCD"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "Windows is ......",
+      "options": [
+        "Operating system",
+        "application",
+        "Utility",
+        "DBMS"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "Database can do...",
+      "options": [
+        "Data Entry",
+        "Edit data",
+        "Delete data",
+        "All of the above"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

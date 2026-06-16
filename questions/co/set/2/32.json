@@ -1,0 +1,325 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "32",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Router Operates in which layer of OSI reference model?",
+      "options": [
+        "Layer 1 (Physical layer)",
+        "Layer 3 (Network layer)",
+        "Layer 4 (Transport layer)",
+        "Layer 7 (Application layer)"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q2",
+      "question": "The rate of data transmission is dependent on ……….layer.",
+      "options": [
+        "transport",
+        "network",
+        "datalink",
+        "physical"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q3",
+      "question": "The maximum number of IP address that can be assigned to hosts on a local subnet that uses the 255.255.255.224 subnet mask is",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "30"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q4",
+      "question": "MAC address is the example of….layer.",
+      "options": [
+        "transport",
+        "data link",
+        "application",
+        "physical"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is belonged to an application layer service?",
+      "options": [
+        "virtual network terminal",
+        "file transfer, access and management",
+        "mail service",
+        "all of the above"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q6",
+      "question": "…….. an authentication mechanism used to provide security and prevent unauthorized changes in DNS records.",
+      "options": [
+        "DNS",
+        "DDNS",
+        "DDN",
+        "SDN"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q7",
+      "question": "The circuit used to store one bit of data is known as",
+      "options": [
+        "encoder",
+        "register",
+        "decoder",
+        "flip-flop"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q8",
+      "question": "The RISC architecture is preferred to CISC because RISC architecture has",
+      "options": [
+        "simplicity",
+        "efficiency",
+        "high speed",
+        "all of the above Question Bank / 81"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q9",
+      "question": "An assembler that runs one machine but Produces machine code for another machine is called",
+      "options": [
+        "emulator",
+        "simulator",
+        "cross assembler",
+        "boot-strap loader"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q10",
+      "question": "Von Neumann architecture is",
+      "options": [
+        "SISD",
+        "SIMD",
+        "MIMD",
+        "MISD"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q11",
+      "question": "Which of the logic operation is implemented to use…….circuits.",
+      "options": [
+        "Combinatorial",
+        "Gate",
+        "Bridge",
+        "Logical"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q12",
+      "question": "The bus used to connect the monitor to the CPU is",
+      "options": [
+        "PCI bus",
+        "SCSI bus",
+        "Memory bus",
+        "Rambus"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q13",
+      "question": "A latch is commonly used to",
+      "options": [
+        "interface input devices",
+        "interface output devices",
+        "interface memory",
+        "interface DMA"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q14",
+      "question": "IF a system is 32 bit machine, then the length of each word will be",
+      "options": [
+        "4 bytes",
+        "8 bytes",
+        "16 bytes",
+        "32 bytes"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q15",
+      "question": "Which of instructions performs logic function on a byte, word or double word stored in a register or memory location?",
+      "options": [
+        "Exclusive-OR",
+        "AND",
+        "OR",
+        "All of the above"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q15",
+      "question": "Which of the following is used to compress Moving Picture Experts Group (MPEG)?",
+      "options": [
+        "Video",
+        "Image",
+        "Audio",
+        "Frames"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q16",
+      "question": "Convert BCD 00010111 to binary.",
+      "options": [
+        "10101",
+        "10010",
+        "10001",
+        "11000"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q17",
+      "question": "An XOR gate produces an output high only q",
+      "options": [
+        "high",
+        "low",
+        "different",
+        "same"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q18",
+      "question": "Which of these classes used to encapsulate IP address and DNS?",
+      "options": [
+        "Datagram Packet",
+        "URL",
+        "Inet address",
+        "Content Handler"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q19",
+      "question": "Which of the following items is not the advantage of a DBMS?",
+      "options": [
+        "improved ability to enforce standards",
+        "improved data consistency",
+        "local control over the data",
+        "minimal data redundancy"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q20",
+      "question": "The study of encryption is called",
+      "options": [
+        "decryption",
+        "cryptography",
+        "firewall",
+        "all of the above"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q21",
+      "question": "Which design features of a communication network is not important?",
+      "options": [
+        "Naming and name resolution",
+        "Routing strategies",
+        "Connection strategies",
+        "Minimum number of devices"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q22",
+      "question": "DBMS is a collection of….that enables user or create and maintain a database.",
+      "options": [
+        "key",
+        "translators",
+        "program",
+        "language activity."
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q23",
+      "question": "Which of the following is not a part of the operating system?",
+      "options": [
+        "Supervisor",
+        "Performance monitor",
+        "Job control program",
+        "Input/output control program"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q24",
+      "question": "Moving process from main memory to disk is called",
+      "options": [
+        "Scheduling",
+        "Cashing",
+        "swapping",
+        "spooling"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q25",
+      "question": "The axes used in bar and line graphs do not",
+      "options": [
+        "show how you have classified your data",
+        "identify units of measurement",
+        "explain what the graph is about",
+        "create circle graphs to compare data"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q26",
+      "question": "The image is passed repeatedly to the monitor………in order to maintain a steady picture on the screen.",
+      "options": [
+        "30 times a sec",
+        "25 times a sec",
+        "30 or more times a sec",
+        "none of the above 82 / Question Bank"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q27",
+      "question": "In wireless network an extended service set is a set of",
+      "options": [
+        "connected basic service sets",
+        "all stations",
+        "all access points",
+        "none of the above"
+      ],
+      "correct_option": null
+    },
+    {
+      "id": "q28",
+      "question": "Paging systems were based on",
+      "options": [
+        "simplex system",
+        "half duplex system",
+        "full duplex system",
+        "all of the above"
+      ],
+      "correct_option": null
+    }
+  ]
+}
