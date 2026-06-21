@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer operator - 2058",
+  "questions": [
+   {
+      "id": "q18",
+      "question": "Which port doesn’t exist in Computer?",
+      "options": [
+        "USB",
+        "Parallel",
+        "COM 1/ COM 2",
+        "none"
+      ],
+      "correct_option": 4
+    },
+       {
+      "id": "q40",
+      "question": "Paper orientation can be change from",
+      "options": [
+        "Page setup/paper size",
+        "Property",
+        "Print/ layout",
+        "Print preview"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q28",
+      "question": "OLE means.",
+      "options": [
+        "Open Linking and Embedding",
+        "Object linking and embedding",
+        "Objective Linking and Embedding",
+        "Open Link and End"
+      ],
+      "correct_option": 2
+    },
+        {
+      "id": "q30",
+      "question": "Workgroup means",
+      "options": [
+        "Computers in network",
+        "Individual user",
+        "Individual user",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+
+        {
+      "id": "q2",
+      "question": "What is the shortcut key for row hide?",
+      "options": [
+        "Ctrl+9",
+        "ctrl+f9",
+        "Shift+f9",
+        "ctrl+shift+9"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q19",
+      "question": "Database utility exist in——Menu.",
+      "options": [
+        "Format",
+        "Tools",
+        "File",
+        "Edit "
+      ],
+      "correct_option": 2
+    },
+        {
+      "id": "q9",
+      "question": "Which will be the title in words to save summary (status)?",
+      "options": [
+        "Summary Info",
+        "Summary Information",
+        "Summary",
+        "Sum Information"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q49",
+      "question": "What will do by filter?",
+      "options": [
+        "Display the records that meet the criteria",
+        "Display only one record to delete",
+        "Modify all the records at once",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q31",
+      "question": "Outline view is used to",
+      "options": [
+        "show Chapter wisewt heading",
+        "show Heading",
+        "show Content",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+        {
+      "id": "q41",
+      "question": "Category is written in—",
+      "options": [
+        "X-axis",
+        "Y-axis",
+        "Both",
+        "None"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q44",
+      "question": "What operation is not permitted by query?",
+      "options": [
+        "Delete",
+        "Entry",
+        "Modify",
+        "Create table"
+      ],
+      "correct_option": 2
+    },
+
+        {
+      "id": "q3",
+      "question": "What is the function of network neighborhood?",
+      "options": [
+        "Navigate shared",
+        "folder in network",
+        "Shared computers in Network",
+        "None of above"
+      ],
+      "correct_option": 3
+    },
+        {
+      "id": "q14",
+      "question": "How do you connect Internet into your system.",
+      "options": [
+        "My Computer/Dialup networking",
+        "Control Panel/Modem",
+        "Network Neighborhood",
+        "None"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q5",
+      "question": "What is the Shortcut key for Superscript?",
+      "options": [
+        "Ctrl +=",
+        "ctrl ++",
+        "Ctrl + shift +=",
+        "ctrl + shift ++"
+      ],
+      "correct_option": 3
+    }
+  ]
+}
