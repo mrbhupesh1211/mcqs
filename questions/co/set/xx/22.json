@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "22",
+  "questions": [
+    {
+      "id": "q2",
+      "question": "Which is common memory?",
+      "options": [
+        "RAM",
+        "Hard disk",
+        "ROM",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "Which one is ODD?",
+      "options": [
+        "Linux",
+        "DOS",
+        "OS/2",
+        "Windows"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "When selecting some thing on screen it is",
+      "options": [
+        "Highlight",
+        "Underline",
+        "Shadowing",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Second generation computers were developed during",
+      "options": [
+        "1949 to 1955",
+        "1956 to 1965",
+        "1965 to 1970",
+        "1970 to 1990"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "Which of the following printing devices an output composed of a series of dots?",
+      "options": [
+        "Wire- matrix printer",
+        "Band printer",
+        "Wang image Printer",
+        "Both a & c"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q20",
+      "question": "An online backing storage system capable of storing larger quantities of data is",
+      "options": [
+        "CPU",
+        "Memory",
+        "Mass Storage",
+        "Secondary Storage"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "An input/ output device at which data enters or leaves a computer system is...",
+      "options": [
+        "Keyboard",
+        "Terminal",
+        "Printer",
+        "Plotter"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "The LEN function does what?",
+      "options": [
+        "Compares the content in two cells",
+        "Counts the numbers of characters in a cell",
+        "Deletes extra space in text",
+        "An equal sign"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "Append from command is used to",
+      "options": [
+        "Adds new record from file",
+        "Add record from a variable",
+        "Add records from stock",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "What is the name for match between the words between the words or phrases being searched and the items found in an electronic database?",
+      "options": [
+        "Bug",
+        "Hit",
+        "It",
+        "Default"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "Which view in MS- Word can't display graphics?",
+      "options": [
+        "Normal View",
+        "Page layout View",
+        "Print Preview",
+        "None of these"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q36",
+      "question": "You can put in presentation?",
+      "options": [
+        "Bullet and text",
+        "Place holders",
+        "Both A and B",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q40",
+      "question": "DBMS is…….",
+      "options": [
+        "collection of data",
+        "Set of programs to access data",
+        "set of programs to update data",
+        "all of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "Which is not changes the cell value?",
+      "options": [
+        "constant",
+        "Range",
+        "Change of formula",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "Graphics object on a chart are used to _",
+      "options": [
+        "add emphasis to chart data",
+        "Add Interest to chart",
+        "help explain the chart area",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q43",
+      "question": "The Shortcut key of format cell is…..",
+      "options": [
+        "Ctrl+1",
+        "Ctrl+F9",
+        "F2",
+        "F7"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q45",
+      "question": "Copy only value from the text ….",
+      "options": [
+        "paste special",
+        "Shift+1",
+        "copy Value",
+        "None of above"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

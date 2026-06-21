@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "47",
+  "questions": [
+    {
+      "id": "q2",
+      "question": "One Giga bytes in power of ten is expressed as….",
+      "options": [
+        "109",
+        "1012",
+        "1015",
+        "1018"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q4",
+      "question": "The second computer introduced in Nepal by the government was for",
+      "options": [
+        "Census of 2018 BS",
+        "Census of 2028 BS",
+        "Census of 2038 BS",
+        "Census of 2038 BS"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q8",
+      "question": "Which device resides at the centre of a star network and links the network",
+      "options": [
+        "switch",
+        "Bridge ",
+        "Network Adaptor",
+        "Server"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "Existing IT policy of Nepal Government was revised in …",
+      "options": [
+        "2067 BS",
+        "2068 BS",
+        "2069 BS",
+        "2066 BS"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "Digital signature is produced by using the:",
+      "options": [
+        "PKI Method",
+        "RSA method",
+        "DNS method",
+        "WAN method"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q14",
+      "question": "POP3 protocol in internet is related with…",
+      "options": [
+        "browsing web pages",
+        "Sending Email",
+        "Reading Email",
+        "File Transfer"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q19",
+      "question": "…… tool helps to reduce file access time from disk.",
+      "options": [
+        "Scandisk",
+        "Disk defragmenter",
+        "Backup",
+        "Format"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "How does the autocorrect feature of MS word functions?",
+      "options": [
+        "It places correct spellings of misspelled words after save",
+        "It corrects errors when the Autocorrect button is pressed",
+        "It corrects errors automatically as you type",
+        "This feature is not available"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "What is command key sequence to create table in MS Word?",
+      "options": [
+        "Edit-Table-Create",
+        "Table-Insert table",
+        "Tools-Table",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "Which bar is used to draw your own picture in MS word?",
+      "options": [
+        "Drawing Toolbar",
+        "Auto shape Toolbar",
+        "Picture Toolbar",
+        "Outline toolbar"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "MS Word automatically moves the text to the next line when it reaches the right edge of the screen is called…",
+      "options": [
+        "Carriage return",
+        "Word Wrap",
+        "Return",
+        "None of Above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "In MS WORD, What does ruler help?",
+      "options": [
+        "To Set tabs",
+        "To set Indents",
+        "To change page margin",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "Graphical representation of Worksheet data is…….",
+      "options": [
+        "Pivot Table",
+        "Goal Seek",
+        "Graph",
+        "Scenario"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "Which is the best file organization when data is frequently added or deleted from a file?",
+      "options": [
+        "Sequential",
+        "Direct",
+        "Index sequential",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q44",
+      "question": "…… operator is used to compare a value to a list of literals values that have been specified.",
+      "options": [
+        "Like",
+        "Compare",
+        "Between",
+        "IN"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

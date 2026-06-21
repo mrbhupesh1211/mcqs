@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "13",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Extranet is based on a……………",
+      "options": [
+        "intranet",
+        "internet",
+        "Ethernet",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "Which command create a new document in DOS?",
+      "options": [
+        "copy",
+        "md",
+        "create",
+        "Move"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "In windows, start button is used for..",
+      "options": [
+        "Run application",
+        "Device setting",
+        "Turn off the system",
+        "all of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q12",
+      "question": "Workstation computers are connected with centrally located server computer is called….",
+      "options": [
+        "star topology",
+        "ring topology",
+        "bus topology",
+        "hybrid"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

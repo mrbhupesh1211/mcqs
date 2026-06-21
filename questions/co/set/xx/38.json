@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "38",
+  "questions": [
+    {
+      "id": "q2",
+      "question": "Which of the following would be best tool to diagnose and troubleshoot when hard drive seems to have higher than normal activity ?",
+      "options": [
+        "Disk defragmenter",
+        "task manager",
+        "NTBACK UP",
+        "FDISK"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q7",
+      "question": "What is the short cut key to open the thesaurus window?",
+      "options": [
+        "Shift+F7",
+        "Ctrl+F7",
+        "F7",
+        "Alt+F7"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "Which short cut do you use to double space a paragraph ?",
+      "options": [
+        "Ctrl+F2",
+        "Ctrl+1",
+        "Ctrl+2",
+        "Alt+F2"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "What tool can the user use to set indents or tabs?",
+      "options": [
+        "ruler",
+        "insert point",
+        "title bar",
+        "auto correct"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following keystrokes lets you recalculate the formula?",
+      "options": [
+        "F9",
+        "F7",
+        "F2",
+        "F3"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "To return the remainder after a number is divided by a divisor in EXCEL we use the function:",
+      "options": [
+        "DIV ( )",
+        "FACT ( )",
+        "ROUND ( )",
+        "MOD ( )"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q19",
+      "question": "What will be the output if you format the cell containing 5436.8 as '#, ##0.00'?",
+      "options": [
+        "6.8",
+        "5,436.80",
+        "5,430.00",
+        "5,436.8"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "Getting data from a cell located a different sheet is called.....",
+      "options": [
+        "Functioning",
+        "accessing",
+        "referencing",
+        "updating"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "–––– means: that the data contained in a database is accurate and reliable:",
+      "options": [
+        "data consistency",
+        "data redundancy",
+        "data integrity",
+        "data reliability"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q26",
+      "question": "Any request for data from a database is known as a:",
+      "options": [
+        "formula",
+        "result",
+        "query",
+        "record"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q27",
+      "question": "Database management systems are intended to:",
+      "options": [
+        "establish relationship among records in different files",
+        "eliminate data redundancy",
+        "manage file access",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q28",
+      "question": "The relational model uses some unfamiliar terminology. A tuple is equivalent to a:",
+      "options": [
+        "database",
+        "record",
+        "field",
+        "file"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "The sorting and indexing must be performed according to a:",
+      "options": [
+        "tuple",
+        "record",
+        "row",
+        "key field "
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "Which category is found in Custom Animation?",
+      "options": [
+        "transition",
+        "master slide",
+        "design templates",
+        "entrance"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q34",
+      "question": "Which one is not used in web page designing?",
+      "options": [
+        "oracle",
+        "DHTML",
+        "PHP",
+        "HTML"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "Which one is not skeleton and Flesh of HTML documents?",
+      "options": [
+        "Video and sentence",
+        "text and hyperlink",
+        "List and forms",
+        "tables and frames"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "Memory is made up of:",
+      "options": [
+        "large number of cells",
+        "set of wires",
+        "set of circuits",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q45",
+      "question": "The –– shows all the websites and pages that you have visited over a period of time.",
+      "options": [
+        "tool bar",
+        "status bar",
+        "task bar",
+        "history bar"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q46",
+      "question": "A proxy server is used for which of the following:",
+      "options": [
+        "to provide TCP/IP",
+        "to provide security against unauthorized users",
+        "to provide client request for web pages",
+        "to process client request for database access"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q48",
+      "question": "Which of the following connects existing networks to form an internet?",
+      "options": [
+        "repeater",
+        "bridge",
+        "router",
+        "switch"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q49",
+      "question": "The difference between people is known as the:",
+      "options": [
+        "broadband divide",
+        "internet divide",
+        "digital divide",
+        "web divide "
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q50",
+      "question": "Which of the following capabilities is required for a system program to execute more than one program at a time?",
+      "options": [
+        "multitasking",
+        "under processing",
+        "compiling",
+        "virtual memory"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

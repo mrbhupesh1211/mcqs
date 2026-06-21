@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "36",
+  "questions": [
+    {
+      "id": "q3",
+      "question": "What do you press to enter the current date in a cell ?",
+      "options": [
+        "ctrl+;",
+        "ctrl+shift;",
+        "ctrl+f10",
+        "ctrl+f11"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "When you create two or four separate windows containing part of the spreadsheet that can be viewed, you have created....",
+      "options": [
+        "sections",
+        "panes",
+        "subsheets",
+        "views"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "A template file is :",
+      "options": [
+        "a special kind of workbook that provides basic tools for shaping a final work book",
+        "a special work book you can use as a pattern to create other work books of the same type",
+        "a blueparint for the text, graphics & fromatting of a work book",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q9",
+      "question": "Rounding errors can occur:",
+      "options": [
+        "when you use multiplication, division or exponerntiation in a formula",
+        "when you use addition and subtraction in a formula",
+        "because excel uses hidden decimal places in computation",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "To view a cell comment in Excel :",
+      "options": [
+        "click the edit comment command on the insert menu",
+        "click the display comment comand on the window menu",
+        "position the mouse pointer over the cell",
+        "click the comment command on the view menu"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q13",
+      "question": "The oldest data base models are:",
+      "options": [
+        "hierarchical and network",
+        "relational and object - oriented",
+        "object oriented and deductive",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q14",
+      "question": "Where can you add graphics, movies and sounds in Ms Power point?",
+      "options": [
+        "outline pane",
+        "slide pane",
+        "note pane",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q15",
+      "question": "In Microsoft power point the entry effect as one slide replaces another in a show is called a (an) :",
+      "options": [
+        "animation",
+        "slide transition",
+        "custom animation",
+        "preset animation "
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "The storage capacity of hard disk is measured in.....",
+      "options": [
+        "tera byte",
+        "Giga byte",
+        "Mega byte",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "if CPU is brain of computer then CU is....",
+      "options": [
+        "head of computer",
+        "Nerve center of computer",
+        "Tail of computer",
+        "main memory of computer"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "Disk are further divided into …..",
+      "options": [
+        "tracks and sectors",
+        "memory and space",
+        "plates and plastics",
+        "keyboard and mouse"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "if you need to duplicate the entire disk, which command will you use?",
+      "options": [
+        "copy",
+        "move",
+        "diskcopy",
+        "transfer"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "Which of the following are loaded in safe mode?",
+      "options": [
+        "keyboard driver",
+        "mouse driver",
+        "VGA driver",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q35",
+      "question": "Leader character is associated with …..",
+      "options": [
+        "bullet and numbering",
+        "gutter",
+        "indent",
+        "tab"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "page formatting which is used frequently in future is saved as…",
+      "options": [
+        "master document",
+        "theme",
+        "cross reference",
+        "template"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q38",
+      "question": "Ctrl+Shift+D is used for,,,",
+      "options": [
+        "Double paragraph spacing",
+        "Delete current word",
+        "Dotted underline",
+        "Double underline"
+      ],
+      "correct_option": 4
+    } ]
+}

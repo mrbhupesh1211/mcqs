@@ -1,0 +1,182 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "39",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Each excel file is a workbook that contains different sheets. Which of the following cannot be a sheet in workbook?",
+      "options": [
+        "Worksheet",
+        "Chart Sheet",
+        "both",
+        "data sheet"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q3",
+      "question": "What is the shortcut key to replace a data with another is sheet ?",
+      "options": [
+        "Ctrl+R",
+        "Ctrl+Shift+R",
+        "Ctrl+H",
+        "Ctrl+F"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q4",
+      "question": "If you need a text to show vertically in a cell. How will you achieve this ?",
+      "options": [
+        "choose vertical on text alignment in format cells dialog box.",
+        "choose 90 degrees in orientation of format cells dialog box.",
+        "choose distributed from the vertical drop down list of format cells dialog box.",
+        "choose center across selection from horizontal combo box in format cells dialog box."
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "Where can you set the shedding color for a range of cells in excel?",
+      "options": [
+        "choose required color form patterns tab of format cells dialog box ",
+        "choose required color on fill color tool in formatting toolbar",
+        "choose required color on fill color tool in drawing toolbar",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "Which of the following is invalid regarding the protection in Excel?",
+      "options": [
+        "protect sheet",
+        "protect workbook",
+        "protect workspace",
+        "all of above are valid"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q8",
+      "question": "How many recent files you can display on file menu at maximum ?",
+      "options": [
+        "4",
+        "6",
+        "9",
+        "12"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q26",
+      "question": "Which of the following can be used as wildcard ?",
+      "options": [
+        "@",
+        "*",
+        "$",
+        "~"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "The Electronic Transaction Act, 2008 has provision of .... for legal validity of electronic transaction.",
+      "options": [
+        "digital signature",
+        "biometric signature",
+        "RFID Card",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "A computer program that can replicate itself and spread from one computer to another is :",
+      "options": [
+        "replicator",
+        "virus",
+        "transmitter",
+        "antivirus"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q29",
+      "question": "When a key is pressed on the keyboard, which standard is normally used for converting the keystroke into the corresponding bits?",
+      "options": [
+        "ANSI",
+        "EBCDIC",
+        "ASCII",
+        "ISO"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "The feature of MS-word that combines a set of database records with a main document is .......",
+      "options": [
+        "thesaurus",
+        "mail merge",
+        "auto correct",
+        "word wrap"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q45",
+      "question": "Page formatting which is used frequently in future is saved as ....",
+      "options": [
+        "master document",
+        "theme",
+        "cross-reference",
+        "template"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q47",
+      "question": "Ctrl+shift+d :",
+      "options": [
+        "double paragraph spacing",
+        "delete current word",
+        "dotted underline",
+        "double underline "
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q48",
+      "question": "Leader character is associated with .......",
+      "options": [
+        "bullet & numbering",
+        "gutter",
+        "indent",
+        "tab"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "Which of the cell pointer indicates that you can fill series ?",
+      "options": [
+        "Doctor's symbol (Big plus)",
+        "small thin plus icon",
+        "mouse pointer with anchor at the tip",
+        "none of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q50",
+      "question": "Which of the following option is not available in Paste Special dialog box ?",
+      "options": [
+        "add",
+        "divide",
+        "Subtract",
+        "SQRT"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

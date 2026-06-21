@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer operator - 2062",
+  "questions": [
+    {
+      "id": "q5",
+      "question": "Which relationship can not be set between two tables?",
+      "options": [
+        "one to one",
+        "one to many",
+        "many to one",
+        "many to many"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "To display system Boot Menu, press…….",
+      "options": [
+        "F4",
+        "F7",
+        "F8",
+        "F5"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "Size of 3.5\" Floppy Disk",
+      "options": [
+        "1.2 MB",
+        "1.44 MB",
+        "1.4 MB",
+        "720 KB"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "To set the text inside the fixed margin",
+      "options": [
+        "Text wrapping",
+        "text alignment",
+        "text formatting",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "The key used to fast data accessing from database …",
+      "options": [
+        "index key",
+        "Primary key",
+        "Foreign key",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "The key used to organized database is sorting manner?",
+      "options": [
+        "foreign key",
+        "index key",
+        "key field",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "Short cut key for left indent",
+      "options": [
+        "Ctrl+L",
+        "Ctrl+M",
+        "Ctrl+I",
+        "Ctrl+T"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "To rename sheet",
+      "options": [
+        "Format/Rename sheet",
+        "View /Rename sheet",
+        "Insert/Rename sheet",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "Which is not consolidation?",
+      "options": [
+        "sum",
+        "average",
+        "count",
+        "PMT"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q24",
+      "question": "How do you keep border in excel?",
+      "options": [
+        "Click to border button in standard tool",
+        "Edit ->cells->border page tab",
+        "format ->cells->border page tab",
+        "all the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q25",
+      "question": "Hyperlink function in excel",
+      "options": [
+        "links between different cells",
+        "creates a shortcut to open document stored on disk",
+        "links with chart",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q26",
+      "question": "Form is used for",
+      "options": [
+        "To enter data",
+        "to display message",
+        "to place different controls",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "The maximum number of handouts in power point is ...",
+      "options": [
+        "3",
+        "5",
+        "9",
+        "12"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "Relationship established with",
+      "options": [
+        "Two identical fields",
+        "one numeric and other text field",
+        "foreign key",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "Driver is",
+      "options": [
+        "hardware controller",
+        "hardware & gain controller ",
+        "data controller",
+        "all off the above "
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "Number of slide layout",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q39",
+      "question": "To secure file & folder",
+      "options": [
+        "set up password",
+        "user password ",
+        "system password",
+        "startup password"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q41",
+      "question": "To Apply design in PowerPoint",
+      "options": [
+        "format/ design template",
+        "insert/ design template",
+        "insert slides from outline",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "Database Management system function",
+      "options": [
+        "add",
+        "delete",
+        "append",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "Word processor is",
+      "options": [
+        "text editor",
+        "Language",
+        "spreadsheet",
+        "note pad"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "Which view will give you exact what will be printed?",
+      "options": [
+        "outline view",
+        "print layout view",
+        "normal view",
+        "web layout view"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q47",
+      "question": "Filter",
+      "options": [
+        "extract the subset of data",
+        "extract the numeric data only",
+        "extract the character data only",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q49",
+      "question": "Disk initialization is",
+      "options": [
+        "preparing disk to store",
+        "preparing disk to read",
+        "preparing disk to edit",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "Record is called in database terminology",
+      "options": [
+        "Entity",
+        "Attribute",
+        "Relation",
+        "All of the above"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

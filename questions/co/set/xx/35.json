@@ -1,0 +1,215 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "35",
+  "questions": [
+    {
+      "id": "q3",
+      "question": "Why are headers and footers used in document ?",
+      "options": [
+        "to allow page headers and footer to appear on document when it is printed",
+        "to enhance the overall appearance of the document",
+        "to make large document more readable",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following shortcut key is used to display help document ?",
+      "options": [
+        "F9",
+        "F1",
+        "F2",
+        "F7"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "When gutter margin is increased on page setup, the text area of the page will be….",
+      "options": [
+        "increased",
+        "decreased",
+        "neither increased nor decreased",
+        "the gutter margin cannot be changed"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "Which command is used to change the formatted text into normal format ?",
+      "options": [
+        "Alt+enter",
+        "ctrl+space bar",
+        "ctrl+enter",
+        "alt+space bar"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "The default row height in a MS Excel worksheet is ………… points.",
+      "options": [
+        "15.75",
+        "10.75",
+        "12.75",
+        "13.75"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Which of the following is not a valid data type in MS excel ?",
+      "options": [
+        "date/time",
+        "number",
+        "character",
+        "label"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q16",
+      "question": "In MS Excel, comments put in cells are called …..",
+      "options": [
+        "soft tip",
+        "Smart tip",
+        "cell tip",
+        "web tip"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q18",
+      "question": "Short-cut key to bring format cells dialog box is :",
+      "options": [
+        "ctrl + D",
+        "ctrl + F",
+        "ctrl + E",
+        "Ctrl + 1"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q23",
+      "question": "Which of the following is not a data type ?",
+      "options": [
+        "picture",
+        "date",
+        "numeric",
+        "character"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "…………...refers to the way things are arranged on a slide.",
+      "options": [
+        "reherarse timing",
+        "slide design",
+        "Slide layout",
+        "Slide transition"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "Unicode standard is ………..",
+      "options": [
+        "keyboard layout",
+        "software",
+        "font",
+        "character encoding system"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "Cache memory ………",
+      "options": [
+        "holds last time visited web site only",
+        "helps to store more data in hard disk",
+        "Placed between main memory and microprocessor",
+        "stores data permanently"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q34",
+      "question": "A protocol is ………..",
+      "options": [
+        "an operating system",
+        "interconnection pattern of computers",
+        "set of rules for communication",
+        "a device for internet"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q40",
+      "question": "What is the function of a folder ?",
+      "options": [
+        "move files",
+        "store files",
+        "delete files",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q43",
+      "question": "Which of the following is not a component of control panel ?",
+      "options": [
+        "printer",
+        "keyboard",
+        "mouse",
+        "monitor"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q47",
+      "question": "Which key should be pressed to start a new paragraph in MS word ?",
+      "options": [
+        "ctrl+enter",
+        "down cursor key",
+        "enter key",
+        "shift+enter"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "Which function key is used to break the column ?",
+      "options": [
+        "alt+enter",
+        "Shift + enter",
+        "ctrl+enter",
+        "Ctrl+shift+enter"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "How many ruler can we see on normal view in MS word ?",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q50",
+      "question": "A4 size paper is :",
+      "options": [
+        "8.5\" × 14\"",
+        "8.5\" × 11\"",
+        "8.5\" × 11.5\"",
+        "8.27\" × 11.69\""
+      ],
+      "correct_option": 4
+    }
+  ]
+}

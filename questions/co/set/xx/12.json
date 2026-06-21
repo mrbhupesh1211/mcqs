@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "12",
+  "questions": [
+    {
+      "id": "q4",
+      "question": "Data entry is done through",
+      "options": [
+        "Report",
+        "Switchboard",
+        "Form",
+        "Page"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q11",
+      "question": "Which is the least domain name account@ntc.net.np?",
+      "options": [
+        "Ntc",
+        "Net",
+        "np",
+        "all"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q12",
+      "question": "How many generation are came till now?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "The network for specific use……",
+      "options": [
+        "Internet",
+        "Intranet",
+        "Extranet",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "NEA is used for which application for data processing",
+      "options": [
+        "DBMS",
+        "Word processing",
+        "Spreadsheet",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "Which communication media is fast?",
+      "options": [
+        "Satellite",
+        "Coaxial cable",
+        "Twisted pair",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "Which protect the backup of outline?",
+      "options": [
+        "SMPS",
+        "UPS",
+        "Storage",
+        "all of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "Which device is the voltage storage?",
+      "options": [
+        "Battery",
+        "Power Supply",
+        "Volt Guard",
+        "All"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which is the latest Operating system?",
+      "options": [
+        "Windows xp",
+        "Windows Vista",
+        "Windows Millennium",
+        "Windows 2003"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "Who is known as father of modern computer?",
+      "options": [
+        "John mauchly",
+        "Charles Babbage",
+        "Lady augausta",
+        "Hollerith"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

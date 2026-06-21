@@ -1,0 +1,303 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "28",
+  "questions": [
+    {
+      "id": "q2",
+      "question": "Which of the following is used to have unauthorized access to computer ?",
+      "options": [
+        "virus",
+        "Spam-mail",
+        "Trojen",
+        "All of the above "
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following are characteristics of peer to peer networking ?",
+      "options": [
+        "Limited number of computers involved",
+        "Computer acting as both a client and a server",
+        "Centerlized serucity and admin",
+        "A and b"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q5",
+      "question": "Network services are :",
+      "options": [
+        "print services",
+        "Message services",
+        "Database services",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q6",
+      "question": "Machine language ..............",
+      "options": [
+        "is the language in which programs were first written",
+        "is the only language understood by the computer",
+        "differs from one type of computer to another",
+        "all of these"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "Which is the information technology policy ?",
+      "options": [
+        "to develop physical & virtual information technology park",
+        "to promote e-commerce, education, ehealth",
+        "to establish nepal in gobal market",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "The Nepali Unicode can be enabled from control panel by help of",
+      "options": [
+        "Fonts & Display",
+        "Regional setting & key board",
+        "printer",
+        "Multimedia"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "Tool which help to ensure that data can be made available from another part if there is some error is known as :",
+      "options": [
+        "Backup",
+        "Degragmentation",
+        "Format",
+        "Scandisk"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "\"ATTRIB\" command in DOS :",
+      "options": [
+        "removes all attributes of a file",
+        "hide the directory",
+        "make the directory read only",
+        "None of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q18",
+      "question": "Multiprogramming operating system refers to :",
+      "options": [
+        "Processor can executes job concurrently",
+        "Processor can executes program parallelly",
+        "OS supports more than 2 processor",
+        "Memory can load more the 1 program"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q19",
+      "question": "OLE technology enables Microsoft word :",
+      "options": [
+        "To erage the dynamically linked objects",
+        "To embed the Excelsheet inside itself",
+        "To create table",
+        "to create tables"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "Which short cut key is used for capitalized letter in Ms-word :",
+      "options": [
+        "Ctrl+A",
+        "Alt+A",
+        "Ctrl+Shift+A",
+        "Ctrl+Alt+A "
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "Word-wrap in Ms-word :",
+      "options": [
+        "Change the line space",
+        "Evenly distribute words in justified alignment",
+        "Allows the words to stay within margin",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q26",
+      "question": "In the Merge operation of MS-word one can :",
+      "options": [
+        "Preview a merge",
+        "Merge directly to a printer",
+        "Merge to a new document",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "To make a list of name arrange in alphabetically managed order in excel one can use :",
+      "options": [
+        "Filter",
+        "Sort",
+        "consolidate",
+        "Manage"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "The formula : left (\"examination\",4) will result :",
+      "options": [
+        "tion",
+        "error",
+        "exam",
+        "mina"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "Which of the following is the valid filter in MS-EXCEL ?",
+      "options": [
+        "Autofilter",
+        "Advanced filter",
+        "Both of the above",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "3-D reference in a formula in MS.Excel :",
+      "options": [
+        "Spans worksheets",
+        "Array Formula",
+        "Complex Formulas",
+        "Smart Formula"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "In MS Excel multiple calculations can be made in a single formula using :",
+      "options": [
+        "Standard Formulas",
+        "Array Formula",
+        "Complex formulas",
+        "Smart Formula"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q34",
+      "question": "Which of the following is not provided by standard, toolbar, in spread sheet ?",
+      "options": [
+        "File Management",
+        "Editing commands",
+        "Special features such as wizard",
+        "Cell formatting commands"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": ".........helps to create the fields of a table in Ms-Access :",
+      "options": [
+        "Form view",
+        "design view",
+        "Table view",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q40",
+      "question": "The oldest data base models are :",
+      "options": [
+        "Object oriented",
+        "Hirarchical and network model",
+        "Relational",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "Consides the following table Student (roll.no, name, grade, subject). Which SQL is correct to retrieve the name of all students having grade \"B\"",
+      "options": [
+        "SELECT name FROM STUDENTS",
+        "SELECT name FROM students WHERE grade =\"B\"",
+        "SELECT name FROM students WHERE grade IN B.",
+        "Both B and C"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q42",
+      "question": "Which of the following keywords doesnot belong of DDL ?",
+      "options": [
+        "CREATE",
+        "ALTER",
+        "CONSTRAINT",
+        "SELECT"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q43",
+      "question": ".......are the properties of characterestics of an object in presentation :",
+      "options": [
+        "Design templates",
+        "Levels",
+        "Textures",
+        "Attributes"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "How to change slides master items ?",
+      "options": [
+        "Format>Master>Slide Master",
+        "Tools>Master>Slide Master",
+        "View>Master>Slide Master",
+        "Edit>Master>Slide Master"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q46",
+      "question": "How can you create a uniform appearance by adding a background image to all slides ?",
+      "options": [
+        "Create a template",
+        "edit slide master",
+        "Use the auto content wizard",
+        "Use the auto-fit option"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "Which of the following techniques is the latest way of designing interactive web-page.",
+      "options": [
+        "CSS",
+        "Java Script",
+        "PHP",
+        "Ajax"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

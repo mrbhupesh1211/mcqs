@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer operator - 2062",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the function of Alt+f9?",
+      "options": [
+        "To insert Field code",
+        "Switching field code",
+        "Run macro",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "The function of Count A() is ...",
+      "options": [
+        "counts the number of empty cells",
+        "counts the number of non empty cells",
+        "counts the number of cells contains number",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "Hyperlink is",
+      "options": [
+        "graphics",
+        "underline",
+        "colored text",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "Short key for left indent",
+      "options": [
+        "Ctrl+L",
+        "Ctrl+M",
+        "Ctrl+I",
+        "Ctrl+T"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "The short cut key for replace operation",
+      "options": [
+        "Ctrl + H",
+        "Ctrl+R",
+        "Ctrl+F",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "Digital Signal",
+      "options": [
+        "1 / 0",
+        "high / low",
+        "on/ off",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+
+    {
+      "id": "q16",
+      "question": "Pixel is found in",
+      "options": [
+        "XGA",
+        "VGA",
+        "SVGA",
+        "all"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q18",
+      "question": "To add effect to the object",
+      "options": [
+        "Slide transition",
+        "Custom animation",
+        "slide sorter view",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "The maximum number of handouts per page in PowerPoint?",
+      "options": [
+        "3",
+        "6",
+        "5",
+        "9"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q22",
+      "question": "In excel first two lines are fixed to every page is from..",
+      "options": [
+        "Print",
+        "Page setup ",
+        "Print preview",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "Independence means",
+      "options": [
+        "Exclusive",
+        "Inclusive ",
+        "sharing",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Methods of saving document in MSword.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "The extension of index file is",
+      "options": [
+        "ndx",
+        "idx",
+        "ind",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "View menu doesn't show",
+      "options": [
+        "Outline",
+        "normal",
+        "page layout",
+        "object"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "To sent file to recipient",
+      "options": [
+        "File",
+        "Edit",
+        "View",
+        "Insert"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "Easiest way to create chart",
+      "options": [
+        "Select range and click chart wizard",
+        "Insert chart and select range",
+        "draw the chart using drawing toolbar",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "Home page of HTML",
+      "options": [
+        "introductory page",
+        "details information of page",
+        "summary of page",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "The function of Dir/w",
+      "options": [
+        "shows all details of files",
+        "show only file & directory name",
+        "shows only directory",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "Tree Structure displays the ....",
+      "options": [
+        "File only",
+        "directory only",
+        "directory and file name",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q38",
+      "question": "Word processor is used to create document",
+      "options": [
+        "text",
+        "number",
+        "graphics",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "Slide sorter view is used",
+      "options": [
+        "sorting slides",
+        "numeric order",
+        "alphabetic order",
+        "to view all slides"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "Batch file is used....",
+      "options": [
+        "to run program",
+        "to show the contents",
+        "to record command",
+        "all of the above"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

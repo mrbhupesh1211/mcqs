@@ -1,0 +1,182 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "17",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "In msword, you can decrease your document by one page by using the",
+      "options": [
+        "Reduce by one page button",
+        "shrink to fit button",
+        "fit to one page button",
+        "magnifier button"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "New record is added using",
+      "options": [
+        "append record into from browse menu",
+        "append record from browse menu",
+        "add record from edit menu",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q4",
+      "question": "In MS access … is used to build and modify database objects and also to create new queries",
+      "options": [
+        "layout preview",
+        "datasheet view",
+        "design view",
+        "print preview"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "Material consisting of text and numbers, the best presented as:",
+      "options": [
+        "a bullet slide",
+        "a table slide",
+        "a title slide",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "In Ms-Excel, to delete an embedded object, First:",
+      "options": [
+        "Select it and then press the delete key",
+        "double – click the object",
+        "Select the object by clicking it",
+        "press the shift +Delete keys"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "In Ms-Excel, to drag a selected range of data to another worksheet in the same workbook, use the:",
+      "options": [
+        "Ctrl key",
+        "Tab key",
+        "Alt key",
+        "Shift key"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "How many rows are there in excel worksheet?",
+      "options": [
+        "36",
+        "65535",
+        "65256",
+        "65536"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "Protection sub menu is found in:",
+      "options": [
+        "tools",
+        "view",
+        "insert",
+        "format"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "In Ms-Excel, when integrating word and excel, Word is usually the:",
+      "options": [
+        "Client and destination",
+        "Server",
+        "Source",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which of the following is not a relational database?",
+      "options": [
+        "Reflex",
+        "FoxPro",
+        "Dbase IV",
+        "4th Dimension"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q28",
+      "question": "Which command is used to find and displays all records that match the text that you enter?",
+      "options": [
+        "remove / sort",
+        "Filter by selection",
+        "Filter excluding selection",
+        "Filter for"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "The selection bar is:",
+      "options": [
+        "located below the status bar in the word window",
+        "below the title bar",
+        "to the far left of your document",
+        "used to open other office application Question Bank / 41"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q32",
+      "question": "Which of the following is not a paragraph formatting?",
+      "options": [
+        "bold face",
+        "alignment",
+        "indenting",
+        "line spacing"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "In Ms Word, you can display margins in text on the horizontal or vertical ruler with the mouse and:",
+      "options": [
+        "the space bar",
+        "the Alt key",
+        "the delete key",
+        "The Font size button"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "A front End processor is used in:",
+      "options": [
+        "multiprocessing",
+        "Multiprogramming",
+        "Virtual storage",
+        "Time sharing"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "Which of the following is not part of the merge process?",
+      "options": [
+        "Main document",
+        "Data field",
+        "merge field",
+        "Data source"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

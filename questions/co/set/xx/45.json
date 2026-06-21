@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "45",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "How many characters can be typed in a single cell in excel?",
+      "options": [
+        "256",
+        "1024",
+        "32000 (32767)",
+        "65535"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q2",
+      "question": "Before printing a datasheet, you can use……….. to determine whether to change the page orientation form portrait to vertical orientation.",
+      "options": [
+        "design view",
+        "datasheet view",
+        "office view",
+        "print preview"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "All attachment fields display as a(n) ……….in datasheet view.",
+      "options": [
+        "icon",
+        "button",
+        "thumb tack",
+        "paperclip"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q5",
+      "question": "From where can we set the timing for each object?",
+      "options": [
+        "Slide show, custom animation",
+        "Slide show, slide transition",
+        "View, custom animation",
+        "View, slide sorter"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q7",
+      "question": "Which of the following web elements should you know about before building your web site?",
+      "options": [
+        "the web audience",
+        "the operating environment of your ISP",
+        "the operating system or your visitor",
+        "each consideration should determine your web design choices"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "Which is an operating system?",
+      "options": [
+        "Minix",
+        "Critix",
+        "both A and B",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q14",
+      "question": "Which command is used to delete the disk partition?",
+      "options": [
+        "chkdsk",
+        "scandisk",
+        "erase",
+        "fdisk"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q20",
+      "question": "In Microsoft Excel, the data table can solve problems with:",
+      "options": [
+        "Two variables",
+        "Three variables",
+        "Four Variables",
+        "Both A and B"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "Database Management System helps to:",
+      "options": [
+        "eliminate data redundancy",
+        "Establish relationship among records in different tables/queries",
+        "manage file access",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q23",
+      "question": "Which of the following is not a kind of action query?",
+      "options": [
+        "update query",
+        "Cross tab Query",
+        "Make table query",
+        "Delete query"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q24",
+      "question": "A file which contains readymade styles that can be used for a presentation is called?",
+      "options": [
+        "auto style",
+        "template",
+        "Wizard",
+        "pre formatting"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q31",
+      "question": "…. tool helps to reduce file access time from disk.",
+      "options": [
+        "scandisk",
+        "disk defragmenter",
+        "backup",
+        "format"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q35",
+      "question": "Graphical representation of worksheet data is:",
+      "options": [
+        "pivot table",
+        "goal seek",
+        "graph",
+        "scenario"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q37",
+      "question": "A switchboard is a kind of :",
+      "options": [
+        "table",
+        "query",
+        "report",
+        "form"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q46",
+      "question": "Virtual Memory is:",
+      "options": [
+        "an extremely large main memory",
+        "an extremely large secondary memory",
+        "an illusion of extremely large main memory",
+        "a type of memory used in super computers"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "Which type of filter cannot be navigated using clip Art browser?",
+      "options": [
+        "AVI",
+        "BMP",
+        "WAV",
+        "DOT "
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "In which way does MS Office provide help?",
+      "options": [
+        "what's this",
+        "Office Assistant",
+        "Help Menu",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q50",
+      "question": "Which of the following is the latest among these versions of Excel?",
+      "options": [
+        "Excel 2000",
+        "Excel 2002",
+        "Excel Me",
+        "Excel 2010"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

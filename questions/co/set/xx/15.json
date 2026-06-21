@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "15",
+  "questions": [
+    {
+      "id": "q4",
+      "question": "To delete record from Table?",
+      "options": [
+        "Edit->delete record",
+        "Edit->delete",
+        "Record ->delete record",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q5",
+      "question": "Which is not changed by slide master?",
+      "options": [
+        "Layout",
+        "title",
+        "handouts",
+        "place holders"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "Which command verifies the copied file?",
+      "options": [
+        "Copy/v",
+        "copy /verify ",
+        "copy/d",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "Which is not function of OS?",
+      "options": [
+        "File management",
+        "Plateform",
+        "memory management",
+        "Virus detection"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q12",
+      "question": "The format apply based on user criteria is called.",
+      "options": [
+        "conditional formatting",
+        "Autoformatting",
+        "style",
+        "Theme"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Which one is the highest priority operator?",
+      "options": [
+        "( )",
+        "%",
+        "/",
+        "*"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "Pivot chart shows…….",
+      "options": [
+        "summarized data",
+        "Grouping data",
+        "latest data",
+        "all of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "The header and footer is set by ……… menu",
+      "options": [
+        "Insert",
+        "edit",
+        "view",
+        "tools"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "The UTP connector is used…",
+      "options": [
+        "RJ65",
+        "RJ45",
+        "RJ 30",
+        "RJ 90"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "Which is not in print dialog box?",
+      "options": [
+        "orientation",
+        "Collate",
+        "Current page",
+        "Print what"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "The shortcut key to fill down.",
+      "options": [
+        "F2",
+        "Ctrl+F,D",
+        "Ctrl+D",
+        "Edit->Fill->Down"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "Fdisk /Q does ………….",
+      "options": [
+        "Exiting Fdisk",
+        "quick partitioning",
+        "Partition for small disk",
+        "None"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

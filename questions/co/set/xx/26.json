@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "26",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "\"Attrib\" is used for",
+      "options": [
+        "To access control",
+        "to modify control",
+        "to overwrite control",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q2",
+      "question": "In MSDOS \">\" is indicates",
+      "options": [
+        "Redirection",
+        " Control",
+        "Pipe ",
+        " Option"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "To turn on or off the background printing through",
+      "options": [
+        "File-Print-Background",
+        "File-Page Setup-Background",
+        "Tools-Options-View-Background colors & images",
+        "Tools-Options-Print options-Background colors & images"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "Word wrap is.... ",
+      "options": [
+        "Align text",
+        "Insert pictures within text",
+        "To bring background image to front",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "Function of Ctrl + K is",
+      "options": [
+        "Create Link",
+        "Small cap",
+        "Insert Hyperlink",
+        "Delete text"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "In MS Word, Select all, find, go to are found in",
+      "options": [
+        "edit",
+        "view",
+        "file",
+        "insert"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "In Ms Word, The Tab sign \"L\" means",
+      "options": [
+        "Right align",
+        "Left align",
+        "Justify",
+        "Both a & b"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": ".................. is animated character helps to search in Ms Office.",
+      "options": [
+        "Office Assistant",
+        "Clipboard",
+        "Comic Text",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "How do you put comments in cell?",
+      "options": [
+        "Edit",
+        "view",
+        "Insert",
+        "Format"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "In excel do not sort for",
+      "options": [
+        "Integer",
+        "Character",
+        "String",
+        "None"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q25",
+      "question": "Ms Excel is popular for",
+      "options": [
+        "Data Entry",
+        "Document.....",
+        "Small Calculation",
+        "Presentation"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q26",
+      "question": "False for Excel is...",
+      "options": [
+        "Workbook protect by password",
+        "Worksheet protect by password",
+        "A part of Worksheet is protect by password",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q27",
+      "question": "In Excel \"Shrink to fit\" does:",
+      "options": [
+        "Increase/Decrease Font size to fit with cell size",
+        "Increase/Decrease cell size to fit with font size",
+        "Decrease the font size to fit with cell width",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Which is not text function?",
+      "options": [
+        "Len",
+        "Count",
+        "Upper",
+        "Proper"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q32",
+      "question": "In Ms Access, Wizard helps to",
+      "options": [
+        "Create Table",
+        "Create Form",
+        "Generate Report",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "Filter displays.....",
+      "options": [
+        "To suppress data and display list of data to meet the criteria",
+        "To display all data",
+        "Sort the data",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "In RDBMS file refers as....",
+      "options": [
+        "Table",
+        "Entities",
+        "field",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "Which is not object oriented programming language?",
+      "options": [
+        "C",
+        "Java",
+        "Eiffel",
+        "Smalltalk"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q41",
+      "question": "3 buttons mouse is......",
+      "options": [
+        "Software",
+        "Human ware",
+        "Hardware",
+        "all"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "Which is not internal memory?",
+      "options": [
+        "RAM",
+        "PROM",
+        "ROM",
+        "Cache"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q45",
+      "question": "To measure the printing speed is....",
+      "options": [
+        "cpm",
+        "Ibs",
+        "ppm",
+        "bts"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q46",
+      "question": "Which is Input & Output device?",
+      "options": [
+        "Disk drive",
+        "Card puncher",
+        "Tape Reader",
+        "Paper Reader"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "Warm boot is done by ..... key pressing.",
+      "options": [
+        "Ctrl + Alt + Del keys",
+        "Shift + Alt + D keys",
+        "Ctrl+shift+Delete key",
+        "Power button"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q48",
+      "question": "Pressing keystrokes is understood by the language is",
+      "options": [
+        "ANSI",
+        "ASCII",
+        "EBCDIC",
+        "BCD"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

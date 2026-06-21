@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer operator - 2061",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which one is the last column?",
+      "options": [
+        "II",
+        "IV",
+        "IX ",
+        "VI"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q6",
+      "question": "Which one is easiest way to insert a chart?",
+      "options": [
+        "Select data->chart wizard",
+        "select data and press F11",
+        "insert->chart from menu",
+        "none of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "Best use of Ms-Excel is...",
+      "options": [
+        "Word processing",
+        "Spreadsheet management",
+        "Payroll & Balance Sheet",
+        "Data processing"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "The PowerPoint view that displays only text (title & text) is…",
+      "options": [
+        "Slide shows",
+        "Slide sorter view",
+        "Outline view",
+        "Note page view"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q9",
+      "question": "Which feature is available in custom animation?",
+      "options": [
+        "Design template",
+        "Transition",
+        "Master slide",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "What is capacity of MF2DD 9 sector 80 track?",
+      "options": [
+        "360 KB",
+        "720KB",
+        "1.2MB",
+        "1.24MB"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "Which Standard is used for converting the keystroke into the corresponding bits?",
+      "options": [
+        "ASCII",
+        "EBCDIC",
+        "ANSI",
+        "ISO"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "To Display the content of the disk to use",
+      "options": [
+        "Format",
+        "Dir",
+        "Copy",
+        "WinZip"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "Which one is not hardware?",
+      "options": [
+        "Zip drive",
+        "Hard disk",
+        "Zip disk",
+        "NIC"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q18",
+      "question": "Which one is easily translation?",
+      "options": [
+        "Win 95 to 98",
+        "Win NT to 98",
+        "Win 2000 to 98",
+        "Win 95 to 3.1"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "How many ways can we go to control panel?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "Which is easiest method to go to MsDos?",
+      "options": [
+        "My computer",
+        "Go to DOS from start menu",
+        "Click on icon of desktop",
+        "Type command in Run dialog box"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "To print table structure is called",
+      "options": [
+        "Documenter",
+        "Generator",
+        "Analyzer",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "which object extracts the subset of data?",
+      "options": [
+        "Form",
+        "Field",
+        "Query",
+        "Report"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "Which option is not available in shut down dialog box?",
+      "options": [
+        "Stand by",
+        "Network",
+        "Restart",
+        "Restart in ms-dos mode"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "Which shortcut key is used undoing format?",
+      "options": [
+        "Ctrl+Q",
+        "Ctrl+Z",
+        "Ctrl+M",
+        "Ctrl+P"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "To set line spacing",
+      "options": [
+        "Format\\Paragraph toolbar",
+        "Format\\Paragraph\\Indent Question Bank / 13",
+        "Format\\Paragraph\\link",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "What is the name of vertical space of between two columns?",
+      "options": [
+        "Orientation",
+        "Margin",
+        "Alignment",
+        "Indentation"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q31",
+      "question": "Which is included in table?",
+      "options": [
+        "Record",
+        "Field",
+        "Index",
+        "All of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "Which one default sheet in Ms-excel?",
+      "options": [
+        "Sheet1/sheet2/sheet3",
+        "Sheet3/sheet2/sheet1",
+        "Sheet1",
+        "1/2/3"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "How many maximum pages is available in note page for printing?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q37",
+      "question": "Form and Report is called",
+      "options": [
+        "Object",
+        "Field",
+        "Record",
+        "Column"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "Web style is ..............",
+      "options": [
+        "Content of the web page",
+        "Desktop style",
+        "Internet style",
+        "website style"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q40",
+      "question": "To insert a form within a form is called …",
+      "options": [
+        "Sub Form",
+        "Query",
+        "Report",
+        "Form"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q44",
+      "question": "Chart wizard completes any chart with … steps.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "What is the shortcut key to hide row?",
+      "options": [
+        "Ctrl+F9",
+        "Ctrl+9",
+        "Ctrl+shift+9",
+        "Shift+9"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "27",
+  "questions": [
+    {
+      "id": "q7",
+      "question": "Which was the first operating system?",
+      "options": [
+        "DOS",
+        "Apple",
+        "UNIX",
+        "Windows"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q8",
+      "question": "What is the LAN card termed as?",
+      "options": [
+        "Modem",
+        "NIC",
+        "Internet card",
+        "Network connector"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q13",
+      "question": "Which of the following is not a protocol used by internet?",
+      "options": [
+        "SMTP",
+        "UDP",
+        "SMAP",
+        "TCP"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Which command is used to give the volume name of the disk?",
+      "options": [
+        "Label",
+        "Vol",
+        "Volume",
+        "Disklable"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Which command is used to see the version of operating system?",
+      "options": [
+        "Ver",
+        "Version",
+        "Verify",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "The active cell is identified with the:",
+      "options": [
+        "black border",
+        "cell pointer",
+        "cross line",
+        "white border"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "Which command is used to see the system time?",
+      "options": [
+        "Time",
+        "Date",
+        "cls",
+        "dir"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "What keeps the space between the characters in Ms. word?",
+      "options": [
+        "Proposition",
+        "Kerning",
+        "Spacing",
+        "Pre-formatting"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "Ms. Office provides a full-fledged web page designing package, which of the following is that?",
+      "options": [
+        "Ms Front page",
+        "Ms Excel",
+        "Ms Word",
+        "Ms Access"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "From which menu do you place the picture on your document?",
+      "options": [
+        "Edit",
+        "View",
+        "Insert",
+        "Tools"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "In which menu, does the letters and mailing labels?",
+      "options": [
+        "Tools",
+        "Insert",
+        "Format",
+        "Data"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Ms. Office provides help in many ways, which of the following are more closer to help?",
+      "options": [
+        "What is this?",
+        "Office Assistant",
+        "Help Menu",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "What is B2 in excel?",
+      "options": [
+        "column heading B and row 2",
+        "Row heading",
+        "cell reference",
+        "both a &b"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "From which menu, you can hide sheet?",
+      "options": [
+        "View",
+        "Insert",
+        "Format",
+        "Window"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "Presentation design that regulates the formatting and layout for the slide and are commonly called?",
+      "options": [
+        "Auto Style",
+        "Templete",
+        "Wizard",
+        "Pre-formatting"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q34",
+      "question": "Which is not a field property?",
+      "options": [
+        "Format",
+        "Indexed",
+        "Color",
+        "Field size"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q44",
+      "question": "Which of the following can't be done using control pannel?",
+      "options": [
+        "Time Setting",
+        "Display setting",
+        "Booting setting",
+        "printer setting"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q48",
+      "question": "Which of the following files are executable files of Ms. Dos?",
+      "options": [
+        ".com, .sys, .bat",
+        ".sys, exe, .cfg",
+        ".txt, .doc, .xls",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q50",
+      "question": "From where you can add and remove the application program in your computer?",
+      "options": [
+        "Control panel",
+        "My computer",
+        "Recycle bin",
+        "Internet Explorer"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

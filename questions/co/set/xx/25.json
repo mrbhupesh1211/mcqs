@@ -1,0 +1,226 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "25",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Virus is",
+      "options": [
+        "Utility Program",
+        "Application Software",
+        "Unwanted Computer Program",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q3",
+      "question": "Carbon print copy can be created by",
+      "options": [
+        "Laser Printer",
+        "Inkjet Printer",
+        "Dot Matrix Printer",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "VGA refers to",
+      "options": [
+        "Video Graphic Array",
+        "Visual Graphics Array",
+        "Volatile Graphics Array",
+        "Visual Graphics Adapter"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "Monitor is",
+      "options": [
+        "Serial & Block Device",
+        "Serial & Character Device",
+        "Parallel & Block Device",
+        "Parallel & Character"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q9",
+      "question": "The brain of any computer system is",
+      "options": [
+        "ALU",
+        "Memory",
+        "Control Unit",
+        "CPU"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "Which command displays the list of all previous commands entered by the used?",
+      "options": [
+        "COMMANDS/ALL",
+        "KEYDOS",
+        "DOSKEY",
+        "DIR/ALL"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Function of Alt + Ctrl + Delete",
+      "options": [
+        "Activate task manager",
+        "Run......",
+        "Cancel Program",
+        "Shutdown"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "Function of Ctrl + Shift + D is",
+      "options": [
+        "Double Underline",
+        "Single Underline",
+        "Insert Date",
+        "Insert Date & Time"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "The Status bar shows the..",
+      "options": [
+        "Page Number",
+        "Date & Time",
+        "Cursor Position",
+        "Both A & C"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q25",
+      "question": "Number of panes in windowis…",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which protocol is used to transfer a file over the email?",
+      "options": [
+        "UPD",
+        "FTP",
+        "SMTP",
+        "TCP"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "To select several cells or ranges that are not touching each other, you would … while selecting",
+      "options": [
+        "hold down the Ctrl key",
+        "hold down the Shift key",
+        "hold down the Alt key",
+        "hold down Ctrl + Shift key"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "What term describes explanatory text attached to a cell?",
+      "options": [
+        "Callout",
+        "Comment",
+        "Dialog",
+        "Extension"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "Where can not export from excel file?",
+      "options": [
+        ".doc",
+        "csv",
+        ".html",
+        ".xml"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "To display current date",
+      "options": [
+        "date",
+        "today",
+        "time",
+        "date & time"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "Database has",
+      "options": [
+        "design view",
+        "datasheet view",
+        "format view",
+        "Both A and B"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "Which command is used to display the record that satisfies the specified criteria?",
+      "options": [
+        "FIND QUERY",
+        "SEARCH QUERY",
+        "SELECT QUERY",
+        "LOCATE QUERY"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q41",
+      "question": "Real time operation is done by computer....",
+      "options": [
+        "Accuracy",
+        "Multiple......",
+        "Speed",
+        "Versatility"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q42",
+      "question": "Connector or central device in star topology",
+      "options": [
+        "Bridge",
+        "Hub & Switch",
+        "Router",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q46",
+      "question": "Maximum Number of slides can be printed in a page is called……",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correct_option": 3
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer operator - 2061",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which on is the Relational operator?",
+      "options": [
+        "=",
+        "+",
+        "*",
+        "/"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which formula is used to make multiple calculations?",
+      "options": [
+        "simple",
+        "complex",
+        "natural",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q3",
+      "question": "To copy cell contents using drag and drop, press",
+      "options": [
+        "end",
+        "shift",
+        "esc",
+        "none"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q4",
+      "question": "The auto fill feature is",
+      "options": [
+        "extend sequential series",
+        "Filling with same value",
+        "automatically adds a cell value",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Which command allows you to create root directory and fat on disk?",
+      "options": [
+        "MD",
+        "Deltree",
+        "Format",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "Which command allows you to create a directory on root?",
+      "options": [
+        "MD",
+        "Deltree",
+        "Format",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "Presentation designs regulate the formatting and layout for the slide and are commonly called",
+      "options": [
+        "template",
+        "design plates",
+        "place holder",
+        "Blue print"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Who is the father of modern digital computer?",
+      "options": [
+        "Charles Babbage",
+        "Dr. Herman Hollerith",
+        "Joseph jacquard",
+        "John von Neumann"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "The custom animation is located in the …………. menu.",
+      "options": [
+        "slide show",
+        "View",
+        "window",
+        "Tools"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "18. The sentence \"My father was write\"",
+      "options": [
+        "highlight the text write",
+        "blue color underline write",
+        "green color underline write",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q19",
+      "question": "The default background color in page layout?",
+      "options": [
+        "white",
+        "Gray",
+        "Transparent",
+        "Green"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "The shortcut key for thesaurus is…….",
+      "options": [
+        "F7",
+        "Shift+F7",
+        "Alt+F7",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "Which menu allows you to add date & time?",
+      "options": [
+        "edit",
+        "tools",
+        "format",
+        "insert"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q23",
+      "question": "The content of a excel cell is ……..",
+      "options": [
+        "32676",
+        "255",
+        "1024",
+        "32767"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q24",
+      "question": "Which is the default font in Excel?",
+      "options": [
+        "Arial",
+        "Courier",
+        "Times New Roman",
+        "Preeti"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "Which is the action query?",
+      "options": [
+        "append",
+        "update",
+        "cross tab",
+        "parameter"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q28",
+      "question": "Which is not factor for screen resolution?",
+      "options": [
+        "Bandwidth",
+        "screen size",
+        "Pixel",
+        "Display adaptor"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "Which operator is used to change drive?",
+      "options": [
+        ">",
+        "\\",
+        ":",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q31",
+      "question": "The auto-sum button exists on …………toolbar.",
+      "options": [
+        "Standard",
+        "chart",
+        "formatting",
+        "drawing"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q37",
+      "question": "Which of the following is helps you to create or edit formula and also provide information about function ?",
+      "options": [
+        "Cell tip",
+        "Formula palette",
+        "standard toolbar",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q38",
+      "question": "The auto –Report generates the ……..report.",
+      "options": [
+        "simple",
+        "formatted",
+        "summary",
+        "all"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "What are line, curve, freeform and scribble?",
+      "options": [
+        "Emphasis effects that can be applied to animation",
+        "Types of custom motion path",
+        "Predefined entrance and exit effect",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q42",
+      "question": "How can you see the system date on your computer?",
+      "options": [
+        "date",
+        "display date",
+        "system Date",
+        "All of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "Which of the following is the strategy of information technology policy 2057?",
+      "options": [
+        "The government shall act as a promoter, facilitator and regulator",
+        "E-commerce shall be promoted with legal provision Question Bank / 11",
+        "IT shall be used to assist e-governance",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "The range of cells from which you want to count cells that meet the criteria is .",
+      "options": [
+        "if count",
+        "count if",
+        "sum if",
+        "none"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "49",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Access method in Hard disk is",
+      "options": [
+        "Random",
+        "Sequential",
+        "Serial",
+        "Both A and C"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q7",
+      "question": "Which one of the following printers is suitable for printing sprocket fed carbon copies?",
+      "options": [
+        "Laser",
+        "Dot Matrix",
+        "Ink –jet",
+        "Drum"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "Spacing before and after paragraph is increased or decreased in what unit of measure?",
+      "options": [
+        "Pixels",
+        "Point",
+        "Inches",
+        "Centimeters"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "Leader character is used to:",
+      "options": [
+        "help draw the reader's eye easily across the page",
+        "Draw an arrow from heading to page number",
+        "help direct the reader to following pages",
+        "lead the reader from top to bottom of the document"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "What is desktop publishing?",
+      "options": [
+        "an application software like PageMaker",
+        "The use of audio editing equipment",
+        "The use of a computer system and graphic software",
+        "a software that allows you to layout a document"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "What is leading?",
+      "options": [
+        "The space between paragraphs.",
+        "The between two characters",
+        "The space between more than two characters",
+        "the space between lines."
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "____ allows you to focus on certain parts of a photo.",
+      "options": [
+        "Resolution",
+        "Dithering",
+        "Editing",
+        "Zooming"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q17",
+      "question": "When you print a copy of a picture that you wish to use in Photoshop, rather than a digital file stored on your computer. It sometimes is necessary to digitize the picture using a ____.",
+      "options": [
+        "Scanner",
+        "Blotter",
+        "Printer",
+        "Either A or B"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

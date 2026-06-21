@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "23",
+  "questions": [
+    {
+      "id": "q2",
+      "question": "In excel to edit a cell content press …… key.",
+      "options": [
+        "F5",
+        "F4",
+        "F1",
+        "F2"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q6",
+      "question": "High level language is developed by…",
+      "options": [
+        "USER",
+        "CPU",
+        "ROM",
+        "Operating System"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Which chips are erasable by ultra violet rays after removing them from main circuit?",
+      "options": [
+        "ROM",
+        "EPROM",
+        "EEPROM",
+        "RAM"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "A typical Personal computer now a days have RAM capacity of...",
+      "options": [
+        "256 KB",
+        "1 MB",
+        "128 MB",
+        "1 GB"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q13",
+      "question": "Which below IP address would be used for a local network?",
+      "options": [
+        "74.125.127.100",
+        "69.72.169.241",
+        "192.168.1.100",
+        "209.131.36.100"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Which of the below media types hold the most information?",
+      "options": [
+        "Blu-ray",
+        "CD",
+        "DVD",
+        "Floppy Diskette"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q15",
+      "question": "Which of the below utilities allow you to view a drives partition information?",
+      "options": [
+        "Chkdsk",
+        "Disk management",
+        "Device Manager",
+        "Scandisk"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "What is the minimum memory requirements for MS windows XP?",
+      "options": [
+        "32 MB",
+        "64 MB",
+        "128 MB",
+        "256 MB"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "Which command is used to backup in DOS 6+ version?",
+      "options": [
+        "Backup",
+        "MS Backup",
+        "Ms Backedup",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "To copy the hidden system files of DOS to another disk you can use the command..",
+      "options": [
+        "copy",
+        "Xcopy",
+        "Sys",
+        "Diskcopy"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "Which command be used to ask you to confirm that you want to delete the directory?",
+      "options": [
+        "Deltree",
+        "Deltree/f",
+        "del *.*/p",
+        "erase *.*"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "Which of the following is NOT one of the four major data processing function of a computer?",
+      "options": [
+        "Gathering data",
+        "Processing data into information",
+        "Analyzing the data or information",
+        "Storing the data or information"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "Technology no longer protected by copyright, available to every one, is considered to be …..",
+      "options": [
+        "proprietary",
+        "Open",
+        "Experimental",
+        "in the public domain"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q40",
+      "question": "DBMS is…….",
+      "options": [
+        "collection of data",
+        "Set of programs to access data",
+        "set of programs to update data",
+        "all of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q42",
+      "question": "To give a PowerPoint presentation to a large audience, you :",
+      "options": [
+        "Setup your computer in a large auditorium, and click large, auditorium, OK",
+        "Click the slide you wish the audience to see in normal view, then click the next slide and So on.",
+        "Chose either view, slide show or slide show or view show",
+        "click slide show, ok"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "To import text from a word document that uses headings into a PowerPoint presentation:",
+      "options": [
+        "This can not be done in PowerPoint",
+        "Click Insert, Slides from outline",
+        "Click Import, word document Heading",
+        "Click File, New, Presentation from Word headings"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q48",
+      "question": "A factor in the selection of a source language is…….",
+      "options": [
+        "programmer skill",
+        "Language availability",
+        "program compatibility with other software",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "One disadvantage of a direct access file is…",
+      "options": [
+        "The delay in computing the storage address",
+        "duplication of address location",
+        "unused, but available, storage locations",
+        "all of above"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

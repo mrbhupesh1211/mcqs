@@ -1,0 +1,215 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Kathmandu metro Computer operator - 2062",
+  "questions": [
+    {
+      "id": "q4",
+      "question": "Query structure",
+      "options": [
+        "Field",
+        "Records",
+        "snapshot",
+        "Dynaset"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q5",
+      "question": "Which is not the function of OS?",
+      "options": [
+        "File Management",
+        "Disk management",
+        "Application management",
+        "Virus detection"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q6",
+      "question": "Keyboard shortcut key for superscript as x2, which is correct",
+      "options": [
+        "Ctrl+=",
+        "Ctrl++",
+        "Ctrl+ shift++",
+        "Ctrl +Alt+="
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q7",
+      "question": "Which is the function of macro?",
+      "options": [
+        "Speed up editing & formatting",
+        "Automate complex task easily",
+        "Complete different command at once",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q15",
+      "question": "Ellipse (... ) show ....",
+      "options": [
+        "Dialog box",
+        "Entry box",
+        "window",
+        "Menu"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "Which is used to boot menu?",
+      "options": [
+        "F10",
+        "F8",
+        "F9",
+        "F7"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "Continuous data transmission",
+      "options": [
+        "Digital computer",
+        "Analog computer",
+        "Hybrid computer",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "“Collection of character and formatting “is",
+      "options": [
+        "style",
+        "template",
+        "bibliography",
+        "formatting"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Ms Access can import file from….",
+      "options": [
+        "Dbase database file",
+        "Excel Workbook",
+        "Notepad Delimited text file",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "Which is not the database Application?",
+      "options": [
+        "PowerPoint",
+        "Excel",
+        "Ms Access",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "Which command make the text \"Nepal\" Capital?",
+      "options": [
+        "Upper (\"Nepal\")",
+        "Capital (Nepal)",
+        "CAP \"Nepal\"",
+        "Capital (\"nepal\")"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "Form can be making from",
+      "options": [
+        "Table & Queries",
+        "Table only",
+        "Table & Report",
+        "Report & Queries"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q38",
+      "question": "XGA, VGA are types of ………",
+      "options": [
+        "Printers",
+        "Plotters",
+        "Keyboards",
+        "Video standards"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "Which of the following formula is invalid?",
+      "options": [
+        "=sum (a4:zz5)",
+        "=if(a5>23,\"Pass\",\"Fail\")",
+        "=A1+A25",
+        "=SUM(A1,A2)"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q42",
+      "question": "Which is not storage device?",
+      "options": [
+        "Hard disk",
+        "zip disk",
+        "Floppy disk",
+        "Zip drive"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "The gutter position can be applied for",
+      "options": [
+        "Left",
+        "Buttom",
+        "Top",
+        "a & B"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q45",
+      "question": "Hyperlinks can be",
+      "options": [
+        "Text",
+        "drawing object",
+        "Pictures",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q48",
+      "question": "Table can be created by...in ms access",
+      "options": [
+        "2 ways",
+        "3 ways",
+        "4 ways",
+        "5 ways"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "Tag can appear",
+      "options": [
+        "Many times",
+        "2 times",
+        "1",
+        "Depends of mark-up language"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

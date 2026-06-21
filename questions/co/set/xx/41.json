@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "41",
+  "questions": [
+    {
+      "id": "q2",
+      "question": "Which command of MS-DOS is used to copy only files that have been modified on or after the data you specify?",
+      "options": [
+        "XCOPY /d: date",
+        "COPY /d: date",
+        "COPY /M",
+        "XCOPY /V"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "Your company has a LAN in its main office and has now set up a LAN in the manufacturing plant in the sub office. To enable everyone to share data and resources between the two LANs, what type of device(s) are needed to connect them ? Choose the most correct answer.",
+      "options": [
+        "Modem",
+        "Cable",
+        "Hub",
+        "Router"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q7",
+      "question": "Internet-like networks within an enterprise is called…",
+      "options": [
+        "Intranets",
+        "Switching alternating",
+        "Inter organizational networks",
+        "Extranets"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "a form defines",
+      "options": [
+        "Where data is placed on the scree",
+        "the width of each field",
+        "both (a) and (b)",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q13",
+      "question": "Which of the following is an external DOS command?",
+      "options": [
+        "Copy",
+        "MD",
+        "Rename",
+        "Deltree"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "a system has two IDE hard drives that are each divided into primary and extended partitions; which drive letter is assigned to the primary partition of the second drive?",
+      "options": [
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "Bug means",
+      "options": [
+        "a logical error in a program",
+        "a difficult syntax error in a program",
+        "Documenting programs using an efficient documentation tool.",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q20",
+      "question": "Which of the following is characteristic of an operating system?",
+      "options": [
+        "Resource management system files",
+        "Error recovery Memory files",
+        "Memory management",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "Which shortcut keys you will use to select all the text after current cursor position in MS-Word?",
+      "options": [
+        "Shift+End",
+        "Ctrl+Shift+End",
+        "Ctrl+End",
+        "Ctrl+Shift+Page Down"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "40",
+  "questions": [
+    {
+      "id": "q6",
+      "question": "What are the units used counts speed of a printer?",
+      "options": [
+        "Contrast",
+        "PPM",
+        "DPI",
+        "BIT"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "Fifth generation computer is also known as",
+      "options": [
+        "KIPS",
+        "VLSI",
+        "Both of above",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": "Resolution of system is determined by",
+      "options": [
+        "Graphic card",
+        "operation system",
+        "Monitor",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Chkdsk can be used to find",
+      "options": [
+        "Disk's bad portion",
+        "Occupied Space",
+        "Free Space",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q17",
+      "question": "The tool which can convert a drive from FAT32 to NTFS is",
+      "options": [
+        "Disk Defragmenter",
+        "Format",
+        "Scan Disk",
+        "Converter"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "When you insert an excel file into a word documents, the data are",
+      "options": [
+        "Hyperlinked",
+        "placed in a word table",
+        "linked",
+        "embedded"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q31",
+      "question": "To edit the contents of cell…",
+      "options": [
+        "Press F2",
+        "double click on cell",
+        "click on formula bar",
+        "all of the above "
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "Multiple calculations can be made in a single formula using",
+      "options": [
+        "Standard formula",
+        "array formula",
+        "complex formula",
+        "smart formula"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "The Formula =IF(A1>B1,A1-B1,B1-A1) gives",
+      "options": [
+        "Larger one from cell A1 and B1",
+        "Positive difference of A1 and B1",
+        "Contents of A1",
+        "content of B1"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "Type of data in a cell of a work sheet can be",
+      "options": [
+        "Picture",
+        "value",
+        "word art",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "… operation is used to compare a value to a list of literals values that have been",
+      "options": [
+        "LIKE",
+        "COMPARE",
+        "BETWEEN",
+        "IN"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q42",
+      "question": "The rule that a value of a foreign key must appear as a value of some specific table is called a",
+      "options": [
+        "Referential Constraint",
+        "Index",
+        "Integrity Constraint",
+        "Functional dependency"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q43",
+      "question": "The key to start slideshow from current slide is",
+      "options": [
+        "SHIFT+F5",
+        "Ctrl+F5",
+        "ALT+F5",
+        "F5"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

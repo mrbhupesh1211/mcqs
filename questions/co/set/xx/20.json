@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "20",
+  "questions": [
+    {
+      "id": "q9",
+      "question": "Window 95/98 is ……..operating system.",
+      "options": [
+        "16 bit",
+        "32 bit",
+        "64 bit",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "In MS DOS which command transfers a specific file from one disk to another?",
+      "options": [
+        "Disk Copy",
+        "Copy",
+        "Both of the above",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "What should be typed on pages of print window to print first five pages of a document?",
+      "options": [
+        "1,2,3,4,5",
+        "1-5",
+        "Both of the above",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q13",
+      "question": "Which key or key combination will move the insertion point to the bottom of the whole document?",
+      "options": [
+        "End",
+        "Page Down",
+        "Ctrl + End",
+        "Ctrl + Page Down"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "An excel workbook is a collection of :",
+      "options": [
+        "workbooks",
+        "Work Sheets",
+        "Charts",
+        "Worksheet and Charts"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "In MS Excel maximum number or columns in a worksheet are:",
+      "options": [
+        "128",
+        "256",
+        "512",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "DBMS is",
+      "options": [
+        "A collection of data",
+        "set of program to access and update those data",
+        "Both",
+        "None of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "A field that uniquely identifies a record is called a:",
+      "options": [
+        "Main Field",
+        "Header Field",
+        "Key Field",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q20",
+      "question": "Count command is used to:",
+      "options": [
+        "Count the number of data fields in an active database file.",
+        "Count the number of data files which are active.",
+        "Count the records which are update",
+        "Count the number of records in an active database file."
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q21",
+      "question": "The checking operation performed on input data is called:",
+      "options": [
+        "Validation of the data",
+        "Verification of data",
+        "Cross Check",
+        "Control of Data"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "Which of the following should be used when you want to add a slide to an existing presentation?",
+      "options": [
+        "File, Add a new slide",
+        "Insert, New slide",
+        "File, Open",
+        "View, slide show"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "To Copy entire window information we do:",
+      "options": [
+        "Print Screen",
+        "Copy Screen",
+        "Alt + Copy",
+        "Ctrl + Copy"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "When we delete a file the related shortcut icon will be:",
+      "options": [
+        "Deleted Automatically",
+        "Not automatically deleted",
+        "Sometimes deleted",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q31",
+      "question": "What displayed in the window title bar?",
+      "options": [
+        "Edit Menu",
+        "Print Menu",
+        "File Menu",
+        "Control Menu"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "Which protocol sends electronic mail?",
+      "options": [
+        "SMTP",
+        "POP3",
+        "FTP",
+        "Outbox"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q34",
+      "question": "What is windows?",
+      "options": [
+        "GUI",
+        "OS",
+        "Most user friendly",
+        "All of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q38",
+      "question": "JAVA is widely used for:",
+      "options": [
+        "Web page designing",
+        "Database designing",
+        "System E-Designing",
+        "Circuit designing"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q39",
+      "question": "MS Access 2000 wizard help us to:",
+      "options": [
+        "Create tables to store data",
+        "Designs forms to enter data correctly",
+        "Create queries and generate report",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "…..is not the MS Access database object.",
+      "options": [
+        "Table",
+        "Report",
+        "Micro",
+        "Module"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q46",
+      "question": "Excel formula follows the rule of:",
+      "options": [
+        "BODMAS",
+        "Matrix Function",
+        "Logical Function",
+        "Trigonometric Function Question Bank / 49"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q47",
+      "question": "Popular Browsers that lets you access WebPages:",
+      "options": [
+        "Internet Explorer",
+        "American online",
+        "Netscape",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q48",
+      "question": "What happens to the contents of clipboard we close down the clipboard viewer?",
+      "options": [
+        "Contents of clipboard disappears",
+        "Contents of clipboard deleted",
+        "Clipboard content remains intact",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q50",
+      "question": "Unicode is a:",
+      "options": [
+        "Program",
+        "font/character encoding standard",
+        "Software",
+        "All of the above"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

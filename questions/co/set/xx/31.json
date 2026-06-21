@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "31",
+  "questions": [
+    {
+      "id": "q2",
+      "question": "The word length of mainframe computer is :",
+      "options": [
+        "8 to 16 bit",
+        "16 to 32 bit",
+        "32 to 64 bit",
+        "none of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following devices can be used to directly input prited text ?",
+      "options": [
+        "OCR",
+        "OMR",
+        "MICR",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q6",
+      "question": "CD-ROM is a :",
+      "options": [
+        "Semiconductor memory",
+        "memory register",
+        "magnetic memory",
+        "none of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q8",
+      "question": "Software can be categories into :",
+      "options": [
+        "three major groups",
+        "four major groups",
+        "five major groups",
+        "six major groups"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q11",
+      "question": "The errors that can be pointed out by the compiler are :",
+      "options": [
+        "syntax errors",
+        "sematic errors",
+        "logical errors",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q12",
+      "question": "The ASCII code of 'A' is :",
+      "options": [
+        "66H",
+        "41H",
+        "01000010",
+        "01100011"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q16",
+      "question": "Fonts install from :",
+      "options": [
+        "font setup file",
+        "font.exe file",
+        "add from control panel",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "Which one is a not system tool ?",
+      "options": [
+        "disk defragmentation",
+        "virus scanning",
+        "backup",
+        "all of above "
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "Which one is not part of control panel ?",
+      "options": [
+        "my documents",
+        "add or remove programs",
+        "display",
+        "date and time"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "Why are headers and footers used in the document ?",
+      "options": [
+        "to enhance the overall appearance of the document",
+        "to mark the starting and ending of a page",
+        "to make large document more readable",
+        "to allow page headers and footers to appear on document when it is printed"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q25",
+      "question": "How can you insert a sound file in your word document ?",
+      "options": [
+        "from insert->object menu option",
+        "from insert->Clipart menu option",
+        "from insert->file menu option",
+        "by right clicking the document and choosing 'Add sound' option"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q26",
+      "question": "A bookmark is an item or location in document that you identify an name for future reference. Which of the following task is accomplished by using bookmarks ?",
+      "options": [
+        "to quickly jump to a specific location in the document",
+        "to add hyper links in a web page",
+        "to add anchors in a web page",
+        "to mark the ending of a page of document"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "A template stores :",
+      "options": [
+        "customized word command settings",
+        "auto text entries",
+        "graphics, text, styles, macros",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "What do you mean by the vertical separation between columns ?",
+      "options": [
+        "gutter",
+        "Margin",
+        "index",
+        "Orientation"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q30",
+      "question": "The default header for a worksheets is :",
+      "options": [
+        "Your name",
+        "the date and time",
+        "the sheet tab name",
+        "none of these"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q34",
+      "question": "On an excel sheet the active cell in indicated by :",
+      "options": [
+        "a dark wide boarder",
+        "a dotted border",
+        "a blinking border",
+        "none of above "
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q35",
+      "question": "You can create hyperlinks from the Excel workbook to :",
+      "options": [
+        "A webpage on company internet",
+        "a web page on the internet",
+        "other office 97 application documents",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "The advantage of using a spreadsheet is :",
+      "options": [
+        "calculations can be done automatically",
+        "changing data automatically updates calculations",
+        "more flexibility",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "There are three types of data found in a spreadsheet :",
+      "options": [
+        "data, words, numbers",
+        "equations, data, numbers",
+        "words, numbers, labels",
+        "numbers, formulas, labels"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q38",
+      "question": "To merge the cells which tab do you use from the format, cells menu ?",
+      "options": [
+        "number tab",
+        "alignment tab",
+        "font tab",
+        "merge tab"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q39",
+      "question": "How do you rearrange the date in ascending or descending order ?",
+      "options": [
+        "data.sort",
+        "data. form",
+        "data.table",
+        "data. subtotals"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q40",
+      "question": "Which of the following is not a data base application ?",
+      "options": [
+        "dBase",
+        "Edit",
+        "Foxpro",
+        "Access"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "Size of a database are usually measured in terms of :",
+      "options": [
+        "tera bytes",
+        "mega bytes",
+        "data bytes",
+        "giga bytes"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q43",
+      "question": "Which of the following is NOT one of the four major data processing functions of a computer ?",
+      "options": [
+        "gathering data",
+        "processing data into information",
+        "analyzing the data or information",
+        "storing data or information"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q46",
+      "question": "What would I choose to create a preformatted style ?",
+      "options": [
+        "Slide sorter",
+        "Slide layout",
+        "slide transition",
+        "Slide design"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q47",
+      "question": "Which view shows all the slides at once ?",
+      "options": [
+        "normal view",
+        "all slide view",
+        "slide sorter view",
+        "slide show view"
+      ],
+      "correct_option": 3
+    }
+  ]
+}

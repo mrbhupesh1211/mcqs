@@ -1,0 +1,226 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "34",
+  "questions": [
+    {
+      "id": "q2",
+      "question": "Which of the following is a read only memory storage device ?",
+      "options": [
+        "floopy disk",
+        "compack disk",
+        "hard disk",
+        "magnetic tape"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q10",
+      "question": "The digital signal can be represented by :",
+      "options": [
+        "binary codes",
+        "0 and 1",
+        "high and low",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q11",
+      "question": "Which of the following device is used only in LAN (Local Area Network) ?",
+      "options": [
+        "gateway",
+        "modem",
+        "NIC",
+        "router"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q13",
+      "question": "When a computer is first turned on or restarted, a special type of absolute loader called is executed ?",
+      "options": [
+        "compile loader",
+        "boot loader",
+        "bootstrap loader",
+        "relating loader"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q14",
+      "question": "Which among the following are the best tools for fixing errors on disks ?",
+      "options": [
+        "FDISK",
+        "SCANDISK",
+        "CHKDSK",
+        "FIXDSK"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q17",
+      "question": "Which of the following operating system do you choose to implement a client-server network ?",
+      "options": [
+        "MS DOS",
+        "Windows 95",
+        "Windows 98",
+        "Windows 2000"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q20",
+      "question": "Which of the following do you use to change margins ?",
+      "options": [
+        "formatting toolbar",
+        "page setup dialog box",
+        "standard toolbar",
+        "paragraph dialog box"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q21",
+      "question": "In word-processing the task of changing the appearance of a document is :",
+      "options": [
+        "formatting",
+        "editing",
+        "proofing",
+        "inserting"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "In Ms word, you can insert the hyperlink:",
+      "options": [
+        "pressing ctrl + K or by choosing hyperlink form insert menu",
+        "pressing ctrl + shift+ K or by choosing hyperlink form insert menu",
+        "pressing ctrl + K or by choosing hyperlink form format menu Question Bank / 87",
+        "pressing ctrl + shift + K or by choosing hyperlink form format menu"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q24",
+      "question": "In MS-Word, you can convert the document's file format by applying the command :",
+      "options": [
+        "save",
+        "permission",
+        "save as",
+        "convert"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q27",
+      "question": "Which bar is usually located below the title bar that provides categorized options ?",
+      "options": [
+        "menu bar",
+        "tool bar",
+        "status bar",
+        "scroll bar"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Mail merge is concerned with :",
+      "options": [
+        "combining main document with data file",
+        "sending a typed letter to share holder of a company",
+        "to split main document",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q29",
+      "question": "The thesaurus tool :",
+      "options": [
+        "Finds repeated words in the document",
+        "adds new words to the custom dictionary",
+        "correct two initial capitalized letters in a word",
+        "none of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q41",
+      "question": "Database that contains tables linked by common field is called a….",
+      "options": [
+        "centralized database",
+        "flat file database",
+        "relational database",
+        "none of above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q42",
+      "question": "DBMS is :",
+      "options": [
+        "collection of data",
+        "Set of programs to access those data",
+        "Set of programs to update those data",
+        "all of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "A DBMS allowyou to create and maintain a database, create reports, and develop application programs, select the best fit answer :",
+      "options": [
+        "database management approach",
+        "DBBMS uses",
+        "database administrator",
+        "query language"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q45",
+      "question": "………present data in a way similar to an excel spreadsheet.",
+      "options": [
+        "datasheet view",
+        "design view",
+        "print preview",
+        "layout preview"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "Where from you can insert shapes in your slide ?",
+      "options": [
+        "home menu",
+        "design menu",
+        "animations menu",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q48",
+      "question": "Page setup for slides is available on :",
+      "options": [
+        "home menu",
+        "design menu",
+        "insert menu",
+        "view menu"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "A world wide web contains web pages :",
+      "options": [
+        "residing in many computer",
+        "created using HTML",
+        "with links to other web pages",
+        "residing in many computers linked together using HTML"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

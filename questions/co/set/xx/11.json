@@ -1,0 +1,237 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "11",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Abacus was....... device.",
+      "options": [
+        " Electronic",
+        "Counting",
+        "digital",
+        "Calculating"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q8",
+      "question": "Format a:/s will do..",
+      "options": [
+        "formats with create system file",
+        "formats with verification",
+        "formats with surface scan",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q9",
+      "question": "Copy con RAM.txt is",
+      "options": [
+        "copy the enter data",
+        "delete the data",
+        "controlling the enter data",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "Which is invalid character for saving a document?",
+      "options": [
+        "a to z",
+        "0 to 9",
+        "$",
+        "\\"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q11",
+      "question": "Internal commands are",
+      "options": [
+        "incorporate the command.com",
+        "incorporate the command directory",
+        "have external file",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "Notepad is used for …….",
+      "options": [
+        "Data processing",
+        "word processor",
+        "Graphics",
+        "text editor"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q20",
+      "question": "Protocol is a",
+      "options": [
+        "rules of transmitting data",
+        "rules of data sharing",
+        "rules of information processing",
+        "none"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q22",
+      "question": "To create your picture, you have to which toolbar?",
+      "options": [
+        "Auto shape",
+        "drawing",
+        "picture",
+        "formatting"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "To create a table in msword.",
+      "options": [
+        "tools => table",
+        "tools->insert table",
+        "table -> insert table",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q26",
+      "question": "Shortcut key to move into the next sheet?",
+      "options": [
+        "Page up",
+        "Ctrl+Page up",
+        "Ctrl+page down",
+        "Page down"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q27",
+      "question": "Graphic object is used in chart for ?",
+      "options": [
+        "emphases the data",
+        "high light data",
+        "entertainment",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "Which file format is supported to all programs?",
+      "options": [
+        ".doc",
+        ".mdb",
+        "rtf",
+        "all"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "= Sum (A1+A3) is equivalent with ….",
+      "options": [
+        "=A1+A3",
+        "A1+A2+A3",
+        "= A1+A2+A3",
+        "=sum (A1:A3)"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "Formatting code is …………",
+      "options": [
+        "#",
+        "+",
+        "$",
+        "~"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "Fill series command is used for……….",
+      "options": [
+        "to fill the series of data",
+        "fill the same data repeatedly",
+        "fill with text data",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q33",
+      "question": "Which formatting is used to show a middle line through text in MS Word?",
+      "options": [
+        "Mistake",
+        "strikethrough",
+        "middle line",
+        "underline"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q34",
+      "question": "We can view slide show by",
+      "options": [
+        "F5",
+        "View ->slideshow",
+        "Slide show ->View show",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "Which field type is not used in database?",
+      "options": [
+        "currency",
+        "text",
+        "number",
+        "single"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q38",
+      "question": "Primary key ………..",
+      "options": [
+        "must have an unique number",
+        "not null",
+        "used to relate with foreign key",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q41",
+      "question": "RDBMS uses data source from ….",
+      "options": [
+        "Flat file",
+        "table",
+        "OLAP",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q42",
+      "question": "Full form of RAID",
+      "options": [
+        "Redundant Array of Independent Disks",
+        "Redundant Array of Inexpensive Disks",
+        "Red Array of independent disks",
+        "both a & b"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

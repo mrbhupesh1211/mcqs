@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "Computer operator - 2060",
+  "questions": [
+        {
+      "id": "q32",
+      "question": "which fields appears when report is created with report wizard",
+      "options": [
+        "all fields",
+        "selected fields",
+        "Related fields",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q28",
+      "question": "How many options is display in power point starting ?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "correct_option": 3
+    },
+        {
+      "id": "q37",
+      "question": "Which menu provides apply design in power point ?",
+      "options": [
+        "Format Menu",
+        "Slide show Menu",
+        "Insert Menu",
+        "Edit Menu"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q18",
+      "question": "While typing, number in cell margin is",
+      "options": [
+        "Right align",
+        "justify",
+        "left align",
+        "center align"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q45",
+      "question": "What is the function of print manager?",
+      "options": [
+        "print queue",
+        "print cancel",
+        "Print stop",
+        "all of the above"
+      ],
+      "correct_option": 4
+    },
+        {
+      "id": "q40",
+      "question": "How do you create news paper column ?",
+      "options": [
+        "Format/column",
+        "Insert/column",
+        "Edit/column",
+        "Tools/column"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q24",
+      "question": "How many relation can be formed with two tables?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct_option": 2
+    },
+        {
+      "id": "q16",
+      "question": "Which one displays antonyms and synonyms",
+      "options": [
+        "tools\\language\\thesaurus",
+        "tools\\language\\Dictionary",
+        "tools\\language\\Synonyms",
+        "None of above"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q4",
+      "question": "Which command is used to copy file myfile.doc from floppy disk to hard disk",
+      "options": [
+        "copy a:\\myfile.doc c:",
+        "copy c:\\myfile.doc a:",
+        "copy a:\\ c:\\myfile.doc",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+       {
+      "id": "q20",
+      "question": "Which character fixes row or column.",
+      "options": [
+        "&",
+        "$",
+        "=",
+        "@"
+      ],
+      "correct_option": 2
+    },
+        {
+      "id": "q22",
+      "question": "Which is not numeric data type?",
+      "options": [
+        "byte",
+        "bit",
+        "single",
+        "double"
+      ],
+      "correct_option": 2
+    },
+        {
+      "id": "q26",
+      "question": "Which is not Data field Type?",
+      "options": [
+        "OLE",
+        "Memo",
+        "Lookup wizard",
+        "E-mail"
+      ],
+      "correct_option": 4
+    },
+        {
+      "id": "q36",
+      "question": "Which chart will show nominal Data series",
+      "options": [
+        "pie",
+        "bar",
+        "line",
+        "column"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q17",
+      "question": "Indentation is a ...................",
+      "options": [
+        "left margin",
+        "Right margin",
+        "left space of paragraph",
+        "top"
+      ],
+      "correct_option": 3
+    },
+        {
+      "id": "q38",
+      "question": "How many tracks & sector contains MFDD ?",
+      "options": [
+        "40,9",
+        "30,9",
+        "50,9",
+        "60,9"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q35",
+      "question": "What is the combination of characters and paragraph formatting ?",
+      "options": [
+        "style",
+        "theme",
+        "autoformat",
+        "Paragraph"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q15",
+      "question": "what gives when word is opened ?",
+      "options": [
+        "Default setting",
+        "Formatting setting",
+        "paragraph setting",
+        "standard setting"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q23",
+      "question": "Which object uses table & report?",
+      "options": [
+        "switch board",
+        "query",
+        "report",
+        "form"
+      ],
+      "correct_option": 2
+    },
+        {
+      "id": "q7",
+      "question": "Desktop is a",
+      "options": [
+        "Provide workspace",
+        "Screen saver",
+        "Display Program",
+        "Working with my doc."
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q29",
+      "question": "Which heading appears when exploring Power point slide into word ?",
+      "options": [
+        "heading 1",
+        "heading 2",
+        "Heading3",
+        "Heading4"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q47",
+      "question": "To Go to specified page …..",
+      "options": [
+        "go to",
+        "search",
+        "find",
+        "all of the above"
+      ],
+      "correct_option": 1
+    },
+        {
+      "id": "q41",
+      "question": "Full form of E-R diagram",
+      "options": [
+        "Engineer Relational Diagram",
+        "Entity Relation Diagram",
+        "External Relational Diagram",
+        "Enternal Relation diagram"
+      ],
+      "correct_option": 2
+    },
+        {
+      "id": "q49",
+      "question": "Which is not sending message from word ?",
+      "options": [
+        "mail recipient",
+        "fax recipient",
+        "internet explorer",
+        "PowerPoint"
+      ],
+      "correct_option": 3
+    }
+    
+  ]
+}

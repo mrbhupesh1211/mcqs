@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "21",
+  "questions": [
+    {
+      "id": "q4",
+      "question": "Which of the following shortcut key is used to check spelling?",
+      "options": [
+        "Shift F7",
+        "Alt F7",
+        "F7",
+        "Ctrl F7"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q7",
+      "question": "Drop Cap is in ….",
+      "options": [
+        "Tools/Drop Cap No.",
+        "Insert/Drop Cap",
+        "Format/Drop Cap",
+        "Format/Drop Cap Number"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q8",
+      "question": "Which is external command?",
+      "options": [
+        "Dir",
+        "Copy",
+        "Format",
+        "Xcopy"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q9",
+      "question": "Which is not Indent type?",
+      "options": [
+        "Left Indent",
+        "Right Indent",
+        "Center Indent",
+        "Hanging Indent"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "Full form of UPS …..",
+      "options": [
+        "Uninterrupted power supply",
+        "Uniform power supply",
+        "Uninterruptable power supply",
+        "Uninterruptible power system"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q13",
+      "question": "You enter the data vertically in database is ….",
+      "options": [
+        "Field",
+        "Record",
+        "Data",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q14",
+      "question": "Which conditional function is true?",
+      "options": [
+        "CountIff()",
+        "Countiif()",
+        "Countif()",
+        "None of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q22",
+      "question": "Process is ….",
+      "options": [
+        "Calculation",
+        "manipulation",
+        "computation",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "What is the function of CHKDSK?",
+      "options": [
+        "Check Disk",
+        "Fixed Errors",
+        "Maintenance the disk problems",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q28",
+      "question": "Which is in the print dialog box?",
+      "options": [
+        "Printer selection",
+        "Print What",
+        "copies",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q29",
+      "question": "How can you select the entire document?",
+      "options": [
+        "ctrl + A",
+        "Ctrl + Shift + A",
+        "Alt + Ctrl + A",
+        "Alt + A Question Bank / 51"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q30",
+      "question": "How do you insert the page number in your document?",
+      "options": [
+        "View / Page no.",
+        "Insert / Page no.",
+        "Format/ Page no.",
+        "All"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q32",
+      "question": "In excel, type =if(23<2,1,2), what is the cell value?",
+      "options": [
+        "23",
+        "2",
+        "1",
+        "false"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q33",
+      "question": "Lotus is a …..",
+      "options": [
+        "Electronic Work Book",
+        "Electronic spreadsheet",
+        "Database",
+        "None"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q34",
+      "question": "What is short cut key for switching one program to another?",
+      "options": [
+        "Ctrl + Tab",
+        "Alt + Tab",
+        "Shift + Tab",
+        "Alt + F4"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "Index is used to perform the ………..operation.",
+      "options": [
+        "Searching",
+        "Sorting",
+        "Validating",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q37",
+      "question": "What is command to remove ‘student’ table in database?",
+      "options": [
+        "Remove all",
+        "Drop all",
+        "Select student table & Drop",
+        "Select all table & Drop all"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q39",
+      "question": "An NIC is …..",
+      "options": [
+        "interfaces a modem to a computer",
+        "a Novell Interface Controller",
+        "connects a computer to a network",
+        "used to control a printer"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q40",
+      "question": "Thesaurus is …",
+      "options": [
+        "List of related words",
+        "Checking Spelling",
+        "Checks the grammer",
+        "Corrects the word automatically"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "Password is ….",
+      "options": [
+        "Change continuously",
+        "Combination of alphabet, number & symbol",
+        "Restrict the unauthorized",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q42",
+      "question": "How do you control your sound or speaker in your computer?",
+      "options": [
+        "By Keyword",
+        "Click by Mouse",
+        "Controller of speaker",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "How do you select a column in excel?",
+      "options": [
+        "Click on column header",
+        "Click on row header",
+        "Press Ctrl+Tab",
+        "None"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q46",
+      "question": "Which will allow you to configure hardware settings including system settings such as computer passwords, time, and date?",
+      "options": [
+        "BIOS",
+        "Boot Strapping",
+        "Warm boot",
+        "Power On Self Test "
+      ],
+      "correct_option": 1
+    }
+  ]
+}

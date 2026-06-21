@@ -1,0 +1,226 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "43",
+  "questions": [
+    {
+      "id": "q7",
+      "question": "The serial mouse has a",
+      "options": [
+        "9 pin connecter",
+        "16 pin connecter",
+        "25 pin connecter",
+        "32 pin connector"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "laser printer used",
+      "options": [
+        "Raster scan",
+        "comera lens",
+        "Heat sensitive paper",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q13",
+      "question": ".................tool helps to reduce file access time from disk",
+      "options": [
+        "scandisk",
+        "Disk degragmenter",
+        "backup",
+        "format"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q15",
+      "question": "Which of the following is not a MS-Dos internal command",
+      "options": [
+        "dir",
+        "copy",
+        "more",
+        "rd"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q17",
+      "question": "Which windows application do you use if you don't know the key position to display a nepali",
+      "options": [
+        "notepad",
+        "calculator",
+        "character map",
+        "Accessibility Wizard"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "What is the smallest width of columns?",
+      "options": [
+        "0\"",
+        "1\"",
+        "0.5\"",
+        "1.5\""
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "To insert a drop cap in one of the paragraph you should access",
+      "options": [
+        "insert menu",
+        "tools",
+        "format",
+        "none of above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q25",
+      "question": "What word would i use to describe the act of correcting something",
+      "options": [
+        "whiteout",
+        "correcting",
+        "erase",
+        "edit"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "To define a page border, select",
+      "options": [
+        "file, page setup",
+        "format, paragraph",
+        "format, border and shading",
+        "Edit, object"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "What is the short cut key to select entire row in Excel sheet?",
+      "options": [
+        "Ctrl+spacebar",
+        "alt+spacebar",
+        "Shift+spacebar",
+        "Ctrl+Shift+spacebar"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "Short cut key ctrl+shift+; inserts ............... at the current cell",
+      "options": [
+        "current date",
+        "current time",
+        "current date that get updated",
+        "current time that get updated"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "How do you wrap the text in a cell",
+      "options": [
+        "format, cells, font",
+        "format, cells, number",
+        "format, cells, protection",
+        "format, cells, alignment"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q37",
+      "question": "Which of the following should you use if you want all the slide in the presentation to have the same look",
+      "options": [
+        "the slide layout option",
+        "add a slide option",
+        "outline view",
+        "a presentation design template"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q40",
+      "question": "Which of the following can you use to add times to the slide in a presentation?",
+      "options": [
+        "Slide Show menu",
+        "Rehearse timings button",
+        "Slider Transition button",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q42",
+      "question": "Good design determines",
+      "options": [
+        "Credibility",
+        "Readability",
+        "First impression",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q43",
+      "question": "The organized process or set of steps that needs to be followed to develop an information system is known as the:",
+      "options": [
+        "Analytical cycle",
+        "program specification",
+        "System development life cycle",
+        "Designing cycle"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q45",
+      "question": "Correspondence is the exchange of message done by........................",
+      "options": [
+        "Internet",
+        "Letters",
+        "E-mail",
+        "All"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q46",
+      "question": "Memorandum is a document used for",
+      "options": [
+        "Internet communication within an organization",
+        "Communication between one organization to another",
+        "Both",
+        "None"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q47",
+      "question": "Gif images can have only up to......... colors",
+      "options": [
+        "128",
+        "256",
+        "512",
+        "1024"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q50",
+      "question": "Macros are run or executed from the................. menu",
+      "options": [
+        "Insert",
+        "format",
+        "tools",
+        "data"
+      ],
+      "correct_option": 3
+    }
+  ]
+}

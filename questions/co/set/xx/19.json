@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "19",
+  "questions": [
+    {
+      "id": "q3",
+      "question": "Which stored programme of companies products?",
+      "options": [
+        "ROM",
+        "PROM",
+        "EPROM",
+        "EEPROM"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q7",
+      "question": "Two types of operating systems are …",
+      "options": [
+        "Sequential & Direct",
+        "Offline & Online",
+        "Logical & Permanent",
+        "Batch & Timesharing"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q9",
+      "question": "We can protect our file from in Dos for editing?",
+      "options": [
+        "Safety",
+        "Attrib",
+        "Searching",
+        "Matrib"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q12",
+      "question": "The system update or convert the FAT 16 into FAT 32?",
+      "options": [
+        "FAT Converter",
+        "Encoder",
+        "Charger",
+        "compiler"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q17",
+      "question": "To join text from two cells, which operator is used?",
+      "options": [
+        "&",
+        "^",
+        "#",
+        "%"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q18",
+      "question": "To edit chart object which is correct?",
+      "options": [
+        "Click",
+        "Drag",
+        "Double click",
+        "Triple click"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q19",
+      "question": "To break page break horizontally, you can apply break…",
+      "options": [
+        "Place the cursor in row",
+        "Place the cursor in column a",
+        "Select the row below where you want to break",
+        "all of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "How do you insert the picture into your documents?",
+      "options": [
+        "insert/Clipart",
+        "Insert / Picture",
+        "Insert/Drawing",
+        "Insert/Word art"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "To update or Recalculate the value, you must press",
+      "options": [
+        "Ctrl+F9",
+        "F9",
+        "Alt+F9",
+        "Shift+F9"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q23",
+      "question": "Which is not way of creating new document?",
+      "options": [
+        "Click new button",
+        "File/new",
+        "Ctrl+N",
+        "File / Open"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q24",
+      "question": "Number and text will fitted or arranged in attractive presentation in …….",
+      "options": [
+        "Bullet slide",
+        "table slide",
+        "title slide",
+        "all"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "Database is a ……….",
+      "options": [
+        "Relation",
+        "order",
+        "list",
+        "Collection of data"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q26",
+      "question": "Which of the following is the largest unit of data?",
+      "options": [
+        "Field",
+        "Database",
+        "Records",
+        "Table"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "To add data from which menu…….",
+      "options": [
+        "Append from browse menu",
+        "append from browser",
+        "append from briefcase",
+        "append from edit menu"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

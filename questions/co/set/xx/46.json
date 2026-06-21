@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "46",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "A small or intelligent device is so called because it contains within it a:",
+      "options": [
+        "Computer",
+        "microcomputer",
+        "Programmable",
+        "sensor"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "What is the main objective of it policy 2000 ?",
+      "options": [
+        "To increase employment",
+        "To build knowledge based society",
+        "To establish knowledge based industry",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q14",
+      "question": "FAT and NTFS is windows in type of:",
+      "options": [
+        "Disk tool",
+        "storage format ",
+        "Disk Storage Format",
+        "none"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "The principle of locality of reference justifies the use of …",
+      "options": [
+        "Virtual memory",
+        "Interrupts",
+        "Main memory",
+        "Cache memory"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q16",
+      "question": "Multitasking and multithreading is used in:",
+      "options": [
+        "Windows XP",
+        "Windows 2000",
+        "Linux",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q17",
+      "question": "An Approach that permits the computer to work on several programs instead of one is:",
+      "options": [
+        "On-line thesaurus",
+        "Multiprogramming",
+        "Overlapped Processing",
+        "Outline processor"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "While booting how many types of system files will load into RAM?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "Which menu you have to click if you want to print a document?",
+      "options": [
+        "Edit",
+        "Format",
+        "File",
+        "View"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q21",
+      "question": "Alignment can be found inside the:",
+      "options": [
+        "font",
+        "Background",
+        "Paragraph",
+        "Page setup"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q22",
+      "question": "From where do you install font?",
+      "options": [
+        "Font icons of control panel",
+        "Font option of format menu",
+        "Options sub menu of tools menu",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q23",
+      "question": "Which one is not found in edit menu?",
+      "options": [
+        "Find",
+        "Copy",
+        "Replace",
+        "Print"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q24",
+      "question": "To change case, which menu you have to click?",
+      "options": [
+        "File",
+        "Edit",
+        "View",
+        "Format"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "Electronic Spread sheet is also known as..",
+      "options": [
+        "Data processor",
+        "Word processor",
+        "Presentation Package",
+        "All of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q28",
+      "question": "The contents of a cell may also be edited by pressing:",
+      "options": [
+        "F1",
+        "F2",
+        "F3",
+        "F4"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q30",
+      "question": "In order to add comment in a cell one can use following steps:",
+      "options": [
+        "Edit->comment",
+        "Comment -> edit",
+        "Insert->Diagram one menu bar",
+        "Insert -> Comment"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q31",
+      "question": "Type of data in a cell of a worksheet cab be of :",
+      "options": [
+        "Label",
+        "Value",
+        "Formula",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q32",
+      "question": "What do you use to create a chart?",
+      "options": [
+        "Chart wizard on toolbar",
+        "insert->Chart on menu bar",
+        "Insert->diagram on menu bar",
+        "both A & B"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q33",
+      "question": "Multiple calculations can be made in a single formula by using:",
+      "options": [
+        "Complex formula",
+        "Array Formula",
+        "Composite formula",
+        "All of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q34",
+      "question": "How do you protect your excel Sheet?",
+      "options": [
+        "Tools->option->Password",
+        "Tools->protection->protect sheet- >password",
+        "Both a & b",
+        "None of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q37",
+      "question": "Which of the following best describes a query?",
+      "options": [
+        "a query enables people to enter or view data in your database easily",
+        "a query summarizes of prints data",
+        "a query retrieves data that satisfies condition that you set",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q38",
+      "question": "The query \"SELECT * from Employee\" returns:",
+      "options": [
+        "All rows from table employee",
+        "all rows from table employee where \"*\" character is present",
+        "All rows from employee starting from \"*\"",
+        "none of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q39",
+      "question": "Instructions in memory are:",
+      "options": [
+        "character code",
+        "binary code",
+        "binary word",
+        "all of the above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q40",
+      "question": "In MS-Access, …… presents data in a way similar to an excel spreadsheet.",
+      "options": [
+        "data sheet view",
+        "Design view",
+        "Print preview",
+        "Layout preview"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q41",
+      "question": "A field that uniquely identifies a record is called a:",
+      "options": [
+        "main field",
+        "header",
+        "key field",
+        "all of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q43",
+      "question": "A …… is the readymade styles that can be used for presentation in MSPowerPoint.",
+      "options": [
+        "Auto style",
+        "Wizard",
+        "pre format",
+        "template"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "To enter speaker comments one has to be in which view?",
+      "options": [
+        "Normal",
+        "Slide sorter",
+        "Slide show",
+        "Note page view"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

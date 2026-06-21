@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "29",
+  "questions": [
+    {
+      "id": "q3",
+      "question": "What is difference between notepad and wordpad.",
+      "options": [
+        "One for editing document and other for chart",
+        "One for only ascii text and other for text wotj formatting codes",
+        "Editor for different operating system's configuations files",
+        "One with mouse support and other without mouse support editor"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q5",
+      "question": "Everything you see on the screen in called the...............",
+      "options": [
+        "wlllpaper",
+        "desktop",
+        "Screen saver",
+        "window"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q7",
+      "question": "It you format your headings using standard heading styles of word, automated features you can create a ..............for your documents.",
+      "options": [
+        "title",
+        "main heading",
+        "TOC",
+        "header"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q10",
+      "question": "To change the system date you can use.........commmand.",
+      "options": [
+        "Sysdate",
+        "time",
+        "date/time",
+        "date"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q11",
+      "question": "A ..........constraint restricts values you can insert into a column.",
+      "options": [
+        "CHECK",
+        "VALIDATE",
+        "VERIFY",
+        "Same"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q14",
+      "question": "Which of the following software cannot be used removing computer virus ?",
+      "options": [
+        "Kaspersky",
+        "AVG",
+        "CHKDSK",
+        "NOD"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "Which of command is not included in COMMAND.COM in MS-DOS ?",
+      "options": [
+        "DIR",
+        "MKDIR",
+        "COPY",
+        "XCOPY"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q17",
+      "question": "Which facility is not available in MS EXCEL ?",
+      "options": [
+        "Graphs",
+        "Database",
+        "Scheduler",
+        "Statistical functions"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q18",
+      "question": "If formula \"=SUM($A$1+B1)\" in cell C1 is copied to cell C2 what will be the resulting formula in the cell C2.",
+      "options": [
+        "=SUM($A$1+B2)",
+        "=SUM($A1+$B1)",
+        "=SUM($A$2+B1)",
+        "=SUM($A$2+B2)"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q19",
+      "question": "What is wrong with formula=E1……A1 in cell E1 in Excel ?",
+      "options": [
+        "Circul Reference",
+        "Wrong format",
+        "Invalid cell",
+        "Wrong operator"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "Maximum rows of data that can be entered in excel 2007 excel sheet is",
+      "options": [
+        "Unlimited",
+        "2 MB",
+        "1048576",
+        "65536"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q24",
+      "question": "What do you need to do before generating table of content in MSword ?",
+      "options": [
+        "Select text for table of content",
+        "Select text to be included in Header and change style to Header",
+        "Copy and paste text into table of content",
+        "Drag and drop text into table of content"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q25",
+      "question": "In Powerpoint Slide Show what do you do to go to next page ?",
+      "options": [
+        "Press Space Bar",
+        "Click Mouse",
+        "Page Down",
+        "Any of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q27",
+      "question": "Which of the following can you use to add times to the slides in a presentation",
+      "options": [
+        "Slide show menu",
+        "Rehearse timing bottom",
+        "Slide transition button",
+        "All of the above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q30",
+      "question": "Which command brings you to the first slide in your power point presentation ?",
+      "options": [
+        "Next slide bottom",
+        "Ctrl+Home",
+        "Page up",
+        "Ctrl+End"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q31",
+      "question": "What your logo in the same position on every slide, automatically ? Insert it on the",
+      "options": [
+        "Handout master",
+        "Notes master",
+        "Slide master",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q32",
+      "question": "It you need to see a listing of a directory with all files and sudirectories and files and subdirectories within subdirectories, which of the following command syntax will be most appropriate ?",
+      "options": [
+        "dir/P",
+        "Dir/w",
+        "dir/ad",
+        "dir/s"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q35",
+      "question": "To calculate the interest, principal, and total payment involved in the repayment of a loan you can use the built-in-function……….",
+      "options": [
+        "ST(rat,per,nper,pv,fv), KT(rate,nper,pv,fv,type), LT(rate, nper,pv,fv,type)",
+        "IPMT(rate,per,nper,pv,fv), PPMT(rate,nper,pv,fv,type), PMT(rate, nper,pv,fv,type)",
+        "IPM(rate,per,nper,pv,fv), PPM(rate,nper,pv,fv,type), PM(rate,nper,pv,type)",
+        "T(rate,per,nper,pv,fv), QT(rate,nper,pv,fv,type), RT(rate,nper,pv,fv,type)"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q36",
+      "question": "Click on Tools, then click on protection, then click on sheet, click on a check box (contents, objects, or scenarios) and type a password in the password box to ……………worksheet.",
+      "options": [
+        "share",
+        "change",
+        "protect",
+        "freeze"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q37",
+      "question": "You can search for worksheet data using the…….command to select information that meets the criteria of your choosing.",
+      "options": [
+        "Project",
+        "Select",
+        "filter",
+        "enquiry"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q41",
+      "question": "A copyright © symbol can be inserted using ?",
+      "options": [
+        "Ctrl+Alt+A",
+        "Ctrl+Alt+C",
+        "Ctrl+Alt+B",
+        "Ctrl+Alt+D"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q42",
+      "question": "In a relational database, a key that is on the many side of a one to many relationship is known as",
+      "options": [
+        "primary key",
+        "Foreign key",
+        "Secondary key",
+        "none of above"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q44",
+      "question": "Which one of the following is correct sequence to change the format of text to ITALICS in MS word.",
+      "options": [
+        "Select the text that you want to make ITALICS and select Icon->Italics",
+        "Select the text that you want to make Italics and press CTRL+I",
+        "Press CTRL+I and type text",
+        "All of above"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q47",
+      "question": "What will happen if you press Ctrl+P while typing the text ?",
+      "options": [
+        "The screen will be closed",
+        "Printing windows will pop up",
+        "Selected text will be paste",
+        "whole text will be selected "
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q49",
+      "question": "From which table, Data fetehing will be show :",
+      "options": [
+        "Table with less number of columns",
+        "Table with less number of fields",
+        "Table without index on columns",
+        "Table with index on columns"
+      ],
+      "correct_option": 3
+    }
+  ]
+}

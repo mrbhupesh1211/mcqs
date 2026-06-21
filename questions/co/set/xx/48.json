@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "48",
+  "questions": [
+    {
+      "id": "q14",
+      "question": "The power Point view that displays only text (Title & text)….",
+      "options": [
+        "Slide show",
+        "Slide sorter view",
+        "outline view",
+        "note page view"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "We can run power point slide in another computer program:",
+      "options": [
+        "Pack and go",
+        "Save and go",
+        "Export",
+        "None of the above"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following items do not have unique on a network ?",
+      "options": [
+        "IP address",
+        "Computer name",
+        "Workgroup name",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q19",
+      "question": "The output quality of a printer is measured by…",
+      "options": [
+        "dot per inch",
+        "dot per square. Inch",
+        "dots printed per unit time",
+        "all the above."
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q22",
+      "question": "Which American computer is called big blue ?",
+      "options": [
+        "Microsoft",
+        "Compaq corp.",
+        "IBM",
+        "Tandy sevenson"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q23",
+      "question": "Which of the following is a term related with scanners ?",
+      "options": [
+        "Laser",
+        "TWAIN",
+        "Cartridge",
+        "Media"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q27",
+      "question": "Who designed the first electronic computer – ENIAC ?",
+      "options": [
+        "Van – Neumann",
+        "Joseph m. Jacquard",
+        "J. Presper Eckert",
+        "All of the above"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q35",
+      "question": "to move to the bottom of a document press……",
+      "options": [
+        "end key",
+        "home key",
+        "alt+end key",
+        "ctrl+end key"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q36",
+      "question": "By default your document print in …mode.",
+      "options": [
+        "land scape",
+        "Protrait",
+        "Page setup",
+        "Print preview"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "What is the default left margin in word document ?",
+      "options": [
+        "1\"",
+        "1.25\"",
+        "1.5\"",
+        "2\""
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q43",
+      "question": "Which of the following is not a font style ?",
+      "options": [
+        "bold",
+        "italics",
+        "regular",
+        "superscript"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q44",
+      "question": "Which is true with save as command ?",
+      "options": [
+        "save a document in new location",
+        "save a document with a new name",
+        "cancel saving",
+        "both a and b"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q49",
+      "question": "we can show the record of table graphically through …",
+      "options": [
+        "chart",
+        "table",
+        "formula",
+        "none of the above"
+      ],
+      "correct_option": 1
+    }
+  ]
+}

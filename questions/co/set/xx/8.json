@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "EPF - Computer operator - 2062",
+  "questions": [
+    {
+      "id": "q4",
+      "question": "This is the measure of the range of frequencies a communication signal occupies.",
+      "options": [
+        "frequency modulation",
+        "frequency hopping spread spectrum",
+        "dynamic range",
+        "bandwidth"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q5",
+      "question": "Which one works as an output and input device?",
+      "options": [
+        "modem",
+        "scanner",
+        "mouse",
+        "monitor"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q10",
+      "question": "Which computer is the fastest?",
+      "options": [
+        "PII 600 MHZ",
+        "PIII 600 MHz",
+        "Pentium 600 MHz",
+        "486 Turbo"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q11",
+      "question": "In order to play music in your computer, you need………..",
+      "options": [
+        "a network card & speakers",
+        "a Sound card & speaker",
+        "nothing more than the internal speaker",
+        "A CD-ROM drive"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q34",
+      "question": "Which key is necessary to define relationship between the tables?",
+      "options": [
+        "Secondary key",
+        "Primary key",
+        "miscellaneous key",
+        "Auxiliary key"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q41",
+      "question": "What is the requirement for connecting internet?",
+      "options": [
+        "phone, modem, computer",
+        "computer, Internet Account, phone, modem",
+        "internet account, phone, Computer",
+        "none"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q44",
+      "question": "Deleting a folder from the disk shall delete?",
+      "options": [
+        "All folders under that folder",
+        "All files under the folder",
+        "all files and folders form the disk",
+        "All files and folders from the folder"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": "q48",
+      "question": "A tool provided in a database management system that allows users to define the database is called….",
+      "options": [
+        "Structured query language",
+        "Data definition language",
+        "Data manipulation language",
+        "none"
+      ],
+      "correct_option": 2
+    }
+  ]
+}

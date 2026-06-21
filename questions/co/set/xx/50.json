@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "quiz_title": "50",
+  "questions": [
+    {
+      "id": "q5",
+      "question": "Which command is used to send the contents of a file names ABC.TXT to the standard printing device?",
+      "options": [
+        "TYPE ABC.TXT>PRN",
+        "TXT to PRN",
+        "TYPE ABC.TXT | PRN",
+        "None of these"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q8",
+      "question": "Chart in worksheet itself is known as",
+      "options": [
+        "Embedded chart",
+        "Implied chart",
+        "Inserted chart",
+        "Overlapping chart"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q14",
+      "question": "Device to connect two different networks is known as",
+      "options": [
+        "Bridge",
+        "Switch",
+        "Router",
+        "Repeater"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q15",
+      "question": "A tool to control virus and malware is commonly known as",
+      "options": [
+        "Virus Killer",
+        "Antivirus",
+        "Virus remover",
+        "Defender"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q18",
+      "question": "What the commonly used unit for measuring the speed of data transmission?",
+      "options": [
+        "Mega Hertz",
+        "Bits Per Second",
+        "Characters Per Second",
+        "None of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q19",
+      "question": "What Viruses cannot do?",
+      "options": [
+        "Delete files on your computer",
+        "Delete your backup files on Tape",
+        "Send confidential Information to a stranger",
+        "Make your whole computer unusable"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q20",
+      "question": "Which command of MS-DOS is used to copy only files changed on or after the specified date?",
+      "options": [
+        "XCOPY/D:Date",
+        "COPY/D:date",
+        "XCOPY/V",
+        "None of these"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q21",
+      "question": "What is the order in which command.com searches for programs to execute?",
+      "options": [
+        "EXE, COM, BAT",
+        "EXE, BAT, COM",
+        "COM, EXE, BAT",
+        "None of these"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q29",
+      "question": "Which of the following is not true about the Pivot table in Excel?",
+      "options": [
+        "You can apply conditional formatting on pivot tables",
+        "You can drill down on a particular summary value",
+        "You cannot create chart from a pivot table",
+        "You can change the pivot table summary formulas"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q30",
+      "question": "Arrange according to the size",
+      "options": [
+        "Record, field, byte, bit",
+        "Bit, field, byte, record",
+        "Field, byte, record, bit",
+        "Byte, bit, record, field"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q31",
+      "question": "What is the best data type for a field that scores mobile numbers?",
+      "options": [
+        "Text",
+        "Number",
+        "Date/Time",
+        "Memo"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": "q32",
+      "question": "Where you can keep the sum ([Sales]) to calculate the totals for each month?",
+      "options": [
+        "In the report footer section",
+        "In the page footer section",
+        "In the month group footer section ",
+        "In the summary section"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": "q33",
+      "question": "What contains readymade styles that can be used for a presentation?",
+      "options": [
+        "Auto Style",
+        "Template",
+        "Wizard",
+        "None of these"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": "q47",
+      "question": "Which of the following is not a Schema?",
+      "options": [
+        "Database schema",
+        "Physical Schema",
+        "Critical Schema",
+        "Logical Schema"
+      ],
+      "correct_option": 3
+    }
+  ]
+}
